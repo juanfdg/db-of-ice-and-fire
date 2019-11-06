@@ -1,0 +1,544 @@
+{
+    "Fletcher_Dick": {
+        "id": "Fletcher_Dick",
+        "name": "Fletcher Dick",
+        "allegiance": " Kingswood Brotherhood",
+        "born": " At a village near Stonehelm",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Faezhar_zo_Faez": {
+        "id": "Faezhar_zo_Faez",
+        "name": "Faezhar zo Faez",
+        "alias": " the Rabbit",
+        "allegiance": [
+            "House of Faez",
+            "Wise Masters"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Falena_Stokeworth": {
+        "id": "Falena_Stokeworth",
+        "name": "Falena Stokeworth",
+        "title": " Lady of Harrenhal",
+        "allegiance": [
+            "House Stokeworth",
+            "[1]",
+            "House Lothston",
+            "[1]"
+        ],
+        "culture": " Crownlands[1]",
+        "born": " In 125 AC[2]",
+        "spouse": " Lord Lucas Lothston[1]",
+        "issue": " Jeyne Lothston",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Falia_Flowers": {
+        "id": "Falia_Flowers",
+        "name": "Falia Flowers",
+        "allegiance": [
+            "House Hewett",
+            "House Greyjoy"
+        ],
+        "culture": " Reach",
+        "born": " In either 281 AC, 282 AC or 283 AC[1]",
+        "issue": " Unborn child[2]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Falyse_Stokeworth": {
+        "id": "Falyse_Stokeworth",
+        "name": "Falyse Stokeworth",
+        "title": " Lady",
+        "allegiance": [
+            "House Stokeworth",
+            "House Byrch"
+        ],
+        "culture": " Crownlands",
+        "born": " In 265 AC or before[1]",
+        "died": " In 300 AC, at the black cells of the Red Keep, King's Landing[2]",
+        "spouse": " Ser Balman Byrch",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Farlen": {
+        "id": "Farlen",
+        "name": "Farlen",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "died": " In 299 AC, at Winterfell",
+        "issue": " Palla",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Peter Balance",
+        "tv series": " Season 2"
+    },
+    "Fat_fellow": {
+        "id": "Fat_fellow",
+        "name": "Fat fellow",
+        "allegiance": " Faceless Men",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(Mentioned)",
+            "A Dance with Dragons",
+            "(Appears)"
+        ]
+    },
+    "Fearless_Ithoke": {
+        "id": "Fearless_Ithoke",
+        "name": "Ithoke",
+        "alias": " Fearless Ithoke",
+        "allegiance": " House of Loraq",
+        "culture": " Ghiscari",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Fergon_Hoare": {
+        "id": "Fergon_Hoare",
+        "name": "Fergon Hoare",
+        "full name": " Fergon Hoare",
+        "alias": " Fergon the Fierce",
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Fern": {
+        "id": "Fern",
+        "name": "Fern",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Ferny": {
+        "id": "Ferny",
+        "name": "Ferny",
+        "culture": " Free folk",
+        "spouse": " Craster",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Ferrego_Antaryon": {
+        "id": "Ferrego_Antaryon",
+        "name": "Ferrego Antaryon",
+        "title": " Sealord of Braavos",
+        "allegiance": " House Antaryon",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Ferret": {
+        "id": "Ferret",
+        "name": "Ferret",
+        "book(s)": " The Mystery Knight (mentioned)"
+    },
+    "Ferris_Fowler": {
+        "id": "Ferris_Fowler",
+        "name": "Ferris Fowler",
+        "titles": [
+            "King of Stone and Sky",
+            "Lord of Skyreach",
+            "Lord of the Wide Way"
+        ],
+        "culture": " Dornishmen",
+        "royal house": " House Fowler",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Fingers": {
+        "id": "Fingers",
+        "name": "Fingers"
+    },
+    "First_King": {
+        "id": "First_King",
+        "name": "First King",
+        "culture": " First Men",
+        "books": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Flement_Brax": {
+        "id": "Flement_Brax",
+        "name": "Flement Brax",
+        "title": " Ser[1]",
+        "allegiance": " House Brax",
+        "culture": " Westermen",
+        "born": " In or before 278 AC[2]",
+        "spouse": " Morya Frey[1]",
+        "issue": [
+            "Robert Brax",
+            "[1]",
+            "Walder Brax",
+            "[1]",
+            "Jon Brax",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Florence_Fossoway": {
+        "id": "Florence_Fossoway",
+        "name": "Florence Fossoway",
+        "alias": " Apple-counter[1]",
+        "title": [
+            "Lady of",
+            "Highgarden",
+            "[1]",
+            "Master of coin",
+            "[1]",
+            "(unofficially)"
+        ],
+        "allegiance": [
+            "House Fossoway",
+            "[1]",
+            "House Tyrell",
+            "[1]"
+        ],
+        "culture": " Reach[1]",
+        "spouse": " Lord Martyn Tyrell[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Florian_the_Fool": {
+        "id": "Florian_the_Fool",
+        "name": "Florian the Fool",
+        "alias": " Florian the Fool",
+        "title": " Ser",
+        "culture": " rivermen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Hedge Knight",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Florian_Greysteel": {
+        "id": "Florian_Greysteel",
+        "name": "Florian Greysteel",
+        "title": " Ser",
+        "allegiance": " House Mooton",
+        "book(s)": " The Princess and the Queen (mentioned)"
+    },
+    "Florian_V_Mooton": {
+        "id": "Florian_V_Mooton",
+        "name": "Florian V Mooton",
+        "full name": " Florian of House Mooton, the Fifth of His Name",
+        "alias": " Florian the Brave",
+        "titles": " King",
+        "culture": " Rivermen",
+        "royal house": " House Mooton",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Floris_Baratheon": {
+        "id": "Floris_Baratheon",
+        "name": "Floris Baratheon",
+        "title": " Lady of Goldengrove[1]",
+        "allegiance": [
+            "House Baratheon",
+            "House Rowan"
+        ],
+        "culture": " Stormlander",
+        "born": " In 118 AC[2]",
+        "died": " In 134 AC[1]",
+        "spouse": " Lord Thaddeus Rowan[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Florys_the_Fox": {
+        "id": "Florys_the_Fox",
+        "name": "Florys the Fox",
+        "allegiance": [
+            "House Florent",
+            "House Ball",
+            "House Peake"
+        ],
+        "race": " First Men",
+        "culture": " Reach",
+        "spouse": " 3 husbands",
+        "issue": " Lann the Clever (allegedly)",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Fogo": {
+        "id": "Fogo",
+        "name": "Fogo",
+        "title": [
+            "Khalakka",
+            "Khal"
+        ],
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "died": " In 298 AC, at Dothraki sea",
+        "book(s)": " A Game of Thrones (appears)"
+    },
+    "Fomas": {
+        "id": "Fomas",
+        "name": "Fomas",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Forley_Prester": {
+        "id": "Forley_Prester",
+        "name": "Forley Prester",
+        "title": " Ser",
+        "allegiance": " House Prester",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)"
+        ]
+    },
+    "Fornio": {
+        "id": "Fornio",
+        "name": "Fornio",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Forrest_Frey": {
+        "id": "Forrest_Frey",
+        "name": "Forrest Frey",
+        "alias": " Fool Frey",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of the Crossing",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Frey",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "died": " In 130 AC[1], at Gods Eye[1]",
+        "spouse": " Lady Sabitha Vypren[1]",
+        "issue": " Son[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Foss_the_Archer": {
+        "id": "Foss_the_Archer",
+        "name": "Foss the Archer",
+        "allegiance": " House Fossoway of Cider Hall",
+        "race": " First Men",
+        "culture": " Reach",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Fralegg": {
+        "id": "Fralegg",
+        "name": "Fralegg the Strong",
+        "alias": " Fralegg the Strong",
+        "title": " Captain[1]",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Franklyn_Farman": {
+        "id": "Franklyn_Farman",
+        "name": "Franklyn Farman",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of Fair Isle",
+            "[1]"
+        ],
+        "allegiance": " House Farman",
+        "culture": " Westermen",
+        "born": " In 31 AC or before[2]",
+        "died": " In 55 88 AC[2]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Franklyn_Flowers": {
+        "id": "Franklyn_Flowers",
+        "name": "Franklyn Flowers",
+        "alias": " Bastard of Cider Hall[1]",
+        "title": " Ser",
+        "allegiance": " Golden Company",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Franklyn_Fowler": {
+        "id": "Franklyn_Fowler",
+        "name": "Franklyn Fowler",
+        "alias": " The Old Hawk[1]",
+        "title": [
+            "Lord of Skyreach",
+            "Warden of the Prince's Pass"
+        ],
+        "allegiance": " House Fowler",
+        "culture": " Dornishmen",
+        "issue": [
+            "Jeyne Fowler",
+            "Jennelyn Fowler"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Franklyn_Frey": {
+        "id": "Franklyn_Frey",
+        "name": "Franklyn Frey",
+        "title": " Ser[1]",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "book(s)": [
+            "The Hedge Knight",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(appears)"
+        ]
+    },
+    "Fredo_Rogare": {
+        "id": "Fredo_Rogare",
+        "name": "Fredo Rogare",
+        "allegiance": " House Rogare",
+        "culture": " Lysene",
+        "issue": " Daughters[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Frenken": {
+        "id": "Frenken",
+        "name": "Frenken",
+        "title": " Maester at Stokeworth",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Stokeworth"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Frenya": {
+        "id": "Frenya",
+        "name": "Frenya",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "died": " In 300 AC, at Winterfell",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Frynne": {
+        "id": "Frynne",
+        "name": "Frynne",
+        "culture": " Dornishmen",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Fulk_the_Flea": {
+        "id": "Fulk_the_Flea",
+        "name": "Fulk the Flea",
+        "alias": " Fulk the Flea",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "First_Ranger_Stane": {
+        "id": "First_Ranger_Stane",
+        "name": "First Ranger Stane",
+        "title": " First Ranger",
+        "allegiance": [
+            "House Stane",
+            "Night's Watch"
+        ],
+        "culture": " Skagosi",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Fletcher_Will": {
+        "id": "Fletcher_Will",
+        "name": "Fletcher Will",
+        "alias": " Fletcher Will",
+        "died": " At Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    }
+}

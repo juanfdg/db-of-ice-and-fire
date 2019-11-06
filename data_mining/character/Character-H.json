@@ -1,0 +1,3040 @@
+{
+    "Haegon_Blackfyre": {
+        "id": "Haegon_Blackfyre",
+        "name": "Haegon I Blackfyre",
+        "allegiance": " House Blackfyre",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 190 193 AC[1]",
+        "died": " In 219 AC",
+        "spouse": " Unknown",
+        "issue": [
+            "Daemon III Blackfyre",
+            "Son(s)"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ]
+    },
+    "Haereg": {
+        "id": "Haereg",
+        "name": "Haereg",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hagen": {
+        "id": "Hagen",
+        "name": "Hagen the Horn",
+        "alias": " Hagen the Horn",
+        "culture": " ironborn",
+        "died": " In 300 AC, at Deepwood Motte",
+        "issue": " Daughter",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Hagen%27s_daughter": {
+        "id": "Hagen%27s_daughter",
+        "name": "Hagen's daughter",
+        "culture": " ironborn",
+        "born": " In 282 AC or 283 AC[1]",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Haggo": {
+        "id": "Haggo",
+        "name": "Haggo",
+        "title": " Bloodrider of Khal Drogo",
+        "culture": " Dothraki",
+        "died": " In ~298/299 AC, at Dothraki sea",
+        "book(s)": " A Game of Thrones (appears)",
+        "played by": " Unidentified",
+        "tv series": " Season 1"
+    },
+    "Haggon": {
+        "id": "Haggon",
+        "name": "Haggon",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Hagon_Hoare": {
+        "id": "Hagon_Hoare",
+        "name": "Hagon Hoare",
+        "full name": " Hagon Hoare",
+        "alias": [
+            "Hagon the Heartless",
+            "Hagon the Terrible"
+        ],
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "predecessor": " Harmund III Hoare",
+        "successor": " Aubrey Crakehall",
+        "father": " Harmund II Hoare",
+        "mother": " Lelia Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Hake": {
+        "id": "Hake",
+        "name": "Hake",
+        "allegiance": " Night's Watch",
+        "died": " In 299 AC, at Fist of the First Men",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)"
+        ]
+    },
+    "Hake_(archmaester)": {
+        "id": "Hake_(archmaester)",
+        "name": "Hake (archmaester)",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "born": " At Harlaw[1]",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hairy_Hal": {
+        "id": "Hairy_Hal",
+        "name": "Hairy Hal",
+        "allegiance": " Night's Watch",
+        "died": " In 300 AC, at beyond the Wall",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Hal_(Hog)": {
+        "id": "Hal_(Hog)",
+        "name": "Hal the Hog",
+        "alias": " Hal the Hog",
+        "allegiance": " House Baratheon of Dragonstone",
+        "died": " In 299 AC",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Halder": {
+        "id": "Halder",
+        "name": "Halder",
+        "alias": " Stone Head[1][2]",
+        "allegiance": " Night's Watch",
+        "born": " In 281 AC or 282 AC[3]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "tv series": " Season 1"
+    },
+    "Haldon": {
+        "id": "Haldon",
+        "name": "Haldon",
+        "alias": " Haldon Halfmaester",
+        "allegiance": " House Targaryen",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Hali": {
+        "id": "Hali",
+        "name": "Hali",
+        "culture": " Free folk",
+        "died": " In 298 AC, at the Wolfswood",
+        "book(s)": " A Game of Thrones (appears)"
+    },
+    "Halleck": {
+        "id": "Halleck",
+        "name": "Halleck",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "born": " At beyond the Wall",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Halleck_Hoare": {
+        "id": "Halleck_Hoare",
+        "name": "Halleck Hoare",
+        "full name": " Halleck Hoare",
+        "titles": " King of the Isles and the Rivers",
+        "died in": " around ~ 42 BC[1]",
+        "royal house": " House Hoare",
+        "predecessor": " Harwyn Hoare",
+        "heir": " Harren Hoare",
+        "successor": " Harren Hoare",
+        "issue": [
+            "Harren Hoare",
+            "Lord Commander Hoare"
+        ],
+        "father": " Harwyn Hoare",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Hallis_Hornwood": {
+        "id": "Hallis_Hornwood",
+        "name": "Hallis Hornwood",
+        "alias": " Mad Hal",
+        "allegiance": [
+            "House Hornwood",
+            "blacks",
+            "Wolf Pack"
+        ],
+        "culture": " northmen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Hallis_Mollen": {
+        "id": "Hallis_Mollen",
+        "name": "Hallis Mollen",
+        "alias": " Hal",
+        "title": " Captain of the guard at Winterfell",
+        "allegiance": [
+            "House Mollen",
+            "House Stark"
+        ],
+        "culture": " Northmen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Hallyne": {
+        "id": "Hallyne",
+        "name": "Hallyne",
+        "alias": " Hallyne the Pyromancer",
+        "title": [
+            "Lord",
+            "Wisdom"
+        ],
+        "allegiance": " Alchemists' Guild",
+        "culture": " Crownlands",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)"
+        ],
+        "played by": " Roy Dotrice",
+        "tv series": " Season 2"
+    },
+    "Halmon_Paege": {
+        "id": "Halmon_Paege",
+        "name": "Halmon Paege",
+        "title": " Ser",
+        "allegiance": " House Paege",
+        "culture": " Rivermen",
+        "issue": " Garrett Paege[N 1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Halys_Hornwood": {
+        "id": "Halys_Hornwood",
+        "name": "Halys Hornwood",
+        "title": " Lord of the Hornwood[1]",
+        "allegiance": " House Hornwood",
+        "culture": " Northmen",
+        "died": " In 298 AC, at the Green Fork[2]",
+        "spouse": " Lady Donella Manderly",
+        "issue": [
+            "Larence Snow",
+            "Daryn Hornwood"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hammer": {
+        "id": "Hammer",
+        "name": "Hammer",
+        "allegiance": " Second Sons",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Hammer_of_the_Hills": {
+        "id": "Hammer_of_the_Hills",
+        "name": "Hammer of the Hills",
+        "title": " King",
+        "race": " Andal",
+        "culture": " Andal",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hamish_the_Harper": {
+        "id": "Hamish_the_Harper",
+        "name": "Hamish the Harper",
+        "alias": " Hamish the Harper",
+        "died": " In 300 AC[1], at King's Landing[1]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Handsome_man": {
+        "id": "Handsome_man",
+        "name": "Handsome man",
+        "allegiance": " Faceless Men",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(Mentioned)",
+            "A Dance with Dragons",
+            "(Appears)"
+        ]
+    },
+    "Hanna_Harroway": {
+        "id": "Hanna_Harroway",
+        "name": "Hanna Harroway",
+        "title": " Lady",
+        "allegiance": " House Harroway",
+        "culture": " Rivermen",
+        "died": " In 44 AC[1], at King's Landing",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Har_Loi": {
+        "id": "Har_Loi",
+        "name": "Har Loi",
+        "full name": " Har Loi, first grey emperor",
+        "titles": " God-Emperor",
+        "culture": " Yi Ti",
+        "royal house": " Grey emperors",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Harbert": {
+        "id": "Harbert",
+        "name": "Harbert",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ],
+        "allegiance": " House Baratheon",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Harbert_Paege": {
+        "id": "Harbert_Paege",
+        "name": "Harbert Paege",
+        "title": " Ser",
+        "allegiance": " House Paege",
+        "book(s)": " The Mystery Knight (appears)"
+    },
+    "Hareth_(Maester)": {
+        "id": "Hareth_(Maester)",
+        "name": "Hareth (maester)",
+        "title": " Grand Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Hareth_(Mole%27s_Town)": {
+        "id": "Hareth_(Mole%27s_Town)",
+        "name": "Hareth (Mole's Town)",
+        "alias": " Horse",
+        "allegiance": " Night's Watch",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Harghaz": {
+        "id": "Harghaz",
+        "name": "Harghaz",
+        "alias": [
+            "Harghaz the Hero",
+            "Harghaz the Dragonslayer"
+        ],
+        "culture": " Ghiscari",
+        "died": " In 300 AC, at Meereen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Harlan_Grandison": {
+        "id": "Harlan_Grandison",
+        "name": "Harlan Grandison",
+        "title": " Ser",
+        "allegiance": [
+            "House Grandison",
+            "Kingsguard"
+        ],
+        "culture": " Stormlander",
+        "died": " In 281 AC[1], at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Harlan_Hunter": {
+        "id": "Harlan_Hunter",
+        "name": "Harlan Hunter",
+        "title": " Ser",
+        "allegiance": " House Hunter",
+        "culture": " Valemen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Harlan_Hoare": {
+        "id": "Harlan_Hoare",
+        "name": "Harlan Hoare",
+        "title": " Prince",
+        "allegiance": " House Hoare",
+        "culture": " ironborn",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Harle_the_Handsome": {
+        "id": "Harle_the_Handsome",
+        "name": "Harle the Handsome",
+        "alias": " Harle the Handsome",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Harle_the_Huntsman": {
+        "id": "Harle_the_Huntsman",
+        "name": "Harle the Huntsman",
+        "alias": " Harle the Huntsman",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Harlen_Tyrell": {
+        "id": "Harlen_Tyrell",
+        "name": "Harlen Tyrell",
+        "alias": " Harlan Tyrell[1]",
+        "title": [
+            "High Steward of Highgarden",
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "House Gardener",
+            "(pre-Conquest)"
+        ],
+        "culture": " Reach",
+        "died": " In 5 AC[1], at Dornish desert east of the Hellholt[2]",
+        "issue": " Theo Tyrell[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Harlon_Botley": {
+        "id": "Harlon_Botley",
+        "name": "Harlon Botley",
+        "allegiance": " House Botley",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Harlon_Greyjoy": {
+        "id": "Harlon_Greyjoy",
+        "name": "Harlon Greyjoy",
+        "allegiance": " House Greyjoy",
+        "culture": " Ironborn",
+        "born": " In or between 253 AC and 258 AC[1]",
+        "died": " At Pyke",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Harlon_Stark": {
+        "id": "Harlon_Stark",
+        "name": "Harlon Stark",
+        "title": " King in the North",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Harlon_the_Hunter": {
+        "id": "Harlon_the_Hunter",
+        "name": "Harlon the Hunter",
+        "allegiance": " House Tarly",
+        "race": " First Men",
+        "culture": " Reach",
+        "spouse": " A woods witch",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Harma": {
+        "id": "Harma",
+        "name": "Harma Dogshead",
+        "alias": [
+            "Harma the Dogshead",
+            "Harma Dogshead"
+        ],
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "died": " In 300 AC, at The Wall",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harmen_Uller": {
+        "id": "Harmen_Uller",
+        "name": "Harmen Uller",
+        "title": " Lord of Hellholt[1]",
+        "allegiance": " House Uller",
+        "culture": " Dornishmen",
+        "issue": " Ellaria Sand[2]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Harmon": {
+        "id": "Harmon",
+        "name": "Harmon",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Harmon_Dondarrion": {
+        "id": "Harmon_Dondarrion",
+        "name": "Harmon Dondarrion",
+        "alias": " No-Nose Dondarrion[1]",
+        "title": " Lord of Blackhaven[1]",
+        "allegiance": " House Dondarrion",
+        "culture": " Marcher",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Harmon_of_the_Reeds": {
+        "id": "Harmon_of_the_Reeds",
+        "name": "Harmon of the Reeds",
+        "alias": " Iron-Banger",
+        "title": " Ser",
+        "allegiance": " Blacks",
+        "died": " In 130 AC, at King's Landing",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Harmond_Umber": {
+        "id": "Harmond_Umber",
+        "name": "Harmond Umber",
+        "alias": " The Drunken Giant",
+        "title": " Lord of the Last Hearth",
+        "allegiance": " House Umber",
+        "culture": " Northmen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harmund_I_Hoare": {
+        "id": "Harmund_I_Hoare",
+        "name": "Harmund I Hoare",
+        "full name": " Harmund I Hoare",
+        "alias": " Harmund the Host",
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "heir": " Harmund II Hoare",
+        "successor": " Harmund II Hoare",
+        "issue": " Harmund II Hoare",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Harmund_II_Hoare": {
+        "id": "Harmund_II_Hoare",
+        "name": "Harmund II Hoare",
+        "full name": " Harmund II Hoare",
+        "alias": " Harmund the Haggler",
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "predecessor": " Harmund I Hoare",
+        "heir": " Harmund III Hoare",
+        "successor": " Harmund III Hoare",
+        "queen": " Lelia Lannister",
+        "issue": [
+            "Harmund III Hoare",
+            "Hagon Hoare"
+        ],
+        "father": " Harmund I Hoare",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Harmund_III_Hoare": {
+        "id": "Harmund_III_Hoare",
+        "name": "Harmund III Hoare",
+        "full name": " Harmund of House Hoare, the Third of His Name",
+        "alias": " Harmund the Handsome",
+        "titles": " King of the Iron Islands",
+        "died in": " Hoare Castle",
+        "royal house": " House Hoare",
+        "predecessor": " Harmund II Hoare",
+        "successor": " Hagon Hoare",
+        "father": " Harmund II Hoare",
+        "mother": " Lelia Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Harmund_Sharp": {
+        "id": "Harmund_Sharp",
+        "name": "Harmund Sharp",
+        "allegiance": " House Sharp",
+        "culture": " ironborn",
+        "issue": " Harrag Sharp and other sons[1]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Harmune": {
+        "id": "Harmune",
+        "name": "Harmune",
+        "title": " Maester at Eastwatch-by-the-Sea",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "Night's Watch"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harmune_(archmaester)": {
+        "id": "Harmune_(archmaester)",
+        "name": "Harmune (archmaester)",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Haro": {
+        "id": "Haro",
+        "name": "Haro",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Harodon": {
+        "id": "Harodon",
+        "name": "Harodon",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Harra": {
+        "id": "Harra",
+        "name": "Harra",
+        "allegiance": [
+            "House Whent",
+            "House Lannister"
+        ],
+        "died": " In 299 AC, at Harrenhal",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Harrag_Hoare": {
+        "id": "Harrag_Hoare",
+        "name": "Harrag Hoare",
+        "titles": " High King of the Iron Isles",
+        "culture": " ironborn",
+        "royal house": " House Hoare",
+        "issue": " Ravos Hoare",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Harrag_Sharp": {
+        "id": "Harrag_Sharp",
+        "name": "Harrag Sharp",
+        "alias": " Harrag Sheepstealer",
+        "allegiance": " House Sharp",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Harrald_Halfdrowned": {
+        "id": "Harrald_Halfdrowned",
+        "name": "Harrald Halfdrowned",
+        "titles": " king",
+        "died in": " Lann's Point",
+        "culture": " ironborn",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Harras_Harlaw": {
+        "id": "Harras_Harlaw",
+        "name": "Harras Harlaw",
+        "alias": " The Knight[1][2]",
+        "title": [
+            "Ser",
+            "[1]",
+            "Knight of Grey Garden",
+            "[1]",
+            "Lord of Greyshield",
+            "[3]"
+        ],
+        "allegiance": " House Harlaw of Grey Garden",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Harras_Hoare": {
+        "id": "Harras_Hoare",
+        "name": "Harras Hoare",
+        "full name": " Harras Hoare",
+        "alias": " Harras Stump-hand",
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "predecessor": " Rognar II Greyiron",
+        "spouse": " an Andal maiden",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Harren_Botley": {
+        "id": "Harren_Botley",
+        "name": "Harren Botley",
+        "allegiance": " House Botley",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Moat Cailin",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Harren_Half-Hoare": {
+        "id": "Harren_Half-Hoare",
+        "name": "Harren Half-Hoare",
+        "title": " Captain[1]",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Harren_Hoare": {
+        "id": "Harren_Hoare",
+        "name": "Harren Hoare",
+        "full name": " Harren Hoare",
+        "alias": [
+            "Black Harren",
+            "[1]",
+            "Harren the Black",
+            "[2]"
+        ],
+        "titles": [
+            "King of the Isles and the Rivers",
+            "Lord of Harrenhal"
+        ],
+        "died in": " 2 BC Harrenhal",
+        "culture": " ironborn",
+        "royal house": " House Hoare",
+        "predecessor": " Halleck Hoare",
+        "successor": " None",
+        "issue": " At least four sons",
+        "father": " Halleck Hoare",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Harren_the_Red": {
+        "id": "Harren_the_Red",
+        "name": "Harren the Red",
+        "alias": [
+            "Harren the Red",
+            "Red Harren"
+        ],
+        "title": [
+            "Lord of Harrenhal",
+            "King of the Rivers"
+        ],
+        "allegiance": " House Hoare",
+        "died": " In 37 AC, at near the Gods Eye",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Harrion_Karstark": {
+        "id": "Harrion_Karstark",
+        "name": "Harrion Karstark",
+        "alias": " Harry",
+        "title": " Lord of Karhold",
+        "allegiance": " House Karstark",
+        "culture": " Northmen",
+        "born": " At Karhold[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harrold_Darke": {
+        "id": "Harrold_Darke",
+        "name": "Harrold Darke",
+        "title": " Ser",
+        "allegiance": [
+            "House Darke",
+            "Queensguard",
+            "Blacks"
+        ],
+        "culture": " Crownlands",
+        "died": " In 130 AC, at Dragonstone[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Harrold_Hardyng": {
+        "id": "Harrold_Hardyng",
+        "name": "Harrold Hardyng",
+        "alias": [
+            "Harry the Heir",
+            "The Young Falcon",
+            "Harry the Arse",
+            "[1]"
+        ],
+        "title": " Ser",
+        "allegiance": [
+            "House Hardyng",
+            "House Waynwood",
+            "House Arryn"
+        ],
+        "culture": " Valemen",
+        "born": " In 281 AC or 282 AC[2]",
+        "issue": [
+            "Alys Stone",
+            "Unborn bastard"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Harrold_Langward": {
+        "id": "Harrold_Langward",
+        "name": "Harrold Langward",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Langward",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "died": " In 48 AC[1], at King's Landing[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Harrold_Osgrey": {
+        "id": "Harrold_Osgrey",
+        "name": "Harrold Osgrey",
+        "title": " Ser",
+        "allegiance": " House Osgrey",
+        "culture": " Reach",
+        "died": " In 196 AC, at the Redgrass Field",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Harrold_Rogers": {
+        "id": "Harrold_Rogers",
+        "name": "Harrold Rogers",
+        "allegiance": " House Rogers",
+        "culture": " Stormlander",
+        "spouse": " Branda Stark",
+        "book(s)": " The World of Ice & Fire (appendix)"
+    },
+    "Harrold_Swyft": {
+        "id": "Harrold_Swyft",
+        "name": "Harrold Swyft",
+        "title": " Ser",
+        "allegiance": " House Swyft",
+        "culture": " Westermen",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Harrold_Westerling": {
+        "id": "Harrold_Westerling",
+        "name": "Harrold Westerling",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord Commander of the Kingsguard",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Westerling",
+            "[1]",
+            "Kingsguard",
+            "[1]"
+        ],
+        "culture": " Westermen[1]",
+        "died": " In 112 AC[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)"
+        ]
+    },
+    "Harry_Merrell": {
+        "id": "Harry_Merrell",
+        "name": "Harry Merrell",
+        "alias": " Hot Harry Merrell",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Harry_Penny": {
+        "id": "Harry_Penny",
+        "name": "Harry Penny",
+        "title": " Ser",
+        "allegiance": [
+            "House Penny",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "died": " In 130 AC, at near Acorn Hall, riverlands",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Harry_Rivers": {
+        "id": "Harry_Rivers",
+        "name": "Harry Rivers",
+        "alias": " The Bastard of Bracken",
+        "allegiance": " House Bracken",
+        "culture": " Rivermen",
+        "died": " In 299 AC, at Riverlands",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harry_Sawyer": {
+        "id": "Harry_Sawyer",
+        "name": "Harry Sawyer",
+        "title": " Ser",
+        "allegiance": " House Sawyer",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Harry_Strickland": {
+        "id": "Harry_Strickland",
+        "name": "Harry Strickland",
+        "alias": " Homeless Harry Strickland",
+        "title": [
+            "Ser",
+            "[1]",
+            "Captain-general",
+            "[2]",
+            "Paymaster",
+            "[3]",
+            "(formerly)"
+        ],
+        "allegiance": [
+            "House Strickland",
+            "Golden Company"
+        ],
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Marc Rissmann",
+        "tv series": " Season 8"
+    },
+    "Harsley": {
+        "id": "Harsley",
+        "name": "Harsley",
+        "died": " In 299 AC, at Pennytree",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harwin": {
+        "id": "Harwin",
+        "name": "Harwin",
+        "allegiance": [
+            "House Stark",
+            "Brotherhood without banners"
+        ],
+        "culture": " Northmen",
+        "born": " In 271 AC or later[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Harwin_Strong": {
+        "id": "Harwin_Strong",
+        "name": "Harwin Strong",
+        "alias": [
+            "Breakbones",
+            "[1]",
+            "Brokenbones",
+            "[1]"
+        ],
+        "title": [
+            "Ser",
+            "[1]",
+            "Captain",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Strong",
+            "City Watch of King's Landing",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "born": " In 90 AC or before[2]",
+        "died": " In 120 AC[1], at Harrenhal[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Harwood_Fell": {
+        "id": "Harwood_Fell",
+        "name": "Harwood Fell",
+        "title": " Lord of Felwood",
+        "allegiance": [
+            "House Fell",
+            "Queen's men"
+        ],
+        "culture": " Stormlands",
+        "died": " In 300 AC, at Wolfswood",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Harwood_Stout": {
+        "id": "Harwood_Stout",
+        "name": "Harwood Stout",
+        "title": " Lord of Goldgrass",
+        "allegiance": [
+            "House Stout",
+            "House Dustin"
+        ],
+        "culture": " Northmen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Harwyn_Hoare": {
+        "id": "Harwyn_Hoare",
+        "name": "Harwyn Hoare",
+        "full name": " Harwyn Hoare",
+        "alias": [
+            "Harwyn Hardhand",
+            "The Hardhand"
+        ],
+        "titles": [
+            "King of the Iron Islands",
+            "King of the Isles and the Rivers"
+        ],
+        "royal house": " House Hoare",
+        "predecessor": " Qhorwyn Hoare",
+        "heir": " Halleck Hoare",
+        "successor": " Halleck Hoare",
+        "issue": " Halleck Hoare",
+        "father": " Qhorwyn Hoare",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)"
+        ]
+    },
+    "Harwyn_Plumm": {
+        "id": "Harwyn_Plumm",
+        "name": "Harwyn Plumm",
+        "alias": " Hardstone[1]",
+        "title": [
+            "Ser",
+            "Commander of the garrison",
+            "at",
+            "Darry",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Plumm",
+            "House Lannister of Darry"
+        ],
+        "culture": " Westermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Harys_Cobb": {
+        "id": "Harys_Cobb",
+        "name": "Harys Cobb",
+        "title": " Ser",
+        "allegiance": [
+            "House Cobb",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": " Reach",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Harys_Graceford": {
+        "id": "Harys_Graceford",
+        "name": "Harys Graceford",
+        "title": " Ser",
+        "allegiance": " House Graceford",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Harys_Haigh": {
+        "id": "Harys_Haigh",
+        "name": "Harys Haigh",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Haigh",
+            "House Frey"
+        ],
+        "culture": " Rivermen",
+        "born": " In or between 250 AC and 283 AC[2]",
+        "spouse": " Unknown",
+        "issue": " Walder Haigh[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Harys_Hogg": {
+        "id": "Harys_Hogg",
+        "name": "Harys Hogg",
+        "alias": " Harry the Ham",
+        "title": " Ser",
+        "allegiance": " House Hogg",
+        "culture": " Crownlands",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Harys_Horpe": {
+        "id": "Harys_Horpe",
+        "name": "Harys Horpe",
+        "alias": " Death's Head Harry",
+        "title": " Ser",
+        "allegiance": [
+            "House Horpe",
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "culture": " Stormlands",
+        "died": " In 42 AC, at King's Landing",
+        "book(s)": " The Sons of the Dragon (mentioned)"
+    },
+    "Harys_Swyft": {
+        "id": "Harys_Swyft",
+        "name": "Harys Swyft",
+        "alias": " The knight of the yellow chicken[1]",
+        "title": [
+            "Knight of Cornfield",
+            "[2]",
+            "Ser",
+            "Hand of the King",
+            "(formerly)",
+            "Master of coin",
+            "Lord treasurer"
+        ],
+        "allegiance": [
+            "House Swyft",
+            "House Lannister"
+        ],
+        "culture": " Westermen",
+        "spouse": " Unknown",
+        "issue": [
+            "Dorna Swyft",
+            "Steffon Swyft",
+            "Shierle Swyft"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ],
+        "played by": " Unidentified",
+        "tv series": " Season 1"
+    },
+    "Hayhead": {
+        "id": "Hayhead",
+        "name": "Hayhead",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Hazel_Harte": {
+        "id": "Hazel_Harte",
+        "name": "Hazel Harte",
+        "allegiance": [
+            "House Harte",
+            "House Velaryon"
+        ],
+        "culture": " Crownlands",
+        "died": " In or between 130 AC and 133 AC[1]",
+        "spouse": " Daeron Velaryon",
+        "issue": " Daenaera Velaryon",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Hazrak_zo_Loraq": {
+        "id": "Hazrak_zo_Loraq",
+        "name": "Hazrak zo Loraq",
+        "alias": " The Handsome",
+        "allegiance": " House of Loraq",
+        "culture": " Ghiscari",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Hazzea": {
+        "id": "Hazzea",
+        "name": "Hazzea",
+        "culture": " Ghiscari",
+        "born": " In 295 AC or 296 AC[1]",
+        "died": " In 300 AC, at plains outside Meereen",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Helaena_Targaryen": {
+        "id": "Helaena_Targaryen",
+        "name": "Helaena Targaryen",
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Greens"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 109 AC",
+        "died": " In 130 AC, at Maegor's Holdfast, King's Landing",
+        "spouse": " King Aegon II Targaryen",
+        "issue": [
+            "Jaehaerys Targaryen",
+            "Jaehaera Targaryen",
+            "Maelor Targaryen"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Helicent_Uffering": {
+        "id": "Helicent_Uffering",
+        "name": "Helicent Uffering",
+        "allegiance": " House Uffering",
+        "culture": " Reach",
+        "born": " In 171 AC (roughly)[1]",
+        "book(s)": " The Sworn Sword (appears)"
+    },
+    "Helliweg": {
+        "id": "Helliweg",
+        "name": "Helliweg",
+        "title": " Maester at Runestone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Royce"
+        ],
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Helly": {
+        "id": "Helly",
+        "name": "Helly",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Helman_Tallhart": {
+        "id": "Helman_Tallhart",
+        "name": "Helman Tallhart",
+        "title": [
+            "Ser",
+            "Master of Torrhen's Square"
+        ],
+        "allegiance": " House Tallhart",
+        "culture": " Northmen",
+        "born": " At Torrhen's Square[1]",
+        "died": " In 299 AC, at Duskendale",
+        "spouse": " Unknown",
+        "issue": [
+            "Benfred Tallhart",
+            "Eddara Tallhart"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Helya": {
+        "id": "Helya",
+        "name": "Helya",
+        "title": " Steward of Pyke",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Hendry_Bracken": {
+        "id": "Hendry_Bracken",
+        "name": "Hendry Bracken",
+        "allegiance": " House Bracken",
+        "culture": " Rivermen",
+        "died": " In 299 AC, at Stone Hedge",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Henk": {
+        "id": "Henk",
+        "name": "Henk the Helm",
+        "alias": " Henk the Helm",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Henly_(Maester)": {
+        "id": "Henly_(Maester)",
+        "name": "Henly (maester)",
+        "title": " Maester at Blackpool",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Slate"
+        ],
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Henly_(House_Ashford)": {
+        "id": "Henly_(House_Ashford)",
+        "name": "Henly (House Ashford)",
+        "allegiance": " House Ashford",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Henrietta_Woodhull": {
+        "id": "Henrietta_Woodhull",
+        "name": "Henrietta Woodhull",
+        "allegiance": " House Woodhull",
+        "culture": " Valemen",
+        "born": " In 103 133 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Herbert_Bolling": {
+        "id": "Herbert_Bolling",
+        "name": "Herbert Bolling",
+        "title": " Ser[1]",
+        "allegiance": " House Bolling",
+        "culture": " Stormlands",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Heriston": {
+        "id": "Heriston",
+        "name": "Heriston",
+        "title": " Maester at New Castle",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Manderly"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Herman_Rollingford": {
+        "id": "Herman_Rollingford",
+        "name": "Herman Rollingford",
+        "title": " Ser",
+        "allegiance": " House Rollingford",
+        "died": " In 133 AC, at Braavos",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Herndon_of_the_Horn": {
+        "id": "Herndon_of_the_Horn",
+        "name": "Herndon of the Horn",
+        "allegiance": " House Tarly",
+        "race": " First Men",
+        "culture": " Reach",
+        "spouse": " A woods witch",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hero": {
+        "id": "Hero",
+        "name": "Hero",
+        "title": " Second-in-command of the Unsullied[1]",
+        "allegiance": [
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Herrock_Kenning": {
+        "id": "Herrock_Kenning",
+        "name": "Herrock Kenning",
+        "alias": " Herrock the Whoreson",
+        "title": " Lord of Kayce",
+        "allegiance": [
+            "House Kenning of Harlaw",
+            "House Kenning of Kayce",
+            "(founder)"
+        ],
+        "culture": [
+            "ironborn",
+            "westermen"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Herryk": {
+        "id": "Herryk",
+        "name": "Herryk",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Heward": {
+        "id": "Heward",
+        "name": "Heward",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "died": " In 298 AC, at King's Landing",
+        "book(s)": " A Game of Thrones (appears)",
+        "played by": " Unidentified",
+        "tv series": " Season 1"
+    },
+    "Hibald": {
+        "id": "Hibald",
+        "name": "Hibald",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "High_Lickspittle": {
+        "id": "High_Lickspittle",
+        "name": "High Lickspittle",
+        "alias": " The High Lickspittle[1]",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 54 AC[2], at Starry Sept of Oldtown[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(Aegon_I)": {
+        "id": "High_Septon_(Aegon_I)",
+        "name": "High Septon (Aegon I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(Aegon_III)": {
+        "id": "High_Septon_(Aegon_III)",
+        "name": "High Septon (Aegon III)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 143 169 AC",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "High_Septon_(Aegon_V)": {
+        "id": "High_Septon_(Aegon_V)",
+        "name": "High Septon (Aegon V)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "High_Septon_(Aegon%27s_Conquest)": {
+        "id": "High_Septon_(Aegon%27s_Conquest)",
+        "name": "High Septon (Aegon's Conquest)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 11 AC[1], at Oldtown[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(Aenys_I)": {
+        "id": "High_Septon_(Aenys_I)",
+        "name": "High Septon (Aenys I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "born": " In 9 BC",
+        "died": " In 43 AC[1], at the Starry Sept, Oldtown",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(Aerys_II)": {
+        "id": "High_Septon_(Aerys_II)",
+        "name": "High Septon (Aerys II)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "High_Septon_(Baelor_I)": {
+        "id": "High_Septon_(Baelor_I)",
+        "name": "High Septon (Baelor I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 161 169 AC",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "High_Septon_(brother_of_Donnel_Hightower)": {
+        "id": "High_Septon_(brother_of_Donnel_Hightower)",
+        "name": "High Septon (brother of Donnel Hightower)",
+        "title": [
+            "Septon",
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Faith of the Seven"
+        ],
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "High_Septon_(child)": {
+        "id": "High_Septon_(child)",
+        "name": "High Septon (child)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "born": " In 154 162 AC[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast For Crows",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(Daeron_II)": {
+        "id": "High_Septon_(Daeron_II)",
+        "name": "High Septon (Daeron II)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 209 AC or 210 AC, at King's Landing",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "High_Septon_(Dance_of_the_Dragons)": {
+        "id": "High_Septon_(Dance_of_the_Dragons)",
+        "name": "High Septon (Dance of the Dragons)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 129 131 AC[N 1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(fat_one)": {
+        "id": "High_Septon_(fat_one)",
+        "name": "High Septon (fat one)",
+        "alias": " The fat one",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 299 AC, at King's Landing",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "High_Septon_(Jaehaerys_I)": {
+        "id": "High_Septon_(Jaehaerys_I)",
+        "name": "High Septon (Jaehaerys I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "High_Septon_(Maekar_I)": {
+        "id": "High_Septon_(Maekar_I)",
+        "name": "High Septon (Maekar I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "High_Septon_(Regency_of_Aegon_III)": {
+        "id": "High_Septon_(Regency_of_Aegon_III)",
+        "name": "High Septon (Regency of Aegon III)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 143 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "High_Septon_(Tyrion%27s)": {
+        "id": "High_Septon_(Tyrion%27s)",
+        "name": "High Septon (Tyrion's)",
+        "alias": " The one after the Fat One",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 300 AC, at King's Landing",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "High_Sparrow": {
+        "id": "High_Sparrow",
+        "name": "High Sparrow",
+        "alias": " The High Sparrow",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Sparrows",
+            "Faith Militant"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Jonathan Pryce",
+        "tv series": " Season 5 | Season 6"
+    },
+    "Hildy": {
+        "id": "Hildy",
+        "name": "Hildy",
+        "culture": " Rivermen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Hilmar_Drumm": {
+        "id": "Hilmar_Drumm",
+        "name": "Hilmar Drumm",
+        "alias": " Hilmar the Cunning",
+        "allegiance": " House Drumm",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Hizdahr_zo_Loraq": {
+        "id": "Hizdahr_zo_Loraq",
+        "name": "Hizdahr zo Loraq",
+        "reign": " 300 AC - 300 AC",
+        "coronation": " 300 AC",
+        "full name": " Hizdahr zo Loraq, Fourteenth of That Noble Name[1]",
+        "alias": [
+            "Hizdak",
+            "Hizdahr of the tepid kisses"
+        ],
+        "titles": [
+            "King of Meereen",
+            "Scion",
+            "of",
+            "Ghis",
+            "Octarch",
+            "of the",
+            "Old Empire",
+            "Master",
+            "of the",
+            "Skahazadhan",
+            ",",
+            "Consort to Dragons",
+            "Blood of the Harpy",
+            "[1]"
+        ],
+        "culture": " Ghiscari",
+        "royal house": " House of Loraq",
+        "predecessor": " Daenerys Targaryen",
+        "queen": " Daenerys Targaryen",
+        "issue": [
+            "Bastard daughter",
+            "Bastard son"
+        ],
+        "books": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Joel Fry",
+        "tv series": " Season 4 | Season 5"
+    },
+    "Hoarfrost_Umber": {
+        "id": "Hoarfrost_Umber",
+        "name": "Hoarfrost Umber",
+        "title": " Lord of the Last Hearth",
+        "allegiance": " House Umber",
+        "culture": " Northmen",
+        "spouse": " Unknown",
+        "issue": [
+            "Father of",
+            "Jon Umber",
+            "Mors Umber",
+            "Hother Umber"
+        ],
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Hobb": {
+        "id": "Hobb",
+        "name": "Hobb",
+        "alias": " Three-Finger Hobb",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Hobb_the_Hewer": {
+        "id": "Hobb_the_Hewer",
+        "name": "Hobb the Hewer",
+        "book(s)": " The Princess and the Queen (mentioned)"
+    },
+    "Hobber_Redwyne": {
+        "id": "Hobber_Redwyne",
+        "name": "Hobber Redwyne",
+        "alias": " Slobber",
+        "title": " Ser",
+        "allegiance": " House Redwyne",
+        "culture": " Reach",
+        "born": " In or before 282 AC[1], at the Arbor[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hobert_Hightower": {
+        "id": "Hobert_Hightower",
+        "name": "Hobert Hightower",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Hightower",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": " Reach",
+        "born": " In 70 AC[2]",
+        "died": " In 130 AC[1], at Tumbleton[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Hod": {
+        "id": "Hod",
+        "name": "Hod",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Hodor": {
+        "id": "Hodor",
+        "name": "Hodor",
+        "alias": " Hodor",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": [
+            "Kristian Nairn ~",
+            "Season 1",
+            "",
+            "-Season 4",
+            ",",
+            "Season 6",
+            "Sam Coleman ~",
+            "Season 6",
+            "(Young Hodor)"
+        ],
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4 | Season 6"
+    },
+    "Hoke": {
+        "id": "Hoke",
+        "name": "Hoke",
+        "alias": " Hoke the Horseleg",
+        "allegiance": " House Lannister",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Holger": {
+        "id": "Holger",
+        "name": "Holger",
+        "allegiance": " Stone Crows",
+        "culture": " Vale mountain clans",
+        "issue": " Dolf",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Hollis_Teague": {
+        "id": "Hollis_Teague",
+        "name": "Hollis Teague",
+        "full name": " Hollis Teague",
+        "titles": " King of the Rivers and the Hills",
+        "died in": " Mother's Teats",
+        "culture": " Rivermen",
+        "royal house": " House Teague",
+        "predecessor": " Humfrey II Teague",
+        "heir": " Tyler Teague",
+        "successor": " Tyler Teague",
+        "father": " Humfrey I Teague",
+        "books": " The World of Ice & Fire"
+    },
+    "Holly": {
+        "id": "Holly",
+        "name": "Holly",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "born": " In 283 AC, 284 AC or 285 AC[1]",
+        "died": " In 300 AC, at Winterfell",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Hooded_man": {
+        "id": "Hooded_man",
+        "name": "Hooded man"
+    },
+    "Hooded_Man": {
+        "id": "Hooded_Man",
+        "name": "Hooded Man",
+        "allegiance": " House Banefort",
+        "race": " First Men",
+        "born": " In Age of Heroes",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hop-Bean": {
+        "id": "Hop-Bean",
+        "name": "Hop-Bean",
+        "issue": [
+            "Oppo",
+            "Penny"
+        ],
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Hop-Robin": {
+        "id": "Hop-Robin",
+        "name": "Hop-Robin",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Horas_Harroway": {
+        "id": "Horas_Harroway",
+        "name": "Horas Harroway",
+        "allegiance": " House Harroway",
+        "culture": " Rivermen",
+        "died": " In 44 AC[1], at King's Landing",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Horas_Redwyne": {
+        "id": "Horas_Redwyne",
+        "name": "Horas Redwyne",
+        "alias": " Horror",
+        "title": " Ser",
+        "allegiance": " House Redwyne",
+        "culture": " Reach",
+        "born": " In or before 282 AC[1], at the Arbor[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Horgan_Hoare": {
+        "id": "Horgan_Hoare",
+        "name": "Horgan Hoare",
+        "full name": " Horgan Hoare",
+        "alias": " Horgan Priestkiller",
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Horned_Lord": {
+        "id": "Horned_Lord",
+        "name": "Horned Lord",
+        "title": " King-Beyond-the-Wall",
+        "culture": " Free folk",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Horonno": {
+        "id": "Horonno",
+        "name": "Horonno",
+        "title": " Triarch of Volantis",
+        "allegiance": " Tiger",
+        "race": " Valyrian",
+        "culture": " Volantene",
+        "died": " At Volantis",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Horro": {
+        "id": "Horro",
+        "name": "Horro",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Horton_Redfort": {
+        "id": "Horton_Redfort",
+        "name": "Horton Redfort",
+        "title": " Lord of Redfort[1]",
+        "allegiance": [
+            "House Redfort",
+            "Lords Declarant",
+            "[1]"
+        ],
+        "culture": " Valemen",
+        "spouse": " 3 wives[1]",
+        "issue": [
+            "Jasper Redfort",
+            "[1]",
+            "Creighton Redfort",
+            "[1]",
+            "Jon Redfort",
+            "[1]",
+            "Mychel Redfort",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Horys_Hill": {
+        "id": "Horys_Hill",
+        "name": "Horys Hill",
+        "title": " Ser",
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows"
+        ],
+        "culture": " Westermen",
+        "died": " In 45 AC",
+        "book(s)": " The Sons of the Dragon (mentioned)"
+    },
+    "Hosman_Norcross": {
+        "id": "Hosman_Norcross",
+        "name": "Hosman Norcross",
+        "title": " Ser",
+        "allegiance": " House Norcross",
+        "culture": " Reach",
+        "spouse": " Delena Florent",
+        "issue": [
+            "Alester Norcross",
+            "Renly Norcross"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Hosteen_Frey": {
+        "id": "Hosteen_Frey",
+        "name": "Hosteen Frey",
+        "alias": " Ser Stupid[1]",
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In or between 249 AC and 258 AC[2]",
+        "spouse": " Bellena Hawick",
+        "issue": " Arwood Frey",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Hostella_Frey": {
+        "id": "Hostella_Frey",
+        "name": "Hostella Frey",
+        "allegiance": " House Frey",
+        "born": " In 299 AC or 300 AC[1]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Hoster_Blackwood": {
+        "id": "Hoster_Blackwood",
+        "name": "Hoster Blackwood",
+        "alias": " Hos",
+        "allegiance": " House Blackwood",
+        "culture": " rivermen",
+        "born": " In 283 AC or 284 AC[1]",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Hoster_Frey": {
+        "id": "Hoster_Frey",
+        "name": "Hoster Frey",
+        "allegiance": [
+            "House Frey",
+            "Damon Paege"
+        ],
+        "culture": " Rivermen",
+        "born": " In 287 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Hoster_Tully": {
+        "id": "Hoster_Tully",
+        "name": "Hoster Tully",
+        "title": [
+            "Lord Paramount of the Trident",
+            "Lord of Riverrun"
+        ],
+        "allegiance": " House Tully",
+        "culture": " Rivermen",
+        "born": " In or between 238 AC and 240 AC[1], at Riverrun[2]",
+        "died": " In 299 AC, at Riverrun",
+        "spouse": " Lady Minisa Whent",
+        "issue": [
+            "2 sons",
+            "Catelyn Tully",
+            "Lysa Tully",
+            "Edmure Tully",
+            "Son"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hot_Pie": {
+        "id": "Hot_Pie",
+        "name": "Hot Pie",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ],
+        "played by": " Ben Hawkey",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4 | Season 7"
+    },
+    "Hother_Umber": {
+        "id": "Hother_Umber",
+        "name": "Hother Umber",
+        "alias": [
+            "Hother Whoresbane",
+            "Whoresbane Umber"
+        ],
+        "title": " Castellan of Last Hearth",
+        "allegiance": " House Umber",
+        "culture": " Northmen",
+        "born": " In 241 AC or before[1], at Last Hearth[2]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Hotho_Harlaw": {
+        "id": "Hotho_Harlaw",
+        "name": "Hotho Harlaw",
+        "alias": [
+            "Hotho Humpback",
+            "[1]",
+            "Hotho the Humpback",
+            "[2]"
+        ],
+        "title": " Captain[3]",
+        "allegiance": " House Harlaw of the Tower of Glimmering",
+        "culture": " ironborn",
+        "born": " At Harlaw[4]",
+        "issue": " Daughter",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "House_of_the_Undying_servitor": {
+        "id": "House_of_the_Undying_servitor",
+        "name": "House of the Undying servitor",
+        "allegiance": " The Undying Ones",
+        "race": " Qartheen",
+        "book(s)": " A Clash of Kings (Appears)"
+    },
+    "Howard_Bullock": {
+        "id": "Howard_Bullock",
+        "name": "Howard Bullock",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Bullock",
+            "[1]",
+            "House Targaryen",
+            "[1]",
+            "Free Company",
+            "[1]"
+        ],
+        "culture": " Crownlands",
+        "born": " At or before 34 AC[2]",
+        "died": " In 53 AC[1], at Myr[1]",
+        "spouse": " Unknown[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Howard_Pyle": {
+        "id": "Howard_Pyle",
+        "name": "Howard Pyle",
+        "title": " Ser",
+        "allegiance": " House Pyle",
+        "culture": " Crownlands",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Howd_Wanderer": {
+        "id": "Howd_Wanderer",
+        "name": "Howd",
+        "alias": " Wanderer",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Howland_Reed": {
+        "id": "Howland_Reed",
+        "name": "Howland Reed",
+        "title": " Lord of Greywater Watch",
+        "allegiance": " House Reed",
+        "culture": " Crannogmen",
+        "born": " In or between 260 AC and 265 AC[1], at Greywater Watch[2]",
+        "spouse": " Jyana",
+        "issue": [
+            "Meera Reed",
+            "Jojen Reed"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ],
+        "played by": " Leo Woodruff",
+        "tv series": " Season 6"
+    },
+    "Hrothgar": {
+        "id": "Hrothgar",
+        "name": "Hrothgar",
+        "alias": " Hrothgar of Pyke",
+        "culture": " ironborn",
+        "born": " In Age of Heroes, at Pyke",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hubard_Rambton": {
+        "id": "Hubard_Rambton",
+        "name": "Hubard Rambton",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Rambton",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": " Crownlands",
+        "died": " In 299 AC[1], at Dragonstone[1]",
+        "issue": " 3 sons[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Hubert": {
+        "id": "Hubert",
+        "name": "Hubert",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hubert_Arryn": {
+        "id": "Hubert_Arryn",
+        "name": "Hubert Arryn",
+        "title": [
+            "Lord of the Eyrie",
+            "[1]",
+            "Defender of the Vale",
+            "[1]",
+            "Warden of the East",
+            "[1]"
+        ],
+        "allegiance": " House Arryn",
+        "culture": " Valemen",
+        "spouse": " Lady of House Royce[1]",
+        "issue": " 6 sons[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Hugh": {
+        "id": "Hugh",
+        "name": "Hugh",
+        "alias": " Hugh of the Vale[1]",
+        "title": " Ser",
+        "allegiance": " House Arryn",
+        "culture": " Valemen",
+        "died": " In 298 AC, at King's Landing",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)"
+        ],
+        "played by": " Jefferson Hall",
+        "tv series": " Season 1"
+    },
+    "Hugh_Arryn": {
+        "id": "Hugh_Arryn",
+        "name": "Hugh Arryn",
+        "alias": " Hugh the Fat",
+        "titles": " King of Mountain and Vale",
+        "culture": " Andal",
+        "royal house": " House Arryn",
+        "issue": " Son(s)",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Hugh_Beesbury": {
+        "id": "Hugh_Beesbury",
+        "name": "Hugh Beesbury",
+        "title": " Ser[1]",
+        "allegiance": " House Beesbury",
+        "culture": " Reach",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Hugh_Grandison": {
+        "id": "Hugh_Grandison",
+        "name": "Hugh Grandison",
+        "alias": " Greybeard",
+        "title": " Lord of Grandview",
+        "allegiance": " House Grandison",
+        "culture": " Stormlander",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hugh_Clifton": {
+        "id": "Hugh_Clifton",
+        "name": "Hugh Clifton",
+        "allegiance": [
+            "House Clifton",
+            "House Tyrell"
+        ],
+        "culture": " Westermen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hugh_Hammer": {
+        "id": "Hugh_Hammer",
+        "name": "Hugh Hammer",
+        "alias": [
+            "Hugh the Hammer",
+            "[1]",
+            "Hard Hugh",
+            "[1]",
+            "The Betrayer",
+            "[2]",
+            "Lord Hammer",
+            "[3]",
+            "Hard Hugh Hammer",
+            "[3]"
+        ],
+        "title": " Ser",
+        "allegiance": [
+            "Blacks",
+            "Greens",
+            "Two Betrayers"
+        ],
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Hugh_Hungerford": {
+        "id": "Hugh_Hungerford",
+        "name": "Hugh Hungerford",
+        "title": " Serjeant",
+        "allegiance": " Windblown",
+        "born": " At Westeros",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Hugo_Arryn": {
+        "id": "Hugo_Arryn",
+        "name": "Hugo Arryn",
+        "alias": " Hugo the Hopeful",
+        "titles": " King of Mountain and Vale",
+        "culture": " Andal",
+        "royal house": " House Arryn",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Hugo_Vance": {
+        "id": "Hugo_Vance",
+        "name": "Hugo Vance",
+        "title": " Ser[1]",
+        "allegiance": " House Vance of Atranta",
+        "culture": " Rivermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)"
+        ]
+    },
+    "Hugo_Vance_(lord)": {
+        "id": "Hugo_Vance_(lord)",
+        "name": "Hugo Vance (lord)",
+        "title": " Lord of Wayfarer's Rest",
+        "allegiance": [
+            "House Vance of Wayfarer's Rest",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Hugo_Wull": {
+        "id": "Hugo_Wull",
+        "name": "Hugo Wull",
+        "alias": [
+            "Big Bucket",
+            "[1]",
+            "Big Bucket Wull",
+            "[2]"
+        ],
+        "title": [
+            "The Wull",
+            "Lord",
+            "Wull"
+        ],
+        "allegiance": " House Wull",
+        "culture": " Northern mountain clans",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Hugor_of_the_Hill": {
+        "id": "Hugor_of_the_Hill",
+        "name": "Hugor of the Hill",
+        "alias": " Hukko (unconfirmed)",
+        "title": " King of the Andals",
+        "culture": " Andals",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Hukko": {
+        "id": "Hukko",
+        "name": "Hukko",
+        "culture": " Andals",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hullen": {
+        "id": "Hullen",
+        "name": "Hullen",
+        "title": " Master of horse at Winterfell",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "died": " In 298 AC, at King's Landing",
+        "issue": " Harwin",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Humfrey_Beesbury": {
+        "id": "Humfrey_Beesbury",
+        "name": "Humfrey Beesbury",
+        "title": " Ser",
+        "allegiance": " House Beesbury",
+        "culture": " Reach",
+        "died": " In 209 AC, at Ashford",
+        "spouse": " Sister of Humfrey Hardyng",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Humfrey_Bracken": {
+        "id": "Humfrey_Bracken",
+        "name": "Humfrey Bracken",
+        "title": " Lord of Stone Hedge",
+        "allegiance": [
+            "House Bracken",
+            "Greens",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "spouse": " Three wives[1]",
+        "issue": [
+            "Amos Bracken",
+            "Raylon Rivers",
+            "Other children"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Humfrey_Clifton": {
+        "id": "Humfrey_Clifton",
+        "name": "Humfrey Clifton",
+        "title": " Ser",
+        "allegiance": [
+            "House Clifton",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": " Westermen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Humfrey_Hardyng": {
+        "id": "Humfrey_Hardyng",
+        "name": "Humfrey Hardyng",
+        "title": " Ser",
+        "allegiance": " House Hardyng",
+        "culture": " Valemen",
+        "died": " In 209 AC, at Ashford",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Humfrey_Hewett": {
+        "id": "Humfrey_Hewett",
+        "name": "Humfrey Hewett",
+        "title": " Lord of Oakenshield[1]",
+        "allegiance": " House Hewett",
+        "culture": " Reach",
+        "died": " In 300 AC[2], at Oakenshield Castle",
+        "spouse": " Unknown",
+        "issue": [
+            "Falia Flowers",
+            "Trueborn daughters",
+            "Sons"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Humfrey_Hightower": {
+        "id": "Humfrey_Hightower",
+        "name": "Humfrey Hightower",
+        "title": " Ser[1]",
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "born": " In or between ~272 AC and 285 AC[2]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Humfrey_Lefford": {
+        "id": "Humfrey_Lefford",
+        "name": "Humfrey Lefford",
+        "title": " Lord of the Golden Tooth",
+        "allegiance": " House Lefford",
+        "culture": " westermen",
+        "died": " In 130 AC, at Gods Eye",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Humfrey_Stone": {
+        "id": "Humfrey_Stone",
+        "name": "Humfrey Stone",
+        "title": " Serjeant",
+        "allegiance": " Golden Company",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Humfrey_Swyft": {
+        "id": "Humfrey_Swyft",
+        "name": "Humfrey Swyft",
+        "title": " Ser",
+        "allegiance": " House Swyft",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Humfrey_I_Teague": {
+        "id": "Humfrey_I_Teague",
+        "name": "Humfrey I Teague",
+        "full name": " Humfrey I Teague",
+        "titles": " King of the Rivers and the Hills",
+        "died in": " Mother's Teats",
+        "culture": " Rivermen",
+        "royal house": " House Teague",
+        "heir": " Humfrey II Teague",
+        "successor": " Humfrey II Teague",
+        "issue": [
+            "Humfrey II Teague",
+            "Hollis Teague",
+            "Tyler Teague"
+        ],
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Humfrey_II_Teague": {
+        "id": "Humfrey_II_Teague",
+        "name": "Humfrey II Teague",
+        "full name": " Humfrey II Teague",
+        "titles": " King of the Rivers and the Hills",
+        "died in": " Mother's Teats",
+        "culture": " Rivermen",
+        "royal house": " House Teague",
+        "predecessor": " Humfrey I Teague",
+        "heir": " Hollis Teague",
+        "successor": " Hollis Teague",
+        "father": " Humfrey I Teague",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Humfrey_the_Mummer": {
+        "id": "Humfrey_the_Mummer",
+        "name": "Humfrey the Mummer",
+        "alias": " Humfrey the Mummer",
+        "title": " Ser",
+        "allegiance": " Kingsguard",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Humfrey_Wagstaff": {
+        "id": "Humfrey_Wagstaff",
+        "name": "Humfrey Wagstaff",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Grandview"
+        ],
+        "allegiance": [
+            "House Wagstaff",
+            "House Grandison"
+        ],
+        "culture": " Stormlander",
+        "born": " In 230 232 AC[1]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Humfrey_Waters": {
+        "id": "Humfrey_Waters",
+        "name": "Humfrey Waters",
+        "title": [
+            "Captain of the",
+            "Dragon Gate",
+            "Commander of the City Watch"
+        ],
+        "allegiance": " City Watch of King's Landing",
+        "culture": " Crownlands",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Humphrey_Bulwer": {
+        "id": "Humphrey_Bulwer",
+        "name": "Humphrey Bulwer",
+        "title": " Ser",
+        "allegiance": " House Bulwer",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Hunnimore": {
+        "id": "Hunnimore",
+        "name": "Hunnimore",
+        "title": " Maester at Dragonstone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ],
+        "book(s)": " The Princess and the Queen (mentioned)"
+    },
+    "Husband": {
+        "id": "Husband",
+        "name": "Husband",
+        "culture": " Rivermen",
+        "spouse": " Sharna",
+        "issue": [
+            "2 sons",
+            "Boy",
+            "(adopted)"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Huzhor_Amai": {
+        "id": "Huzhor_Amai",
+        "name": "Huzhor Amai",
+        "alias": " The Amazing",
+        "title": " King",
+        "allegiance": " Kingdom of Sarnor",
+        "race": " Tall Men",
+        "culture": " Tall Men",
+        "spouse": [
+            "Cymmeri",
+            "wife",
+            "Zoqora",
+            "wife"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Hyle_Hunt": {
+        "id": "Hyle_Hunt",
+        "name": "Hyle Hunt",
+        "title": " Ser",
+        "allegiance": [
+            "House Hunt",
+            "House Tarly",
+            "(formerly)"
+        ],
+        "culture": " Reach",
+        "issue": " Bastard girl[1]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "High_Septon_(stonemason)": {
+        "id": "High_Septon_(stonemason)",
+        "name": "High Septon (stonemason)",
+        "alias": " Pate",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "died": " In 162 170 AC[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast For Crows",
+            "(mentioned)"
+        ]
+    },
+    "Hookface_Will": {
+        "id": "Hookface_Will",
+        "name": "Hookface Will",
+        "alias": " Hookface Will",
+        "allegiance": " House Baratheon of Dragonstone",
+        "died": " In 299 AC",
+        "book(s)": " A Storm of Swords (mentioned)"
+    }
+}

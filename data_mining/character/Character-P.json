@@ -1,0 +1,1291 @@
+{
+    "Penny_Jenny": {
+        "id": "Penny_Jenny",
+        "name": "Penny Jenny",
+        "alias": [
+            "Penny Jenny",
+            "[1]",
+            "Redgrass Jenny",
+            "[1]"
+        ],
+        "died": " In 196 212 AC, at King's Landing[1]",
+        "book(s)": " The Mystery Knight (mentioned)"
+    },
+    "Paezhar_zo_Myraq": {
+        "id": "Paezhar_zo_Myraq",
+        "name": "Paezhar zo Myraq",
+        "alias": " The Little Pigeon",
+        "allegiance": [
+            "House of Myraq",
+            "Wise Masters"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Palla": {
+        "id": "Palla",
+        "name": "Palla",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Parmen_Crane": {
+        "id": "Parmen_Crane",
+        "name": "Parmen Crane",
+        "alias": " Parmen the Purple",
+        "title": " Ser",
+        "allegiance": [
+            "House Crane",
+            "Rainbow Guard",
+            "(formerly)"
+        ],
+        "culture": " Reach",
+        "born": " At Red Lake[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Parquello_Vaelaros": {
+        "id": "Parquello_Vaelaros",
+        "name": "Parquello Vaelaros",
+        "race": " Valyrian",
+        "culture": " Volantene",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Pascal_Dabell": {
+        "id": "Pascal_Dabell",
+        "name": "Pascal Dabell",
+        "title": " Ser",
+        "culture": " Westeros",
+        "book(s)": " The Hedge Knight"
+    },
+    "Patchface": {
+        "id": "Patchface",
+        "name": "Patchface",
+        "alias": " Patches",
+        "allegiance": " House Baratheon of Dragonstone",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Pate_(novice)": {
+        "id": "Pate_(novice)",
+        "name": "Pate (novice)",
+        "alias": " Cressen",
+        "title": " Novice",
+        "allegiance": " The Citadel",
+        "culture": " Westermen",
+        "born": " In 281 AC or 282 AC[1], at westerlands",
+        "died": " In 300 AC, at Oldtown",
+        "book(s)": " A Feast for Crows (POV)"
+    },
+    "Pate_the_Woodcock": {
+        "id": "Pate_the_Woodcock",
+        "name": "Pate the Woodcock",
+        "title": " Ser",
+        "allegiance": " Kingsguard",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Pate_of_Longleaf": {
+        "id": "Pate_of_Longleaf",
+        "name": "Pate of Longleaf",
+        "alias": " Longleaf the Lionslayer",
+        "title": " Ser",
+        "allegiance": " Blacks",
+        "culture": " Rivermen",
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Pate_(Night%27s_Watch)": {
+        "id": "Pate_(Night%27s_Watch)",
+        "name": "Pate (Night's Watch)",
+        "alias": " Spotted Pate",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Pate_(Ranger)": {
+        "id": "Pate_(Ranger)",
+        "name": "Pate (Ranger)",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Pate_of_Fairmarket": {
+        "id": "Pate_of_Fairmarket",
+        "name": "Pate of Fairmarket",
+        "alias": " Pate of Fairmarket",
+        "title": [
+            "Ser",
+            "River king",
+            "/",
+            "King of the Trident"
+        ],
+        "culture": " Rivermen",
+        "book(s)": " The World of Ice & Fire (Mentioned)"
+    },
+    "Pate_the_Plowman": {
+        "id": "Pate_the_Plowman",
+        "name": "Pate the Plowman",
+        "alias": " Pate the Plowman",
+        "allegiance": " House Moreland",
+        "race": " First Men",
+        "culture": " First Men",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Pate_(Standfast)": {
+        "id": "Pate_(Standfast)",
+        "name": "Pate (Standfast)",
+        "allegiance": " House Osgrey",
+        "culture": " Reach",
+        "born": " In or between 161 AC and 181 AC[1]",
+        "book(s)": " The Sworn Sword (appears)"
+    },
+    "Pate_of_the_Blue_Fork": {
+        "id": "Pate_of_the_Blue_Fork",
+        "name": "Pate of the Blue Fork",
+        "alias": [
+            "Pate of the Blue Fork",
+            "Pate of Sevenstreams"
+        ],
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "died": " In 299 AC[1], at the riverlands",
+        "spouse": " Amerei Frey",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Pate_(Pinchbottom)": {
+        "id": "Pate_(Pinchbottom)",
+        "name": "Pinchbottom Pate",
+        "died": " In 209 AC, at Little Dosk",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Pate_(Old)": {
+        "id": "Pate_(Old)",
+        "name": "Pate (Old)",
+        "alias": " Old Pate",
+        "died": " At Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Pate_(Mory)": {
+        "id": "Pate_(Mory)",
+        "name": "Pate of Mory",
+        "died": " At Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Pate_(Lancewood)": {
+        "id": "Pate_(Lancewood)",
+        "name": "Pate of Lancewood",
+        "died": " At Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Pate_(Shermer%27s_Grove)": {
+        "id": "Pate_(Shermer%27s_Grove)",
+        "name": "Pate of Shermer's Grove",
+        "died": " At Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Pate_(whipping_boy)": {
+        "id": "Pate_(whipping_boy)",
+        "name": "Pate (whipping boy)",
+        "allegiance": " House Baratheon of King's Landing",
+        "born": " In 291 AC or 292 AC[1]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Pate_(orphan)": {
+        "id": "Pate_(orphan)",
+        "name": "Pate (orphan)",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Pater": {
+        "id": "Pater",
+        "name": "Pater",
+        "alias": " Pater",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "born": " In 54 BC",
+        "died": " In 44 AC, at Oldtown",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Patrek_Mallister": {
+        "id": "Patrek_Mallister",
+        "name": "Patrek Mallister",
+        "allegiance": " House Mallister",
+        "culture": " Rivermen",
+        "born": " At Seagard[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Patrek_of_King%27s_Mountain": {
+        "id": "Patrek_of_King%27s_Mountain",
+        "name": "Patrek of King's Mountain",
+        "alias": " Patrek of King's Mountain",
+        "title": " Ser",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ],
+        "died": " In 300 AC, at Castle Black",
+        "book(s)": " A Dance with Dragons (appears)",
+        "personal arms": [
+            "A blue five pointed star on white",
+            "(Argent, a five pointed star azure)"
+        ]
+    },
+    "Patrek_Vance": {
+        "id": "Patrek_Vance",
+        "name": "Patrek Vance",
+        "allegiance": " House Vance",
+        "born": " In or between ~262 AC and 294 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(Mentioned)",
+            "A Storm of Swords",
+            "(Mentioned)",
+            "A Feast for Crows",
+            "(Mentioned)"
+        ]
+    },
+    "Paxter_Redwyne": {
+        "id": "Paxter_Redwyne",
+        "name": "Paxter Redwyne",
+        "title": [
+            "Lord of the Arbor",
+            "Grand admiral",
+            "Lord admiral",
+            "Master of ships"
+        ],
+        "allegiance": " House Redwyne",
+        "culture": " Reach",
+        "spouse": " Lady Mina Tyrell",
+        "issue": [
+            "Horas Redwyne",
+            "Hobber Redwyne",
+            "Desmera Redwyne"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Patrice_Hightower": {
+        "id": "Patrice_Hightower",
+        "name": "Patrice Hightower",
+        "title": " Lady",
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Patricia_Redwyne": {
+        "id": "Patricia_Redwyne",
+        "name": "Patricia Redwyne",
+        "allegiance": " House Redwyne",
+        "culture": " Reach",
+        "born": " In 103 133 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Pearl_Emperor": {
+        "id": "Pearl_Emperor",
+        "name": "Pearl Emperor",
+        "reign": " 1000 years",
+        "alias": " Pearl Emperor",
+        "titles": [
+            "God-Emperor",
+            "Pearl Emperor"
+        ],
+        "culture": " Great Empire of the Dawn",
+        "predecessor": " The God-on-Earth",
+        "heir": " Jade Emperor",
+        "successor": " Jade Emperor",
+        "father": " The God-on-Earth",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Pearse_Caron": {
+        "id": "Pearse_Caron",
+        "name": "Pearse Caron",
+        "title": [
+            "Ser",
+            "Lord of",
+            "Nightsong",
+            "Lord of the Marches"
+        ],
+        "allegiance": " House Caron",
+        "culture": " Marcher",
+        "book(s)": " The Hedge Knight (appears)",
+        "personal arms": [
+            "A silver harp on yellow",
+            "(Or a harp argent)"
+        ]
+    },
+    "Penny": {
+        "id": "Penny",
+        "name": "Penny",
+        "alias": " Lady Imp",
+        "allegiance": " Second Sons",
+        "born": " In 281 AC, 282 AC or 283 AC[1]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Perceon_III_Gardener": {
+        "id": "Perceon_III_Gardener",
+        "name": "Perceon III Gardener",
+        "full name": " Perceon of House Gardener, the Third of His Name",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "issue": " Gwayne Gardener",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Peremore_Hightower": {
+        "id": "Peremore_Hightower",
+        "name": "Peremore Hightower",
+        "alias": " Peremore the Twisted",
+        "title": " Prince",
+        "allegiance": " House Hightower",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Pereno_Pendaerys": {
+        "id": "Pereno_Pendaerys",
+        "name": "Pereno Pendaerys",
+        "allegiance": " House Pendaerys",
+        "culture": " Lysene",
+        "died": " In 135 AC, at Lys",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Perestan": {
+        "id": "Perestan",
+        "name": "Perestan",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Perfumed_Hero": {
+        "id": "Perfumed_Hero",
+        "name": "Perfumed Hero",
+        "alias": " The Perfumed Hero",
+        "allegiance": " Wise Masters",
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Perianne_Moore": {
+        "id": "Perianne_Moore",
+        "name": "Perianne Moore",
+        "alias": " Pretty Peri[1]",
+        "title": " Lady of Maidenpool[1]",
+        "allegiance": [
+            "House Moore",
+            "House Mooton"
+        ],
+        "culture": " Valemen",
+        "born": " In 67 AC[2]",
+        "spouse": " Lord Jonah Mooton[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Perkin_Follard": {
+        "id": "Perkin_Follard",
+        "name": "Perkin Follard",
+        "title": " Ser",
+        "allegiance": [
+            "House Follard",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ],
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Perkin_the_Flea": {
+        "id": "Perkin_the_Flea",
+        "name": "Perkin the Flea",
+        "alias": " Perkin the Flea",
+        "title": [
+            "Ser",
+            "Commander of the City Watch"
+        ],
+        "allegiance": [
+            "King",
+            "Trystane Truefyre",
+            "Greens",
+            "City Watch of King's Landing",
+            "Night's Watch"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Perra_Frey": {
+        "id": "Perra_Frey",
+        "name": "Perra Frey",
+        "allegiance": " House Frey",
+        "born": " In 294 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Perra_Royce": {
+        "id": "Perra_Royce",
+        "name": "Perra Royce",
+        "title": " Lady of the Crossing",
+        "allegiance": [
+            "House Royce",
+            "House Frey"
+        ],
+        "culture": " Valemen",
+        "born": " In 221 AC or before[1]",
+        "died": " In or between 241 AC and 249 AC[1]",
+        "spouse": " Lord Walder Frey",
+        "issue": [
+            "Stevron Frey",
+            "Emmon Frey",
+            "Aenys Frey",
+            "Perriane Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Perriane_Frey": {
+        "id": "Perriane_Frey",
+        "name": "Perriane Frey",
+        "allegiance": [
+            "House Frey",
+            "House Haigh"
+        ],
+        "culture": " Rivermen",
+        "born": " In or between 238 AC and 249 AC[1]",
+        "spouse": " Ser Leslyn Haigh",
+        "issue": [
+            "Harys Haigh",
+            "Donnel Haigh",
+            "Alyn Haigh"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Perros_Blackmont": {
+        "id": "Perros_Blackmont",
+        "name": "Perros Blackmont",
+        "allegiance": " House Blackmont",
+        "culture": " Dornishmen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Perwyn_Frey": {
+        "id": "Perwyn_Frey",
+        "name": "Perwyn Frey",
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "culture": " rivermen",
+        "born": " In or between 269 AC and 278 AC[1], at Twins[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Perwyn_Osgrey": {
+        "id": "Perwyn_Osgrey",
+        "name": "Perwyn Osgrey",
+        "alias": " Perwyn the Proud[1]",
+        "title": " Lord of Coldmoat",
+        "allegiance": " House Osgrey",
+        "culture": " Reach",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Peter_Plumm": {
+        "id": "Peter_Plumm",
+        "name": "Peter Plumm",
+        "title": " Ser",
+        "allegiance": " House Plumm",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Petyr_Baelish": {
+        "id": "Petyr_Baelish",
+        "name": "Petyr Baelish",
+        "alias": [
+            "Littlefinger",
+            "Lord Littlefinger"
+        ],
+        "title": [
+            "Master of coin",
+            "(formerly)",
+            "Lord Paramount of the Trident",
+            "Lord of Harrenhal",
+            "Lord Protector of the Eyrie and the Vale of Arryn"
+        ],
+        "allegiance": [
+            "House Baelish",
+            "of the",
+            "Fingers",
+            "House Baelish",
+            "of",
+            "Harrenhal"
+        ],
+        "culture": " Valemen",
+        "born": " In 268 AC[1], at the Fingers",
+        "spouse": " Lady Lysa Arryn",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Aidan Gillen",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7"
+    },
+    "Petyr_Frey": {
+        "id": "Petyr_Frey",
+        "name": "Petyr Frey",
+        "alias": " Petyr Pimple[1]",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 281 AC or 282 AC[2], at Twins[3]",
+        "died": " In 300 AC, at Oldstones[3]",
+        "spouse": " Mylenda Caron[4]",
+        "issue": " Perra Frey[4]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Petyr_Mallister": {
+        "id": "Petyr_Mallister",
+        "name": "Petyr Mallister",
+        "title": [
+            "Lord of Seagard",
+            "River king",
+            "/",
+            "King of the Trident"
+        ],
+        "allegiance": " House Mallister",
+        "culture": " Rivermen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Petyr_Piper": {
+        "id": "Petyr_Piper",
+        "name": "Petyr Piper",
+        "title": " Lord of Pinkmaiden",
+        "allegiance": [
+            "House Piper",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "died": " In 130 AC, at Acorn Hall",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Petyr_Plumm": {
+        "id": "Petyr_Plumm",
+        "name": "Petyr Plumm",
+        "title": " Ser",
+        "allegiance": " House Plumm",
+        "culture": " Westermen",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Phario_Forel": {
+        "id": "Phario_Forel",
+        "name": "Phario Forel",
+        "culture": " Braavosi",
+        "book(s)": " The Winds of Winter (Mentioned)"
+    },
+    "Philip_Foote": {
+        "id": "Philip_Foote",
+        "name": "Philip Foote",
+        "title": [
+            "Ser",
+            "Lord of Nightsong",
+            "Lord of the Marches"
+        ],
+        "allegiance": [
+            "House Foote",
+            "House Foote of Nightsong"
+        ],
+        "culture": " Westermen",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Philip_Plumm": {
+        "id": "Philip_Plumm",
+        "name": "Philip Plumm",
+        "title": " Lord",
+        "allegiance": " House Plumm",
+        "culture": " westermen",
+        "issue": [
+            "Dennis Plumm",
+            "Peter Plumm",
+            "Harwyn Plumm"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Pia": {
+        "id": "Pia",
+        "name": "Pia",
+        "alias": " Pretty Pia[1]",
+        "allegiance": " House Whent",
+        "culture": " Rivermen",
+        "born": " In before 281 AC[N 1], at Harrenhal[2]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)"
+        ]
+    },
+    "Pilman": {
+        "id": "Pilman",
+        "name": "Pilman",
+        "alias": " Pilman of Lannisport[1]",
+        "title": " Captain[1]",
+        "culture": " Westermen",
+        "book(s)": " The World of Ice and Fire (mentioned)"
+    },
+    "Pimply_squire": {
+        "id": "Pimply_squire",
+        "name": "Pimply squire",
+        "alias": [
+            "The pimply squire",
+            "[1]",
+            "That Sarsfield boy",
+            "[2]"
+        ],
+        "allegiance": [
+            "House Sarsfield",
+            "House Clegane"
+        ],
+        "culture": " Westermen",
+        "died": " In 300 AC, at the inn at the crossroads",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Pious_dwarf": {
+        "id": "Pious_dwarf",
+        "name": "Pious dwarf",
+        "title": " Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Sparrows"
+        ],
+        "culture": " Westerosi",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Pisswater_prince": {
+        "id": "Pisswater_prince",
+        "name": "Pisswater prince",
+        "alias": " \"Aegon Targaryen\"",
+        "allegiance": " House Targaryen",
+        "born": " In c. 282 AC, at King's Landing",
+        "died": " In 283 AC, at King's Landing",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Plague_face": {
+        "id": "Plague_face",
+        "name": "Plague face",
+        "allegiance": " Faceless Men",
+        "culture": " Braavosi",
+        "book(s)": " A Dance with Dragons (Appears)"
+    },
+    "Plummer": {
+        "id": "Plummer",
+        "name": "Plummer",
+        "title": " Steward of Ashford",
+        "allegiance": " House Ashford",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Podrick_Payne": {
+        "id": "Podrick_Payne",
+        "name": "Podrick Payne",
+        "alias": " Pod[1][2]",
+        "allegiance": [
+            "House Payne",
+            "Tyrion Lannister",
+            "Brienne Tarth"
+        ],
+        "culture": " Westermen",
+        "born": " In 286 AC or 287 AC[3]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Daniel Portman",
+        "tv series": " Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Poetess": {
+        "id": "Poetess",
+        "name": "Poetess",
+        "alias": " The Poetess",
+        "culture": " Braavosi",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Pol": {
+        "id": "Pol",
+        "name": "Pol",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Pol_Qo": {
+        "id": "Pol_Qo",
+        "name": "Pol Qo",
+        "full name": " Pol Qo, first of the orange emperors",
+        "alias": " Hammer of the Jogos Nhai",
+        "titles": " God-Emperor",
+        "culture": " Yi Ti",
+        "royal house": " Orange emperors",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Pollitor": {
+        "id": "Pollitor",
+        "name": "Pollitor",
+        "title": " Wisdom",
+        "allegiance": " Alchemists' Guild",
+        "culture": " Crownlands",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Polliver": {
+        "id": "Polliver",
+        "name": "Polliver",
+        "alias": " Polly[1]",
+        "title": " Castellan of Harrenhal",
+        "allegiance": " House Clegane",
+        "died": " In 300 AC, at the inn at the crossroads",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ],
+        "played by": " Andy Kellegher",
+        "tv series": " Season 2 | Season 4"
+    },
+    "Pono": {
+        "id": "Pono",
+        "name": "Pono",
+        "title": [
+            "Khal",
+            "Ko",
+            "(formerly)"
+        ],
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Porridge": {
+        "id": "Porridge",
+        "name": "Porridge",
+        "alias": " Porridge",
+        "allegiance": " House Baratheon of Dragonstone",
+        "book(s)": " A Storm of Swords (Appears)"
+    },
+    "Porther": {
+        "id": "Porther",
+        "name": "Porther",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)"
+        ]
+    },
+    "Portifer_Woodwright": {
+        "id": "Portifer_Woodwright",
+        "name": "Portifer Woodwright",
+        "title": " Ser",
+        "allegiance": " House Woodwright",
+        "culture": " Reach",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Poul_Pemford": {
+        "id": "Poul_Pemford",
+        "name": "Poul Pemford",
+        "allegiance": [
+            "House Pemford",
+            "House Tully"
+        ],
+        "died": " In 299 AC, at Riverrun",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Poxy_Tym": {
+        "id": "Poxy_Tym",
+        "name": "Poxy Tym",
+        "alias": " Poxy Tym",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Praed": {
+        "id": "Praed",
+        "name": "Praed",
+        "died": " In 299 AC, at the Crownlands",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Prendahl_na_Ghezn": {
+        "id": "Prendahl_na_Ghezn",
+        "name": "Prendahl na Ghezn",
+        "allegiance": " Stormcrows",
+        "culture": " Ghiscari",
+        "died": " In 299 AC, at Yunkai",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Ramon Tikaram",
+        "tv series": " Season 3"
+    },
+    "Prendos": {
+        "id": "Prendos",
+        "name": "Prendos"
+    },
+    "Prentys_Tully": {
+        "id": "Prentys_Tully",
+        "name": "Prentys Tully",
+        "title": [
+            "Lord of Riverrun",
+            "Lord Paramount of the Trident",
+            "Master of laws",
+            "Lord justiciar"
+        ],
+        "allegiance": " House Tully",
+        "culture": " Rivermen",
+        "died": " In 59 AC, at Riverrun",
+        "spouse": " Lady Lucinda Broome",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Preston_Greenfield": {
+        "id": "Preston_Greenfield",
+        "name": "Preston Greenfield",
+        "title": " Ser",
+        "allegiance": [
+            "House Greenfield",
+            "Kingsguard"
+        ],
+        "culture": " Westermen",
+        "died": " In 299 AC, at King's Landing[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ],
+        "played by": " Unidentified",
+        "tv series": " Season 1 | Season 4 | Season 5 | Season 7 | Season 8"
+    },
+    "Princess_of_Dorne_(unnamed)": {
+        "id": "Princess_of_Dorne_(unnamed)",
+        "name": "Princess of Dorne (unnamed)",
+        "title": [
+            "Princess of Dorne",
+            "Lady of Sunspear"
+        ],
+        "allegiance": " House Martell",
+        "culture": " Dornishmen",
+        "died": " In or between 279 AC and 280 AC[N 1]",
+        "issue": [
+            "Doran Martell",
+            "Mors Martell",
+            "Olyvar Martell",
+            "Elia Martell",
+            "Oberyn Martell"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Priscella_Hogg": {
+        "id": "Priscella_Hogg",
+        "name": "Priscella Hogg",
+        "allegiance": [
+            "House Hogg",
+            "Faith of the Seven"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Prudence_Celtigar": {
+        "id": "Prudence_Celtigar",
+        "name": "Prudence Celtigar",
+        "title": " Lady of Gulltown",
+        "allegiance": [
+            "House Celtigar",
+            "House Grafton"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 34 AC or 35 AC[1]",
+        "spouse": " Lord Grafton",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Prunella_Celtigar": {
+        "id": "Prunella_Celtigar",
+        "name": "Prunella Celtigar",
+        "title": " Lady of Starpike, Dunstonbury, and Whitegrove",
+        "allegiance": [
+            "House Celtigar",
+            "House Peake"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 34 AC or 35 AC[1]",
+        "spouse": " Lord Uther Peake",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Puckens": {
+        "id": "Puckens",
+        "name": "Puckens",
+        "allegiance": " House Lannister",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Pudding": {
+        "id": "Pudding",
+        "name": "Pudding",
+        "book(s)": " The Mystery Knight (mentioned)"
+    },
+    "Puddingfoot": {
+        "id": "Puddingfoot",
+        "name": "Puddingfoot",
+        "allegiance": " Brotherhood without banners",
+        "book(s)": " A Storm of Swords (Mentioned)"
+    },
+    "Pyat_Pree": {
+        "id": "Pyat_Pree",
+        "name": "Pyat Pree",
+        "title": " Warlock",
+        "allegiance": " The Undying Ones",
+        "race": " Qartheen",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Ian Hanmore",
+        "tv series": " Season 2"
+    },
+    "Pycelle": {
+        "id": "Pycelle",
+        "name": "Pycelle",
+        "title": " Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "(by oath)",
+            "House Lannister",
+            "(de facto)"
+        ],
+        "born": " In 216 AC[1]",
+        "died": " In 300 AC, at the Red Keep, King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Julian Glover",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Pycelle%27s_serving_girl": {
+        "id": "Pycelle%27s_serving_girl",
+        "name": "Pycelle's serving girl",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)"
+        ]
+    },
+    "Pyg": {
+        "id": "Pyg",
+        "name": "Pyg",
+        "allegiance": " Brave Companions",
+        "died": " In 300 AC, at Whispers",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)"
+        ]
+    },
+    "Pykewood_Peake": {
+        "id": "Pykewood_Peake",
+        "name": "Pykewood Peake",
+        "allegiance": " Golden Company",
+        "book(s)": " A Dance with Dragons"
+    },
+    "Pylos": {
+        "id": "Pylos",
+        "name": "Pylos",
+        "title": " Maester at Dragonstone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Baratheon of Dragonstone"
+        ],
+        "born": " In 273 AC or 274 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Pynto": {
+        "id": "Pynto",
+        "name": "Pynto",
+        "culture": " Braavosi",
+        "book(s)": " A Dance with Dragons (Appears)"
+    },
+    "Pypar": {
+        "id": "Pypar",
+        "name": "Pypar",
+        "alias": [
+            "Pyp",
+            "Monkey",
+            "[1]",
+            "Mummer's Monkey",
+            "[1]"
+        ],
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Jozef Altin",
+        "tv series": " Season 1 | Season 3 | Season 4"
+    },
+    "Pytho_Malanon": {
+        "id": "Pytho_Malanon",
+        "name": "Pytho Malanon",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    }
+}

@@ -1,0 +1,3020 @@
+{
+    "The_Sparr": {
+        "id": "The_Sparr",
+        "name": "The Sparr",
+        "title": " The Sparr",
+        "allegiance": " House Sparr",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "The_Stonehouse": {
+        "id": "The_Stonehouse",
+        "name": "The Stonehouse",
+        "title": " Lord Stonehouse",
+        "allegiance": " House Stonehouse",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Taena_of_Myr": {
+        "id": "Taena_of_Myr",
+        "name": "Taena of Myr",
+        "alias": " Taena Merryweather[1]",
+        "title": " Lady of Longtable",
+        "allegiance": " House Merryweather",
+        "culture": " Myrish",
+        "born": " In 276 AC (roughly)[2]",
+        "spouse": " Lord Orton Merryweather[3]",
+        "issue": " Russell Merryweather[3]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tagganaro": {
+        "id": "Tagganaro",
+        "name": "Tagganaro",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Tal_Toraq": {
+        "id": "Tal_Toraq",
+        "name": "Tal Toraq",
+        "title": " Commander of the Stalwart Shields",
+        "allegiance": [
+            "House Targaryen",
+            "Stalwart Shields"
+        ],
+        "culture": " Summer Isles",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Talbert_Serry": {
+        "id": "Talbert_Serry",
+        "name": "Talbert Serry",
+        "title": [
+            "Ser",
+            "Captain",
+            "[1]"
+        ],
+        "allegiance": " House Serry",
+        "culture": " Reach",
+        "died": " In 300 AC, at near the Shield Islands, the Reach",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Talea": {
+        "id": "Talea",
+        "name": "Talea",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Talla_Tarly": {
+        "id": "Talla_Tarly",
+        "name": "Talla Tarly",
+        "allegiance": " House Tarly",
+        "culture": " Reach",
+        "born": " In 284 289 AC[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ],
+        "played by": " Rebecca Benson",
+        "tv series": " Season 6"
+    },
+    "Tallad": {
+        "id": "Tallad",
+        "name": "Tallad",
+        "alias": " Tallad the Tall",
+        "title": " Ser",
+        "allegiance": " House Baratheon of King's Landing",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "personal arms": [
+            "Checkered blue with three golden eyes",
+            "(Chequy azure and argent, on a fess sable three eyes or)"
+        ]
+    },
+    "Tanda_Stokeworth": {
+        "id": "Tanda_Stokeworth",
+        "name": "Tanda Stokeworth",
+        "title": " Lady of Stokeworth",
+        "allegiance": " House Stokeworth",
+        "culture": " Crownlands",
+        "born": " At Stokeworth[1]",
+        "died": " In 300 AC, at Stokeworth[2]",
+        "issue": [
+            "Falyse Stokeworth",
+            "Lollys Stokeworth"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Tanselle": {
+        "id": "Tanselle",
+        "name": "Tanselle",
+        "alias": " Tanselle Too-Tall",
+        "culture": " Dornishmen",
+        "book(s)": [
+            "The Hedge Knight",
+            "(appears)",
+            "The Sworn Sword",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ]
+    },
+    "Tansy": {
+        "id": "Tansy",
+        "name": "Tansy"
+    },
+    "Tansy_(orphan)": {
+        "id": "Tansy_(orphan)",
+        "name": "Tansy (orphan)",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Tanton_Fossoway": {
+        "id": "Tanton_Fossoway",
+        "name": "Tanton Fossoway",
+        "title": " Ser[1]",
+        "allegiance": " House Fossoway of Cider Hall",
+        "culture": " Reach",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Tarber": {
+        "id": "Tarber",
+        "name": "Tarber",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Targon": {
+        "id": "Targon",
+        "name": "Targon",
+        "alias": " Targon the Halfwild[1]",
+        "title": " Ser[1]",
+        "culture": " Valemen",
+        "book(s)": "  The Winds of Winter (appears)"
+    },
+    "Tarle_the_Thrice-Drowned": {
+        "id": "Tarle_the_Thrice-Drowned",
+        "name": "Tarle the Thrice-Drowned",
+        "title": " Priest of the Drowned God",
+        "culture": " Ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Tattered_Prince": {
+        "id": "Tattered_Prince",
+        "name": "Tattered Prince",
+        "alias": [
+            "The Tattered Prince",
+            "Rags",
+            "Rags and Tatters",
+            "Old Grey-beards in Rags",
+            "The Prince of Tatters",
+            "Tatters"
+        ],
+        "title": [
+            "Prince of Pentos",
+            "(title refused)",
+            "Commander of the",
+            "Windblown"
+        ],
+        "allegiance": [
+            "Windblown",
+            "Second Sons",
+            "(formerly)",
+            "Iron Shields",
+            "(formerly)",
+            "Maiden's Men",
+            "(formerly)"
+        ],
+        "culture": " Pentoshi",
+        "born": " In 238 AC or 239 AC[1], at Pentos",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Temmo": {
+        "id": "Temmo",
+        "name": "Temmo",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "born": " In Century of Blood",
+        "died": " In Century of Blood, at the gates of Qohor",
+        "spouse": " Wives[1]",
+        "issue": " Sons[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Teora_Hunter": {
+        "id": "Teora_Hunter",
+        "name": "Teora Hunter",
+        "title": " Queen",
+        "allegiance": [
+            "House Hunter",
+            "House Arryn"
+        ],
+        "spouse": " King Roland I Arryn",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Teora_Kyndall": {
+        "id": "Teora_Kyndall",
+        "name": "Teora Kyndall",
+        "title": " Lady of Casterly Rock",
+        "allegiance": [
+            "House Kyndall",
+            "House Lannister"
+        ],
+        "culture": " Westermen",
+        "spouse": " Lord Tybolt Lannister",
+        "issue": " Cerelle Lannister",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Teora_Toland": {
+        "id": "Teora_Toland",
+        "name": "Teora Toland",
+        "title": " Lady[1]",
+        "allegiance": " House Toland",
+        "culture": " Dornish",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Ternesio_Terys": {
+        "id": "Ternesio_Terys",
+        "name": "Ternesio Terys",
+        "title": " Captain of Titan's Daughter",
+        "culture": " Braavosi",
+        "issue": [
+            "Denyo Terys",
+            "Yorko Terys"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)"
+        ],
+        "played by": " Gary Oliver",
+        "tv series": " Season 4"
+    },
+    "Terrance_Lynderly": {
+        "id": "Terrance_Lynderly",
+        "name": "Terrance Lynderly",
+        "allegiance": " House Lynderly",
+        "culture": " Valemen",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Terrence_Kenning": {
+        "id": "Terrence_Kenning",
+        "name": "Terrence Kenning",
+        "title": " Lord of Kayce[1]",
+        "allegiance": " House Kenning of Kayce",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Terrence_Toyne": {
+        "id": "Terrence_Toyne",
+        "name": "Terrence Toyne",
+        "title": " Ser",
+        "allegiance": [
+            "House Toyne",
+            "Kingsguard"
+        ],
+        "culture": " Stormlander",
+        "died": " In 178 AC[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Terrio_Erastes": {
+        "id": "Terrio_Erastes",
+        "name": "Terrio Erastes",
+        "culture": " Braavosi",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Terro": {
+        "id": "Terro",
+        "name": "Terro",
+        "culture": " Braavosi",
+        "book(s)": " A Feast for Crows (Mentioned)"
+    },
+    "Tess": {
+        "id": "Tess",
+        "name": "Tess",
+        "allegiance": " House Greyjoy (forcibly)",
+        "culture": " Westermen",
+        "died": " In 133 AC, at Fair Isle",
+        "spouse": " Lord Dalton Greyjoy (as a salt wife)",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Tessario": {
+        "id": "Tessario",
+        "name": "Tessario",
+        "alias": [
+            "Tessario the Tiger",
+            "Tessario the Thumb"
+        ],
+        "title": " Captain of the Fingers",
+        "allegiance": [
+            "House Peake",
+            "Fingers"
+        ],
+        "culture": " Volantene",
+        "died": " In 135 AC, at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Thaddeus_Rowan": {
+        "id": "Thaddeus_Rowan",
+        "name": "Thaddeus Rowan",
+        "title": [
+            "Lord of Goldengrove",
+            "Lord Regent",
+            "Master of laws",
+            "[1]",
+            "Lord justiciar",
+            "[1]",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Rowan",
+            "Blacks"
+        ],
+        "culture": " Reach",
+        "born": " In 76 AC[2]",
+        "died": " In 135 AC[3], at on the road to Goldengrove[3]",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown",
+            "3rd: Lady",
+            "Floris Baratheon",
+            "[3]"
+        ],
+        "issue": [
+            "Robert Rowan",
+            "6 sons"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "The_Rat,_the_Hawk,_and_the_Pig": {
+        "id": "The_Rat,_the_Hawk,_and_the_Pig",
+        "name": "The Rat, the Hawk, and the Pig"
+    },
+    "Theo_Bolling": {
+        "id": "Theo_Bolling",
+        "name": "Theo Bolling",
+        "title": " Ser",
+        "allegiance": " House Bolling",
+        "culture": " Stormlands",
+        "died": " In 47 AC",
+        "spouse": " Elinor Costayne",
+        "issue": " 3 sons",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Theo_Charlton": {
+        "id": "Theo_Charlton",
+        "name": "Theo Charlton",
+        "allegiance": " House Charlton",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Theo_Frey": {
+        "id": "Theo_Frey",
+        "name": "Theo Frey",
+        "title": " Ser[1]",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Theo_Teague": {
+        "id": "Theo_Teague",
+        "name": "Theo Teague",
+        "full name": " Theo I Teague",
+        "alias": " Theo the Saddle-sore",
+        "titles": " King of the Trident",
+        "culture": " Rivermen",
+        "royal house": " House Teague",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Theo_Tyrell": {
+        "id": "Theo_Tyrell",
+        "name": "Theo Tyrell",
+        "title": [
+            "Lord Paramount of the Mander",
+            "[1]",
+            "Lord of Highgarden",
+            "[1]",
+            "Defender of the Marches",
+            "[1]",
+            "High Marshal of the Reach",
+            "[1]",
+            "Warden of the South",
+            "[1]"
+        ],
+        "allegiance": " House Tyrell[1]",
+        "culture": " Reach[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Theo_Wull": {
+        "id": "Theo_Wull",
+        "name": "Theo Wull",
+        "alias": " Buckets",
+        "allegiance": " House Wull",
+        "culture": " Northern mountain clans",
+        "died": " In 283 AC, at the tower of joy",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Theobald": {
+        "id": "Theobald",
+        "name": "Theobald",
+        "title": [
+            "Archmaester",
+            "Seneschal of the Citadel"
+        ],
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Theodan_Wells": {
+        "id": "Theodan_Wells",
+        "name": "Theodan Wells",
+        "alias": " Theodan the True[1]",
+        "title": [
+            "Ser",
+            "[1]",
+            "Commander of the",
+            "Warrior's Sons",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Wells",
+            "[2]",
+            "Warrior's Sons"
+        ],
+        "culture": " Northmen[2]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Theodore_Tyrell": {
+        "id": "Theodore_Tyrell",
+        "name": "Theodore Tyrell",
+        "title": " Ser[1]",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "spouse": " Lia Serry[1]",
+        "issue": [
+            "Elinor Tyrell",
+            "[1]",
+            "Luthor Tyrell",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Theomar_Smallwood": {
+        "id": "Theomar_Smallwood",
+        "name": "Theomar Smallwood",
+        "title": " Lord of Acorn Hall[1]",
+        "allegiance": " House Smallwood",
+        "culture": " Rivermen",
+        "spouse": " Lady Ravella Swann[1]",
+        "issue": [
+            "Carellen Smallwood",
+            "[1]",
+            "Deceased son",
+            "[2]"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Theomore": {
+        "id": "Theomore",
+        "name": "Theomore Lannister",
+        "title": " Maester at New Castle",
+        "allegiance": [
+            "House Lannister of Lannisport",
+            "The",
+            "Citadel",
+            "House Manderly"
+        ],
+        "culture": " Westermen",
+        "born": " At Lannisport",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Theomore_Harlaw": {
+        "id": "Theomore_Harlaw",
+        "name": "Theomore Harlaw",
+        "title": [
+            "Harlaw of Harlaw",
+            "Lord of Harlaw",
+            "Lord of Ten Towers"
+        ],
+        "allegiance": " House Harlaw",
+        "culture": " Ironborn",
+        "spouse": " 6 wives[1]",
+        "issue": [
+            "3 sons",
+            "[1]",
+            "At least one more child",
+            "[1]"
+        ],
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Theomore_Manderly": {
+        "id": "Theomore_Manderly",
+        "name": "Theomore Manderly",
+        "title": [
+            "Lord of White Harbor",
+            "[1]",
+            "Warden of the White Knife",
+            "[1]",
+            "Shield of the Faith",
+            "[1]",
+            "Defender of the Dispossessed",
+            "[1]",
+            "Lord Marshal of the Mander",
+            "[1]",
+            "Knight of the",
+            "Order of the Green Hand",
+            "[1]"
+        ],
+        "allegiance": " House Manderly",
+        "culture": " Northmen",
+        "spouse": " 4 wives[2]",
+        "issue": [
+            "Mara Manderly",
+            "[1]",
+            "Jessamyn Manderly",
+            "[1]",
+            "3 sons",
+            "[1]"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Theon_Greyjoy": {
+        "id": "Theon_Greyjoy",
+        "name": "Theon Greyjoy",
+        "alias": [
+            "Prince of Fools",
+            "[1]",
+            "Theon Turncloak",
+            "[2]",
+            "The squid prince",
+            "[3]",
+            "Reek",
+            "[4]",
+            "Rightful",
+            "Lord of the Iron Islands",
+            "[5]",
+            "Theon Kinslayer",
+            "[6]",
+            "The Prince of Stink",
+            "[7]"
+        ],
+        "title": [
+            "Captain of the",
+            "Sea Bitch",
+            "[8]",
+            "Lord of Winterfell",
+            "[9]",
+            "Prince of Winterfell",
+            "[10]"
+        ],
+        "allegiance": " House Greyjoy",
+        "culture": " Ironmen",
+        "born": " In 278 AC or 279 AC[11], at Pyke",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(POV)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(POV)",
+            "The Winds of Winter",
+            "(POV)"
+        ],
+        "played by": " Alfie Allen",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Theon_III_Greyjoy": {
+        "id": "Theon_III_Greyjoy",
+        "name": "Theon III Greyjoy",
+        "full name": " Theon Greyjoy, Third of His Name Since the Grey King",
+        "titles": " High King of the Iron Islands",
+        "died in": " Oldtown",
+        "culture": " Ironborn",
+        "royal house": " House Greyjoy",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Theon_Stark": {
+        "id": "Theon_Stark",
+        "name": "Theon Stark",
+        "alias": " The Hungry Wolf",
+        "titles": " King in the North",
+        "buried in": " Winterfell",
+        "culture": " Northmen",
+        "royal house": " House Stark",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Theron_Pyke": {
+        "id": "Theron_Pyke",
+        "name": "Theron Pyke",
+        "title": " Maester",
+        "allegiance": " Citadel",
+        "culture": " ironborn",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Therry": {
+        "id": "Therry",
+        "name": "Therry",
+        "allegiance": " House Manderly",
+        "culture": " Northmen",
+        "born": " In 285 AC or 286 AC[1], at White Harbor",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Thistle": {
+        "id": "Thistle",
+        "name": "Thistle",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "died": " In 300 AC, at beyond the Wall",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Thomas_the_Threadbare": {
+        "id": "Thomas_the_Threadbare",
+        "name": "Thomas the Threadbare",
+        "title": " Ser",
+        "book(s)": " The Hedge Knight (mentioned)",
+        "personal arms": " A frayed maunch, white on brown[1]"
+    },
+    "Thomax": {
+        "id": "Thomax",
+        "name": "Thomax",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (Mentioned)"
+    },
+    "Thoren_Smallwood": {
+        "id": "Thoren_Smallwood",
+        "name": "Thoren Smallwood",
+        "title": " First Ranger (self-styled)",
+        "allegiance": [
+            "House Smallwood",
+            "Night's Watch"
+        ],
+        "culture": " rivermen[1]",
+        "born": " At riverlands[1]",
+        "died": " In 299 AC, at Fist of the First Men",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)"
+        ]
+    },
+    "Thormor_Ironmaker": {
+        "id": "Thormor_Ironmaker",
+        "name": "Thormor Ironmaker",
+        "allegiance": " House Ironmaker",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Thoron_True": {
+        "id": "Thoron_True",
+        "name": "Thoron True",
+        "title": " Ser",
+        "allegiance": " House Velaryon",
+        "died": " In 130 AC, at King's Landing[1]",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Thoros_of_Myr": {
+        "id": "Thoros_of_Myr",
+        "name": "Thoros",
+        "alias": [
+            "The red wizard",
+            "[1]",
+            "The Ember",
+            "[2]"
+        ],
+        "title": " Ser[3]",
+        "allegiance": [
+            "Faith of R'hllor",
+            "Brotherhood without banners"
+        ],
+        "culture": " Myrish",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Paul Kaye",
+        "tv series": " Season 3 | Season 6 | Season 7"
+    },
+    "Three-Tooth": {
+        "id": "Three-Tooth",
+        "name": "Three-Tooth",
+        "alias": [
+            "Three-Tooth",
+            "Twelve-Tooth"
+        ],
+        "title": " Steward of Ten Towers",
+        "allegiance": " House Harlaw",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Thurgood": {
+        "id": "Thurgood",
+        "name": "Thurgood",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Thurgood_Fell": {
+        "id": "Thurgood_Fell",
+        "name": "Thurgood Fell",
+        "title": " Ser",
+        "allegiance": " House Fell",
+        "culture": " Stormlands",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Three_Toes": {
+        "id": "Three_Toes",
+        "name": "Three Toes",
+        "allegiance": " Brave Companions",
+        "book(s)": [
+            "A Storm of Swords",
+            "(Appears)",
+            "A Feast for Crows",
+            "(Mentioned)"
+        ]
+    },
+    "Tickler": {
+        "id": "Tickler",
+        "name": "Tickler",
+        "alias": " The Tickler",
+        "allegiance": " House Clegane",
+        "culture": " Westermen",
+        "died": " In 300 AC, at the inn at the crossroads",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Anthony Morris",
+        "tv series": " Season 2"
+    },
+    "Tigaro_Moraqos": {
+        "id": "Tigaro_Moraqos",
+        "name": "Tigaro Moraqos",
+        "title": " Magister",
+        "culture": " Lysene",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tim_Stone": {
+        "id": "Tim_Stone",
+        "name": "Tim Stone",
+        "allegiance": " Night's Watch",
+        "culture": " Valemen",
+        "born": " At the Vale of Arryn",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tim_Tangletongue": {
+        "id": "Tim_Tangletongue",
+        "name": "Tim Tangletongue",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Timeon": {
+        "id": "Timeon",
+        "name": "Timeon",
+        "alias": " Timeon of Dorne",
+        "allegiance": " Brave Companions",
+        "culture": " Dornish",
+        "born": " At Dorne",
+        "died": " In 300 AC, at Whispers",
+        "book(s)": [
+            "A Storm of Swords",
+            "(Appears)",
+            "A Feast for Crows",
+            "(Appears)"
+        ]
+    },
+    "Timett": {
+        "id": "Timett",
+        "name": "Timett",
+        "alias": " Timett One-Eye",
+        "title": " red hand",
+        "allegiance": " Burned Men",
+        "culture": " Vale mountain clans",
+        "born": " In or between 278 AC and 282 AC[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Tobias Winter",
+        "tv series": " Season 1 | Season 2"
+    },
+    "Timett_(father)": {
+        "id": "Timett_(father)",
+        "name": "Timett (father)",
+        "allegiance": " Burned Men",
+        "culture": " Vale mountain clans",
+        "issue": " Timett",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Timon": {
+        "id": "Timon",
+        "name": "Timon",
+        "alias": " Timon the Scrapesword",
+        "title": " Ser",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Timoth": {
+        "id": "Timoth",
+        "name": "Timoth",
+        "allegiance": " House Martell",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Timotty": {
+        "id": "Timotty",
+        "name": "Timotty",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Timotty_Snow": {
+        "id": "Timotty_Snow",
+        "name": "Timotty Snow",
+        "alias": " The Bastard of Flint's Finger",
+        "allegiance": [
+            "House Flint of Flint's Finger",
+            "Blacks",
+            "Wolf Pack"
+        ],
+        "culture": " Northmen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tion_Frey": {
+        "id": "Tion_Frey",
+        "name": "Tion Frey",
+        "allegiance": [
+            "House Frey",
+            "House Lannister"
+        ],
+        "culture": " Rivermen",
+        "born": " In or several years before 284 AC[1]",
+        "died": " In 299 AC, at Riverrun",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Tion_Lannister": {
+        "id": "Tion_Lannister",
+        "name": "Tion Lannister",
+        "title": " Ser",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In or between 211 AC and 219 AC[1]",
+        "died": " In 236 AC[2], at the Wendwater[2]",
+        "spouse": " Ellyn Reyne",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Tion_Tarbeck": {
+        "id": "Tion_Tarbeck",
+        "name": "Tion Tarbeck",
+        "alias": " The Red[1]",
+        "allegiance": " House Tarbeck",
+        "culture": " Westermen",
+        "born": " In 242 AC, at Tarbeck Hall",
+        "died": " In 261 AC[1], at Tarbeck Hall[1]",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Titus_Peake": {
+        "id": "Titus_Peake",
+        "name": "Titus Peake",
+        "title": " Lord of Starpike",
+        "allegiance": " House Peake",
+        "culture": " Reach",
+        "spouse": " Lady Margot Lannister",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Titus_Peake_(son_of_Unwin)": {
+        "id": "Titus_Peake_(son_of_Unwin)",
+        "name": "Titus Peake (son of Unwin)",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Peake",
+            "Greens"
+        ],
+        "culture": " Reach",
+        "born": " In or before 114 AC[2]",
+        "died": " In 130 AC[1], at near the Honeywine[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tobbot": {
+        "id": "Tobbot",
+        "name": "Tobbot",
+        "allegiance": " House Clegane",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Tobho_Mott": {
+        "id": "Tobho_Mott",
+        "name": "Tobho Mott",
+        "title": " Master[1]",
+        "culture": " Qohor",
+        "born": " At Qohor[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Andrew Wilde",
+        "tv series": " Season 1 | Season 2"
+    },
+    "Todder": {
+        "id": "Todder",
+        "name": "Todder",
+        "alias": " Toad",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Will O'Connell",
+        "tv series": " Season 1 | Season 3 | Season 5"
+    },
+    "Todric": {
+        "id": "Todric",
+        "name": "Todric",
+        "culture": " ironborn",
+        "died": " In 299 AC, at the Stony Shore",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Toefinger": {
+        "id": "Toefinger",
+        "name": "Toefinger",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Togarion_Bar_Emmon": {
+        "id": "Togarion_Bar_Emmon",
+        "name": "Togarion Bar Emmon",
+        "full name": " Togarion Bar Emmon",
+        "alias": " Togarion the Terrible",
+        "titles": " King",
+        "culture": " Andal",
+        "royal house": " House Bar Emmon",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Togg_Joth": {
+        "id": "Togg_Joth",
+        "name": "Togg Joth",
+        "allegiance": " Brave Companions",
+        "culture": " Ibbenese",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Togosh": {
+        "id": "Togosh",
+        "name": "Togosh",
+        "culture": " Ghiscari",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Tom_the_Strummer": {
+        "id": "Tom_the_Strummer",
+        "name": "Tom the Strummer",
+        "alias": " The Bard of Flea Bottom",
+        "title": [
+            "Ser",
+            "Court singer"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tom_Barleycorn": {
+        "id": "Tom_Barleycorn",
+        "name": "Tom Barleycorn",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Tom_Codd": {
+        "id": "Tom_Codd",
+        "name": "Tom Codd",
+        "alias": " Bloodless Tom",
+        "title": " Captain of the Lamentation",
+        "allegiance": " House Codd",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Tom_Costayne": {
+        "id": "Tom_Costayne",
+        "name": "Tom Costayne",
+        "alias": " Long Tom Costayne[1]",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Costayne",
+            "Kingsguard"
+        ],
+        "culture": " Reach",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Tom_Flowers": {
+        "id": "Tom_Flowers",
+        "name": "Tom Flowers",
+        "alias": " Bastard of Bitterbridge[1]",
+        "allegiance": [
+            "House Caswell",
+            "[1]",
+            "Blacks",
+            "[1]"
+        ],
+        "culture": " Reach[1]",
+        "born": " At Bitterbridge[1]",
+        "died": " In 130 AC, at Honeywine[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Tom_Tanglebeard": {
+        "id": "Tom_Tanglebeard",
+        "name": "Tom Tanglebeard",
+        "allegiance": [
+            "Blacks",
+            "Greens"
+        ],
+        "culture": " Crownlands",
+        "born": " At Dragonstone",
+        "died": " In 131 AC[1], at King's Landing",
+        "spouse": " Unknown",
+        "issue": " Tom Tangletongue",
+        "book(s)": [
+            "The Princess and the Queen",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Tom_Tangletongue": {
+        "id": "Tom_Tangletongue",
+        "name": "Tom Tangletongue",
+        "allegiance": [
+            "Blacks",
+            "Greens"
+        ],
+        "culture": " Crownlands",
+        "born": " At Dragonstone",
+        "died": " In 131 AC[1], at King's Landing",
+        "book(s)": [
+            "The Princess and the Queen",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Tom_Tidewood": {
+        "id": "Tom_Tidewood",
+        "name": "Tom Tidewood",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Tom_Turnip": {
+        "id": "Tom_Turnip",
+        "name": "Tom Turnip",
+        "title": " Court fool",
+        "allegiance": " House Targaryen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "TomToo": {
+        "id": "TomToo",
+        "name": "TomToo",
+        "alias": " TomToo",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Toman": {
+        "id": "Toman",
+        "name": "Toman",
+        "title": " Maester at Ghost Hill",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Toland"
+        ],
+        "book(s)": " The Winds of Winter (mentioned)"
+    },
+    "Tomard": {
+        "id": "Tomard",
+        "name": "Tomard",
+        "alias": " Fat Tom",
+        "title": " Captain of the guard",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "born": " In or between 249 AC and 253 AC[1]",
+        "died": " In 298 AC, at King's Landing",
+        "issue": " TomToo",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Phil Dixon",
+        "tv series": " Season 1"
+    },
+    "Tomarro": {
+        "id": "Tomarro",
+        "name": "Tomarro",
+        "culture": " Braavosi",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Tommard_Heddle": {
+        "id": "Tommard_Heddle",
+        "name": "Tommard Heddle",
+        "alias": " Black Tom Heddle[1]",
+        "title": [
+            "Ser",
+            "Commander of the garrison",
+            "at",
+            "Whitewalls",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Heddle",
+            "House Butterwell",
+            "House Blackfyre"
+        ],
+        "culture": " Rivermen",
+        "died": " In 212 AC, at Whitewalls",
+        "spouse": " Lady Butterwell",
+        "book(s)": " The Mystery Knight (appears)"
+    },
+    "Tommen_Baratheon": {
+        "id": "Tommen_Baratheon",
+        "name": "Tommen Baratheon",
+        "reign": " 300 AC - Current ruler",
+        "full name": " Tommen Baratheon the First of His Name",
+        "alias": " The Boy King[1]",
+        "titles": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Lord of Storm's End",
+            "(claimant)"
+        ],
+        "born in": " 291 AC[2]",
+        "predecessor": " Joffrey I Baratheon",
+        "heir": " Myrcella Baratheon",
+        "queen": " Margaery Tyrell",
+        "father": [
+            "Robert I Baratheon",
+            "(legally)",
+            "Jaime Lannister",
+            "(biologically)"
+        ],
+        "mother": " Cersei Lannister",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": [
+            "Callum Wharry ~ Seasons",
+            "1",
+            "",
+            "-2",
+            "Dean-Charles Chapman ~",
+            "4",
+            "",
+            "-6"
+        ],
+        "tv series": " Season 1 | Season 2 | Season 4 | Season 5 | Season 6"
+    },
+    "Tommen_Costayne": {
+        "id": "Tommen_Costayne",
+        "name": "Tommen Costayne",
+        "title": " Lord of the Three Towers",
+        "allegiance": " House Costayne",
+        "culture": " Reach",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Tommen_Costayne_(knight)": {
+        "id": "Tommen_Costayne_(knight)",
+        "name": "Tommen Costayne (knight)",
+        "title": " Ser",
+        "allegiance": " House Costayne",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Tommen_I_Lannister": {
+        "id": "Tommen_I_Lannister",
+        "name": "Tommen I Lannister",
+        "full name": " Tommen Lannister, the First of His Name",
+        "titles": " King of the Rock",
+        "culture": " Andal",
+        "royal house": " House Lannister",
+        "queen": " Daughter of the last Farman King",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Tommen_II_Lannister": {
+        "id": "Tommen_II_Lannister",
+        "name": "Tommen II Lannister",
+        "full name": " Tommen Lannister, the Second of His Name",
+        "alias": " The Lion King",
+        "titles": " King of the Rock",
+        "culture": " Andal",
+        "royal house": " House Lannister",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Tommen_Tully": {
+        "id": "Tommen_Tully",
+        "name": "Tommen Tully",
+        "title": " Lord of Riverrun",
+        "allegiance": " House Tully",
+        "culture": " Rivermen",
+        "issue": " Samwell Rivers",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Topaz_Emperor": {
+        "id": "Topaz_Emperor",
+        "name": "Topaz Emperor",
+        "alias": " Topaz Emperor",
+        "titles": [
+            "God-Emperor",
+            "Topaz Emperor"
+        ],
+        "culture": " Yi Ti",
+        "predecessor": " Onyx Emperor",
+        "heir": " Opal Emperor",
+        "successor": " Opal Emperor",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Torbert": {
+        "id": "Torbert",
+        "name": "Torbert",
+        "title": " Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Toregg": {
+        "id": "Toregg",
+        "name": "Toregg",
+        "alias": [
+            "Tall Toregg",
+            "[1]",
+            "Toregg the Tall",
+            "[2]"
+        ],
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Torgen_Oakheart": {
+        "id": "Torgen_Oakheart",
+        "name": "Torgen Oakheart",
+        "title": " Lord of Old Oak",
+        "allegiance": " House Oakheart",
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Torghen_Flint": {
+        "id": "Torghen_Flint",
+        "name": "Torghen Flint",
+        "alias": " Old Flint[1]",
+        "title": [
+            "The Flint",
+            "[2]",
+            "Lord",
+            "Flint",
+            "[2]"
+        ],
+        "allegiance": " First Flints",
+        "culture": " Northern mountain clans",
+        "spouse": [
+            "1st: Unknown",
+            "[2]",
+            "2nd: Unknown",
+            "[2]"
+        ],
+        "issue": [
+            "Donnel Flint",
+            "[2]",
+            "Artos Flint",
+            "[2]"
+        ],
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Torgold_Tollett": {
+        "id": "Torgold_Tollett",
+        "name": "Torgold Tollett",
+        "alias": " Torgold the Grim",
+        "allegiance": " House Tollett",
+        "race": " Andal",
+        "culture": " Andal",
+        "died": " At Giant's Lance",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Torgon_Greyiron": {
+        "id": "Torgon_Greyiron",
+        "name": "Torgon Greyiron",
+        "full name": " Torgon Greyiron",
+        "alias": " Torgon the Latecomer",
+        "titles": " High King of the Iron Islands",
+        "royal house": " House Greyiron",
+        "predecessor": " Urrathon IV Goodbrother",
+        "heir": " Urragon IV Greyiron",
+        "successor": " Urragon IV Greyiron",
+        "issue": " Urragon IV Greyiron",
+        "father": " Urragon III Greyiron",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Torgon_the_Terrible": {
+        "id": "Torgon_the_Terrible",
+        "name": "Torgon the Terrible",
+        "alias": " Torgon the Terrible",
+        "race": " ironborn",
+        "born": " In Age of Heroes",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Torman_Peake": {
+        "id": "Torman_Peake",
+        "name": "Torman Peake",
+        "allegiance": " Golden Company",
+        "book(s)": " A Dance with Dragons"
+    },
+    "Tormo_Fregar": {
+        "id": "Tormo_Fregar",
+        "name": "Tormo Fregar",
+        "culture": " Braavosi",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Tormund": {
+        "id": "Tormund",
+        "name": "Tormund",
+        "alias": [
+            "Tormund Giantsbabe",
+            "[1]",
+            "Tormund Giantsbutt",
+            "[2]",
+            "Tormund Giantstink",
+            "[3]",
+            "The Giantsbane",
+            "[4]"
+        ],
+        "title": [
+            "Tormund Giantsbane, Tall-talker, Horn-blower, and Breaker of Ice, Tormund Thunderfist, Husband to Bears, the",
+            "Mead-king",
+            "of",
+            "Ruddy Hall",
+            ", Speaker to Gods and Father of Hosts",
+            "[5]",
+            "Commander",
+            "of",
+            "Oakenshield"
+        ],
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "spouse": " Unknown",
+        "issue": [
+            "Toregg",
+            "Torwynd",
+            "Dryn",
+            "Dormund",
+            "Munda"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Kristofer Hivju",
+        "tv series": " Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Toron_Greyjoy": {
+        "id": "Toron_Greyjoy",
+        "name": "Toron Greyjoy",
+        "title": [
+            "Lord Reaper of Pyke",
+            "Lord of the Iron Islands"
+        ],
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "born": " In 127 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Torrek": {
+        "id": "Torrek",
+        "name": "Torrek",
+        "allegiance": " Stone Crows",
+        "culture": " Vale mountain clans",
+        "book(s)": " A Game of Thrones (appears)"
+    },
+    "Torren_Liddle": {
+        "id": "Torren_Liddle",
+        "name": "Torren Liddle",
+        "title": [
+            "The Liddle",
+            "[1]",
+            "Lord",
+            "Liddle",
+            "[1]"
+        ],
+        "allegiance": " House Liddle",
+        "culture": " Northern mountain clans",
+        "issue": [
+            "Duncan Liddle",
+            "[1]",
+            "Morgan Liddle",
+            "[1]",
+            "Rickard Liddle",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Torrence_Teague": {
+        "id": "Torrence_Teague",
+        "name": "Torrence Teague",
+        "full name": " Torrence I Teague",
+        "titles": [
+            "King of the Trident",
+            "Lord"
+        ],
+        "culture": " Rivermen",
+        "royal house": " House Teague",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Torreo_Haen": {
+        "id": "Torreo_Haen",
+        "name": "Torreo Haen",
+        "title": [
+            "Magister",
+            "First Magister"
+        ],
+        "allegiance": " House Haen",
+        "culture": " Lysene",
+        "died": " In 135 AC, at Lys",
+        "issue": " Myrmadora Haen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Torrhen_Karstark": {
+        "id": "Torrhen_Karstark",
+        "name": "Torrhen Karstark",
+        "alias": " Torr",
+        "allegiance": " House Karstark",
+        "culture": " Northmen",
+        "born": " At Karhold[1]",
+        "died": " In 298 AC, at the Whispering Wood",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Tyrone McElhennon",
+        "tv series": " Season 2"
+    },
+    "Torrhen_Manderly": {
+        "id": "Torrhen_Manderly",
+        "name": "Torrhen Manderly",
+        "title": [
+            "Ser",
+            "Lord Regent",
+            "Lord of White Harbor",
+            "Warden of the White Knife",
+            "Shield of the Faith",
+            "Defender of the Dispossessed",
+            "Lord Marshal of the Mander",
+            "Knight of the",
+            "Order of the Green Hand",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Manderly",
+            "Blacks"
+        ],
+        "culture": " Northmen",
+        "issue": " Daughters[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Torrhen_Stark": {
+        "id": "Torrhen_Stark",
+        "name": "Torrhen Stark",
+        "reign": " Ended in the War of Conquest",
+        "full name": " Torrhen Stark",
+        "alias": " The King Who Knelt",
+        "titles": [
+            "Lord of Winterfell",
+            "Warden of the North",
+            "King in the North",
+            "(formerly)"
+        ],
+        "culture": " Northmen",
+        "royal house": " House Stark",
+        "predecessor": " Unknown",
+        "successor": " None",
+        "issue": [
+            "Sons",
+            "[1]",
+            "At least 1 daughter",
+            "[1]"
+        ],
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Torrhen_Stark_(son_of_Edric)": {
+        "id": "Torrhen_Stark_(son_of_Edric)",
+        "name": "Torrhen Stark (son of Edric)",
+        "allegiance": " House Stark",
+        "culture": " northmen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Torwold_Browntooth": {
+        "id": "Torwold_Browntooth",
+        "name": "Torwold Browntooth",
+        "alias": " Torwold Browntooth",
+        "culture": " ironborn",
+        "spouse": " Unknown",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Torwyn_Greyjoy": {
+        "id": "Torwyn_Greyjoy",
+        "name": "Torwyn Greyjoy",
+        "title": [
+            "Lord of the Iron Islands",
+            "Lord Reaper of Pyke"
+        ],
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Torwynd": {
+        "id": "Torwynd",
+        "name": "Torwynd",
+        "alias": [
+            "Torwynd the Tame",
+            "[1]",
+            "Torwyrd the Tame",
+            "[2]"
+        ],
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "died": " In 300 AC",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tothmure": {
+        "id": "Tothmure",
+        "name": "Tothmure",
+        "title": " Maester at Harrenhal",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Whent",
+            "(possibly)",
+            "House Lannister"
+        ],
+        "died": " In 299 AC, at Harrenhal",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Tourmaline_Emperor": {
+        "id": "Tourmaline_Emperor",
+        "name": "Tourmaline Emperor",
+        "alias": " Tourmaline Emperor",
+        "titles": [
+            "God-Emperor",
+            "Tourmaline Emperor"
+        ],
+        "culture": " Great Empire of the Dawn",
+        "predecessor": " Jade Emperor",
+        "heir": " Onyx Emperor",
+        "successor": " Onyx Emperor",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Trebor_Jordayne": {
+        "id": "Trebor_Jordayne",
+        "name": "Trebor Jordayne",
+        "title": " Lord of the Tor[1]",
+        "allegiance": " House Jordayne",
+        "culture": " Dornishmen",
+        "issue": " Myria Jordayne",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tregar": {
+        "id": "Tregar",
+        "name": "Tregar",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "died": " In 298 AC, at King's Landing",
+        "book(s)": " A Game of Thrones (appears)"
+    },
+    "Tregar_Ormollen": {
+        "id": "Tregar_Ormollen",
+        "name": "Tregar Ormollen",
+        "culture": " Lyseni",
+        "spouse": [
+            "Unknown wife",
+            "[1]",
+            "Lynesse Hightower",
+            "(",
+            "paramour",
+            ")",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tremond_Gargalen": {
+        "id": "Tremond_Gargalen",
+        "name": "Tremond Gargalen",
+        "title": " Lord of Salt Shore[1]",
+        "allegiance": " House Gargalen",
+        "culture": " Dornish",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Trianna": {
+        "id": "Trianna",
+        "name": "Trianna",
+        "title": " Triarch of Volantis",
+        "allegiance": " Elephant",
+        "race": " Valyrian",
+        "culture": " Volantene",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Tristan_Mudd": {
+        "id": "Tristan_Mudd",
+        "name": "Tristan Mudd",
+        "title": " Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Mudd",
+            "Night's Watch"
+        ],
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Tristan_Ryger": {
+        "id": "Tristan_Ryger",
+        "name": "Tristan Ryger",
+        "allegiance": " House Ryger",
+        "culture": " Rivermen",
+        "book(s)": " A Storm of Swords (appendix)"
+    },
+    "Tristan_Rivers": {
+        "id": "Tristan_Rivers",
+        "name": "Tristan Rivers",
+        "allegiance": " Golden Company",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Tristan_Vance": {
+        "id": "Tristan_Vance",
+        "name": "Tristan Vance",
+        "title": " Lord of Wayfarer's Rest",
+        "allegiance": [
+            "House Vance of Wayfarer's Rest",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "died": " In 130 AC, at Red Fork",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tristifer_Botley": {
+        "id": "Tristifer_Botley",
+        "name": "Tristifer Botley",
+        "alias": " Tris[1]",
+        "title": " Lord of Lordsport (disputed by Germund Botley)[2]",
+        "allegiance": " House Botley",
+        "culture": " ironborn",
+        "born": " In 274 277 AC[3], at Lordsport[4]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Tristifer_IV_Mudd": {
+        "id": "Tristifer_IV_Mudd",
+        "name": "Tristifer IV Mudd",
+        "full name": " Tristifer of House Mudd, the Fourth of His Name",
+        "alias": " The Hammer of Justice",
+        "titles": " King of the Rivers and the Hills",
+        "buried in": " Oldstones",
+        "royal house": " House Mudd",
+        "successor": " Tristifer V Mudd",
+        "issue": " Tristifer V Mudd",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Tristifer_V_Mudd": {
+        "id": "Tristifer_V_Mudd",
+        "name": "Tristifer V Mudd",
+        "full name": " Tristifer of House Mudd, the Fifth of His Name",
+        "alias": " Tristifer the Last",
+        "titles": " King of the Rivers and the Hills",
+        "royal house": " House Mudd",
+        "predecessor": " Tristifer IV Mudd",
+        "successor": " None",
+        "father": " Tristifer IV Mudd",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Tristifer_Wayn": {
+        "id": "Tristifer_Wayn",
+        "name": "Tristifer Wayn",
+        "title": [
+            "Lord",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Wayn",
+            "Faith Militant"
+        ],
+        "culture": " Rivermen",
+        "book(s)": " The Sons of the Dragon (mentioned)"
+    },
+    "Tristimun": {
+        "id": "Tristimun",
+        "name": "Tristimun",
+        "title": [
+            "Ser",
+            "Commander of the",
+            "sea watch"
+        ],
+        "allegiance": [
+            "sea watch",
+            "House Targaryen"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Triston_of_Tally_Hill": {
+        "id": "Triston_of_Tally_Hill",
+        "name": "Triston of Tally Hill",
+        "alias": " Triston of Tally Hill",
+        "title": " Ser",
+        "allegiance": [
+            "House Sunglass",
+            "king's men"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Triston_Farwynd": {
+        "id": "Triston_Farwynd",
+        "name": "Triston Farwynd",
+        "title": " Lord of Sealskin Point[1]",
+        "allegiance": " House Farwynd",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Triston_Hightower": {
+        "id": "Triston_Hightower",
+        "name": "Triston Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "spouse": " Unknown",
+        "issue": " Barris Hightower",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Triston_Massey": {
+        "id": "Triston_Massey",
+        "name": "Triston Massey",
+        "title": [
+            "Lord of Stonedance",
+            "[1]",
+            "Master of laws",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Massey",
+            "[1]",
+            "House Targaryen",
+            "[1]"
+        ],
+        "culture": " Crownlands[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Triston_Sunderland": {
+        "id": "Triston_Sunderland",
+        "name": "Triston Sunderland",
+        "title": " Lord of the Three Sisters[1]",
+        "allegiance": " House Sunderland",
+        "culture": " Sistermen",
+        "issue": " 7 sons[2]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Trystane_Martell": {
+        "id": "Trystane_Martell",
+        "name": "Trystane Martell",
+        "alias": " Trys[1]",
+        "title": " Prince",
+        "allegiance": " House Martell",
+        "culture": " Dornishmen",
+        "born": " In 287 AC[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Toby Sebastian",
+        "tv series": " Season 5 | Season 6"
+    },
+    "Trystane_Truefyre": {
+        "id": "Trystane_Truefyre",
+        "name": "Trystane Truefyre",
+        "alias": " Trystane Fyre",
+        "title": [
+            "King",
+            "Ser"
+        ],
+        "born": " In 113 AC or 114 AC[1]",
+        "died": " In 130 AC, at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Tuffleberry": {
+        "id": "Tuffleberry",
+        "name": "Tuffleberry",
+        "allegiance": [
+            "House Whent",
+            "House Lannister"
+        ],
+        "culture": " Rivermen",
+        "died": " In 299 AC or 300 AC",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Tumberjon": {
+        "id": "Tumberjon",
+        "name": "Tumberjon",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Tumco_Lho": {
+        "id": "Tumco_Lho",
+        "name": "Tumco Lho",
+        "alias": " Tum",
+        "title": " Ser",
+        "culture": " Ghiscari",
+        "born": " At Basilisk Isles",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Turnip": {
+        "id": "Turnip",
+        "name": "Turnip",
+        "allegiance": " House Stark",
+        "culture": " northmen",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Turquin": {
+        "id": "Turquin",
+        "name": "Turquin",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Two_female_puppeteers": {
+        "id": "Two_female_puppeteers",
+        "name": "Two female puppeteers"
+    },
+    "Ty": {
+        "id": "Ty",
+        "name": "Ty",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Tya_Lannister": {
+        "id": "Tya_Lannister",
+        "name": "Tya Lannister",
+        "allegiance": [
+            "House Baratheon",
+            "House Lannister"
+        ],
+        "culture": " Westermen",
+        "spouse": " Gowen Baratheon",
+        "issue": " Son[1]",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Tyana_Wylde": {
+        "id": "Tyana_Wylde",
+        "name": "Tyana Wylde",
+        "allegiance": [
+            "House Wylde",
+            "House Frey"
+        ],
+        "spouse": " Ser Aenys Frey",
+        "issue": [
+            "Aegon Frey",
+            "Rhaegar Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Tyanna_of_the_Tower": {
+        "id": "Tyanna_of_the_Tower",
+        "name": "Tyanna of the Tower",
+        "alias": [
+            "Tyanna of Pentos",
+            "The king's raven",
+            "The mistress of whispers",
+            "Mistress of the spiders"
+        ],
+        "title": [
+            "Queen",
+            "Mistress of whisperers"
+        ],
+        "allegiance": " House Targaryen",
+        "culture": " Pentoshi",
+        "born": " At Pentos",
+        "died": " In 48 AC, at King's Landing",
+        "spouse": " King Maegor I Targaryen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Tybald": {
+        "id": "Tybald",
+        "name": "Tybald",
+        "title": " Maester at the Dreadfort",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Bolton"
+        ],
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Tybero_Istarion": {
+        "id": "Tybero_Istarion",
+        "name": "Tybero Istarion",
+        "alias": " Inkpots",
+        "allegiance": " Second Sons",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Tybolt_Crakehall": {
+        "id": "Tybolt_Crakehall",
+        "name": "Tybolt Crakehall",
+        "title": " Ser",
+        "allegiance": " House Crakehall",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Tybolt_Hetherspoon": {
+        "id": "Tybolt_Hetherspoon",
+        "name": "Tybolt Hetherspoon",
+        "title": " Ser[1]",
+        "allegiance": " House Hetherspoon",
+        "culture": " Westermen",
+        "born": " In or before 252 AC[2]",
+        "spouse": " Unknown",
+        "issue": " Melara Hetherspoon[1]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tybolt_Lannister": {
+        "id": "Tybolt_Lannister",
+        "name": "Tybolt Lannister",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of Casterly Rock",
+            "[2]",
+            "Shield of Lannisport",
+            "[2]",
+            "Warden of the West",
+            "[2]"
+        ],
+        "allegiance": " House Lannister[1]",
+        "culture": " Westermen[1]",
+        "born": " In or before 197 AC[3]",
+        "died": " In 212 AC[2]",
+        "spouse": " Lady Teora Kyndall[4]",
+        "issue": " Cerelle Lannister[4]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Hedge Knight",
+            "(appears)",
+            "The Sworn Sword",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ],
+        "personal arms": [
+            "Lannister within a golden bordure",
+            "(Gules a lion or within a bordure of the last)"
+        ]
+    },
+    "Tybolt_Lannister_(king)": {
+        "id": "Tybolt_Lannister_(king)",
+        "name": "Tybolt Lannister (king)",
+        "full name": " Tybolt Lannister",
+        "alias": " The Thunderbolt",
+        "titles": " King of the Rock",
+        "culture": " First Men",
+        "royal house": " House Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Tycho_Nestoris": {
+        "id": "Tycho_Nestoris",
+        "name": "Tycho Nestoris",
+        "alias": " Lord Tycho[1]",
+        "allegiance": " Iron Bank of Braavos",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ],
+        "played by": " Mark Gatiss",
+        "tv series": " Season 4 | Season 5 | Season 7"
+    },
+    "Tyene_Sand": {
+        "id": "Tyene_Sand",
+        "name": "Tyene Sand",
+        "allegiance": " House Martell",
+        "culture": " Dornishmen",
+        "born": " In 276 AC or 277 AC[1]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Rosabell Laurenti Sellers",
+        "tv series": " Season 5 | Season 6 | Season 7"
+    },
+    "Tygett_Lannister": {
+        "id": "Tygett_Lannister",
+        "name": "Tygett Lannister",
+        "alias": " Tyg[1]",
+        "title": " Ser",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 250 AC[2], at Casterly Rock[3]",
+        "died": " In or after 285 AC[2]",
+        "spouse": " Lady Darlessa Marbrand",
+        "issue": " Tyrek Lannister",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tyland_Lannister": {
+        "id": "Tyland_Lannister",
+        "name": "Tyland Lannister",
+        "alias": " The Hooded Hand",
+        "title": [
+            "Ser",
+            "Master of ships",
+            "Master of coin",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "Greens"
+        ],
+        "culture": " Westermen",
+        "born": " In or between 89 AC and 97 AC[1]",
+        "died": " In 133 AC[2], at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Tyler_Hill": {
+        "id": "Tyler_Hill",
+        "name": "Tyler Hill",
+        "title": " Ser[1]",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In or before 28 AC[2]",
+        "died": " In or after 50 AC[2]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tyler_Norcross": {
+        "id": "Tyler_Norcross",
+        "name": "Tyler Norcross",
+        "title": " Ser",
+        "allegiance": [
+            "House Norcross",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": " Reach",
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "The Princess and the Queen",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Tyler_Teague": {
+        "id": "Tyler_Teague",
+        "name": "Tyler Teague",
+        "full name": " Tyler Teague",
+        "titles": " King of the Rivers and the Hills",
+        "died in": " Mother's Teats",
+        "culture": " Rivermen",
+        "royal house": " House Teague",
+        "predecessor": " Hollis Teague",
+        "heir": " Damon Teague",
+        "successor": " Damon Teague",
+        "father": " Humfrey I Teague",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Tymond_Lannister": {
+        "id": "Tymond_Lannister",
+        "name": "Tymond Lannister",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of Casterly Rock",
+            "[2]",
+            "Shield of Lannisport",
+            "[2]",
+            "Warden of the West",
+            "[2]"
+        ],
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 60 AC[3]",
+        "died": " In 101 129 AC[3]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Tymor": {
+        "id": "Tymor",
+        "name": "Tymor",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Tyrek_Lannister": {
+        "id": "Tyrek_Lannister",
+        "name": "Tyrek Lannister",
+        "alias": " Wet Nurse",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 286 AC[1]",
+        "died": " In 299 AC (allegedly)[2], at King's Landing[2]",
+        "spouse": " Lady Ermesande Hayford",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tyrion_Lannister": {
+        "id": "Tyrion_Lannister",
+        "name": "Tyrion Lannister",
+        "alias": [
+            "The Imp",
+            "[1]",
+            "Halfman",
+            "[2]",
+            "Boyman",
+            "[3]",
+            "[4]",
+            "Giant of Lannister",
+            "[5]",
+            "Lord Imp",
+            "[6]",
+            "Lord Tywin's Doom",
+            "[7]",
+            "[8]",
+            "Lord Tywin's Bane",
+            "[8]",
+            "Yollo",
+            "[9]",
+            "Hugor Hill",
+            "[9]",
+            "No-Nose",
+            "[10]",
+            "Freak",
+            "Redhands",
+            "[11]",
+            "Monkey demon",
+            "[12]",
+            "The Bloody Hand",
+            "[13]"
+        ],
+        "title": [
+            "Acting",
+            "Hand of the King",
+            "(former)",
+            "Master of coin",
+            "(former)",
+            "Lord of Casterly Rock",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "Second Sons"
+        ],
+        "culture": " Westermen",
+        "born": " In 273 AC[8][14], at Casterly Rock",
+        "spouse": [
+            "1st:",
+            "Tysha",
+            "2nd:",
+            "Sansa Stark"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(POV)",
+            "A Clash of Kings",
+            "(POV)",
+            "A Storm of Swords",
+            "(POV)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(POV)",
+            "The Winds of Winter",
+            "(POV)"
+        ],
+        "played by": " Peter Dinklage",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Tyrion_II_Lannister": {
+        "id": "Tyrion_II_Lannister",
+        "name": "Tyrion II Lannister",
+        "full name": " Tyrion Lannister, the Second of His Name",
+        "alias": " Tyrion the Tormentor",
+        "titles": " King of the Rock",
+        "royal house": " House Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Tyrion_III_Lannister": {
+        "id": "Tyrion_III_Lannister",
+        "name": "Tyrion III Lannister",
+        "full name": " Tyrion III Lannister",
+        "titles": " King of the Rock",
+        "culture": " First Men",
+        "royal house": " House Lannister",
+        "heir": " Gerold II Lannister",
+        "issue": " Gerold II Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Tyrion_Tanner": {
+        "id": "Tyrion_Tanner",
+        "name": "Tyrion Tanner",
+        "allegiance": " House Stokeworth",
+        "culture": " Crownlands",
+        "born": " In 300 AC, at Stokeworth",
+        "book(s)": [
+            "A Feast for Crows",
+            "(Mentioned)",
+            "A Dance with Dragons",
+            "(Mentioned)"
+        ]
+    },
+    "Tyroshi_sellsword": {
+        "id": "Tyroshi_sellsword",
+        "name": "Tyroshi sellsword",
+        "culture": " Tyroshi",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Tysane_Frey": {
+        "id": "Tysane_Frey",
+        "name": "Tysane Frey",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 292 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Tysha": {
+        "id": "Tysha",
+        "name": "Tysha",
+        "alias": " Lady Tysha of House Silverfist",
+        "culture": " Westermen",
+        "born": " In 272 AC[1]",
+        "spouse": " Tyrion Lannister",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tyshara_Lannister": {
+        "id": "Tyshara_Lannister",
+        "name": "Tyshara Lannister",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 103 130 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Tyta_Frey": {
+        "id": "Tyta_Frey",
+        "name": "Tyta Frey",
+        "alias": " Tyta the Maid[1]",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 269 AC or 270 AC[2]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Tytos_Blackwood": {
+        "id": "Tytos_Blackwood",
+        "name": "Tytos Blackwood",
+        "title": " Lord of Raventree Hall",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "born": " At Raventree Hall[1]",
+        "spouse": " Unknown",
+        "issue": [
+            "Brynden Blackwood",
+            "Lucas Blackwood",
+            "Hoster Blackwood",
+            "Edmund Blackwood",
+            "Alyn Blackwood",
+            "Bethany Blackwood",
+            "Robert Blackwood"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Tytos_Brax": {
+        "id": "Tytos_Brax",
+        "name": "Tytos Brax",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of",
+            "Hornvale",
+            "[1]"
+        ],
+        "allegiance": " House Brax",
+        "culture": " Westermen",
+        "born": " In or before 276 AC[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Tytos_Frey": {
+        "id": "Tytos_Frey",
+        "name": "Tytos Frey",
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "born": " In or between 260 AC and 273 AC[1]",
+        "died": " In 299 AC, at the Twins",
+        "spouse": " Zhoe Blanetree",
+        "issue": [
+            "Zia Frey",
+            "Zachery Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Tytos_Lannister": {
+        "id": "Tytos_Lannister",
+        "name": "Tytos Lannister",
+        "alias": [
+            "The Laughing Lion",
+            "The Toothless Lion",
+            "[1]"
+        ],
+        "title": [
+            "Lord of Casterly Rock",
+            "Shield of Lannisport",
+            "Warden of the West"
+        ],
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 220 AC[2]",
+        "died": " In 267 AC[3][1], at Casterly Rock",
+        "spouse": " Lady Jeyne Marbrand",
+        "issue": [
+            "Tywin Lannister",
+            "Kevan Lannister",
+            "Genna Lannister",
+            "Tygett Lannister",
+            "Gerion Lannister"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tytos_Lannister%27s_first_mistress": {
+        "id": "Tytos_Lannister%27s_first_mistress",
+        "name": "Tytos Lannister's first mistress",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Tytos_Lannister%27s_second_mistress": {
+        "id": "Tytos_Lannister%27s_second_mistress",
+        "name": "Tytos Lannister's second mistress",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tywald_Lannister": {
+        "id": "Tywald_Lannister",
+        "name": "Tywald Lannister",
+        "title": " Ser",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In or between 211 AC and 219 AC[1]",
+        "died": " In 233 AC, at Starpike",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Tywell_II_Lannister": {
+        "id": "Tywell_II_Lannister",
+        "name": "Tywell II Lannister",
+        "full name": " Tywell Lannister, the Second of His Name",
+        "titles": " King of the Rock",
+        "culture": " Andal",
+        "royal house": " House Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Tywin_Frey": {
+        "id": "Tywin_Frey",
+        "name": "Tywin Frey",
+        "alias": " Ty[1]",
+        "title": " Ser[1] (possibly)",
+        "allegiance": [
+            "House Frey",
+            "House Frey of Riverrun"
+        ],
+        "culture": " Rivermen",
+        "born": " In 287 AC or 288 AC[2]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Tywin_Frey_(son_of_Raymund)": {
+        "id": "Tywin_Frey_(son_of_Raymund)",
+        "name": "Tywin Frey (son of Raymund)",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 299 AC or 300 AC[1]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Tywin_Lannister": {
+        "id": "Tywin_Lannister",
+        "name": "Tywin Lannister",
+        "alias": [
+            "The great lion of the rock",
+            "[1]",
+            "The old lion",
+            "[2]"
+        ],
+        "title": [
+            "Lord of Casterly Rock",
+            "[3]",
+            "Shield of Lannisport",
+            "[3]",
+            "Warden of the West",
+            "[3]",
+            "Hand of the King",
+            "[3]",
+            "Savior of the City",
+            "(of King's Landing)",
+            "[4]",
+            "Ser",
+            "[5]"
+        ],
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 242 AC[6], at Casterly Rock[7]",
+        "died": " In 300 AC[8], at King's Landing[8]",
+        "spouse": " Lady Joanna Lannister[9]",
+        "issue": [
+            "Cersei Lannister",
+            "[9]",
+            "Jaime Lannister",
+            "[9]",
+            "Tyrion Lannister",
+            "[9]"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Charles Dance",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 4"
+    }
+}

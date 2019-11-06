@@ -1,0 +1,793 @@
+{
+    "Qalen": {
+        "id": "Qalen",
+        "name": "Qalen",
+        "title": " Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Greyjoy"
+        ],
+        "died": " In 289 299 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Qano": {
+        "id": "Qano",
+        "name": "Qano",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Qarl_the_Maid": {
+        "id": "Qarl_the_Maid",
+        "name": "Qarl the Maid",
+        "alias": " Qarl the Maid",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Qarl_the_Thrall": {
+        "id": "Qarl_the_Thrall",
+        "name": "Qarl the Thrall",
+        "alias": " Qarl the Thrall",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Qarl_Corbray": {
+        "id": "Qarl_Corbray",
+        "name": "Qarl Corbray",
+        "title": [
+            "Ser",
+            "Lord of Heart's Home",
+            "Commander of the City Watch"
+        ],
+        "allegiance": [
+            "House Corbray",
+            "City Watch of King's Landing"
+        ],
+        "culture": " Valemen",
+        "died": " In 59 AC, at King's Landing",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Qarl_Correy": {
+        "id": "Qarl_Correy",
+        "name": "Qarl Correy",
+        "title": " Ser",
+        "allegiance": " House Velaryon",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)"
+        ]
+    },
+    "Qarl_Kenning": {
+        "id": "Qarl_Kenning",
+        "name": "Qarl Kenning",
+        "alias": " Queer Qarl Kenning",
+        "allegiance": " House Kenning of Harlaw",
+        "culture": " Ironborn",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Qarl_Quickaxe": {
+        "id": "Qarl_Quickaxe",
+        "name": "Qarl Quickaxe",
+        "alias": " Qarl Quickaxe",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Qarl_Shepherd": {
+        "id": "Qarl_Shepherd",
+        "name": "Qarl Shepherd",
+        "allegiance": " House Shepherd",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Qarlon": {
+        "id": "Qarlon",
+        "name": "Qarlon",
+        "alias": " Qarlon the Great",
+        "titles": " King of All Andals",
+        "died in": " near Norvos",
+        "culture": " Lorathi Andal",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Qarlton_Chelsted": {
+        "id": "Qarlton_Chelsted",
+        "name": "Qarlton Chelsted",
+        "alias": " The mace-and-dagger Hand",
+        "title": [
+            "Lord",
+            "Master of coin",
+            "Hand of the King"
+        ],
+        "allegiance": " House Chelsted",
+        "culture": " Crownlands",
+        "died": " In 283 AC, at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Qarlton_II_Durrandon": {
+        "id": "Qarlton_II_Durrandon",
+        "name": "Qarlton II Durrandon",
+        "full name": " Qarlton II Durrandon",
+        "alias": " Qarlton the Conqueror",
+        "titles": " Storm King",
+        "culture": " First Men",
+        "royal house": " House Durrandon",
+        "heir": " Qarlton III Durrandon",
+        "successor": " Qarlton III Durrandon",
+        "issue": " Qarlton III Durrandon",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Qarlton_III_Durrandon": {
+        "id": "Qarlton_III_Durrandon",
+        "name": "Qarlton III Durrandon",
+        "full name": " Qarlton III Durrandon",
+        "titles": " Storm King",
+        "culture": " First Men",
+        "royal house": " House Durrandon",
+        "predecessor": " Qarlton II Durrandon",
+        "heir": " Monfryd V Durrandon",
+        "successor": " Monfryd V Durrandon",
+        "issue": " Monfryd V Durrandon",
+        "father": " Qarlton II Durrandon",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Qarro_Volentin": {
+        "id": "Qarro_Volentin",
+        "name": "Qarro Volentin",
+        "title": " First Sword of Braavos",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Qavo_Nogarys": {
+        "id": "Qavo_Nogarys",
+        "name": "Qavo Nogarys",
+        "culture": " Volantene",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Qezza_Galare": {
+        "id": "Qezza_Galare",
+        "name": "Qezza Galare",
+        "title": " Cupbearer",
+        "allegiance": " House of Galare",
+        "culture": " Ghiscari",
+        "born": " At Meereen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Qhored_I_Hoare": {
+        "id": "Qhored_I_Hoare",
+        "name": "Qhored I Hoare",
+        "full name": " Qhored I Hoare",
+        "alias": [
+            "Qhored Greyiron",
+            "Qhored Blacktyde",
+            "Qhored the Cruel"
+        ],
+        "titles": " High King of the Iron Islands",
+        "royal house": [
+            "House Hoare",
+            "House Greyiron",
+            "(possibly)",
+            "House Blacktyde",
+            "(possibly)"
+        ],
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)"
+        ]
+    },
+    "Qhorin_Halfhand": {
+        "id": "Qhorin_Halfhand",
+        "name": "Qhorin Halfhand",
+        "alias": [
+            "Qhorin Halfhand",
+            "[1]",
+            "Quorin Halfhand",
+            "[2]",
+            "The Halfhand",
+            "[3]"
+        ],
+        "allegiance": " Night's Watch",
+        "died": " In 299 AC, at Skirling Pass",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Simon Armstrong[4]",
+        "tv series": " Season 2"
+    },
+    "Qhorin_Volmark": {
+        "id": "Qhorin_Volmark",
+        "name": "Qhorin Volmark",
+        "title": [
+            "Lord of Volmark",
+            "King of the Iron Islands",
+            "(claimed)"
+        ],
+        "allegiance": " House Volmark",
+        "culture": " ironborn",
+        "died": " In 2 AC, at Great Wyk",
+        "issue": " Son",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Qhorwyn_Hoare": {
+        "id": "Qhorwyn_Hoare",
+        "name": "Qhorwyn Hoare",
+        "full name": " Qhorwyn Hoare",
+        "alias": " Qhorwyn the Cunning",
+        "titles": " King of the Iron Islands",
+        "royal house": " House Hoare",
+        "successor": " Harwyn Hoare",
+        "issue": [
+            "Eldest son",
+            "Harlan Hoare",
+            "Harwyn Hoare",
+            "Grandmother of",
+            "Qhorin Volmark"
+        ],
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Qoren_Martell": {
+        "id": "Qoren_Martell",
+        "name": "Qoren Martell",
+        "title": [
+            "Prince of Dorne",
+            "[1]",
+            "Lord of Sunspear",
+            "[1]"
+        ],
+        "allegiance": " House Martell[1]",
+        "culture": " Dornishmen[1]",
+        "born": " In or before 102 AC[2]",
+        "died": " In or between 129 132 AC[2]",
+        "issue": [
+            "Aliandra Martell",
+            "[1]",
+            "Qyle Martell",
+            "[3]",
+            "Coryanne Martell",
+            "[3]"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)"
+        ]
+    },
+    "Qos": {
+        "id": "Qos",
+        "name": "Qos",
+        "title": " Captain of the Wind Witch",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Qotho": {
+        "id": "Qotho",
+        "name": "Qotho",
+        "title": " Bloodrider of Khal Drogo",
+        "culture": " Dothraki",
+        "died": " In ~298/299 AC, at Dothraki sea",
+        "book(s)": " A Game of Thrones (appears)",
+        "played by": " Dar Salim",
+        "tv series": " Season 1"
+    },
+    "Quaithe": {
+        "id": "Quaithe",
+        "name": "Quaithe",
+        "alias": " Quaithe of the Shadow",
+        "culture": " Asshai'i",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Laura Pradelska",
+        "tv series": " Season 2"
+    },
+    "Quaro": {
+        "id": "Quaro",
+        "name": "Quaro",
+        "culture": " Dothraki",
+        "died": " In 298 AC, at Dothraki sea",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Queen_o%27_whores": {
+        "id": "Queen_o%27_whores",
+        "name": "Queen o' whores"
+    },
+    "Queen_Whore": {
+        "id": "Queen_Whore",
+        "name": "Queen Whore",
+        "title": " Queen of Astapor",
+        "culture": " Astapori",
+        "died": " In 300 AC[1], at Astapor[1]",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Quellon_Botley": {
+        "id": "Quellon_Botley",
+        "name": "Quellon Botley",
+        "allegiance": " House Botley",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Quellon_Greyjoy": {
+        "id": "Quellon_Greyjoy",
+        "name": "Quellon Greyjoy",
+        "title": [
+            "Lord of the Iron Islands",
+            "Lord Reaper of Pyke"
+        ],
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "died": " In 283 AC, at the mouth of the Mander",
+        "spouse": [
+            "1st: Lady",
+            "Stonetree",
+            "2nd: Lady",
+            "Sunderly",
+            "3rd: Lady",
+            "Piper"
+        ],
+        "issue": [
+            "Harlon Greyjoy",
+            "Quenton Greyjoy",
+            "Donel Greyjoy",
+            "Balon Greyjoy",
+            "Euron Greyjoy",
+            "Victarion Greyjoy",
+            "Urrigon Greyjoy",
+            "Aeron Greyjoy",
+            "Robin Greyjoy",
+            "Stillborn daughter"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Quellon_Humble": {
+        "id": "Quellon_Humble",
+        "name": "Quellon Humble",
+        "allegiance": " House Humble",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Quence": {
+        "id": "Quence",
+        "name": "Quence",
+        "culture": " Braavosi",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Quenn": {
+        "id": "Quenn",
+        "name": "Quenn",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Quent": {
+        "id": "Quent",
+        "name": "Quent",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Quenten_Banefort": {
+        "id": "Quenten_Banefort",
+        "name": "Quenten Banefort",
+        "title": " Lord of Banefort",
+        "allegiance": " House Banefort",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Quentin_Tyrell": {
+        "id": "Quentin_Tyrell",
+        "name": "Quentin Tyrell",
+        "title": " Ser[1]",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "died": " In 282 AC[2], at Ashford[2]",
+        "spouse": " Unknown",
+        "issue": " Olymer Tyrell[1]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Quenton_Corbray": {
+        "id": "Quenton_Corbray",
+        "name": "Quenton Corbray",
+        "title": " Lord of Heart's Home",
+        "allegiance": " House Corbray",
+        "culture": " Valemen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Quenton_Greyjoy": {
+        "id": "Quenton_Greyjoy",
+        "name": "Quenton Greyjoy",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "born": " In or between 254 AC and 259 AC[1]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Quenton_Greyjoy_(cousin)": {
+        "id": "Quenton_Greyjoy_(cousin)",
+        "name": "Quenton Greyjoy (cousin)",
+        "title": " Captain of the Salty Wench",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "died": " In 300 AC, at the wolfswood",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Quenton_Hightower": {
+        "id": "Quenton_Hightower",
+        "name": "Quenton Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "died": " In 216 232 AC[1], at Oldtown[2]",
+        "issue": " Son",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Quenton_Qoherys": {
+        "id": "Quenton_Qoherys",
+        "name": "Quenton Qoherys",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Dragonstone",
+            "Lord of Harrenhal"
+        ],
+        "allegiance": [
+            "House Qoherys",
+            "House Targaryen"
+        ],
+        "race": " Valyrian",
+        "died": " In 9 AC",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: A daughter of Lord",
+            "Edmyn Tully"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Quentyn_Ball": {
+        "id": "Quentyn_Ball",
+        "name": "Quentyn Ball",
+        "alias": " Fireball[1]",
+        "title": [
+            "Ser",
+            "[1]",
+            "Master-at-arms",
+            "at the",
+            "Red Keep",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Ball",
+            "House Blackfyre"
+        ],
+        "culture": " Reach",
+        "died": " In 196 AC[1], at near Redgrass Field[1]",
+        "spouse": " Unknown[1]",
+        "issue": " Glendon Flowers (disputed)[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ]
+    },
+    "Quentyn_Blackwood": {
+        "id": "Quentyn_Blackwood",
+        "name": "Quentyn Blackwood",
+        "title": " Lord of Raventree Hall",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "died": " In 206 AC[1], at King's Landing",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Quentyn_Martell": {
+        "id": "Quentyn_Martell",
+        "name": "Quentyn Martell",
+        "alias": [
+            "Frog",
+            "[1]",
+            "Prince Frog",
+            "[2]",
+            "[3]",
+            "The Prince Who Came Too Late",
+            "[4]",
+            "The dragonrider",
+            "[5]"
+        ],
+        "title": [
+            "Prince",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Martell",
+            "Windblown"
+        ],
+        "culture": " Dornishmen",
+        "born": " In 281 AC[6], at Sunspear, Dorne[7]",
+        "died": " In 300 AC, at Meereen[5]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(POV)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Quentyn_Qorgyle": {
+        "id": "Quentyn_Qorgyle",
+        "name": "Quentyn Qorgyle",
+        "title": " Lord of Sandstone[1]",
+        "allegiance": " House Qorgyle",
+        "culture": " Dornishmen",
+        "issue": [
+            "Gulian Qorgyle",
+            "[1]",
+            "Arron Qorgyle",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Quhuru_Mo": {
+        "id": "Quhuru_Mo",
+        "name": "Quhuru Mo",
+        "title": " Captain of the Cinnamon Wind",
+        "culture": " Summer Isles",
+        "issue": " Kojja Mo",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)"
+        ]
+    },
+    "Quickfinger": {
+        "id": "Quickfinger",
+        "name": "Quickfinger",
+        "alias": " Quickfinger",
+        "allegiance": " House Blackfyre",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Quill": {
+        "id": "Quill",
+        "name": "Quill",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Quillion": {
+        "id": "Quillion",
+        "name": "Quillion",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Quince": {
+        "id": "Quince",
+        "name": "Quince",
+        "title": " Maester at the Eyrie",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Arryn"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Quincy_Cox": {
+        "id": "Quincy_Cox",
+        "name": "Quincy Cox",
+        "title": [
+            "Ser",
+            "[1]",
+            "Knight of Saltpans",
+            "[1]"
+        ],
+        "allegiance": " House Cox",
+        "culture": " Rivermen",
+        "issue": [
+            "Sons",
+            "[2]",
+            "2 daughters",
+            "[2]"
+        ],
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Quort": {
+        "id": "Quort",
+        "name": "Quort",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "born": " In or between 285 AC and 287 AC[1]",
+        "died": " In +/-299 AC, at Castle Black",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Qyburn": {
+        "id": "Qyburn",
+        "name": "Qyburn",
+        "alias": [
+            "The Bloody Maester",
+            "[1]",
+            "Lord Qyburn",
+            "[2]"
+        ],
+        "title": [
+            "Maester",
+            "(formerly)",
+            "Master of whisperers"
+        ],
+        "allegiance": [
+            "The Citadel",
+            "(formerly)",
+            "Brave Companions",
+            "(formerly)",
+            "House Lannister"
+        ],
+        "born": " In 217 AC or after[3], at Westeros[4]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Anton Lesser",
+        "tv series": " Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Qyle": {
+        "id": "Qyle",
+        "name": "Qyle",
+        "died": " In 299 AC, at Gods Eye",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Qyle_Corbray": {
+        "id": "Qyle_Corbray",
+        "name": "Qyle Corbray",
+        "full name": " Qyle Corbray",
+        "titles": " King of the Fingers",
+        "culture": " Andal",
+        "royal house": " House Corbray",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Qyle_Martell": {
+        "id": "Qyle_Martell",
+        "name": "Qyle Martell",
+        "title": " Prince",
+        "allegiance": " House Martell",
+        "culture": " Dornishmen",
+        "born": " In 116 124 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "Xanda_Qo": {
+        "id": "Xanda_Qo",
+        "name": "Xanda Qo",
+        "title": " Princess of Sweet Lotus Vale",
+        "allegiance": " House Qo",
+        "race": " Summer Isles",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Xandarro_Xhore": {
+        "id": "Xandarro_Xhore",
+        "name": "Xandarro Xhore",
+        "culture": " Qartheen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Xaro_Xhoan_Daxos": {
+        "id": "Xaro_Xhoan_Daxos",
+        "name": "Xaro Xhoan Daxos",
+        "allegiance": " the Thirteen",
+        "culture": " Qartheen",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Nonso Anozie",
+        "tv series": " Season 2"
+    },
+    "Xhobar_Qhoqua": {
+        "id": "Xhobar_Qhoqua",
+        "name": "Xhobar Qhoqua",
+        "alias": " The Ebon Prince",
+        "allegiance": [
+            "House Qhoqua",
+            "Band of Nine"
+        ],
+        "race": " Summer Islander",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Xhondo_Dhoru": {
+        "id": "Xhondo_Dhoru",
+        "name": "Xhondo Dhoru",
+        "culture": " Summer Isles",
+        "book(s)": " A Feast for Crows (appears)"
+    }
+}

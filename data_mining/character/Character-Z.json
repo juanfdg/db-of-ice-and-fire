@@ -1,0 +1,126 @@
+{
+    "Zachery_Frey": {
+        "id": "Zachery_Frey",
+        "name": "Zachery Frey",
+        "allegiance": " House Frey",
+        "born": " In 287 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Zahrina": {
+        "id": "Zahrina",
+        "name": "Zahrina",
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Zarabelo": {
+        "id": "Zarabelo",
+        "name": "Zarabelo",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Zeggo": {
+        "id": "Zeggo",
+        "name": "Zeggo",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Zei": {
+        "id": "Zei",
+        "name": "Zei",
+        "culture": " Northmen",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Zekko": {
+        "id": "Zekko",
+        "name": "Zekko",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Zhako": {
+        "id": "Zhako",
+        "name": "Zhako",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Zharaq_zo_Loraq": {
+        "id": "Zharaq_zo_Loraq",
+        "name": "Zharaq zo Loraq",
+        "alias": " The Liberator",
+        "allegiance": " House of Loraq",
+        "culture": " Ghiscari",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Zhea": {
+        "id": "Zhea",
+        "name": "Zhea",
+        "alias": [
+            "Zhea the Barren",
+            "Zhea Zorseface",
+            "Zhea the Cruel"
+        ],
+        "title": " Jhattar",
+        "race": " Jogos Nhai",
+        "culture": " Jogos Nhai",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Zhoe_Blanetree": {
+        "id": "Zhoe_Blanetree",
+        "name": "Zhoe Blanetree",
+        "allegiance": " House Blanetree",
+        "spouse": " Ser Tytos Frey",
+        "issue": [
+            "Zia Frey",
+            "Zachery Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Zia_Frey": {
+        "id": "Zia_Frey",
+        "name": "Zia Frey",
+        "allegiance": " House Frey",
+        "born": " In 285 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appedix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Zollo": {
+        "id": "Zollo",
+        "name": "Zollo",
+        "alias": " Zollo the Fat",
+        "allegiance": " Brave Companions",
+        "culture": " Dothraki",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    }
+}

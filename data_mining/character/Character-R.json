@@ -1,0 +1,4509 @@
+{
+    "Red_Alyn_of_the_Rosewood": {
+        "id": "Red_Alyn_of_the_Rosewood",
+        "name": "Red Alyn of the Rosewood",
+        "alias": " Red Alyn of the Rosewood",
+        "allegiance": " Night's Watch",
+        "born": " At the Rosewood",
+        "died": " In 300 AC, at Castle Black",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Red_Jack_Crabb": {
+        "id": "Red_Jack_Crabb",
+        "name": "Red Jack Crabb",
+        "allegiance": [
+            "House Crabb",
+            "Night's Watch"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Red_Jeyne": {
+        "id": "Red_Jeyne",
+        "name": "Red Jeyne"
+    },
+    "Racallio_Ryndoon": {
+        "id": "Racallio_Ryndoon",
+        "name": "Racallio Ryndoon",
+        "alias": " Queen Racallio[1]",
+        "title": [
+            "Captain",
+            "[2]",
+            "King of the Narrow Sea"
+        ],
+        "allegiance": [
+            "Kingdom of the Three Daughters",
+            "Kingdom of the Narrow Sea"
+        ],
+        "culture": " Tyroshi[3]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "Fire & Blood",
+            "The Rogue Prince"
+        ]
+    },
+    "Rafe": {
+        "id": "Rafe",
+        "name": "Rafe",
+        "book(s)": " The Mystery Knight (mentioned)"
+    },
+    "Rafford": {
+        "id": "Rafford",
+        "name": "Rafford",
+        "alias": [
+            "Raff",
+            "[1]",
+            "Raff the Sweetling",
+            "[2]"
+        ],
+        "allegiance": " House Clegane",
+        "born": " At Westerlands[3]",
+        "died": " In 300 AC, at Braavos",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Ragnor_Pyke": {
+        "id": "Ragnor_Pyke",
+        "name": "Ragnor Pyke",
+        "title": " Captain[1]",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Ragwyle": {
+        "id": "Ragwyle",
+        "name": "Ragwyle",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rainbow_Knight": {
+        "id": "Rainbow_Knight",
+        "name": "Rainbow Knight",
+        "title": " Ser",
+        "culture": " Westerosi",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Rakharo": {
+        "id": "Rakharo",
+        "name": "Rakharo",
+        "title": [
+            "Ko",
+            "Bloodrider",
+            "of Daenerys Targaryen"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Queensguard",
+            "[1]"
+        ],
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Elyes Gabel",
+        "tv series": " Season 1 | Season 2"
+    },
+    "Ralf_(Limper)": {
+        "id": "Ralf_(Limper)",
+        "name": "Ralf the Limper",
+        "title": " Captain of the Lord Quellon",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Ralf_(Lordsport)": {
+        "id": "Ralf_(Lordsport)",
+        "name": "Ralf of Lordsport",
+        "alias": " Ralf of Lordsport",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Ralf_(Shepherd)": {
+        "id": "Ralf_(Shepherd)",
+        "name": "Ralf the Shepherd",
+        "alias": " Ralf the Shepherd",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Ragged_Ralf": {
+        "id": "Ragged_Ralf",
+        "name": "Ragged Ralf",
+        "alias": " Ragged Ralf",
+        "race": " ironborn",
+        "born": " In Age of Heroes, at Old Wyk",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Ralf_Kenning": {
+        "id": "Ralf_Kenning",
+        "name": "Ralf Kenning",
+        "title": [
+            "Captain",
+            "[1]",
+            "Castellan",
+            "of",
+            "Moat Cailin",
+            "[2]",
+            "Commander",
+            "[2]"
+        ],
+        "allegiance": " House Kenning of Harlaw",
+        "culture": " ironborn",
+        "died": " In 300 AC, at Moat Cailin",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Ralf_Stonehouse": {
+        "id": "Ralf_Stonehouse",
+        "name": "Ralf Stonehouse",
+        "alias": " Red Ralf Stonehouse",
+        "title": " Captain of Red Jester",
+        "allegiance": " House Stonehouse",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Ralph_Buckler": {
+        "id": "Ralph_Buckler",
+        "name": "Ralph Buckler",
+        "title": " Lord of Bronzegate[1]",
+        "allegiance": " House Buckler[1]",
+        "culture": " Stormlands[1]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Ramsay_Snow": {
+        "id": "Ramsay_Snow",
+        "name": "Ramsay Snow",
+        "alias": [
+            "Ramsay Bolton",
+            "The Bastard of Bolton",
+            "The Bastard of the Dreadfort",
+            "Reek",
+            "Red Helm",
+            "Monster"
+        ],
+        "title": [
+            "Lord of the Hornwood",
+            "Lord of Winterfell",
+            "Castellan",
+            "of the",
+            "Dreadfort"
+        ],
+        "allegiance": [
+            "House Bolton of the Dreadfort",
+            "House Bolton of Winterfell"
+        ],
+        "culture": " Northmen",
+        "born": " In 282 AC or before[1]",
+        "spouse": [
+            "1st: Lady",
+            "Donella Hornwood",
+            "2nd: Lady \"",
+            "Arya Stark",
+            "\""
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Iwan Rheon",
+        "tv series": " Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Randa": {
+        "id": "Randa",
+        "name": "Randa",
+        "died": " At the Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Randor_the_Exile": {
+        "id": "Randor_the_Exile",
+        "name": "Randor the Exile",
+        "alias": " Randor the Exile",
+        "title": " Ser",
+        "culture": " Westeros",
+        "book(s)": " The Hedge Knight"
+    },
+    "Randyll_Tarly": {
+        "id": "Randyll_Tarly",
+        "name": "Randyll Tarly",
+        "title": [
+            "Lord of Horn Hill",
+            "Justiciar",
+            "Master of laws"
+        ],
+        "allegiance": " House Tarly",
+        "culture": " Reach",
+        "spouse": " Lady Melessa Florent",
+        "issue": [
+            "Samwell Tarly",
+            "Talla Tarly",
+            "2 daughters",
+            "Dickon Tarly"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " James Faulkner",
+        "tv series": " Season 6 | Season 7"
+    },
+    "Rast": {
+        "id": "Rast",
+        "name": "Rast",
+        "alias": " Rat",
+        "allegiance": " Night's Watch",
+        "died": " In +/- 299 AC, at Castle Black",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)"
+        ],
+        "played by": " Luke McEwan",
+        "tv series": " Season 1 | Season 3 | Season 4"
+    },
+    "Rat_Cook": {
+        "id": "Rat_Cook",
+        "name": "Rat Cook",
+        "alias": " Rat Cook",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rattleshirt": {
+        "id": "Rattleshirt",
+        "name": "Lord of Bones",
+        "alias": [
+            "Rattleshirt",
+            "[1]",
+            "Lord o' Bones",
+            "[2]",
+            "Bag o' Bones",
+            "[3]"
+        ],
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "died": " In 300 AC[4], at Castle Black[4]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": [
+            "Edward Dogliani ~",
+            "Season 2",
+            "|",
+            "Season 3",
+            "Ross O'Hennessy ~",
+            "Season 5"
+        ],
+        "tv series": " Season 2 | Season 3 | Season 5"
+    },
+    "Ravella_Swann": {
+        "id": "Ravella_Swann",
+        "name": "Ravella Smallwood",
+        "alias": " Ravella Swann",
+        "title": " Lady of Acorn Hall",
+        "allegiance": [
+            "House Swann",
+            "House Smallwood"
+        ],
+        "culture": " Marcher",
+        "spouse": " Lord Theomar Smallwood",
+        "issue": [
+            "Carellen Smallwood",
+            "Deceased son"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ravos_Hoare": {
+        "id": "Ravos_Hoare",
+        "name": "Ravos Hoare",
+        "alias": " Ravos the Raper",
+        "allegiance": " House Hoare",
+        "culture": " ironborn",
+        "died": " At Bear Island",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Rawney": {
+        "id": "Rawney",
+        "name": "Rawney",
+        "title": " Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ],
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Raya_Stark": {
+        "id": "Raya_Stark",
+        "name": "Raya Stark",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "born": " In or after 135 AC[1]",
+        "book(s)": " The World of Ice & Fire (appendix)"
+    },
+    "Rayford_Rosby": {
+        "id": "Rayford_Rosby",
+        "name": "Rayford Rosby",
+        "title": " Ser",
+        "allegiance": " House Rosby",
+        "culture": " Crownlands",
+        "died": " In 42 AC[1], at King's Landing[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Raylon_Rivers": {
+        "id": "Raylon_Rivers",
+        "name": "Raylon Rivers",
+        "title": " Ser",
+        "allegiance": [
+            "House Bracken",
+            "Greens"
+        ],
+        "culture": " Rivermen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Raymar_Royce": {
+        "id": "Raymar_Royce",
+        "name": "Raymar Royce",
+        "title": " Lord",
+        "allegiance": " House Royce of the Gates of the Moon",
+        "culture": " Valemen",
+        "issue": [
+            "Son(s)",
+            "Benedict Royce"
+        ],
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Raymond_Nayland": {
+        "id": "Raymond_Nayland",
+        "name": "Raymond Nayland",
+        "title": " Ser",
+        "allegiance": " House Nayland",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Raymond_Rychard": {
+        "id": "Raymond_Rychard",
+        "name": "Raymond Rychard",
+        "title": " Ser",
+        "culture": " Westeros",
+        "book(s)": " The Hedge Knight"
+    },
+    "Raymont_Baratheon": {
+        "id": "Raymont_Baratheon",
+        "name": "Raymont Baratheon",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Baratheon",
+            "[1]",
+            "Kingsguard",
+            "[1]"
+        ],
+        "culture": " Stormlander[1]",
+        "born": " In or between 1 BC and 25 AC[2]",
+        "died": " In 41 48 AC[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Raymun_Redbeard": {
+        "id": "Raymun_Redbeard",
+        "name": "Raymun Redbeard",
+        "title": " King-Beyond-the-Wall",
+        "culture": " Free folk",
+        "died": " In 226 AC, at Long Lake",
+        "issue": " Sons",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Raymun_Darry": {
+        "id": "Raymun_Darry",
+        "name": "Raymun Darry",
+        "title": [
+            "Ser",
+            "Lord of Darry",
+            "[1]",
+            "(unconfirmed)"
+        ],
+        "allegiance": " House Darry",
+        "culture": " Rivermen",
+        "died": " In 298 AC, at the Mummer's Ford",
+        "issue": " Lyman Darry",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Raymun_Fossoway": {
+        "id": "Raymun_Fossoway",
+        "name": "Raymun Fossoway",
+        "alias": " Raymun the Reluctant[1]",
+        "title": " Ser",
+        "allegiance": [
+            "House Fossoway of Cider Hall",
+            "House Fossoway of New Barrel"
+        ],
+        "culture": " Reach",
+        "born": " At Cider Hall[2]",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Raymund_Connington": {
+        "id": "Raymund_Connington",
+        "name": "Raymund Connington",
+        "allegiance": " House Connington",
+        "culture": " Stormlander",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Raymund_Frey": {
+        "id": "Raymund_Frey",
+        "name": "Raymund Frey",
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 264 AC or 265 AC[1]",
+        "spouse": " Beony Beesbury[2]",
+        "issue": [
+            "Robert Frey",
+            "Malwyn Frey",
+            "Serra Frey",
+            "Sarra Frey",
+            "Cersei Frey",
+            "Jaime Frey",
+            "Tywin Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Raymund_Mallery": {
+        "id": "Raymund_Mallery",
+        "name": "Raymund Mallery",
+        "title": [
+            "Ser",
+            "[1]",
+            "Commander",
+            "of",
+            "Sable Hall",
+            "[2]"
+        ],
+        "allegiance": [
+            "House Mallery",
+            "Kingsguard",
+            "Night's Watch"
+        ],
+        "culture": " Crownlands",
+        "died": " In 50 51 AC[2], at Beyond the Wall[2]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Raymund_Tyrell": {
+        "id": "Raymund_Tyrell",
+        "name": "Raymund Tyrell",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Raynald_Westerling": {
+        "id": "Raynald_Westerling",
+        "name": "Raynald Westerling",
+        "alias": [
+            "The seashell knight",
+            "[1]",
+            "The knight of seashells",
+            "[2]"
+        ],
+        "title": " Ser",
+        "allegiance": " House Westerling",
+        "culture": " Westermen",
+        "born": " In or before 282 AC[3], at the Crag[4]",
+        "died": " In 299 AC (supposedly), at the Twins",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Raynard": {
+        "id": "Raynard",
+        "name": "Raynard",
+        "title": " Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Raynard_Ruttiger": {
+        "id": "Raynard_Ruttiger",
+        "name": "Raynard Ruttiger",
+        "title": " Ser",
+        "allegiance": " House Ruttiger",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Raynard_Ruskyn": {
+        "id": "Raynard_Ruskyn",
+        "name": "Raynard Ruskyn",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Ruskyn",
+            "Kingsguard"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Red_Lamb": {
+        "id": "Red_Lamb",
+        "name": "Red Lamb",
+        "alias": " Red Lamb",
+        "title": " Ser",
+        "allegiance": " House Targaryen",
+        "culture": " Lhazarene",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Red_Oarsman": {
+        "id": "Red_Oarsman",
+        "name": "Red Oarsman",
+        "title": " Captain[1]",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Red_Raven_(free_folk)": {
+        "id": "Red_Raven_(free_folk)",
+        "name": "Red Raven (free folk)",
+        "alias": " The Red Raven",
+        "allegiance": " Raymun Redbeard",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Red_Rolfe": {
+        "id": "Red_Rolfe",
+        "name": "Red Rolfe",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Redtusk": {
+        "id": "Redtusk",
+        "name": "Redtusk",
+        "alias": " Redtusk[1]",
+        "title": " Ser[1]",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Redwyn": {
+        "id": "Redwyn",
+        "name": "Redwyn",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)"
+        ]
+    },
+    "Reek": {
+        "id": "Reek",
+        "name": "Reek",
+        "alias": " Reek",
+        "allegiance": " House Bolton",
+        "culture": " Northmen",
+        "died": " In 299 AC, at the north",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Regenard_Estren": {
+        "id": "Regenard_Estren",
+        "name": "Regenard Estren",
+        "title": " Lord of Wyndhall[1]",
+        "allegiance": " House Estren",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Regis_Groves": {
+        "id": "Regis_Groves",
+        "name": "Regis Groves",
+        "title": " Ser",
+        "allegiance": [
+            "House Groves",
+            "Blacks",
+            "Kingsguard"
+        ],
+        "died": " In 132 AC, at Harrenhal",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Regnar_Drumm": {
+        "id": "Regnar_Drumm",
+        "name": "Regnar Drumm",
+        "full name": " Regnar Drumm",
+        "alias": " Raven-feeder",
+        "titles": [
+            "High King of the Iron Islands",
+            "Rock king",
+            "of",
+            "Old Wyk"
+        ],
+        "culture": " Ironborn",
+        "royal house": " House Drumm",
+        "predecessor": " Erich I Greyiron",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Rego_Draz": {
+        "id": "Rego_Draz",
+        "name": "Rego Draz",
+        "alias": " The Lord of Air[1]",
+        "title": [
+            "Lord",
+            "[1]",
+            "Master of coin",
+            "[1]"
+        ],
+        "culture": " Pentoshi",
+        "born": " At Pentos[1]",
+        "died": " In 59 AC[2], at King's Landing[2]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Renfred_Rykker": {
+        "id": "Renfred_Rykker",
+        "name": "Renfred Rykker",
+        "title": " Lord of Duskendale[1]",
+        "allegiance": " House Rykker",
+        "culture": " Crownlands",
+        "spouse": " Unknown",
+        "issue": " Children",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Renly_Baratheon": {
+        "id": "Renly_Baratheon",
+        "name": "Renly Baratheon",
+        "alias": [
+            "The King in",
+            "Highgarden",
+            "The King in the South"
+        ],
+        "title": [
+            "Lord Paramount of the Stormlands",
+            "Lord of Storm's End",
+            "Master of laws",
+            "Lord of the Seven Kingdoms",
+            "(claimant)"
+        ],
+        "allegiance": " House Baratheon",
+        "culture": " Stormlander",
+        "born": " In 277 AC[1]",
+        "died": " In 299 AC, at Storm's End",
+        "spouse": " Margaery Tyrell",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Gethin Anthony",
+        "tv series": " Season 1 | Season 2"
+    },
+    "Renly_Norcross": {
+        "id": "Renly_Norcross",
+        "name": "Renly Norcross",
+        "allegiance": " House Norcross",
+        "culture": " Reach",
+        "born": " In 296 AC or 297 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rennifer_Crabb": {
+        "id": "Rennifer_Crabb",
+        "name": "Rennifer Crabb",
+        "title": " Ser",
+        "allegiance": [
+            "House Crabb",
+            "Blacks"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rennifer_Longwaters": {
+        "id": "Rennifer_Longwaters",
+        "name": "Rennifer Longwaters",
+        "title": " Chief undergaoler",
+        "allegiance": " House Longwaters",
+        "culture": " Crownlands",
+        "book(s)": [
+            "A Feast for Crows",
+            "(Appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Reynard_Reyne": {
+        "id": "Reynard_Reyne",
+        "name": "Reynard Reyne",
+        "title": " Ser[1]",
+        "allegiance": " House Reyne",
+        "culture": " Westermen",
+        "died": " In 261 AC[1], at Castamere[1]",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Reynard_Webber": {
+        "id": "Reynard_Webber",
+        "name": "Reynard Webber",
+        "title": " Lord of Coldmoat[1]",
+        "allegiance": " House Webber",
+        "culture": " Reach",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Reysen": {
+        "id": "Reysen",
+        "name": "Reysen",
+        "alias": " Rey[1]",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Reznak_mo_Reznak": {
+        "id": "Reznak_mo_Reznak",
+        "name": "Reznak mo Reznak",
+        "title": " Seneschal of Meereen",
+        "allegiance": [
+            "House of Reznak",
+            "House Targaryen"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Meereen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Rhae_Targaryen": {
+        "id": "Rhae_Targaryen",
+        "name": "Rhae Targaryen",
+        "title": " Princess",
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " crownlands",
+        "born": " In or between 201 AC and 209 AC[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(mentioned)"
+        ]
+    },
+    "Rhaegar_Frey": {
+        "id": "Rhaegar_Frey",
+        "name": "Rhaegar Frey",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In or between 269 AC and 274 AC[1]",
+        "died": " In 300 AC (suspected), at the north",
+        "spouse": " Jeyne Beesbury",
+        "issue": [
+            "Robert Frey",
+            "Walda Frey",
+            "Jonos Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Rhaegar_Targaryen": {
+        "id": "Rhaegar_Targaryen",
+        "name": "Rhaegar Targaryen",
+        "alias": [
+            "Silver prince",
+            "[1]",
+            "The dragon prince",
+            "[2]",
+            "The last dragon",
+            "[3]",
+            "The prince that was promised",
+            "[4]"
+        ],
+        "title": [
+            "Prince of Dragonstone",
+            "Ser"
+        ],
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 259 AC[5], at Summerhall[4][5]",
+        "died": " In 283 AC[N 1], at the Trident[6][7]",
+        "spouse": " Princess Elia Martell",
+        "issue": [
+            "Rhaenys Targaryen",
+            "Aegon Targaryen"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Wilf Scolding",
+        "tv series": " Season 7"
+    },
+    "Rhaegel_Targaryen": {
+        "id": "Rhaegel_Targaryen",
+        "name": "Rhaegel Targaryen",
+        "title": " Prince of Dragonstone",
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In or between 173 AC and 177 AC[1]",
+        "died": " In 215 AC[2]",
+        "spouse": " Lady Alys Arryn",
+        "issue": [
+            "Aelor Targaryen",
+            "Aelora Targaryen",
+            "Daenora Targaryen"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Hedge Knight",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ]
+    },
+    "Rhaego": {
+        "id": "Rhaego",
+        "name": "Rhaego",
+        "alias": " The stallion who mounts the world",
+        "title": " Khalakka[1]",
+        "allegiance": " House Targaryen",
+        "born": " In ~298/299 AC, at Lhazar",
+        "died": " In 298 AC or 299 AC, at Lhazar",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rhaella_Targaryen": {
+        "id": "Rhaella_Targaryen",
+        "name": "Rhaella Targaryen",
+        "title": [
+            "Princess",
+            "Queen",
+            "Dowager Queen"
+        ],
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 245 AC or 246 AC[1], at King's Landing[2]",
+        "died": " In 284 AC[1], at Dragonstone[3]",
+        "spouse": " King Aerys II Targaryen",
+        "issue": [
+            "Rhaegar Targaryen",
+            "Shaena Targaryen",
+            "Daeron Targaryen",
+            "Stillborn child",
+            "Aegon Targaryen",
+            "Jaehaerys Targaryen",
+            "Viserys Targaryen",
+            "Daenerys Targaryen"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rhaella_Targaryen_(daughter_of_Aegon)": {
+        "id": "Rhaella_Targaryen_(daughter_of_Aegon)",
+        "name": "Rhaella Targaryen (daughter of Aegon)",
+        "title": [
+            "Princess",
+            "Septa",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Faith of the Seven"
+        ],
+        "race": " Valyrian",
+        "culture": " crownlands",
+        "born": " In 42 AC[2], at Casterly Rock[2]",
+        "died": " In 58 AC or after[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Rhaelle_Targaryen": {
+        "id": "Rhaelle_Targaryen",
+        "name": "Rhaelle Targaryen",
+        "title": " Princess",
+        "allegiance": [
+            "House Targaryen",
+            "House Baratheon"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In or between 229 AC and 233 AC[1]",
+        "died": " In or after 246 AC[1]",
+        "spouse": " Lord Ormund Baratheon[2]",
+        "issue": " Steffon Baratheon[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rhaena_Targaryen_(daughter_of_Aenys_I)": {
+        "id": "Rhaena_Targaryen_(daughter_of_Aenys_I)",
+        "name": "Rhaena Targaryen (daughter of Aenys I)",
+        "alias": [
+            "Black Bride",
+            "The Queen in the West",
+            "[1]",
+            "The Queen in the East",
+            "[2]"
+        ],
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 23 AC[3], at Dragonstone[2]",
+        "died": " In 73 AC[2], at Harrenhal[2]",
+        "spouse": [
+            "1st: Prince",
+            "Aegon Targaryen",
+            "2nd: King",
+            "Maegor I Targaryen",
+            "3rd:",
+            "Androw Farman"
+        ],
+        "issue": [
+            "Aerea Targaryen",
+            "Rhaella Targaryen"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Rhaena_Targaryen_(daughter_of_Daemon)": {
+        "id": "Rhaena_Targaryen_(daughter_of_Daemon)",
+        "name": "Rhaena Targaryen (daughter of Daemon)",
+        "alias": [
+            "Rhaena of Pentos",
+            "[1]",
+            "Rhaena Corbray",
+            "[2]",
+            "Rhae",
+            "[3]"
+        ],
+        "title": [
+            "Lady",
+            "[1]",
+            "Princess",
+            "[4]"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "House Corbray",
+            "House Hightower",
+            "Blacks"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 116 AC[5], at Pentos[5]",
+        "spouse": [
+            "1st: Ser",
+            "Corwyn Corbray",
+            "2nd:",
+            "Garmund Hightower"
+        ],
+        "issue": " 6 daughters by Garmund Hightower",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Rhaena_Targaryen_(daughter_of_Aegon_III)": {
+        "id": "Rhaena_Targaryen_(daughter_of_Aegon_III)",
+        "name": "Rhaena Targaryen (daughter of Aegon III)",
+        "title": [
+            "Princess",
+            "Septa"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Faith of the Seven"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 147 AC[1]",
+        "died": " In or after 171 AC[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rhaenyra_Targaryen": {
+        "id": "Rhaenyra_Targaryen",
+        "name": "Rhaenyra Targaryen",
+        "alias": [
+            "The Realm's Delight",
+            "[1]",
+            "The whore of Dragonstone",
+            "[1]",
+            "King Maegor with teats",
+            "[1]",
+            "The Half-Year Queen",
+            "[1]",
+            "Rhaenyra the Pretender",
+            "[2]",
+            "Queen Rhaenyra",
+            "[3]"
+        ],
+        "title": [
+            "Princess of Dragonstone",
+            "[4]",
+            "Queen of the Andals, the Rhoynar, and the First Men",
+            "[1]",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Blacks"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 97 AC",
+        "died": " In 130 AC, at Dragonstone",
+        "spouse": [
+            "1st: Ser",
+            "Laenor Velaryon",
+            "2nd: Prince",
+            "Daemon Targaryen"
+        ],
+        "issue": [
+            "Jacaerys Velaryon",
+            "Lucerys Velaryon",
+            "Joffrey Velaryon",
+            "Aegon Targaryen",
+            "Viserys Targaryen",
+            "Visenya Targaryen"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)",
+            "The Hedge Knight",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rhaenys_Targaryen": {
+        "id": "Rhaenys_Targaryen",
+        "name": "Rhaenys Targaryen",
+        "title": " Queen",
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 25BC or 26BC[1], at Dragonstone[2]",
+        "died": " In 10 AC, at Hellholt",
+        "spouse": " King Aegon I Targaryen",
+        "issue": " Aenys I Targaryen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Rhaenys_Targaryen_(daughter_of_Aemon)": {
+        "id": "Rhaenys_Targaryen_(daughter_of_Aemon)",
+        "name": "Rhaenys Targaryen (daughter of Aemon)",
+        "alias": " The Queen Who Never Was",
+        "title": " Princess",
+        "allegiance": [
+            "House Targaryen",
+            "House Velaryon",
+            "Blacks"
+        ],
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 74 AC[1]",
+        "died": " In 129 AC, at Rook's Rest[2]",
+        "spouse": " Lord Corlys Velaryon",
+        "issue": [
+            "Laena Velaryon",
+            "Laenor Velaryon"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Rhaenys_Targaryen_(daughter_of_Rhaegar)": {
+        "id": "Rhaenys_Targaryen_(daughter_of_Rhaegar)",
+        "name": "Rhaenys Targaryen (daughter of Rhaegar)",
+        "title": " Princess",
+        "allegiance": " House Targaryen",
+        "born": " In 280 AC, at Dragonstone",
+        "died": " In 283 AC, at King's Landing",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Rhea_Florent": {
+        "id": "Rhea_Florent",
+        "name": "Rhea Florent",
+        "title": " Lady of the Hightower",
+        "allegiance": [
+            "House Florent",
+            "House Hightower"
+        ],
+        "culture": " Reach",
+        "spouse": " Lord Leyton Hightower",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Rhea_Royce": {
+        "id": "Rhea_Royce",
+        "name": "Rhea Royce",
+        "alias": " Bronze bitch[1]",
+        "title": " Lady of Runestone[1]",
+        "allegiance": [
+            "House Royce",
+            "[1]",
+            "House Targaryen",
+            "[1]"
+        ],
+        "culture": " Valemen[1]",
+        "died": " In 115 AC, at the Vale[2]",
+        "spouse": " Prince Daemon Targaryen[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)"
+        ]
+    },
+    "Rhialta_Vance": {
+        "id": "Rhialta_Vance",
+        "name": "Rhialta Vance",
+        "allegiance": " House Vance of Wayfarer's Rest",
+        "culture": " Rivermen",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Rhodry": {
+        "id": "Rhodry",
+        "name": "Rhodry",
+        "title": " Maester at Castle Cerwyn",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Cerwyn"
+        ],
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Rhogar_Velaryon": {
+        "id": "Rhogar_Velaryon",
+        "name": "Rhogar Velaryon",
+        "title": " Ser",
+        "allegiance": [
+            "House Velaryon",
+            "Night's Watch"
+        ],
+        "race": " Valyrian",
+        "culture": " crownlands",
+        "died": " In or after 132 AC",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)"
+        ]
+    },
+    "Rhogoro": {
+        "id": "Rhogoro",
+        "name": "Rhogoro",
+        "title": " Khalakka",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rhonda_Rowan": {
+        "id": "Rhonda_Rowan",
+        "name": "Rhonda Rowan",
+        "allegiance": [
+            "House Rowan",
+            "House Hightower"
+        ],
+        "culture": " Reach",
+        "spouse": " Ser Baelor Hightower",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Ricasso": {
+        "id": "Ricasso",
+        "name": "Ricasso",
+        "title": " Seneschal of Sunspear",
+        "allegiance": " House Martell",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Richard_Farrow": {
+        "id": "Richard_Farrow",
+        "name": "Richard Farrow",
+        "title": " Ser",
+        "allegiance": " House Farrow",
+        "died": " In 299 AC, at the Battle of the Blackwater",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Richard_Horpe": {
+        "id": "Richard_Horpe",
+        "name": "Richard Horpe",
+        "alias": [
+            "wrong-way ranger",
+            "[1]",
+            "the slayer",
+            "[1]",
+            "the knight of the moths",
+            "[2]"
+        ],
+        "title": " Ser",
+        "allegiance": [
+            "House Horpe",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Richard_Lonmouth": {
+        "id": "Richard_Lonmouth",
+        "name": "Richard Lonmouth",
+        "alias": " The Knight of Skulls and Kisses",
+        "title": " Ser",
+        "allegiance": " House Lonmouth",
+        "culture": " Stormlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Richard_Morrigen": {
+        "id": "Richard_Morrigen",
+        "name": "Richard Morrigen",
+        "title": " Ser",
+        "allegiance": " House Morrigen",
+        "culture": " Stormlander",
+        "book(s)": " A Dance with Dragons (appendix)"
+    },
+    "Richard_Rodden": {
+        "id": "Richard_Rodden",
+        "name": "Richard Rodden",
+        "title": " Lord/Ser[N 1]",
+        "allegiance": [
+            "House Rodden",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": " Reach",
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Richard_Roote": {
+        "id": "Richard_Roote",
+        "name": "Richard Roote",
+        "title": " Ser",
+        "allegiance": [
+            "House Roote",
+            "Kingsguard"
+        ],
+        "culture": " Rivermen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Rickard_Karstark": {
+        "id": "Rickard_Karstark",
+        "name": "Rickard Karstark",
+        "title": " Lord of Karhold",
+        "allegiance": " House Karstark",
+        "culture": " Northmen",
+        "born": " At Karhold[1]",
+        "died": " In 299 AC, at Riverrun (executed)",
+        "issue": [
+            "Harrion Karstark",
+            "Eddard Karstark",
+            "Torrhen Karstark",
+            "Alys Karstark"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": [
+            "Steven Blount ~",
+            "Season 1",
+            "John Stahl ~",
+            "Season 2",
+            "|",
+            "Season 3"
+        ],
+        "tv series": " Season 1 | Season 2 | Season 3"
+    },
+    "Rickard_Liddle": {
+        "id": "Rickard_Liddle",
+        "name": "Rickard Liddle",
+        "alias": " Little Liddle[1]",
+        "allegiance": " House Liddle",
+        "culture": " Northern mountain clans",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Rickard_Redwyne": {
+        "id": "Rickard_Redwyne",
+        "name": "Rickard Redwyne",
+        "title": " Ser",
+        "allegiance": " House Redwyne",
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rickard_Rowan": {
+        "id": "Rickard_Rowan",
+        "name": "Rickard Rowan",
+        "title": " Lord of Goldengrove",
+        "allegiance": " House Rowan",
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rickard_Ryswell": {
+        "id": "Rickard_Ryswell",
+        "name": "Rickard Ryswell",
+        "allegiance": " House Ryswell",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Rickard_Stark_(King)": {
+        "id": "Rickard_Stark_(King)",
+        "name": "Rickard Stark (king)",
+        "full name": " Rickard Stark",
+        "alias": " The Laughing Wolf",
+        "titles": " King in the North",
+        "culture": " Northmen",
+        "royal house": " House Stark",
+        "queen": " Daughter of the Marsh King",
+        "father": " Jon Stark",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)"
+        ]
+    },
+    "Rickard_Stark": {
+        "id": "Rickard_Stark",
+        "name": "Rickard Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "born": " In or between 230 AC and 249 AC[1], at Winterfell",
+        "died": " In 282 AC, at the Red Keep, King's Landing",
+        "spouse": " Lady Lyarra Stark",
+        "issue": [
+            "Brandon Stark",
+            "Eddard Stark",
+            "Lyanna Stark",
+            "Benjen Stark"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Wayne Foskett",
+        "tv series": " Season 6"
+    },
+    "Rickard_Thorne": {
+        "id": "Rickard_Thorne",
+        "name": "Rickard Thorne",
+        "alias": " False knight[1]",
+        "title": " Ser",
+        "allegiance": [
+            "House Thorne",
+            "Kingsguard",
+            "Greens"
+        ],
+        "culture": " Crownlands",
+        "died": " In 130 AC, at Bitterbridge[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Rickard_Tyrell": {
+        "id": "Rickard_Tyrell",
+        "name": "Rickard Tyrell",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rickard_Wylde": {
+        "id": "Rickard_Wylde",
+        "name": "Rickard Wylde",
+        "allegiance": " House Wylde",
+        "born": " In 295 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rickon_Stark": {
+        "id": "Rickon_Stark",
+        "name": "Rickon Stark",
+        "title": " Prince[1]",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "born": " In 295 AC[2], at Winterfell[3]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Art Parkinson",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 6"
+    },
+    "Rickon_Stark_(son_of_Benjen)": {
+        "id": "Rickon_Stark_(son_of_Benjen)",
+        "name": "Rickon Stark (son of Benjen)",
+        "title": [
+            "Lord of Winterfell",
+            "[1]",
+            "Warden of the North",
+            "[1]"
+        ],
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "born": " In or before 96 AC[2]",
+        "died": " In 121 AC[3]",
+        "spouse": " Lady Gilliane Glover[1]",
+        "issue": [
+            "Cregan Stark",
+            "[1]",
+            "Son",
+            "[3]",
+            "Sara Snow",
+            "[3]"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(appendix)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Rickon_Stark_(son_of_Cregan)": {
+        "id": "Rickon_Stark_(son_of_Cregan)",
+        "name": "Rickon Stark (son of Cregan)",
+        "allegiance": " House Stark[1]",
+        "culture": " Northmen[1]",
+        "born": " In 128 AC[2]",
+        "died": " In 157 161 AC[1], at Sunspear[1]",
+        "spouse": " Jeyne Manderly[3]",
+        "issue": [
+            "Serena Stark",
+            "[3]",
+            "Sansa Stark",
+            "[3]"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Rigney": {
+        "id": "Rigney",
+        "name": "Rigney",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rob": {
+        "id": "Rob",
+        "name": "Rob",
+        "alias": " Big Rob",
+        "allegiance": " House Osgrey",
+        "book(s)": " The Sworn Sword (appears)"
+    },
+    "Rob_the_Starvling": {
+        "id": "Rob_the_Starvling",
+        "name": "Rob the Starvling",
+        "alias": " Rob the Starvling[1]",
+        "allegiance": [
+            "Poor Fellows",
+            "Night's Watch"
+        ],
+        "culture": " Westerosi",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Robar_Royce": {
+        "id": "Robar_Royce",
+        "name": "Robar Royce",
+        "alias": " Robar the Red",
+        "title": " Ser",
+        "allegiance": [
+            "House Royce",
+            "Rainbow Guard"
+        ],
+        "culture": " Valemen",
+        "born": " In 277 AC (roughly)[1], at Runestone[2]",
+        "died": " In 299 AC, at near Storm's End",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ],
+        "played by": " Unidentified",
+        "tv series": " Season 2"
+    },
+    "Robar_II_Royce": {
+        "id": "Robar_II_Royce",
+        "name": "Robar II Royce",
+        "full name": " Robar Royce, Second of That Name",
+        "titles": [
+            "High King of the Vale, the Fingers, and the Mountains of the Moon",
+            "Bronze King"
+        ],
+        "died in": " Giant's Lance",
+        "culture": " First Men",
+        "royal house": " House Royce",
+        "successor": " Artys Arryn as King of Mountain and Vale",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Robard_Cerwyn": {
+        "id": "Robard_Cerwyn",
+        "name": "Robard Cerwyn",
+        "allegiance": " House Cerwyn",
+        "culture": " Northmen",
+        "spouse": " Aregelle Stark",
+        "issue": " Children[1]",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Robb_Reyne": {
+        "id": "Robb_Reyne",
+        "name": "Robb Reyne",
+        "title": " Ser",
+        "allegiance": [
+            "House Reyne",
+            "House Blackfyre"
+        ],
+        "culture": " Westermen",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Robb_Rivers": {
+        "id": "Robb_Rivers",
+        "name": "Robb Rivers",
+        "alias": [
+            "Red Robb Rivers",
+            "[1]",
+            "The Bowman of Raventree",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Blackwood",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "born": " At the riverlands",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Robb_Stark": {
+        "id": "Robb_Stark",
+        "name": "Robb Stark",
+        "reign": " 299 AC",
+        "full name": " Robb Stark",
+        "alias": [
+            "The Young Wolf",
+            "[1]",
+            "Robb the Lord",
+            "[2]",
+            "The wolfling",
+            "[3]",
+            "The pup",
+            "[4]",
+            "Robb the boy",
+            "[5]",
+            "The Boy Wolf",
+            "[6]",
+            "The King Who Lost the North",
+            "[7]"
+        ],
+        "titles": [
+            "King in the North",
+            "King of the Trident",
+            "Lord of Winterfell"
+        ],
+        "born in": " 283 AC[8] Riverrun",
+        "died in": " 299 AC[8] the Twins",
+        "royal house": " House Stark",
+        "heir": " Bran Stark (believed dead)",
+        "successor": " None",
+        "queen": " Jeyne Westerling",
+        "father": " Eddard Stark",
+        "mother": " Catelyn Stark",
+        "personal arms": " A grey direwolf's head on an ice-white field (Argent, a direwolf's head cendr\u00e9e)",
+        "books": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Richard Madden",
+        "tv series": " Season 1 | Season 2 | Season 3"
+    },
+    "Robert_Arryn": {
+        "id": "Robert_Arryn",
+        "name": "Robert Arryn",
+        "alias": [
+            "True Warden of the East",
+            "[1]",
+            "Sweetrobin",
+            "[2]"
+        ],
+        "title": [
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East"
+        ],
+        "allegiance": " House Arryn",
+        "culture": " Valemen",
+        "born": " In 292 AC[3]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Lino Facioli",
+        "tv series": " Season 1 | Season 4 | Season 5 | Season 6 | Season 8"
+    },
+    "Robert_Ashford": {
+        "id": "Robert_Ashford",
+        "name": "Robert Ashford",
+        "title": " Ser",
+        "allegiance": " House Ashford",
+        "culture": " Reach",
+        "born": " At Ashford[1]",
+        "book(s)": " The Hedge Knight (appears)",
+        "personal arms": [
+            "A white sun-and-chevron on orange within a white border",
+            "(Tenn\u00e9, beneath a chevron inverted a sun-in-splendour argent, all within a bordure of the last)"
+        ]
+    },
+    "Robert_I_Baratheon": {
+        "id": "Robert_I_Baratheon",
+        "name": "Robert I Baratheon",
+        "reign": " 283 AC - 298 AC",
+        "full name": " Robert Baratheon the First of His Name",
+        "alias": [
+            "The",
+            "Usurper",
+            "Demon of the",
+            "Trident",
+            "The Whoremonger King",
+            "Rob",
+            "[1]"
+        ],
+        "titles": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Lord Paramount of the Stormlands",
+            "(granted to",
+            "Renly",
+            ")",
+            "Lord of Storm's End",
+            "(granted to",
+            "Renly",
+            ")",
+            "Ser",
+            "[2]"
+        ],
+        "born in": " 262 AC[3] Storm's End[4]",
+        "died in": " 298 AC[5] King's Landing",
+        "royal house": " House Baratheon of King's Landing",
+        "predecessor": " Aerys II Targaryen",
+        "heir": " Joffrey Baratheon",
+        "successor": " Joffrey I Baratheon",
+        "queen": " Cersei Lannister",
+        "issue": [
+            "Joffrey Baratheon",
+            "(legally)",
+            "Myrcella Baratheon",
+            "(legally)",
+            "Tommen Baratheon",
+            "(legally)",
+            "Bastards:",
+            "Mya Stone",
+            "Bella",
+            "Gendry",
+            "Edric Storm",
+            "Unknown twins",
+            "Barra",
+            "9 others"
+        ],
+        "father": " Steffon Baratheon",
+        "mother": " Cassana Estermont",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Mark Addy",
+        "tv series": " Season 1"
+    },
+    "Robert_Blackwood": {
+        "id": "Robert_Blackwood",
+        "name": "Robert Blackwood",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "died": " In 300 AC, at Raventree Hall",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Robert_Blackwood_(209)": {
+        "id": "Robert_Blackwood_(209)",
+        "name": "Robert Blackwood (209)",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "book(s)": " The Hedge Knight (mentioned)",
+        "personal arms": " Two weirwood trees, on a scarlet field[1]"
+    },
+    "Robert_Brax": {
+        "id": "Robert_Brax",
+        "name": "Robert Brax",
+        "title": " Ser[1]",
+        "allegiance": " House Brax",
+        "culture": " Westermen",
+        "born": " In or before 277 AC[2]",
+        "died": " In 299 AC[3], at the Red Fork[3]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Robert_Brax_(son_of_Flement)": {
+        "id": "Robert_Brax_(son_of_Flement)",
+        "name": "Robert Brax (son of Flement)",
+        "allegiance": " House Brax",
+        "culture": " Westermen",
+        "born": " In 290 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Robert_Darklyn": {
+        "id": "Robert_Darklyn",
+        "name": "Robert Darklyn",
+        "title": " Ser",
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Robert_Flowers": {
+        "id": "Robert_Flowers",
+        "name": "Robert Flowers",
+        "alias": " Red Robert Flowers",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": " Kingsguard",
+        "culture": " Reach",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Robert_Frey_(son_of_Rhaegar)": {
+        "id": "Robert_Frey_(son_of_Rhaegar)",
+        "name": "Robert Frey (son of Rhaegar)",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 286 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Robert_Frey_(son_of_Raymund)": {
+        "id": "Robert_Frey_(son_of_Raymund)",
+        "name": "Robert Frey (son of Raymund)",
+        "title": " Acolyte",
+        "allegiance": [
+            "House Frey",
+            "The",
+            "Citadel"
+        ],
+        "culture": " Rivermen",
+        "born": " In 283 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Robert_Paege": {
+        "id": "Robert_Paege",
+        "name": "Robert Paege",
+        "title": " Ser",
+        "allegiance": " House Paege",
+        "culture": " Rivermen",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Robert_Quince": {
+        "id": "Robert_Quince",
+        "name": "Robert Quince",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Dragonstone"
+        ],
+        "allegiance": " Blacks",
+        "died": " In 130 AC, at Dragonstone",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Robert_Redwyne": {
+        "id": "Robert_Redwyne",
+        "name": "Robert Redwyne",
+        "title": [
+            "Ser",
+            "Commander of the City Watch",
+            "Lord of the Arbor"
+        ],
+        "allegiance": [
+            "House Redwyne",
+            "City Watch of King's Landing"
+        ],
+        "culture": " Reach",
+        "died": " In 89 AC",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Robert_Reyne": {
+        "id": "Robert_Reyne",
+        "name": "Robert Reyne",
+        "title": " Lord of Castamere",
+        "allegiance": " House Reyne",
+        "died": " In 233 AC, at Starpike",
+        "issue": [
+            "Roger Reyne",
+            "Reynard Reyne",
+            "Ellyn Reyne"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Robert_Rowan": {
+        "id": "Robert_Rowan",
+        "name": "Robert Rowan",
+        "title": " Ser[1]",
+        "allegiance": " House Rowan",
+        "culture": " Reach",
+        "born": " In 89 119 AC[2]",
+        "died": " In 134 AC[1], at the Mountains of the Moon[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Robert_Stone": {
+        "id": "Robert_Stone",
+        "name": "Robert Stone",
+        "title": " Ser",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Robert_Tyrell": {
+        "id": "Robert_Tyrell",
+        "name": "Robert Tyrell",
+        "title": [
+            "High Steward of Highgarden",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "House Gardener"
+        ],
+        "culture": " Reach",
+        "issue": " Lorent Tyrell",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Robert_Vance": {
+        "id": "Robert_Vance",
+        "name": "Robert Vance",
+        "title": " River king/King of the Trident",
+        "allegiance": " House Vance",
+        "culture": " Rivermen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Robeson": {
+        "id": "Robeson",
+        "name": "Robeson",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": " Faith of the Seven",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Robett_Glover": {
+        "id": "Robett_Glover",
+        "name": "Robett Glover",
+        "allegiance": " House Glover",
+        "culture": " Northmen",
+        "born": " At Deepwood Motte[1]",
+        "spouse": " Sybelle Glover[2]",
+        "issue": [
+            "Gawen Glover",
+            "[2]",
+            "Erena Glover",
+            "[2]"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Tim McInnerny",
+        "tv series": " Season 6 | Season 7"
+    },
+    "Robin": {
+        "id": "Robin",
+        "name": "Robin",
+        "culture": " Rivermen",
+        "died": " In 260 AC, at Stepstones",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Robin_(Flea_Bottom)": {
+        "id": "Robin_(Flea_Bottom)",
+        "name": "Robin (Flea Bottom)",
+        "culture": " Crownlands",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Robin_Arryn": {
+        "id": "Robin_Arryn",
+        "name": "Robin Arryn",
+        "full name": " Robin Arryn",
+        "titles": " King of Mountain and Vale",
+        "culture": " Andal",
+        "royal house": " House Arryn",
+        "predecessor": " Roland II Arryn",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Robin_Darklyn": {
+        "id": "Robin_Darklyn",
+        "name": "Robin Darklyn",
+        "alias": " Darkrobin",
+        "title": " Ser",
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "died": " In 10 48 AC",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The World of Ice & Fire",
+            "(mentioned)"
+        ]
+    },
+    "Robin_Flint": {
+        "id": "Robin_Flint",
+        "name": "Robin Flint",
+        "title": " Lord of Flint's Finger",
+        "allegiance": [
+            "House Flint of Widow's Watch",
+            "[1]",
+            "House Flint of Flint's Finger",
+            "[2]",
+            "[3]"
+        ],
+        "culture": " Northmen",
+        "died": " In 299 AC, at the Twins",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Robin_Greyjoy": {
+        "id": "Robin_Greyjoy",
+        "name": "Robin Greyjoy",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "born": " In or between 269 AC and 283 AC[1]",
+        "died": " At Pyke",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Robin_Hill": {
+        "id": "Robin_Hill",
+        "name": "Robin Hill",
+        "title": " Lord Commander of the Night's Watch",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Robin_Hollard": {
+        "id": "Robin_Hollard",
+        "name": "Robin Hollard",
+        "allegiance": " House Hollard",
+        "culture": " Crownlands",
+        "died": " In 277 AC[1], at Duskendale[1]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Robin_Massey": {
+        "id": "Robin_Massey",
+        "name": "Robin Massey",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Massey",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "died": " In 133 AC, at King's Landing",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Robin_Moreland": {
+        "id": "Robin_Moreland",
+        "name": "Robin Moreland",
+        "title": " Lord",
+        "allegiance": " House Moreland",
+        "culture": " westermen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Robin_Peasebury": {
+        "id": "Robin_Peasebury",
+        "name": "Robin Peasebury",
+        "alias": " Lord Pea Pord",
+        "title": " Lord of Poddingfield",
+        "allegiance": [
+            "House Peasebury",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": " Stormlander",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Robin_Penrose": {
+        "id": "Robin_Penrose",
+        "name": "Robin Penrose",
+        "allegiance": " House Penrose",
+        "culture": " Stormlander",
+        "born": " In or between 184 AC and ~197 AC[1]",
+        "book(s)": " The World of Ice & Fire (appendix)"
+    },
+    "Robin_Potter": {
+        "id": "Robin_Potter",
+        "name": "Robin Potter",
+        "title": " Ser",
+        "allegiance": " House Potter",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Robin_Ryger": {
+        "id": "Robin_Ryger",
+        "name": "Robin Ryger",
+        "title": [
+            "Ser",
+            "Captain of the guards",
+            "at",
+            "Riverrun"
+        ],
+        "allegiance": [
+            "House Ryger",
+            "House Tully",
+            "Night's Watch"
+        ],
+        "culture": " Rivermen",
+        "born": " In or between 237 AC and 240 AC (roughly)[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Robyn_Rhysling": {
+        "id": "Robyn_Rhysling",
+        "name": "Robyn Rhysling",
+        "title": " Ser",
+        "allegiance": " House Rhysling",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Robin_Shaw": {
+        "id": "Robin_Shaw",
+        "name": "Robin Shaw",
+        "title": " Ser",
+        "allegiance": " Kingsguard",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Robyn_Ryswell": {
+        "id": "Robyn_Ryswell",
+        "name": "Robyn Ryswell",
+        "allegiance": [
+            "House Ryswell",
+            "House Stark"
+        ],
+        "culture": " Northmen",
+        "spouse": " Lord Jonnel Stark",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Roderick_Blackwood": {
+        "id": "Roderick_Blackwood",
+        "name": "Roderick Blackwood",
+        "title": " Lord of Raventree Hall[1]",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "died": " At Teats[1]",
+        "spouse": " Unknown",
+        "issue": [
+            "Shiera Blackwood",
+            "[1]",
+            "Son",
+            "[1]",
+            "Daughter",
+            "[1]"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Roderick_Dustin": {
+        "id": "Roderick_Dustin",
+        "name": "Roderick Dustin",
+        "alias": " Roddy the Ruin[1]",
+        "title": " Lord of Barrowton[1]",
+        "allegiance": [
+            "House Dustin",
+            "Blacks"
+        ],
+        "culture": " Northmen",
+        "died": " In 130 AC[1], at Tumbleton[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Arryn": {
+        "id": "Rodrik_Arryn",
+        "name": "Rodrik Arryn",
+        "title": [
+            "Lord of the Eyrie",
+            "[1]",
+            "Defender of the Vale",
+            "[1]",
+            "Warden of the East",
+            "[1]",
+            "Master of laws",
+            "[2]",
+            "Lord justiciar",
+            "[2]"
+        ],
+        "allegiance": " House Arryn",
+        "culture": " Valemen",
+        "born": " In 44 AC[3]",
+        "died": " In 82 97 AC[3]",
+        "spouse": [
+            "1st: Unknown",
+            "[2]",
+            "2nd: Princess",
+            "Daella Targaryen",
+            "[2]"
+        ],
+        "issue": [
+            "Elys Arryn",
+            "[2]",
+            "Amanda Arryn",
+            "[2]",
+            "2 sons",
+            "[2]",
+            "Aemma Arryn",
+            "[2]"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Cassel": {
+        "id": "Rodrik_Cassel",
+        "name": "Rodrik Cassel",
+        "alias": " Old Ser Rodrik[1]",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Winterfell",
+            "Castellan",
+            "of Winterfell"
+        ],
+        "allegiance": [
+            "House Cassel",
+            "House Stark"
+        ],
+        "culture": " Northmen",
+        "born": " In or before 248 AC[2]",
+        "died": " In 299 AC, at Winterfell",
+        "spouse": " 3 wives",
+        "issue": [
+            "Beth Cassel",
+            "Daughters"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": [
+            "Ron Donachie",
+            "~",
+            "Season 1",
+            "",
+            "-Season 2",
+            "Fergus Leathem ~",
+            "Season 6"
+        ],
+        "tv series": " Season 1 | Season 2 | Season 6"
+    },
+    "Rodrik_Flint": {
+        "id": "Rodrik_Flint",
+        "name": "Rodrik Flint",
+        "title": " Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Flint",
+            "Night's Watch"
+        ],
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Rodrik_Freeborn": {
+        "id": "Rodrik_Freeborn",
+        "name": "Rodrik Freeborn",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Greyjoy_(son_of_Dalton)": {
+        "id": "Rodrik_Greyjoy_(son_of_Dalton)",
+        "name": "Rodrik Greyjoy (son of Dalton)",
+        "title": [
+            "Lord Reaper of Pyke",
+            "(claimant)",
+            "Lord of the Iron Islands",
+            "(claimant)",
+            "Fool",
+            "at",
+            "Casterly Rock"
+        ],
+        "allegiance": [
+            "House Greyjoy",
+            "House Lannister"
+        ],
+        "culture": " ironborn",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The World of Ice & Fire",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Greyjoy": {
+        "id": "Rodrik_Greyjoy",
+        "name": "Rodrik Greyjoy",
+        "title": " Captain",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "born": " In or between 268 AC and 274 AC[1]",
+        "died": " In 289 AC, at Seagard",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Harlaw": {
+        "id": "Rodrik_Harlaw",
+        "name": "Rodrik Harlaw",
+        "alias": " The Reader[1]",
+        "title": [
+            "Harlaw of Harlaw",
+            "[2]",
+            "Lord of Harlaw",
+            "[2]",
+            "Lord of Ten Towers",
+            "[2]",
+            "Captain of",
+            "Sea Song"
+        ],
+        "allegiance": " House Harlaw",
+        "culture": " ironborn",
+        "born": " At Harlaw[3]",
+        "spouse": " Unknown",
+        "issue": " 2 sons",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Ryswell": {
+        "id": "Rodrik_Ryswell",
+        "name": "Rodrik Ryswell",
+        "title": " Lord of the Rills",
+        "allegiance": " House Ryswell",
+        "culture": " Northmen",
+        "issue": [
+            "Bethany Ryswell",
+            "Barbrey Ryswell",
+            "Roger Ryswell",
+            "Rickard Ryswell",
+            "Roose Ryswell"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Rodrik_Sparr": {
+        "id": "Rodrik_Sparr",
+        "name": "Rodrik Sparr",
+        "alias": " The Vole",
+        "title": " Captain of the Grief",
+        "allegiance": " House Sparr",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Rodrik_Stark": {
+        "id": "Rodrik_Stark",
+        "name": "Rodrik Stark",
+        "title": " King in the North",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)"
+        ]
+    },
+    "Rodrik_Stark_(son_of_Beron)": {
+        "id": "Rodrik_Stark_(son_of_Beron)",
+        "name": "Rodrik Stark (son of Beron)",
+        "alias": " The Wandering Wolf",
+        "allegiance": [
+            "House Stark",
+            "Second Sons"
+        ],
+        "culture": " Northmen",
+        "spouse": " Arya Flint",
+        "issue": [
+            "Branda Stark",
+            "Lyarra Stark"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rodwell_Stark": {
+        "id": "Rodwell_Stark",
+        "name": "Rodwell Stark",
+        "title": [
+            "Lord of Winterfell",
+            "[1]",
+            "Warden of the North",
+            "[1]"
+        ],
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "born": " In or after 152 AC[2]",
+        "died": " In or between 184 212 AC[2]",
+        "spouse": " Lady Myriame Manderly[3]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(appendix)",
+            "A Clash of Kings",
+            "(mentioned)"
+        ]
+    },
+    "Roelle": {
+        "id": "Roelle",
+        "name": "Roelle",
+        "title": " Septa",
+        "allegiance": [
+            "House Tarth",
+            "Faith of the Seven"
+        ],
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rogar_Baratheon": {
+        "id": "Rogar_Baratheon",
+        "name": "Rogar Baratheon",
+        "title": [
+            "Lord of Storm's End",
+            "[1]",
+            "Lord Paramount of the Stormlands",
+            "[2]",
+            "Protector of the Realm",
+            "[1]",
+            "Hand of the King",
+            "[1]"
+        ],
+        "allegiance": " House Baratheon[1]",
+        "culture": " Stormlander[1]",
+        "born": " In 17 AC[3]",
+        "died": " In 62 AC[4], at Storm's End[4]",
+        "spouse": [
+            "1st: Unknown",
+            "[5]",
+            "2nd: Lady",
+            "Alyssa Velaryon",
+            "[5]"
+        ],
+        "issue": [
+            "Boremund Baratheon",
+            "Jocelyn Baratheon"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Rogar_Bolton": {
+        "id": "Rogar_Bolton",
+        "name": "Rogar Bolton",
+        "full name": " Rogar Bolton",
+        "alias": " Rogar the Huntsman",
+        "titles": " Red King",
+        "culture": " Northmen",
+        "royal house": " House Bolton",
+        "issue": " Sons",
+        "books": " The World of Ice & Fire"
+    },
+    "Roger_of_Pennytree": {
+        "id": "Roger_of_Pennytree",
+        "name": "Roger of Pennytree",
+        "culture": " Rivermen",
+        "born": " At Pennytree",
+        "died": " In 196 AC, at the Redgrass Field",
+        "book(s)": [
+            "The Sworn Sword",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ]
+    },
+    "Roger_Blackwood": {
+        "id": "Roger_Blackwood",
+        "name": "Roger Blackwood",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "book(s)": " The Hedge Knight (mentioned)",
+        "personal arms": " Four black ravens, on a scarlet field[1]"
+    },
+    "Roger_Corne": {
+        "id": "Roger_Corne",
+        "name": "Roger Corne",
+        "title": " Ser",
+        "allegiance": [
+            "blacks",
+            "greens"
+        ],
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "The Princess and the Queen",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Roger_Hogg": {
+        "id": "Roger_Hogg",
+        "name": "Roger Hogg",
+        "title": [
+            "Ser",
+            "Knight of Sow's Horn"
+        ],
+        "allegiance": " House Hogg",
+        "culture": " Crownlands",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Roger_Reyne": {
+        "id": "Roger_Reyne",
+        "name": "Roger Reyne",
+        "alias": " The Red Lion[1]",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of Castamere",
+            "[1]"
+        ],
+        "allegiance": " House Reyne",
+        "culture": " Westermen",
+        "born": " In or before 218 AC[2]",
+        "died": " In 261 AC[1], at Castamere[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Roger_Ryswell": {
+        "id": "Roger_Ryswell",
+        "name": "Roger Ryswell",
+        "allegiance": " House Ryswell[1]",
+        "culture": " Northmen[1]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Roggerio_Rogare": {
+        "id": "Roggerio_Rogare",
+        "name": "Roggerio Rogare",
+        "alias": " Lord Roggerio",
+        "title": [
+            "Lord",
+            "[1]",
+            "[2]",
+            "Captain of the",
+            "Mermaid's Daughter"
+        ],
+        "allegiance": " House Rogare",
+        "culture": " Lysene",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Roggo": {
+        "id": "Roggo",
+        "name": "Roggo",
+        "alias": " Red Roggo",
+        "culture": " Braavosi",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Roggon_Rustbeard": {
+        "id": "Roggon_Rustbeard",
+        "name": "Roggon Rustbeard",
+        "alias": " Roggon Rustbeard",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Rogin": {
+        "id": "Rogin",
+        "name": "Rogin",
+        "alias": " Rogin Salt-Beard",
+        "culture": " ironborn",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Rognar_II_Greyiron": {
+        "id": "Rognar_II_Greyiron",
+        "name": "Rognar II Greyiron",
+        "full name": " Rognar Greyiron, Second of His Name Since the Grey King",
+        "titles": [
+            "Iron King",
+            "King of the Iron Islands"
+        ],
+        "culture": " ironborn",
+        "royal house": " House Greyiron",
+        "successor": " Harras Hoare",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Rogo": {
+        "id": "Rogo",
+        "name": "Rogo",
+        "title": " Khal",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Rohanne_of_Tyrosh": {
+        "id": "Rohanne_of_Tyrosh",
+        "name": "Rohanne of Tyrosh",
+        "allegiance": " House Blackfyre",
+        "culture": " Tyroshi",
+        "died": " In or after 212 AC[1]",
+        "spouse": " Daemon I Blackfyre",
+        "issue": [
+            "Aegon Blackfyre",
+            "Aemon Blackfyre",
+            "Daemon II Blackfyre",
+            "Haegon I Blackfyre",
+            "Aenys Blackfyre",
+            "Calla Blackfyre",
+            "2 sons",
+            "Daughter(s)"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(mentioned)"
+        ]
+    },
+    "Rohanne_Tarbeck": {
+        "id": "Rohanne_Tarbeck",
+        "name": "Rohanne Tarbeck",
+        "allegiance": [
+            "House Tarbeck",
+            "silent sisters"
+        ],
+        "culture": " Westermen",
+        "born": " In 240 AC",
+        "issue": " last Lord Tarbeck",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Rohanne_Webber": {
+        "id": "Rohanne_Webber",
+        "name": "Rohanne Webber",
+        "alias": " The Red Widow[1]",
+        "title": [
+            "Lady of Coldmoat",
+            "Lady of",
+            "Standfast",
+            "Lady of",
+            "Casterly Rock"
+        ],
+        "allegiance": [
+            "House Webber",
+            "House Staunton",
+            "House Uffering",
+            "House Osgrey",
+            "House Lannister"
+        ],
+        "culture": " Reach",
+        "born": " In 185 AC or 186 AC[2]",
+        "died": " In or after 230 AC[3]",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown",
+            "3rd: Ser",
+            "Simon Staunton",
+            "4th: Ser",
+            "Rolland Uffering",
+            "5th: Ser",
+            "Eustace Osgrey",
+            "6th: Lord",
+            "Gerold Lannister"
+        ],
+        "issue": [
+            "1 son",
+            "1 daughter",
+            "Tywald Lannister",
+            "Tion Lannister",
+            "Tytos Lannister",
+            "Jason Lannister"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(appears)"
+        ]
+    },
+    "Roland_of_the_Horn": {
+        "id": "Roland_of_the_Horn",
+        "name": "Roland of the Horn",
+        "alias": " Roland of the Horn",
+        "title": " Ser",
+        "book(s)": " The World of Ice & Fire (Mentioned)"
+    },
+    "Roland_I_Arryn": {
+        "id": "Roland_I_Arryn",
+        "name": "Roland I Arryn",
+        "full name": " Roland, First of His Name",
+        "titles": [
+            "King of Mountain and Vale",
+            "Ser"
+        ],
+        "died in": " the Vale",
+        "culture": " Andal",
+        "royal house": " House Arryn",
+        "predecessor": " Second son of Artys I Arryn",
+        "queen": " Teora Hunter",
+        "issue": " Son",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Roland_II_Arryn": {
+        "id": "Roland_II_Arryn",
+        "name": "Roland II Arryn",
+        "full name": " Roland, Second of His Name",
+        "titles": " King of Mountain and Vale",
+        "died in": " Oldstones",
+        "culture": " Andal",
+        "royal house": " House Arryn",
+        "successor": " Robin Arryn",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Roland_Blackwood": {
+        "id": "Roland_Blackwood",
+        "name": "Roland Blackwood",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "book(s)": " The Hedge Knight (mentioned)",
+        "personal arms": " Three weirwood trees, on a scarlet field[1]"
+    },
+    "Roland_Crakehall_(Lord)": {
+        "id": "Roland_Crakehall_(Lord)",
+        "name": "Roland Crakehall (lord)",
+        "title": " Lord of Crakehall[1]",
+        "allegiance": " House Crakehall",
+        "culture": " Westermen",
+        "issue": [
+            "Tybolt Crakehall",
+            "[1]",
+            "Lyle Crakehall",
+            "[1]",
+            "Merlon Crakehall",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Roland_Crakehall_(Kingsguard)": {
+        "id": "Roland_Crakehall_(Kingsguard)",
+        "name": "Roland Crakehall (Kingsguard)",
+        "title": " Ser",
+        "allegiance": [
+            "House Crakehall",
+            "Kingsguard"
+        ],
+        "culture": " Westermen",
+        "book(s)": [
+            "The Hedge Knight",
+            "(appears)",
+            "The Mystery Knight",
+            "(appears)"
+        ]
+    },
+    "Roland_Darry": {
+        "id": "Roland_Darry",
+        "name": "Roland Darry",
+        "title": " Lord of Darry",
+        "allegiance": [
+            "House Darry",
+            "Blacks"
+        ],
+        "culture": " Rivermen",
+        "died": " In 131 AC, at the Kingsroad",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Roland_Waynwood": {
+        "id": "Roland_Waynwood",
+        "name": "Roland Waynwood",
+        "title": " Ser",
+        "allegiance": " House Waynwood",
+        "culture": " Valemen",
+        "born": " In or between 274 AC and 281 AC[1]",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Roland_Westerling": {
+        "id": "Roland_Westerling",
+        "name": "Roland Westerling",
+        "title": [
+            "Lord of the",
+            "Crag",
+            "[1]",
+            "Lord Regent",
+            "[1]"
+        ],
+        "allegiance": " House Westerling[1]",
+        "culture": " Westermen[1]",
+        "died": " In 133 AC, at King's Landing[2]",
+        "issue": " Johanna Westerling[3]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Rolder": {
+        "id": "Rolder",
+        "name": "Rolder",
+        "allegiance": " House Lannister",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rolfe": {
+        "id": "Rolfe",
+        "name": "Rolfe",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Rolfe_the_Dwarf": {
+        "id": "Rolfe_the_Dwarf",
+        "name": "Rolfe the Dwarf",
+        "alias": " Rolfe the Dwarf",
+        "culture": " Ironborn",
+        "died": " In 300 AC, at the woods outside Deepwood Motte",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Rollam_Westerling": {
+        "id": "Rollam_Westerling",
+        "name": "Rollam Westerling",
+        "allegiance": " House Westerling",
+        "culture": " Westermen",
+        "born": " In 290 AC[1], at Crag[2]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rolland_Darklyn": {
+        "id": "Rolland_Darklyn",
+        "name": "Rolland Darklyn",
+        "title": " Ser",
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rolland_Longthorpe": {
+        "id": "Rolland_Longthorpe",
+        "name": "Rolland Longthorpe",
+        "title": " Lord of Longsister",
+        "allegiance": " House Longthorpe",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rolland_Storm": {
+        "id": "Rolland_Storm",
+        "name": "Rolland Storm",
+        "alias": " The Bastard of Nightsong",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Dragonstone",
+            "Lord of Nightsong",
+            "(claimant)",
+            "[1]",
+            "Lord of the Marches",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "House Caron",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": " Marcher",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Rolland_Uffering": {
+        "id": "Rolland_Uffering",
+        "name": "Rolland Uffering",
+        "title": " Ser",
+        "allegiance": " House Uffering",
+        "culture": " Reach",
+        "died": " In 209 AC or 210 AC",
+        "spouse": " Lady Rohanne Webber",
+        "issue": " Daughter (possibly)[N 1]",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Rolley": {
+        "id": "Rolley",
+        "name": "Rolley of Sisterton",
+        "allegiance": " Night's Watch",
+        "culture": " Sistermen",
+        "born": " At Sisterton",
+        "died": " In 299 AC, at Craster's Keep",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Rollo": {
+        "id": "Rollo",
+        "name": "Rollo",
+        "title": " Septon",
+        "allegiance": " Faith of the Seven",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rolly_Duckfield": {
+        "id": "Rolly_Duckfield",
+        "name": "Rolly Duckfield",
+        "alias": [
+            "Duck",
+            "[1]",
+            "Ser Duck",
+            "[1]"
+        ],
+        "title": " Ser",
+        "allegiance": [
+            "House Caswell",
+            "(formerly)",
+            "Golden Company",
+            "(formerly)",
+            "House Targaryen",
+            "Kingsguard"
+        ],
+        "culture": " Reach",
+        "born": " In or before 280 AC[2], at Bitterbridge[1]",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Rolph_Spicer": {
+        "id": "Rolph_Spicer",
+        "name": "Rolph Spicer",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of the",
+            "Crag",
+            "Lord of Castamere"
+        ],
+        "allegiance": [
+            "House Spicer",
+            "House Westerling"
+        ],
+        "culture": " Westermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Rommo": {
+        "id": "Rommo",
+        "name": "Rommo",
+        "title": " jaqqa rhan",
+        "allegiance": " House Targaryen",
+        "race": " Dothraki",
+        "culture": " Dothraki",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Romny_Weaver": {
+        "id": "Romny_Weaver",
+        "name": "Romny Weaver",
+        "allegiance": " House Weaver",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Ronald_Connington": {
+        "id": "Ronald_Connington",
+        "name": "Ronald Connington",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Griffin's Roost",
+            "Knight of Griffin's Roost"
+        ],
+        "allegiance": " House Connington",
+        "culture": " Stormlands",
+        "born": " In or before 262 AC[1]",
+        "died": " In or between 292 AC and 298 AC[1]",
+        "issue": [
+            "Ronnet Connington",
+            "Raymund Connington",
+            "Alynne Connington"
+        ],
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Ronald_Storm": {
+        "id": "Ronald_Storm",
+        "name": "Ronald Storm",
+        "allegiance": " House Connington",
+        "culture": " Stormlands",
+        "born": " In or after 286 AC[1]",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Ronald_Vance": {
+        "id": "Ronald_Vance",
+        "name": "Ronald Vance",
+        "alias": " Ronald the Bad[1]",
+        "title": " Ser[1]",
+        "allegiance": " House Vance of Atranta",
+        "culture": " Rivermen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Ronard_Storm": {
+        "id": "Ronard_Storm",
+        "name": "Ronard Storm",
+        "full name": " Ronard Storm",
+        "alias": " Ronard the Bastard",
+        "titles": [
+            "Storm King",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ],
+        "royal house": " House Durrandon (de facto)",
+        "predecessor": " Morden II Durrandon",
+        "queen": " Sister of Morden II",
+        "spouse": " 22 wives",
+        "issue": " 99 sons",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Ronel_Rivers": {
+        "id": "Ronel_Rivers",
+        "name": "Ronel Rivers",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Ronnal_Baratheon": {
+        "id": "Ronnal_Baratheon",
+        "name": "Ronnal Baratheon",
+        "title": " Ser[1]",
+        "allegiance": " House Baratheon",
+        "culture": " Stormlander",
+        "born": " In 19 25 AC[2]",
+        "died": " In 59 AC or 60 AC[3]",
+        "spouse": " Unknown[3]",
+        "issue": [
+            "Sons",
+            "[3]",
+            "2 daughters",
+            "[3]"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Ronnel_Arryn_(king)": {
+        "id": "Ronnel_Arryn_(king)",
+        "name": "Ronnel Arryn (king)",
+        "alias": " The King Who Flew",
+        "titles": [
+            "King of Mountain and Vale",
+            "Lord of the Eyrie",
+            "Warden of the East"
+        ],
+        "died in": " 37 AC or shortly after the Eyrie",
+        "royal house": " House Arryn",
+        "queen": " None",
+        "spouse": " Daughter of Torrhen Stark",
+        "mother": " Queen Regent Sharra Arryn",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Ronnel_Arryn_(son_of_Jasper)": {
+        "id": "Ronnel_Arryn_(son_of_Jasper)",
+        "name": "Ronnel Arryn (son of Jasper)",
+        "title": [
+            "Ser",
+            "Keeper of the Gates of the Moon"
+        ],
+        "allegiance": " House Arryn",
+        "born": " In or between 219 AC and 252 AC[1]",
+        "spouse": " Lady Belmore",
+        "issue": " Elbert Arryn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Ronnel_Harclay": {
+        "id": "Ronnel_Harclay",
+        "name": "Ronnel Harclay",
+        "title": " First Ranger",
+        "allegiance": [
+            "House Harclay",
+            "Night's Watch"
+        ],
+        "culture": " Northern mountain clans",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Ronnel_Penrose": {
+        "id": "Ronnel_Penrose",
+        "name": "Ronnel Penrose",
+        "title": [
+            "Lord of Parchments",
+            "[1]",
+            "Master of coin",
+            "[1]"
+        ],
+        "allegiance": " House Penrose",
+        "culture": " Stormlander",
+        "died": " In or between 188 AC and 209 AC[2]",
+        "spouse": " Princess Elaena Targaryen[3]",
+        "issue": [
+            "Robin Penrose",
+            "[3]",
+            "Laena Penrose",
+            "[3]",
+            "Jocelyn Penrose",
+            "[3]",
+            "Joy Penrose",
+            "[3]"
+        ],
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Ronnel_Stout": {
+        "id": "Ronnel_Stout",
+        "name": "Ronnel Stout",
+        "allegiance": " House Stout",
+        "culture": " Northmen",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Ronnel_Vance": {
+        "id": "Ronnel_Vance",
+        "name": "Ronnel Vance",
+        "title": " Lord",
+        "allegiance": " House Vance",
+        "culture": " rivermen",
+        "died": " In 43 AC, at the Gods Eye",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Ronnet_Connington": {
+        "id": "Ronnet_Connington",
+        "name": "Ronnet Connington",
+        "alias": " Red Ronnet",
+        "title": [
+            "Ser",
+            "Knight of Griffin's Roost"
+        ],
+        "allegiance": " House Connington",
+        "culture": " Stormlands",
+        "born": " In 274 AC[1]",
+        "issue": " Ronald Storm",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Rook": {
+        "id": "Rook",
+        "name": "Rook",
+        "culture": " ironborn",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Roone": {
+        "id": "Roone",
+        "name": "Roone",
+        "title": " Novice",
+        "allegiance": " The Citadel",
+        "born": " In 286 AC[1]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Roone_(maester)": {
+        "id": "Roone_(maester)",
+        "name": "Roone (maester)",
+        "title": " Maester at Castle Lychester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Lychester"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Roose_Bolton": {
+        "id": "Roose_Bolton",
+        "name": "Roose Bolton",
+        "alias": [
+            "Lord Leech",
+            "[1]",
+            "The Leech Lord",
+            "[2]",
+            "Lord of leeches",
+            "[3]"
+        ],
+        "title": [
+            "Lord of the Dreadfort",
+            "Warden of the North"
+        ],
+        "allegiance": " House Bolton",
+        "culture": " Northmen",
+        "born": " In 260 AC or before[4], at the Dreadfort[5]",
+        "spouse": [
+            "1st: Unnamed",
+            "2nd: Lady",
+            "Bethany Ryswell",
+            "[6]",
+            "3rd: Lady",
+            "\"Fat\" Walda Frey",
+            "[7]"
+        ],
+        "issue": [
+            "Sons who died in the cradle",
+            "[6]",
+            "Domeric Bolton",
+            "Ramsay Snow",
+            "Unborn child",
+            "[8]"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Michael McElhatton",
+        "tv series": " Season 2 | Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Roose_Ryswell": {
+        "id": "Roose_Ryswell",
+        "name": "Roose Ryswell",
+        "allegiance": " House Ryswell",
+        "culture": " Northmen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Rorge": {
+        "id": "Rorge",
+        "name": "Rorge",
+        "alias": [
+            "Broken Nose",
+            "The Mad Dog of Saltpans",
+            "The",
+            "Hound",
+            "(II)"
+        ],
+        "allegiance": " Brave Companions",
+        "died": " In 300 AC, at the inn at the crossroads",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)"
+        ],
+        "played by": [
+            "Unknown extra",
+            "Season 1",
+            "Andy Beckwith",
+            "Season 2",
+            "|",
+            "Season 4"
+        ],
+        "tv series": " Season 1 | Season 2 | Season 4"
+    },
+    "Roro_Uhoris": {
+        "id": "Roro_Uhoris",
+        "name": "Roro Uhoris",
+        "alias": " The Blind Bastard",
+        "title": " Captain of Cobblecat",
+        "culture": " Tyroshi",
+        "died": " At Eastwatch-by-the-sea",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rory": {
+        "id": "Rory",
+        "name": "Rory",
+        "allegiance": " Night's Watch",
+        "culture": " Westerosi",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Roryn_Drumm": {
+        "id": "Roryn_Drumm",
+        "name": "Roryn Drumm",
+        "alias": " Roryn the Reaver",
+        "allegiance": " House Drumm",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rosamund_Ball": {
+        "id": "Rosamund_Ball",
+        "name": "Rosamund Ball",
+        "title": " Lady",
+        "allegiance": " House Ball",
+        "culture": " Reach",
+        "died": " In 51 AC, at Maidenpool",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rosamund_Darry": {
+        "id": "Rosamund_Darry",
+        "name": "Rosamund Darry",
+        "allegiance": " House Darry",
+        "culture": " Rivermen",
+        "born": " In 103 133 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rosamund_Lannister": {
+        "id": "Rosamund_Lannister",
+        "name": "Rosamund Lannister",
+        "allegiance": " House Lannister of Lannisport",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rose_of_Red_Lake": {
+        "id": "Rose_of_Red_Lake",
+        "name": "Rose of Red Lake",
+        "allegiance": " House Crane",
+        "race": " First Men",
+        "culture": " Reach",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Rosey": {
+        "id": "Rosey",
+        "name": "Rosey",
+        "culture": " Reach",
+        "born": " In 284 AC or 285 AC[1], at Oldtown",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rosey_(daughter_of_Aegon_IV)": {
+        "id": "Rosey_(daughter_of_Aegon_IV)",
+        "name": "Rosey (daughter of Aegon IV)",
+        "title": " Septa (possibly)",
+        "allegiance": " Faith of the Seven",
+        "culture": " Crownlands",
+        "born": " In 158 AC[1], at King's Landing",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Roslin_Frey": {
+        "id": "Roslin_Frey",
+        "name": "Roslin Frey",
+        "alias": " Roslin Tully[1]",
+        "title": " Lady of Riverrun (briefly)",
+        "allegiance": [
+            "House Frey",
+            "House Tully"
+        ],
+        "culture": " Rivermen",
+        "born": " In 282 AC or 283 AC[2]",
+        "spouse": " Ser Edmure Tully",
+        "issue": " Unborn child[3]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Alexandra Dowling[4]",
+        "tv series": " Season 3"
+    },
+    "Rossart": {
+        "id": "Rossart",
+        "name": "Rossart",
+        "title": [
+            "Grand Master",
+            "Wisdom",
+            "Lord",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "Alchemists' Guild",
+            "House Targaryen"
+        ],
+        "culture": " Crownlands",
+        "died": " In 283 AC, at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(Mentioned)",
+            "A Storm of Swords",
+            "(Mentioned)",
+            "A Feast for Crows",
+            "(Mentioned)"
+        ],
+        "personal arms": " A hand holding a torch lit with green fire and a chief lit with green flames, on silver"
+    },
+    "Rowan": {
+        "id": "Rowan",
+        "name": "Rowan",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "died": " In 300 AC, at Winterfell",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Rowan_Gold-Tree": {
+        "id": "Rowan_Gold-Tree",
+        "name": "Rowan Gold-Tree",
+        "allegiance": " House Rowan",
+        "race": " First Men",
+        "culture": " Reach",
+        "issue": " Lann the Clever (allegedly)",
+        "book(s)": " The World of Ice & Fire (Mentioned)"
+    },
+    "Rowena_Arryn": {
+        "id": "Rowena_Arryn",
+        "name": "Rowena Arryn",
+        "title": " Lady of the Eyrie",
+        "allegiance": " House Arryn",
+        "culture": " Valemen",
+        "spouse": " Lord Jon Arryn",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Rowley": {
+        "id": "Rowley",
+        "name": "Rowley",
+        "title": [
+            "Maester",
+            "Lord Confessor"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ],
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Roy_Connington": {
+        "id": "Roy_Connington",
+        "name": "Roy Connington",
+        "alias": " Red Roy Connington[1]",
+        "title": " Lord of Griffin's Roost[1]",
+        "allegiance": " House Connington",
+        "culture": " Stormlander",
+        "born": " In 67 AC[2]",
+        "died": " In 93 AC or 94 AC[2]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Royce_II_Bolton": {
+        "id": "Royce_II_Bolton",
+        "name": "Royce II Bolton",
+        "full name": " King Royce of House Bolton, the second of his name",
+        "titles": " Red King",
+        "culture": " Northmen",
+        "royal house": " House Bolton",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Royce_IV_Bolton": {
+        "id": "Royce_IV_Bolton",
+        "name": "Royce IV Bolton",
+        "full name": " Royce IV Bolton",
+        "alias": " Royce Redarm",
+        "titles": " Red King",
+        "culture": " Northmen",
+        "royal house": " House Bolton",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Royce_Blackwood": {
+        "id": "Royce_Blackwood",
+        "name": "Royce Blackwood",
+        "allegiance": " House Blackwood",
+        "culture": " Rivermen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Royce_Caron": {
+        "id": "Royce_Caron",
+        "name": "Royce Caron",
+        "title": [
+            "Lord of",
+            "Nightsong",
+            "[1]",
+            "Marshal of the Marches",
+            "[1]",
+            "Lord Regent",
+            "[1]"
+        ],
+        "allegiance": " House Caron",
+        "culture": " Marcher",
+        "born": " In or before 84 AC[2]",
+        "died": " In or after 133 AC[2]",
+        "issue": " Elenda Caron[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Royce_Coldwater": {
+        "id": "Royce_Coldwater",
+        "name": "Royce Coldwater",
+        "title": " Lord of Coldwater Burn",
+        "allegiance": " House Coldwater",
+        "book(s)": "  A Feast for Crows (mentioned)"
+    },
+    "Rudge": {
+        "id": "Rudge",
+        "name": "Rudge",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Rue": {
+        "id": "Rue",
+        "name": "Rue",
+        "title": " Septa (possibly)",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Rufus_Leek": {
+        "id": "Rufus_Leek",
+        "name": "Rufus Leek",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of the",
+            "Dun Fort"
+        ],
+        "allegiance": [
+            "House Leek",
+            "House Rykker"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rugen": {
+        "id": "Rugen",
+        "name": "Rugen",
+        "alias": " Varys",
+        "title": " Undergaoler",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Runceford_Redwyne": {
+        "id": "Runceford_Redwyne",
+        "name": "Runceford Redwyne",
+        "title": " Lord of the Arbor",
+        "allegiance": " House Redwyne",
+        "culture": " Reach",
+        "issue": [
+            "Son",
+            "Olenna Redwyne"
+        ],
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Runcel_Hightower": {
+        "id": "Runcel_Hightower",
+        "name": "Runcel Hightower",
+        "title": " Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Hightower",
+            "Night's Watch"
+        ],
+        "issue": " Bastard son",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Runciter": {
+        "id": "Runciter",
+        "name": "Runciter",
+        "title": " Grand Maester",
+        "allegiance": " The Citadel",
+        "died": " In 112 AC",
+        "book(s)": [
+            "Fire & Blood",
+            "(Mentioned)",
+            "The Rogue Prince",
+            "(Mentioned)"
+        ]
+    },
+    "Rupert_Brax": {
+        "id": "Rupert_Brax",
+        "name": "Rupert Brax",
+        "alias": " Rubert Brax[1]",
+        "title": " Ser[1]",
+        "allegiance": " House Brax",
+        "died": " In 299 AC[1], at Oxcross[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Rupert_Crabb": {
+        "id": "Rupert_Crabb",
+        "name": "Rupert Crabb",
+        "title": " Ser",
+        "allegiance": [
+            "House Crabb",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Rupert_Falwell": {
+        "id": "Rupert_Falwell",
+        "name": "Rupert Falwell",
+        "alias": " The Fighting Fool[1][2]",
+        "title": " Lord",
+        "allegiance": [
+            "House Falwell",
+            "Faith Militant"
+        ],
+        "culture": " Westermen",
+        "died": " In 42 AC[1][2], at the Great Fork of the Blackwater",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Rus": {
+        "id": "Rus",
+        "name": "Rus",
+        "allegiance": " drowned men",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Russ_Barleycorn": {
+        "id": "Russ_Barleycorn",
+        "name": "Russ Barleycorn",
+        "title": " Captain",
+        "allegiance": " Night's Watch",
+        "culture": " Westerosi",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Russell_Merryweather": {
+        "id": "Russell_Merryweather",
+        "name": "Russell Merryweather",
+        "allegiance": " House Merryweather",
+        "culture": " Reach",
+        "born": " In 293 AC or 294 AC[1], at Longtable[2]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Russell_Stillman": {
+        "id": "Russell_Stillman",
+        "name": "Russell Stillman",
+        "title": " Ser",
+        "allegiance": " House Velaryon",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Rusty_Flowers": {
+        "id": "Rusty_Flowers",
+        "name": "Rusty Flowers",
+        "allegiance": " Night's Watch",
+        "born": " At the Reach",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Ryam": {
+        "id": "Ryam",
+        "name": "Ryam",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Ryam_Florent": {
+        "id": "Ryam_Florent",
+        "name": "Ryam Florent",
+        "title": " Ser",
+        "allegiance": " House Florent",
+        "issue": [
+            "Selyse Florent",
+            "Imry Florent",
+            "Erren Florent"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ryam_Redwyne": {
+        "id": "Ryam_Redwyne",
+        "name": "Ryam Redwyne",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Redwyne",
+            "Kingsguard"
+        ],
+        "culture": " Reach",
+        "died": " In 105 AC, at King's Landing",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Hedge Knight",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ryben": {
+        "id": "Ryben",
+        "name": "Ryben",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Rycherd_Crane": {
+        "id": "Rycherd_Crane",
+        "name": "Rycherd Crane",
+        "title": " Ser[1]",
+        "allegiance": " House Crane",
+        "culture": " Reach",
+        "spouse": " Rylene Florent[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Ryella_Frey": {
+        "id": "Ryella_Frey",
+        "name": "Ryella Frey",
+        "allegiance": " House Frey",
+        "born": " In 294 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ryella_Royce": {
+        "id": "Ryella_Royce",
+        "name": "Ryella Royce",
+        "allegiance": [
+            "House Royce",
+            "House Frey"
+        ],
+        "spouse": " Ser Arwood Frey",
+        "issue": [
+            "Ryella Frey",
+            "Androw Frey",
+            "Alyn Frey",
+            "Hostella Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ryger_Rivers": {
+        "id": "Ryger_Rivers",
+        "name": "Ryger Rivers",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Bryan McCaugherty",
+        "tv series": " Season 1"
+    },
+    "Ryk": {
+        "id": "Ryk",
+        "name": "Ryk",
+        "alias": [
+            "Longspear Ryk",
+            "[1]",
+            "Longspear",
+            "[1]"
+        ],
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "spouse": " Munda",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rylene_Florent": {
+        "id": "Rylene_Florent",
+        "name": "Rylene Florent",
+        "allegiance": [
+            "House Florent",
+            "House Crane"
+        ],
+        "culture": " Reach",
+        "spouse": " Ser Rycherd Crane",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ryles": {
+        "id": "Ryles",
+        "name": "Ryles",
+        "allegiance": " Night's Watch",
+        "died": " In +/- 299 AC, at beyond the Wall",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Rylona_Rhee": {
+        "id": "Rylona_Rhee",
+        "name": "Rylona Rhee",
+        "title": " The Harpist",
+        "died": " In 300 AC, at Meereen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Ryman_Frey": {
+        "id": "Ryman_Frey",
+        "name": "Ryman Frey",
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In or between 245 AC and ~249 AC[1]",
+        "died": " In 300 AC, at near Fairmarket",
+        "spouse": " Unknown",
+        "issue": [
+            "Edwyn Frey",
+            "Walder Frey",
+            "Petyr Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Rymolf_Stormdrunk": {
+        "id": "Rymolf_Stormdrunk",
+        "name": "Rymolf Stormdrunk",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Rymond_Arryn": {
+        "id": "Rymond_Arryn",
+        "name": "Rymond Arryn",
+        "title": " Ser[1]",
+        "allegiance": " House Arryn",
+        "culture": " Valemen",
+        "born": " In or before 31 AC[2]",
+        "died": " In 54 AC[1], at Mountains of the Moon[1]",
+        "issue": [
+            "Rodrik Arryn",
+            "[1]",
+            "Daughter",
+            "[3]"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Rymund_the_Rhymer": {
+        "id": "Rymund_the_Rhymer",
+        "name": "Rymund the Rhymer",
+        "alias": " Rymund the Rhymer",
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Ryon_Allyrion": {
+        "id": "Ryon_Allyrion",
+        "name": "Ryon Allyrion",
+        "title": " Ser[1]",
+        "allegiance": " House Allyrion",
+        "culture": " Dornishmen",
+        "born": " In or before 264 AC[2]",
+        "spouse": " Ynys Yronwood[3]",
+        "issue": [
+            "Daemon Sand",
+            "[1]",
+            "2 trueborn sons",
+            "[3]"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Ragged_Silas": {
+        "id": "Ragged_Silas",
+        "name": "Ragged Silas",
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows"
+        ],
+        "culture": " Westerosi",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    }
+}

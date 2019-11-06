@@ -1,0 +1,3257 @@
+{
+    "Gael_Targaryen": {
+        "id": "Gael_Targaryen",
+        "name": "Gael Targaryen",
+        "alias": " The Winter Child[1]",
+        "title": " Princess",
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " Crownlands",
+        "born": " In 80 AC[2]",
+        "died": " In 99 AC[2], at the Blackwater Rush[2]",
+        "issue": " Stillborn bastard son[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gaemon_Palehair": {
+        "id": "Gaemon_Palehair",
+        "name": "Gaemon Palehair",
+        "alias": [
+            "King Cunny",
+            "The Cunny King",
+            "The Palehair"
+        ],
+        "title": " King",
+        "allegiance": " House Targaryen",
+        "culture": " Crownlands",
+        "born": " In 126 AC[1]",
+        "died": " In 135 AC[2], at the Red Keep",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gaemon_Targaryen_(son_of_Aenar)": {
+        "id": "Gaemon_Targaryen_(son_of_Aenar)",
+        "name": "Gaemon Targaryen (son of Aenar)",
+        "alias": " Gaemon the Glorious",
+        "title": " Lord of Dragonstone",
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "born": " At Dragonstone",
+        "spouse": " Lady Daenys Targaryen",
+        "issue": [
+            "Aegon Targaryen",
+            "Elaena Targaryen",
+            "Daughter"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gaemon_Targaryen_(son_of_Jaehaerys_I)": {
+        "id": "Gaemon_Targaryen_(son_of_Jaehaerys_I)",
+        "name": "Gaemon Targaryen (son of Jaehaerys I)",
+        "title": " Prince",
+        "allegiance": " House Targaryen",
+        "race": " Valyrian",
+        "culture": " crownlands",
+        "born": " In 73 AC[1], at King's Landing[1]",
+        "died": " In 74 AC[1], at King's Landing[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(appendix)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gage": {
+        "id": "Gage",
+        "name": "Gage",
+        "allegiance": " House Stark",
+        "culture": " Northmen",
+        "issue": " Turnip",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Galazza_Galare": {
+        "id": "Galazza_Galare",
+        "name": "Galazza Galare",
+        "title": " Green Grace",
+        "allegiance": [
+            "Graces",
+            "House of Galare"
+        ],
+        "culture": " Ghiscari",
+        "born": " In 217 AC (roughly)[1], at Meereen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Galbart_Glover": {
+        "id": "Galbart_Glover",
+        "name": "Galbart Glover",
+        "title": " Master of Deepwood Motte[1]",
+        "allegiance": " House Glover",
+        "culture": " Northmen",
+        "born": " At Deepwood Motte[2]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Mark Coney",
+        "tv series": " Season 1"
+    },
+    "Galendro": {
+        "id": "Galendro",
+        "name": "Galendro",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Galeo": {
+        "id": "Galeo",
+        "name": "Galeo",
+        "culture": " Braavosi",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Galladon_of_Morne": {
+        "id": "Galladon_of_Morne",
+        "name": "Galladon of Morne",
+        "alias": " The Perfect Knight[1]",
+        "title": " Ser",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Galladon_Tarth": {
+        "id": "Galladon_Tarth",
+        "name": "Galladon Tarth",
+        "allegiance": " House Tarth",
+        "culture": " Stormlander",
+        "born": " In either 275 AC, 276 AC or 277 AC[1]",
+        "died": " In either 284 AC or 285 AC[1]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gallard": {
+        "id": "Gallard",
+        "name": "Gallard",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Galon_Whitestaff": {
+        "id": "Galon_Whitestaff",
+        "name": "Galon Whitestaff",
+        "title": " Priest of the Drowned God",
+        "allegiance": " Drowned God",
+        "culture": " Ironborn",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Galt": {
+        "id": "Galt",
+        "name": "Galt",
+        "allegiance": " Stone Crows",
+        "culture": " Vale mountain clans",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Galtry_the_Green": {
+        "id": "Galtry_the_Green",
+        "name": "Galtry the Green",
+        "title": " Ser",
+        "book(s)": " The Mystery Knight (appears)",
+        "personal arms": " nine jade mullets upon a field of leek green[1]"
+    },
+    "Galyeon_of_Cuy": {
+        "id": "Galyeon_of_Cuy",
+        "name": "Galyeon of Cuy",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Gared": {
+        "id": "Gared",
+        "name": "Gared",
+        "allegiance": " Night's Watch[1] (deserted)[2]",
+        "born": " In or between ~241 AC and 246 AC[3]",
+        "died": " In 298 AC, at the North",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)"
+        ],
+        "played by": " Dermot Keaney",
+        "tv series": " Season 1"
+    },
+    "Gareth_(maester)": {
+        "id": "Gareth_(maester)",
+        "name": "Gareth (maester)",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gareth_Clifton": {
+        "id": "Gareth_Clifton",
+        "name": "Gareth Clifton",
+        "title": " Ser",
+        "allegiance": " House Clifton",
+        "culture": " Westermen",
+        "spouse": " Jeyne Farman",
+        "issue": " 12 children",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gareth_II_Gardener": {
+        "id": "Gareth_II_Gardener",
+        "name": "Gareth II Gardener",
+        "full name": " Gareth of House Gardener, the Second of His Name",
+        "alias": " Gareth the Grim",
+        "titles": " King of the Reach",
+        "died in": " Oldtown[1]",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gareth_Long": {
+        "id": "Gareth_Long",
+        "name": "Gareth Long",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Starpike",
+            "Master-at-arms at the",
+            "Red Keep"
+        ],
+        "allegiance": [
+            "House Long",
+            "House Peake",
+            "Night's Watch"
+        ],
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gareth_the_Grey": {
+        "id": "Gareth_the_Grey",
+        "name": "Gareth the Grey",
+        "alias": " Gareth the Grey",
+        "title": " Ser",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Gareth_Tyrell": {
+        "id": "Gareth_Tyrell",
+        "name": "Gareth Tyrell",
+        "title": " High Steward of Highgarden",
+        "allegiance": " House Tyrell",
+        "culture": " Andal",
+        "issue": " Leo Tyrell",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gargon_Qoherys": {
+        "id": "Gargon_Qoherys",
+        "name": "Gargon Qoherys",
+        "alias": " Gargon the Guest",
+        "title": " Lord of Harrenhal",
+        "allegiance": " House Qoherys",
+        "race": " Valyrian",
+        "culture": " Rivermen",
+        "died": " In 37 AC or shortly after, at Harrenhal",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Garibald": {
+        "id": "Garibald",
+        "name": "Garibald",
+        "title": " Ser",
+        "allegiance": " Second Sons",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Garibald_Grey": {
+        "id": "Garibald_Grey",
+        "name": "Garibald Grey",
+        "title": " Ser",
+        "allegiance": [
+            "House Grey",
+            "blacks"
+        ],
+        "culture": " rivermen",
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)",
+            "Fire and Blood",
+            "(mentioned)"
+        ]
+    },
+    "Garibald_of_the_Seven_Stars": {
+        "id": "Garibald_of_the_Seven_Stars",
+        "name": "Garibald of the Seven Stars",
+        "alias": [
+            "Garibald of the Seven Stars",
+            "The septon knight"
+        ],
+        "title": [
+            "Ser",
+            "Septon"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "died": " In 42 AC, at King's Landing",
+        "book(s)": " The Sons of the Dragon (mentioned)"
+    },
+    "Garibald_Shells": {
+        "id": "Garibald_Shells",
+        "name": "Garibald Shells",
+        "title": " Ser",
+        "allegiance": " House Martell",
+        "culture": " Dornish",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Garigus": {
+        "id": "Garigus",
+        "name": "Garigus",
+        "title": " Wisdom",
+        "allegiance": " Alchemists' Guild",
+        "culture": " Crownlands",
+        "died": " At King's Landing",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Garin_(Orphans)": {
+        "id": "Garin_(Orphans)",
+        "name": "Garin (orphan)",
+        "alias": " Garin of the Orphans[1]",
+        "allegiance": " House Martell",
+        "race": " Rhoynar",
+        "culture": " Dornish, Orphans of the Greenblood",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Garin_(Prince)": {
+        "id": "Garin_(Prince)",
+        "name": "Garin the Great",
+        "alias": " Garin the Great",
+        "title": " Prince of Chroyane",
+        "allegiance": " Rhoynar",
+        "race": " Rhoynar",
+        "culture": " Rhoynar",
+        "died": " At Chroyane",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Gariss": {
+        "id": "Gariss",
+        "name": "Gariss",
+        "allegiance": " House Stark",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Garizon": {
+        "id": "Garizon",
+        "name": "Garizon",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Garlan_Tyrell": {
+        "id": "Garlan_Tyrell",
+        "name": "Garlan Tyrell",
+        "alias": [
+            "Garlan the Gallant",
+            "[1]",
+            "Renly's ghost",
+            "[2]",
+            "Lord Renly",
+            "[3]",
+            "Lord Renly's shade",
+            "[4]"
+        ],
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of Brightwater Keep",
+            "[5]"
+        ],
+        "allegiance": [
+            "House Tyrell of Highgarden",
+            "House Tyrell of Brightwater Keep",
+            "[5]"
+        ],
+        "culture": " Reach",
+        "born": " In 277 AC[6], at Highgarden[7]",
+        "spouse": " Lady Leonette Fossoway[8]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "personal arms": [
+            "Two golden roses on green",
+            "(Vert two roses Or)",
+            "[9]"
+        ]
+    },
+    "Garland_II_Gardener": {
+        "id": "Garland_II_Gardener",
+        "name": "Garland II Gardener",
+        "full name": " Garland of House Gardener, the Second of His Name",
+        "alias": " Garland the Bridegroom",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "queen": [
+            "Multiple wives",
+            "Daughter of",
+            "Lymond Hightower"
+        ],
+        "issue": " Daughter",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garland_VI_Gardener": {
+        "id": "Garland_VI_Gardener",
+        "name": "Garland VI Gardener",
+        "full name": " Garland of House Gardener, the Sixth of His Name",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garmon_Hightower": {
+        "id": "Garmon_Hightower",
+        "name": "Garmon Hightower",
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "died": " In 10 AC[1], at Oldtown[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Garmund_Hightower": {
+        "id": "Garmund_Hightower",
+        "name": "Garmund Hightower",
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "born": " In or between 117 AC and 127 AC[1]",
+        "spouse": " Princess Rhaena Targaryen[2]",
+        "issue": " 6 daughters[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(appendix)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Garon_Baratheon": {
+        "id": "Garon_Baratheon",
+        "name": "Garon Baratheon",
+        "title": " Ser[1]",
+        "allegiance": " House Baratheon",
+        "culture": " Stormlander",
+        "born": " In 19 25 AC[2]",
+        "died": " In or after 73 AC[3]",
+        "spouse": " Unknown",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Garrett_Flowers": {
+        "id": "Garrett_Flowers",
+        "name": "Garrett Flowers",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garrett_Greenspear": {
+        "id": "Garrett_Greenspear",
+        "name": "Garrett Greenspear",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Garrett_Paege": {
+        "id": "Garrett_Paege",
+        "name": "Garrett Paege",
+        "allegiance": " House Paege",
+        "culture": " Rivermen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garrick_Hall": {
+        "id": "Garrick_Hall",
+        "name": "Garrick Hall",
+        "title": " Ser",
+        "allegiance": " Blacks",
+        "born": " At Middleton",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Garris_the_Grey": {
+        "id": "Garris_the_Grey",
+        "name": "Garris the Grey",
+        "alias": " Garris the Grey",
+        "title": " Prince of Ny Sar",
+        "allegiance": " Ny Sar",
+        "race": " Rhoynar",
+        "culture": " Rhoynar",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Garrison_Fowler": {
+        "id": "Garrison_Fowler",
+        "name": "Garrison Fowler",
+        "alias": " The Blind King",
+        "titles": [
+            "King of Stone and Sky",
+            "Lord of Skyreach",
+            "Lord of the Wide Way"
+        ],
+        "culture": " Dornishmen",
+        "royal house": " House Fowler",
+        "heir": " Unknown",
+        "successor": " None (the Fowlers knelt to House Martell)",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garrison_Prester": {
+        "id": "Garrison_Prester",
+        "name": "Garrison Prester",
+        "title": " Lord of Feastfires[1]",
+        "allegiance": " House Prester[1]",
+        "culture": " westermen[1]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garse": {
+        "id": "Garse",
+        "name": "Garse",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Garse_Flowers": {
+        "id": "Garse_Flowers",
+        "name": "Garse Flowers",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garse_VII_Gardener": {
+        "id": "Garse_VII_Gardener",
+        "name": "Garse VII Gardener",
+        "reign": " Century of Blood",
+        "full name": " Garse of House Gardener, the Seventh of His Name",
+        "titles": " King of the Reach",
+        "died in": " Battle of Summerfield",
+        "royal house": " House Gardener",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Garse_Goodbrook": {
+        "id": "Garse_Goodbrook",
+        "name": "Garse Goodbrook",
+        "title": " Ser[1]",
+        "allegiance": " House Goodbrook",
+        "culture": " Rivermen",
+        "died": " In the Twins[2], at 299 AC[2]",
+        "spouse": " Kyra Frey[1]",
+        "issue": [
+            "Walder Goodbrook",
+            "[1]",
+            "Jeyne Goodbrook",
+            "[1]"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Garth_of_Greenaway": {
+        "id": "Garth_of_Greenaway",
+        "name": "Garth of Greenaway",
+        "allegiance": " Night's Watch",
+        "born": " At Greenaway",
+        "died": " In 300 AC, at beyond the Wall",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garth_the_Gardener": {
+        "id": "Garth_the_Gardener",
+        "name": "Garth the Gardener",
+        "reign": " In the Age of Heroes",
+        "full name": " Garth the Gardener",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "father": " Garth Greenhand",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_III_Gardener": {
+        "id": "Garth_III_Gardener",
+        "name": "Garth III Gardener",
+        "full name": " Garth of House Gardener, the Third of His Name",
+        "alias": " Garth the Great",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_V_Gardener": {
+        "id": "Garth_V_Gardener",
+        "name": "Garth V Gardener",
+        "full name": " Garth of House Gardener, the Fifth of His Name",
+        "alias": " Hammer of the Dornish",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_VI_Gardener": {
+        "id": "Garth_VI_Gardener",
+        "name": "Garth VI Gardener",
+        "full name": " Garth of House Gardener, the Sixth of His Name",
+        "alias": " Garth the Morningstar",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_VII_Gardener": {
+        "id": "Garth_VII_Gardener",
+        "name": "Garth VII Gardener",
+        "full name": " Garth of House Gardener, the Seventh of His Name",
+        "alias": [
+            "Garth Goldenhand",
+            "The Goldenhand"
+        ],
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "successor": " A great-grandson",
+        "issue": [
+            "Son",
+            "2 daughters"
+        ],
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_IX_Gardener": {
+        "id": "Garth_IX_Gardener",
+        "name": "Garth IX Gardener",
+        "reign": " Andal Invasion",
+        "full name": " Garth of House Gardener, the Ninth of His Name",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "heir": " Merle I Gardener",
+        "successor": " Merle I Gardener",
+        "issue": " Merle I Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_X_Gardener": {
+        "id": "Garth_X_Gardener",
+        "name": "Garth X Gardener",
+        "full name": " Garth of House Gardener, the Tenth of His Name",
+        "alias": " Garth Greybeard",
+        "titles": " King of the Reach",
+        "died in": " Highgarden",
+        "royal house": " House Gardener",
+        "successor": " Mern VI Gardener",
+        "issue": " 2 daughters",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_XI_Gardener": {
+        "id": "Garth_XI_Gardener",
+        "name": "Garth XI Gardener",
+        "full name": " Garth of House Gardener, the Eleventh of His Name",
+        "alias": " Garth the Painter",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "predecessor": " Mern VI Gardener",
+        "father": " Mern VI Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Garth_XII_Gardener": {
+        "id": "Garth_XII_Gardener",
+        "name": "Garth XII Gardener",
+        "full name": " Garth of House Gardener, the Twelfth of His Name",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " A Feast For Crows (mentioned)"
+    },
+    "Garth_Greenfield": {
+        "id": "Garth_Greenfield",
+        "name": "Garth Greenfield",
+        "title": [
+            "The",
+            "Knight",
+            "of",
+            "Greenfield",
+            "Ser"
+        ],
+        "allegiance": " House Greenfield",
+        "culture": " Westermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garth_Greenhand": {
+        "id": "Garth_Greenhand",
+        "name": "Garth Greenhand",
+        "reign": " In the Dawn Age",
+        "full name": " Garth Greenhand",
+        "alias": [
+            "Garth Greenhair",
+            "Garth the Green"
+        ],
+        "titles": " High King of the First Men",
+        "culture": " First Men",
+        "issue": [
+            "Garth the Gardener",
+            "John the Oak",
+            "Gilbert of the Vines",
+            "Florys the Fox",
+            "Maris the Maid",
+            "Foss the Archer",
+            "Brandon of the Bloody Blade",
+            "Owen Oakenshield",
+            "Harlon the Hunter",
+            "Herndon of the Horn",
+            "Bors the Breaker",
+            "Rose of Red Lake",
+            "Ellyn Ever Sweet",
+            "Rowan Gold-Tree"
+        ],
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Garth_Greyfeather": {
+        "id": "Garth_Greyfeather",
+        "name": "Garth Greyfeather",
+        "allegiance": " Night's Watch",
+        "died": " In 300 AC, at beyond the Wall",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Garth_the_Harelip": {
+        "id": "Garth_the_Harelip",
+        "name": "Garth the Harelip",
+        "alias": [
+            "Garth the Harelip",
+            "the Harelip"
+        ],
+        "title": [
+            "Ser",
+            "Captain of the",
+            "Dragon Gate"
+        ],
+        "allegiance": [
+            "Blacks",
+            "City Watch of King's Landing"
+        ],
+        "died": " In 130 AC, at King's Landing",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Garth_Hightower": {
+        "id": "Garth_Hightower",
+        "name": "Garth Hightower",
+        "alias": " Garth Greysteel[1]",
+        "title": " Ser[1]",
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "born": " At Oldtown[2]",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Garth_of_Oldtown": {
+        "id": "Garth_of_Oldtown",
+        "name": "Garth of Oldtown",
+        "allegiance": " Night's Watch",
+        "culture": " Reach",
+        "born": " At Oldtown",
+        "died": " In 299 AC, at Craster's Keep",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Garth_Oldflowers": {
+        "id": "Garth_Oldflowers",
+        "name": "Garth Oldflowers",
+        "title": " Ser",
+        "allegiance": " House Oldflowers",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Garth_Tyrell": {
+        "id": "Garth_Tyrell",
+        "name": "Garth Tyrell",
+        "alias": " Garth the Gross[1]",
+        "title": " Lord Seneschal of Highgarden[2]",
+        "allegiance": " House Tyrell",
+        "culture": " Reach",
+        "issue": [
+            "Garse Flowers",
+            "[2]",
+            "Garrett Flowers",
+            "[2]"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Garth_(Wolf%27s_Den)": {
+        "id": "Garth_(Wolf%27s_Den)",
+        "name": "Garth (Wolf's Den)",
+        "allegiance": " House Manderly",
+        "culture": " Northmen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gascoyne": {
+        "id": "Gascoyne",
+        "name": "Gascoyne of the Greenblood",
+        "alias": " Gascoyne of the Greenblood",
+        "title": " Ser",
+        "allegiance": " House Martell",
+        "culture": " Dornishmen",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gaven_Greywolf": {
+        "id": "Gaven_Greywolf",
+        "name": "Gaven Greywolf",
+        "race": " First Men",
+        "culture": " First Men",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gavin": {
+        "id": "Gavin",
+        "name": "Gavin",
+        "alias": " Gavin the Trader",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gawen": {
+        "id": "Gawen",
+        "name": "Gawen",
+        "title": " Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": " In 42 AC[1], at Dragonstone[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Gawen_Corbray": {
+        "id": "Gawen_Corbray",
+        "name": "Gawen Corbray",
+        "title": [
+            "Ser",
+            "[1]",
+            "Master-at-arms",
+            "at",
+            "Dragonstone",
+            "[1]"
+        ],
+        "allegiance": " House Corbray[1]",
+        "culture": " Valemen[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Gawen_Gardener": {
+        "id": "Gawen_Gardener",
+        "name": "Gawen Gardener",
+        "title": " Prince[1]",
+        "allegiance": " House Gardener",
+        "culture": " Reach",
+        "died": " In 2 BC[1], at the Field of Fire[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gawen_Glover": {
+        "id": "Gawen_Glover",
+        "name": "Gawen Glover",
+        "allegiance": " House Glover",
+        "culture": " Northmen",
+        "born": " In 295 AC or 296 AC[1]",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Gawen_Swann": {
+        "id": "Gawen_Swann",
+        "name": "Gawen Swann",
+        "title": [
+            "Ser",
+            "Lord of Stonehelm"
+        ],
+        "allegiance": " House Swann",
+        "culture": " Marcher",
+        "born": " In 152 AC or before[1], at Stonehelm[2]",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Gawen_Westerling": {
+        "id": "Gawen_Westerling",
+        "name": "Gawen Westerling",
+        "title": " Lord of the Crag",
+        "allegiance": " House Westerling",
+        "culture": " Westermen",
+        "spouse": " Lady Sybell Spicer",
+        "issue": [
+            "Raynald Westerling",
+            "Jeyne Westerling",
+            "Eleyna Westerling",
+            "Rollam Westerling"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gawen_Wylde": {
+        "id": "Gawen_Wylde",
+        "name": "Gawen Wylde",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Storm's End"
+        ],
+        "allegiance": [
+            "House Wylde",
+            "House Baratheon"
+        ],
+        "culture": " Stormlands",
+        "died": " In 283 AC, at Storm's End[1]",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Gedmund_Peake": {
+        "id": "Gedmund_Peake",
+        "name": "Gedmund Peake",
+        "alias": [
+            "Gedmund Great-Axe",
+            "Gedmund Green-Sick"
+        ],
+        "title": [
+            "Ser",
+            "Commander of the",
+            "royal fleet",
+            "Master of ships",
+            "Lord admiral"
+        ],
+        "allegiance": " House Peake",
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gella": {
+        "id": "Gella",
+        "name": "Gella",
+        "allegiance": " House Borrell",
+        "culture": " Sistermen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gelmarr": {
+        "id": "Gelmarr",
+        "name": "Gelmarr",
+        "alias": " The Grim",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Gendel": {
+        "id": "Gendel",
+        "name": "Gendel",
+        "title": " King-Beyond-the-Wall",
+        "culture": " Free folk",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Gendry": {
+        "id": "Gendry",
+        "name": "Gendry",
+        "alias": [
+            "The Bull",
+            "[1]",
+            "Mutton Chop",
+            "[2]"
+        ],
+        "title": " Ser",
+        "allegiance": " Brotherhood without banners",
+        "culture": " Crownlands",
+        "born": " In 284 AC[3], at King's Landing[4]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ],
+        "played by": " Joe Dempsie",
+        "tv series": " Season 1 | Season 2 | Season 3 | Season 7 | Season 8"
+    },
+    "Genna_Lannister": {
+        "id": "Genna_Lannister",
+        "name": "Genna Lannister",
+        "title": [
+            "Lady",
+            "Lady of",
+            "Riverrun"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "House Frey of Riverrun"
+        ],
+        "culture": " Westermen",
+        "born": " In 245 AC[1], at Casterly Rock[2]",
+        "spouse": " Ser Emmon Frey",
+        "issue": [
+            "Cleos Frey",
+            "Lyonel Frey",
+            "Tion Frey",
+            "Walder Frey"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Geoff": {
+        "id": "Geoff",
+        "name": "Geoff",
+        "alias": " Geoff the Squirrel",
+        "allegiance": " Night's Watch",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "George_Graceford": {
+        "id": "George_Graceford",
+        "name": "George Graceford",
+        "title": [
+            "Lord of Holyhall",
+            "[1]",
+            "Lord Confessor"
+        ],
+        "allegiance": [
+            "House Graceford",
+            "Greens",
+            "Caltrops",
+            "Night's Watch"
+        ],
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gerald_Gower": {
+        "id": "Gerald_Gower",
+        "name": "Gerald Gower",
+        "title": " Ser",
+        "allegiance": [
+            "House Gower",
+            "King's men"
+        ],
+        "culture": " Stormlands",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gerardys": {
+        "id": "Gerardys",
+        "name": "Gerardys",
+        "title": [
+            "Maester",
+            "at",
+            "Dragonstone",
+            "Grand Maester",
+            "(for",
+            "Rhaenyra Targaryen",
+            ")"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "died": " In 130 AC, at Dragonstone",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Geremy_Frey": {
+        "id": "Geremy_Frey",
+        "name": "Geremy Frey",
+        "title": " Ser",
+        "allegiance": " House Frey",
+        "culture": " Rivermen",
+        "born": " In 263 AC or 264 AC[1]",
+        "died": " In or between 289 AC and 299 AC[1]",
+        "spouse": " Carolei Waynwood",
+        "issue": [
+            "Sandor Frey",
+            "Cynthea Frey"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Gerion_Lannister": {
+        "id": "Gerion_Lannister",
+        "name": "Gerion Lannister",
+        "alias": " Gery",
+        "allegiance": " House Lannister",
+        "culture": " Westermen",
+        "born": " In 255 AC[1], at Casterly Rock",
+        "died": " In 291 AC or after[2]",
+        "issue": " Joy Hill",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Germund_Botley": {
+        "id": "Germund_Botley",
+        "name": "Germund Botley",
+        "title": " Lord of Lordsport[1]",
+        "allegiance": " House Botley",
+        "culture": " ironborn",
+        "issue": [
+            "Balon Botley",
+            "Quellon Botley"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Gerold": {
+        "id": "Gerold",
+        "name": "Gerold"
+    },
+    "Gerold_Dayne": {
+        "id": "Gerold_Dayne",
+        "name": "Gerold Dayne",
+        "alias": " Darkstar",
+        "title": [
+            "Ser",
+            "Knight of High Hermitage",
+            "[1]"
+        ],
+        "allegiance": " House Dayne of High Hermitage",
+        "culture": " Dornishmen",
+        "born": " In or between 270 AC and 274 AC[2], at Dorne[3]",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Gerold_Grafton": {
+        "id": "Gerold_Grafton",
+        "name": "Gerold Grafton",
+        "title": " Lord of Gulltown",
+        "allegiance": " House Grafton",
+        "culture": " Valemen",
+        "issue": [
+            "Son(s)",
+            "Gyles Grafton"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Gerold_Grafton_(king)": {
+        "id": "Gerold_Grafton_(king)",
+        "name": "Gerold Grafton (king)",
+        "full name": " Gerold Grafton",
+        "titles": [
+            "King",
+            "Ser"
+        ],
+        "royal house": " House Grafton",
+        "predecessor": " Osgood III Shett, King of the True Men",
+        "spouse": [
+            "1st:Unknown",
+            "2nd:A daughter of King Osgood"
+        ],
+        "issue": [
+            "2 Daughters",
+            "A child"
+        ],
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gerold_Hightower": {
+        "id": "Gerold_Hightower",
+        "name": "Gerold Hightower",
+        "alias": " The White Bull",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Kingsguard"
+        ],
+        "culture": " Reach",
+        "died": " In 283 AC, at the tower of joy",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": " Eddie Eyre",
+        "tv series": " Season 6"
+    },
+    "Gerold_Lannister": {
+        "id": "Gerold_Lannister",
+        "name": "Gerold Lannister",
+        "alias": " Gerold the Golden[1]",
+        "title": [
+            "Regent",
+            "[1]",
+            "Lord of Casterly Rock",
+            "[1]",
+            "Shield of Lannisport",
+            "[1]",
+            "Warden of the West",
+            "[1]"
+        ],
+        "allegiance": " House Lannister[2]",
+        "culture": " Westermen[2]",
+        "born": " In or before 207 AC[3], at Casterly Rock[4]",
+        "died": " In 244 AC, at Casterly Rock[1][4]",
+        "spouse": [
+            "1st: Lady",
+            "Alysanne Farman",
+            "[5]",
+            "2nd: Lady",
+            "Rohanne Webber",
+            "[5]"
+        ],
+        "issue": [
+            "Tywald Lannister",
+            "Tion Lannister",
+            "Tytos Lannister",
+            "Jason Lannister"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Gerold_Lannister_(king)": {
+        "id": "Gerold_Lannister_(king)",
+        "name": "Gerold Lannister (king)",
+        "full name": " Gerold of House Lannister",
+        "alias": " Gerold the Great",
+        "titles": " King of the Rock",
+        "royal house": " House Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gerold_II_Lannister": {
+        "id": "Gerold_II_Lannister",
+        "name": "Gerold II Lannister",
+        "full name": " Gerold II Lannister",
+        "titles": " King of the Rock",
+        "culture": " First Men",
+        "royal house": " House Lannister",
+        "father": " Tyrion III Lannister",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gerold_III_Lannister": {
+        "id": "Gerold_III_Lannister",
+        "name": "Gerold III Lannister",
+        "full name": " Gerold III Lannister",
+        "titles": " King of the Rock",
+        "culture": " First Men",
+        "royal house": " House Lannister",
+        "heir": " A daughter",
+        "successor": " Joffrey Lydden",
+        "issue": " A single daughter",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gerold_Templeton": {
+        "id": "Gerold_Templeton",
+        "name": "Gerold Templeton",
+        "allegiance": " House Templeton",
+        "culture": " Valemen",
+        "born": " In Around 64 AC[1]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gerren": {
+        "id": "Gerren",
+        "name": "Gerren",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Gerrick_Kingsblood": {
+        "id": "Gerrick_Kingsblood",
+        "name": "Gerrick Kingsblood",
+        "alias": " Gerrick Kingsblood",
+        "title": " King of the Wildlings",
+        "allegiance": [
+            "House Redbeard",
+            "House Baratheon of Dragonstone",
+            "Mance Rayder"
+        ],
+        "culture": " Free folk",
+        "issue": [
+            "Son",
+            "Eldest daughter",
+            "Second daughter",
+            "Youngest daughter"
+        ],
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gerrick_Kingsblood%27s_son": {
+        "id": "Gerrick_Kingsblood%27s_son",
+        "name": "Gerrick Kingsblood's son",
+        "allegiance": " House Redbeard",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gerrick_Kingsblood%27s_eldest_daughter": {
+        "id": "Gerrick_Kingsblood%27s_eldest_daughter",
+        "name": "Gerrick Kingsblood's eldest daughter",
+        "allegiance": " House Redbeard",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Gerrick_Kingsblood%27s_second_daughter": {
+        "id": "Gerrick_Kingsblood%27s_second_daughter",
+        "name": "Gerrick Kingsblood's second daughter",
+        "alias": " Gerrick Kingsblood's second daughter",
+        "allegiance": " House Redbeard",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Gerrick_Kingsblood%27s_youngest_daughter": {
+        "id": "Gerrick_Kingsblood%27s_youngest_daughter",
+        "name": "Gerrick Kingsblood's youngest daughter",
+        "alias": " Gerrick Kingsblood's youngest daughter",
+        "allegiance": " House Redbeard",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Gerris_Drinkwater": {
+        "id": "Gerris_Drinkwater",
+        "name": "Gerris Drinkwater",
+        "alias": [
+            "Dornish Gerrold",
+            "[1]",
+            "Drink",
+            "[1]"
+        ],
+        "title": " Ser",
+        "allegiance": [
+            "House Drinkwater",
+            "House Yronwood",
+            "Windblown"
+        ],
+        "culture": " Dornishmen",
+        "born": " In 275 AC[2]",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gerrold_Redback": {
+        "id": "Gerrold_Redback",
+        "name": "Gerrold Redback",
+        "allegiance": " Windblown",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Gessio_Haratis": {
+        "id": "Gessio_Haratis",
+        "name": "Gessio Haratis",
+        "culture": " Pentos",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gevin_Harlaw": {
+        "id": "Gevin_Harlaw",
+        "name": "Gevin Harlaw",
+        "allegiance": " House Harlaw",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)"
+        ]
+    },
+    "Ghael": {
+        "id": "Ghael",
+        "name": "Ghael",
+        "title": " Lord",
+        "culture": " Astapori",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Gharak_Squint-Eye": {
+        "id": "Gharak_Squint-Eye",
+        "name": "Gharak Squint-Eye",
+        "alias": " Gharak Squint-Eye",
+        "title": " Jhattar",
+        "race": " Jogos Nhai",
+        "culture": " Jogos Nhai",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Ghazdor_zo_Ahlaq": {
+        "id": "Ghazdor_zo_Ahlaq",
+        "name": "Ghazdor zo Ahlaq",
+        "alias": " Lord Wobblecheeks",
+        "allegiance": [
+            "House of Ahlaq",
+            "Wise Masters"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Ghost_of_High_Heart": {
+        "id": "Ghost_of_High_Heart",
+        "name": "Ghost of High Heart",
+        "alias": " The woods witch",
+        "culture": " Rivermen",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Giant_of_the_Trident": {
+        "id": "Giant_of_the_Trident",
+        "name": "Giant of the Trident",
+        "alias": " The Giant of the Trident",
+        "culture": " Rivermen",
+        "died": " In 31 AC[1], at Riverlands[1]"
+    },
+    "Gilbert_Farring": {
+        "id": "Gilbert_Farring",
+        "name": "Gilbert Farring",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ],
+        "allegiance": " House Farring",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gilbert_of_the_Vines": {
+        "id": "Gilbert_of_the_Vines",
+        "name": "Gilbert of the Vines",
+        "allegiance": " House Redwyne",
+        "race": " First Men",
+        "culture": " Reach",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gillam": {
+        "id": "Gillam",
+        "name": "Gillam",
+        "title": " Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ],
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gilliane_Glover": {
+        "id": "Gilliane_Glover",
+        "name": "Gilliane Glover",
+        "title": " Lady of Winterfell",
+        "allegiance": [
+            "House Glover",
+            "House Stark"
+        ],
+        "culture": " Northmen",
+        "born": " In or before 96 AC[1]",
+        "died": " In or after 109 AC[1]",
+        "spouse": " Lord Rickon Stark[2]",
+        "issue": [
+            "Cregan Stark",
+            "[2]",
+            "Son",
+            "[3]"
+        ],
+        "book(s)": " The World of Ice & Fire (appendix)"
+    },
+    "Gilly": {
+        "id": "Gilly",
+        "name": "Gilly",
+        "alias": " the rabbit keeper[1]",
+        "culture": " Free folk",
+        "born": " In either 282 AC, 283 AC or 284 AC[2], at Craster's Keep",
+        "spouse": " Craster",
+        "issue": " Monster",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Hannah Murray",
+        "tv series": " Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Gilwood_Hunter": {
+        "id": "Gilwood_Hunter",
+        "name": "Gilwood Hunter",
+        "alias": " Young Lord Hunter",
+        "title": [
+            "Ser",
+            "Lord of",
+            "Longbow Hall"
+        ],
+        "allegiance": " House Hunter",
+        "culture": " Valemen",
+        "born": " In 250 254 AC[1]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Girl_bought_to_please_the_king": {
+        "id": "Girl_bought_to_please_the_king",
+        "name": "Girl bought to please the king",
+        "culture": " Lys",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Gladden_Wylde": {
+        "id": "Gladden_Wylde",
+        "name": "Gladden Wylde",
+        "title": " Ser",
+        "allegiance": " House Wylde",
+        "culture": " Stormlander",
+        "died": " In 298 AC, at the Mummer's Ford",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Glaive": {
+        "id": "Glaive",
+        "name": "Glaive",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (Mentioned)"
+    },
+    "Glendon_Flowers": {
+        "id": "Glendon_Flowers",
+        "name": "Glendon Flowers",
+        "alias": [
+            "Glendon Ball",
+            "[1]",
+            "The Knight of the Pussywillows",
+            "[1]",
+            "Glendon the Bastard",
+            "[1]"
+        ],
+        "title": " Ser[1]",
+        "culture": [
+            "Crownlands",
+            "Reach"
+        ],
+        "born": " In 196 AC or 197 AC[2]",
+        "book(s)": " The Mystery Knight (appears)",
+        "personal arms": " A fireball blazing red and yellow across a night black field[1]"
+    },
+    "Glendon_Goode": {
+        "id": "Glendon_Goode",
+        "name": "Glendon Goode",
+        "title": [
+            "Ser",
+            "Lord Commander of the Queensguard"
+        ],
+        "allegiance": [
+            "House Goode",
+            "Queensguard",
+            "Blacks"
+        ],
+        "born": " In 110 AC[1]",
+        "died": " In 130 AC[2], at Dragonpit, King's Landing[2]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Glendon_Hewett": {
+        "id": "Glendon_Hewett",
+        "name": "Glendon Hewett",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Eastwatch-by-the-Sea",
+            "Commander",
+            "of",
+            "Eastwatch-by-the-Sea",
+            "(temporary)"
+        ],
+        "allegiance": [
+            "House Hewett",
+            "Night's Watch"
+        ],
+        "culture": " Reach",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Goady": {
+        "id": "Goady",
+        "name": "Goady",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Goat_boy": {
+        "id": "Goat_boy",
+        "name": "Goat boy",
+        "allegiance": " House of Qaggaz",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "God-on-Earth": {
+        "id": "God-on-Earth",
+        "name": "God-on-Earth",
+        "reign": " 10000 years",
+        "alias": " God-on-Earth",
+        "titles": " God-Emperor",
+        "culture": " Great Empire of the Dawn",
+        "predecessor": " None",
+        "heir": " Pearl Emperor",
+        "successor": " Pearl Emperor",
+        "queen": " 100 queens",
+        "issue": [
+            "Pearl Emperor",
+            "Son(s)"
+        ],
+        "father": " The Lion of Night",
+        "mother": " The Maiden-Made-of-Light",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Godric_Borrell": {
+        "id": "Godric_Borrell",
+        "name": "Godric Borrell",
+        "title": [
+            "Lord of Sweetsister",
+            "Shield of Sisterton",
+            "Master of Breakwater Castle",
+            "Keeper of the Night Lamp"
+        ],
+        "allegiance": " House Borrell",
+        "culture": " Sistermen",
+        "born": " At Sweetsister[1]",
+        "issue": " 2 daughters",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Godry_Farring": {
+        "id": "Godry_Farring",
+        "name": "Godry Farring",
+        "alias": [
+            "Godry the Giantslayer",
+            "[1]",
+            "The Giantslayer",
+            "[2]"
+        ],
+        "title": " Ser",
+        "allegiance": [
+            "House Farring",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Godwyn": {
+        "id": "Godwyn",
+        "name": "Godwyn",
+        "allegiance": " House Lannister",
+        "book(s)": " A Game of Thrones (appears)"
+    },
+    "Goghor_the_Giant": {
+        "id": "Goghor_the_Giant",
+        "name": "Goghor",
+        "alias": " Goghor the Giant",
+        "allegiance": " House of Loraq",
+        "culture": " Ghiscari",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Goodwin": {
+        "id": "Goodwin",
+        "name": "Goodwin",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Evenfall Hall"
+        ],
+        "allegiance": " House Tarth",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Goodwyn": {
+        "id": "Goodwyn",
+        "name": "Goodwyn",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Gordan_I_Gardener": {
+        "id": "Gordan_I_Gardener",
+        "name": "Gordan I Gardener",
+        "full name": " Gordan of House Gardener, the First of His Name",
+        "alias": " Grey-Eyes",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Goren_Greyjoy": {
+        "id": "Goren_Greyjoy",
+        "name": "Goren Greyjoy",
+        "title": [
+            "Lord of the Iron Islands",
+            "[1]",
+            "Lord Reaper of Pyke",
+            "[1]"
+        ],
+        "allegiance": " House Greyjoy[1]",
+        "culture": " ironborn[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gorghan_of_Old_Ghis": {
+        "id": "Gorghan_of_Old_Ghis",
+        "name": "Gorghan",
+        "culture": " Ghiscari",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gorm": {
+        "id": "Gorm",
+        "name": "Gorm",
+        "alias": " Gorm the Wolf",
+        "culture": " Free folk",
+        "died": " At Hardhome",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gormon_Massey": {
+        "id": "Gormon_Massey",
+        "name": "Gormon Massey",
+        "title": " Lord of Stonedance[1]",
+        "allegiance": [
+            "House Massey",
+            "[1]",
+            "Blacks",
+            "[1]"
+        ],
+        "culture": " Crownlands",
+        "died": " In 129 AC, at Dragonstone[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Gormon_Peake": {
+        "id": "Gormon_Peake",
+        "name": "Gormon Peake",
+        "alias": " Gormy[1]",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord of Starpike",
+            "[2]",
+            "Lord of Dunstonbury",
+            "[2]",
+            "(stripped)",
+            "Lord of Whitegrove",
+            "[2]",
+            "(stripped)"
+        ],
+        "allegiance": [
+            "House Peake",
+            "[2]",
+            "House Blackfyre",
+            "[2]"
+        ],
+        "culture": " Reach[1]",
+        "died": " In 212 AC[1], at Whitewalls[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(mentioned)",
+            "The Mystery Knight",
+            "(appears)"
+        ]
+    },
+    "Gormon_Tyrell": {
+        "id": "Gormon_Tyrell",
+        "name": "Gormon Tyrell",
+        "alias": " Maester Gormon[1]",
+        "title": " Maester[2]",
+        "allegiance": [
+            "House Tyrell",
+            "The Citadel"
+        ],
+        "culture": " Reach",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gormond_Drumm": {
+        "id": "Gormond_Drumm",
+        "name": "Gormond Drumm",
+        "alias": " Gormond the Oldfather",
+        "allegiance": " House Drumm",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gormond_Goodbrother": {
+        "id": "Gormond_Goodbrother",
+        "name": "Gormond Goodbrother",
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "born": " In 282 AC or 283 AC[1], at Hammerhorn[2]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gorne": {
+        "id": "Gorne",
+        "name": "Gorne",
+        "title": " King-Beyond-the-Wall",
+        "culture": " Free folk",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Gorold_Goodbrother": {
+        "id": "Gorold_Goodbrother",
+        "name": "Gorold Goodbrother",
+        "title": [
+            "Lord of Hammerhorn",
+            "[1]",
+            "Captain",
+            "[1]"
+        ],
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "issue": [
+            "Gwin Goodbrother",
+            "Gysella Goodbrother",
+            "10 daughters",
+            "Greydon Goodbrother",
+            "Gormond Goodbrother",
+            "Gran Goodbrother"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gorys_Edoryen": {
+        "id": "Gorys_Edoryen",
+        "name": "Gorys Edoryen",
+        "title": " Paymaster",
+        "allegiance": " Golden Company",
+        "culture": " Volantene",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gorzhak_zo_Eraz": {
+        "id": "Gorzhak_zo_Eraz",
+        "name": "Gorzhak zo Eraz",
+        "alias": " Pudding Face[1]",
+        "allegiance": [
+            "Wise Masters",
+            "House of Eraz"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "died": " In 300 AC, at outside Meereen",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Gowen_Baratheon": {
+        "id": "Gowen_Baratheon",
+        "name": "Gowen Baratheon",
+        "allegiance": " House Baratheon",
+        "culture": " Stormlands",
+        "spouse": " Tya Lannister[1]",
+        "issue": " Son[1]",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Gramyon": {
+        "id": "Gramyon",
+        "name": "Gramyon",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gran_Goodbrother": {
+        "id": "Gran_Goodbrother",
+        "name": "Gran Goodbrother",
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "born": " In 282 AC or 283 AC[1], at Hammerhorn[2]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Grance_Morrigen": {
+        "id": "Grance_Morrigen",
+        "name": "Grance Morrigen",
+        "title": " Ser",
+        "allegiance": " House Morrigen",
+        "culture": " Stormlands",
+        "book(s)": " The Hedge Knight (appears)"
+    },
+    "Gravedigger": {
+        "id": "Gravedigger",
+        "name": "Gravedigger",
+        "title": " Novice",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ],
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Grazdan_(Great)": {
+        "id": "Grazdan_(Great)",
+        "name": "Grazdan the Great",
+        "culture": " Ghiscari",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Grazdan_(tall_one)": {
+        "id": "Grazdan_(tall_one)",
+        "name": "Grazdan (tall one)",
+        "allegiance": " Good Masters",
+        "culture": " Astapori",
+        "died": " In 299 AC, at Astapor",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Grazdan_(fat_one)": {
+        "id": "Grazdan_(fat_one)",
+        "name": "Grazdan (fat one)",
+        "allegiance": " Good Masters",
+        "culture": " Astapori",
+        "died": " In 299 AC, at Astapor",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Grazdan_(spiked_beard)": {
+        "id": "Grazdan_(spiked_beard)",
+        "name": "Grazdan (spiked beard)",
+        "allegiance": " Good Masters",
+        "culture": " Astapori",
+        "died": " In 299 AC, at Astapor",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Grazdan_mo_Eraz": {
+        "id": "Grazdan_mo_Eraz",
+        "name": "Grazdan mo Eraz",
+        "allegiance": [
+            "Wise Masters",
+            "House of Eraz"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Grazdan_mo_Ullhor": {
+        "id": "Grazdan_mo_Ullhor",
+        "name": "Grazdan mo Ullhor",
+        "allegiance": [
+            "Good Masters",
+            "House of Ullhor"
+        ],
+        "culture": " Astapori",
+        "died": " In 299 AC, at Astapor",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Grazdan_zo_Galare": {
+        "id": "Grazdan_zo_Galare",
+        "name": "Grazdan zo Galare",
+        "allegiance": " House of Galare",
+        "culture": " Meereenese",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Grazhar_zo_Galare": {
+        "id": "Grazhar_zo_Galare",
+        "name": "Grazhar zo Galare",
+        "alias": " Grazdar[1][2]",
+        "title": " Cupbearer",
+        "allegiance": " House of Galare",
+        "culture": " Ghiscari",
+        "born": " At Meereen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Grazdhan_zo_Rhaezn": {
+        "id": "Grazdhan_zo_Rhaezn",
+        "name": "Grazdhan zo Rhaezn",
+        "alias": " Clanker Lord",
+        "allegiance": [
+            "Wise Masters",
+            "House of Rhaezn"
+        ],
+        "culture": " Ghiscari",
+        "born": " At Yunkai",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Great_Walrus": {
+        "id": "Great_Walrus",
+        "name": "Great Walrus",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Greatheart": {
+        "id": "Greatheart",
+        "name": "Greatheart",
+        "alias": " Greatheart",
+        "title": " Ser",
+        "allegiance": " Kingsguard",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Green_Gergen": {
+        "id": "Green_Gergen",
+        "name": "Green Gergen",
+        "alias": " Green Gergen",
+        "book(s)": " A Storm of Swords (mentioned)"
+    },
+    "Greenbeard": {
+        "id": "Greenbeard",
+        "name": "Greenbeard",
+        "alias": " Greenbeard[1]",
+        "title": " Ser[2]",
+        "allegiance": " Brotherhood without banners",
+        "culture": " Tyroshi",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Gregor_Clegane": {
+        "id": "Gregor_Clegane",
+        "name": "Gregor Clegane",
+        "alias": [
+            "The Mountain That Rides",
+            "[1]",
+            "The Mountain",
+            "[1]",
+            "The Enormity That Rides",
+            "[2]",
+            "The great dog",
+            "[3]"
+        ],
+        "title": [
+            "Ser",
+            "Knight of",
+            "Clegane's Keep"
+        ],
+        "allegiance": [
+            "House Clegane",
+            "House Lannister"
+        ],
+        "culture": " Westermen",
+        "born": " In 265 AC or 266 AC[4]",
+        "died": " In 300 AC, at the Red Keep",
+        "spouse": " Three unknown wives",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ],
+        "played by": [
+            "Conan Stevens",
+            "~",
+            "Season 1",
+            "Ian Whyte",
+            "~",
+            "Season 2",
+            "Haf\u00fe\u00f3r J\u00fal\u00edus Bj\u00f6rnsson",
+            "~",
+            "Season 4",
+            "",
+            "-Season 8"
+        ],
+        "tv series": " Season 1 | Season 2 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Gregor_Goode": {
+        "id": "Gregor_Goode",
+        "name": "Gregor Goode",
+        "title": " Ser",
+        "allegiance": [
+            "House Goode",
+            "Kingsguard"
+        ],
+        "died": " In 10 48 AC",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Grenn": {
+        "id": "Grenn",
+        "name": "Grenn",
+        "alias": " Aurochs",
+        "allegiance": " Night's Watch",
+        "culture": " Westeros",
+        "born": " In 281 AC or 282 AC[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Mark Stanley",
+        "tv series": " Season 1 | Season 2 | Season 3  | Season 4"
+    },
+    "Gretchel": {
+        "id": "Gretchel",
+        "name": "Gretchel",
+        "allegiance": " House Arryn",
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Grey_King": {
+        "id": "Grey_King",
+        "name": "Grey King",
+        "reign": " During the Age of Heroes",
+        "titles": " High King of the Iron Islands",
+        "died in": " watery halls of the Drowned God (alleged)",
+        "culture": " ironborn",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Grey_Worm": {
+        "id": "Grey_Worm",
+        "name": "Grey Worm",
+        "title": " Commander of the Unsullied",
+        "allegiance": [
+            "The",
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ],
+        "played by": " Jacob Anderson",
+        "tv series": " Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Greydon": {
+        "id": "Greydon",
+        "name": "Greydon",
+        "title": " Grand Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Greydon_Gardener": {
+        "id": "Greydon_Gardener",
+        "name": "Greydon Gardener",
+        "reign": " Around 700 BC",
+        "full name": " Greydon of House Gardener",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Greydon_Goodbrother": {
+        "id": "Greydon_Goodbrother",
+        "name": "Greydon Goodbrother",
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "born": " In 282 AC or 283 AC[1], at Hammerhorn[2]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Griffin_King": {
+        "id": "Griffin_King",
+        "name": "Griffin King",
+        "reign": " During the Age of Heroes",
+        "titles": " last of the Mountain Kings",
+        "culture": " First Men",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Griffith_Goode": {
+        "id": "Griffith_Goode",
+        "name": "Griffith Goode",
+        "title": " Ser",
+        "allegiance": [
+            "House Goode",
+            "Kingsguard"
+        ],
+        "died": " In 10 48 AC",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Grigg": {
+        "id": "Grigg",
+        "name": "Grigg the Goat",
+        "alias": " Grigg the Goat",
+        "allegiance": " Mance Rayder",
+        "culture": " Free folk",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Grimtongue": {
+        "id": "Grimtongue",
+        "name": "Grimtongue",
+        "culture": " Ironborn",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Grisel": {
+        "id": "Grisel",
+        "name": "Grisel",
+        "allegiance": " House Baelish",
+        "culture": " Valemen",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Grisella": {
+        "id": "Grisella",
+        "name": "Grisella",
+        "culture": " Free folk",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Groleo": {
+        "id": "Groleo",
+        "name": "Groleo",
+        "title": [
+            "Captain",
+            "Lord Admiral",
+            "[1]"
+        ],
+        "allegiance": " House Targaryen",
+        "culture": " Pentoshi",
+        "died": " In 300 AC, at Meereen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Grover_Tully": {
+        "id": "Grover_Tully",
+        "name": "Grover Tully",
+        "title": [
+            "Lord Paramount of the Trident",
+            "[1]",
+            "Lord of Riverrun",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Tully",
+            "Greens"
+        ],
+        "culture": " Rivermen",
+        "born": " In before 76 AC[2]",
+        "died": " In 130 AC[3], at Riverrun[3]",
+        "issue": " Sons[4]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Grubbs": {
+        "id": "Grubbs",
+        "name": "Grubbs",
+        "allegiance": " Night's Watch",
+        "died": " In 300 AC, at Beyond the Wall",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Grunt": {
+        "id": "Grunt",
+        "name": "Grunt",
+        "allegiance": [
+            "House Bolton",
+            "Bastard's Boys"
+        ],
+        "culture": " Northmen",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Gueren": {
+        "id": "Gueren",
+        "name": "Gueren",
+        "allegiance": " Night's Watch",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Gulian": {
+        "id": "Gulian",
+        "name": "Gulian",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gulian_Qorgyle": {
+        "id": "Gulian_Qorgyle",
+        "name": "Gulian Qorgyle",
+        "title": " Ser",
+        "allegiance": " House Qorgyle",
+        "culture": " Dornishmen",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Gulian_Swann": {
+        "id": "Gulian_Swann",
+        "name": "Gulian Swann",
+        "title": " Lord of Stonehelm",
+        "allegiance": " House Swann",
+        "culture": " Marcher",
+        "born": " In 259 AC or before[1]",
+        "issue": [
+            "Donnel Swann",
+            "Balon Swann"
+        ],
+        "book(s)": [
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Guncer_Sunglass": {
+        "id": "Guncer_Sunglass",
+        "name": "Guncer Sunglass",
+        "title": " Lord of Sweetport Sound[1]",
+        "allegiance": " House Sunglass",
+        "culture": " Crownlands",
+        "born": " At Sweetport Sound[2]",
+        "died": " In 299 AC, at Dragonstone",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Gunthor_son_of_Gurn": {
+        "id": "Gunthor_son_of_Gurn",
+        "name": "Gunthor (son of Gurn)",
+        "allegiance": " Stone Crows",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Gunthor_Darklyn": {
+        "id": "Gunthor_Darklyn",
+        "name": "Gunthor Darklyn",
+        "title": " Lord of Duskendale[1]",
+        "allegiance": [
+            "House Darklyn",
+            "Blacks"
+        ],
+        "culture": " Crownlands",
+        "died": " In 129 AC[1], at Duskendale[1]",
+        "spouse": " Lady Meredyth Darklyn[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Gunthor_Estermont": {
+        "id": "Gunthor_Estermont",
+        "name": "Gunthor Estermont",
+        "title": " Ser",
+        "allegiance": " House Estermont",
+        "culture": " Stormlands",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Gunthor_Goodbrother": {
+        "id": "Gunthor_Goodbrother",
+        "name": "Gunthor Goodbrother",
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "spouse": " Lysa Farman (as a salt wife)",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gunthor_Hightower": {
+        "id": "Gunthor_Hightower",
+        "name": "Gunthor Hightower",
+        "title": " Ser[1]",
+        "allegiance": " House Hightower",
+        "culture": " Reach",
+        "born": " In or between ~271 AC and 285 AC[2]",
+        "spouse": " Jeyne Fossoway[3]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gunthor_Royce": {
+        "id": "Gunthor_Royce",
+        "name": "Gunthor Royce",
+        "alias": " The Bronze Giant",
+        "title": " Lord of Runestone",
+        "allegiance": " House Royce",
+        "culture": " Valemen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gurn": {
+        "id": "Gurn",
+        "name": "Gurn",
+        "allegiance": " Stone Crows",
+        "culture": " Vale mountain clans",
+        "issue": " Gunthor",
+        "book(s)": [
+            "A Game of Thrones",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)"
+        ]
+    },
+    "Guthor_Grimm": {
+        "id": "Guthor_Grimm",
+        "name": "Guthor Grimm",
+        "title": " Lord of Greyshield[1] (deposed)",
+        "allegiance": " House Grimm",
+        "culture": " Reach",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Guy_Lothston": {
+        "id": "Guy_Lothston",
+        "name": "Guy Lothston",
+        "alias": " Guy the Glutton[1]",
+        "title": " Ser[1]",
+        "allegiance": " House Lothston",
+        "culture": " Rivermen",
+        "died": " In 42 AC[1], at King's Landing[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Sons of the Dragon",
+            "(mentioned)"
+        ]
+    },
+    "Guyard_Morrigen": {
+        "id": "Guyard_Morrigen",
+        "name": "Guyard Morrigen",
+        "alias": " Guyard the Green",
+        "title": " Ser",
+        "allegiance": [
+            "House Morrigen",
+            "Rainbow Guard"
+        ],
+        "culture": " Stormlander",
+        "born": " In or between 278 AC and 283 AC[1], at Crows Nest[2]",
+        "died": " In 299 AC, at King's Landing",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Guyne": {
+        "id": "Guyne",
+        "name": "Guyne",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Guyle_the_Cunning": {
+        "id": "Guyle_the_Cunning",
+        "name": "Guyle the Cunning",
+        "title": " Ser",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Gwayne_Corbray": {
+        "id": "Gwayne_Corbray",
+        "name": "Gwayne Corbray",
+        "title": " Ser",
+        "allegiance": [
+            "House Corbray",
+            "Kingsguard"
+        ],
+        "culture": " Valemen",
+        "book(s)": [
+            "The Sworn Sword",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Gwayne_I_Gardener": {
+        "id": "Gwayne_I_Gardener",
+        "name": "Gwayne I Gardener",
+        "full name": " Gwayne of House Gardener, the First of His Name",
+        "alias": " Gwayne the Gallant",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gwayne_III_Gardener": {
+        "id": "Gwayne_III_Gardener",
+        "name": "Gwayne III Gardener",
+        "full name": " Gwayne of House Gardener, the Third of His Name",
+        "alias": " Gwayne the Fat",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gwayne_IV_Gardener": {
+        "id": "Gwayne_IV_Gardener",
+        "name": "Gwayne IV Gardener",
+        "reign": " Andal Invasion",
+        "full name": " Gwayne of House Gardener, the Fourth of His Name",
+        "alias": " Gwayne the Gods-fearing",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gwayne_V_Gardener": {
+        "id": "Gwayne_V_Gardener",
+        "name": "Gwayne V Gardener",
+        "reign": " Andal Invasion",
+        "full name": " Gwayne of House Gardener, the Fifth of His Name",
+        "titles": [
+            "King of the Reach",
+            "Ser"
+        ],
+        "culture": " Andal",
+        "royal house": " House Gardener",
+        "predecessor": " Merle I Gardener",
+        "father": " Merle I Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gwayne_Gardener_(son_of_Perceon_III)": {
+        "id": "Gwayne_Gardener_(son_of_Perceon_III)",
+        "name": "Gwayne Gardener (son of Perceon III)",
+        "full name": " Gwayne of House Gardener",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "queen": " Daughter of Lord Lorimar Peake",
+        "books": " Fire & Blood (mentioned)"
+    },
+    "Gwayne_Gaunt": {
+        "id": "Gwayne_Gaunt",
+        "name": "Gwayne Gaunt",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Gaunt",
+            "Kingsguard"
+        ],
+        "culture": " Crownlands",
+        "died": " In 277 AC[1], at Duskendale[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Gwayne_Hightower": {
+        "id": "Gwayne_Hightower",
+        "name": "Gwayne Hightower",
+        "title": " Ser[1]",
+        "allegiance": [
+            "House Hightower",
+            "[1]",
+            "City Watch of King's Landing",
+            "[1]",
+            "Greens",
+            "[1]"
+        ],
+        "culture": " Reach[1]",
+        "born": " In or between 88 AC and 96 AC[2]",
+        "died": " In 130 AC, at King's Landing[1]",
+        "book(s)": [
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Gwayne_Oakheart": {
+        "id": "Gwayne_Oakheart",
+        "name": "Gwayne Oakheart",
+        "title": " Ser",
+        "allegiance": " House Oakheart",
+        "culture": " Reach",
+        "book(s)": " The Hedge Knight (mentioned)"
+    },
+    "Gwenys_Rivers": {
+        "id": "Gwenys_Rivers",
+        "name": "Gwenys Rivers",
+        "allegiance": " House Blackwood",
+        "born": " In 173 AC or 174 AC[1]",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gwin_Goodbrother": {
+        "id": "Gwin_Goodbrother",
+        "name": "Gwin Goodbrother",
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "born": " In or before 282 AC[1]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gwynesse_Harlaw": {
+        "id": "Gwynesse_Harlaw",
+        "name": "Gwynesse Harlaw",
+        "allegiance": " House Harlaw",
+        "culture": " ironborn",
+        "spouse": " Unknown husband",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Gwyneth_Yronwood": {
+        "id": "Gwyneth_Yronwood",
+        "name": "Gwyneth Yronwood",
+        "allegiance": " House Yronwood",
+        "culture": " Dornishmen",
+        "born": " In 287 AC or 288 AC[1]",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Gylbert_Farman": {
+        "id": "Gylbert_Farman",
+        "name": "Gylbert Farman",
+        "allegiance": " House Farman",
+        "culture": " Westermen",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Gylbert_Farwynd": {
+        "id": "Gylbert_Farwynd",
+        "name": "Gylbert Farwynd",
+        "title": " Lord of the Lonely Light[1]",
+        "allegiance": " House Farwynd of the Lonely Light",
+        "culture": " ironborn",
+        "issue": [
+            "Gyles Farwynd",
+            "Ygon Farwynd",
+            "Yohn Farwynd"
+        ],
+        "book(s)": [
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Gyldayn": {
+        "id": "Gyldayn",
+        "name": "Gyldayn",
+        "title": [
+            "Archmaester",
+            "Maester",
+            "at",
+            "Summerhall"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ],
+        "culture": " Westeros",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Rogue Prince",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Gyleno_Dothare": {
+        "id": "Gyleno_Dothare",
+        "name": "Gyleno Dothare",
+        "culture": " Braavosi",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gyles": {
+        "id": "Gyles",
+        "name": "Gyles",
+        "alias": " Gyles Greycloak[1]",
+        "title": " Ser",
+        "allegiance": " Kingsguard",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gyles_Belgrave": {
+        "id": "Gyles_Belgrave",
+        "name": "Gyles Belgrave",
+        "title": " Ser",
+        "allegiance": [
+            "House Belgrave",
+            "Kingsguard",
+            "Greens"
+        ],
+        "died": " In 131 AC, at King's Landing[1]",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)"
+        ]
+    },
+    "Gyles_Farwynd": {
+        "id": "Gyles_Farwynd",
+        "name": "Gyles Farwynd",
+        "allegiance": " House Farwynd of the Lonely Light",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gyles_I_Gardener": {
+        "id": "Gyles_I_Gardener",
+        "name": "Gyles I Gardener",
+        "full name": " Gyles of House Gardener, the First of His Name",
+        "alias": " Gyles the Woe",
+        "titles": " King of the Reach",
+        "culture": " First Men",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gyles_II_Gardener": {
+        "id": "Gyles_II_Gardener",
+        "name": "Gyles II Gardener",
+        "full name": " Gyles of House Gardener, the Second of His Name",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Gyles_III_Gardener": {
+        "id": "Gyles_III_Gardener",
+        "name": "Gyles III Gardener",
+        "full name": " Gyles of House Gardener, the Third of His Name",
+        "titles": " King of the Reach",
+        "royal house": " House Gardener",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "The Sworn Sword",
+            "(mentioned)"
+        ]
+    },
+    "Gyles_Grafton": {
+        "id": "Gyles_Grafton",
+        "name": "Gyles Grafton",
+        "allegiance": " House Grafton",
+        "culture": " Valemen",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Gyles_Morrigen": {
+        "id": "Gyles_Morrigen",
+        "name": "Gyles Morrigen",
+        "title": [
+            "Ser",
+            "[1]",
+            "Lord Commander of the Kingsguard",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Morrigen",
+            "Kingsguard",
+            "[1]"
+        ],
+        "culture": " Stormlander",
+        "born": " In or before 32 AC[2]",
+        "died": " In 84 99 AC[2]",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gyles_Rosby": {
+        "id": "Gyles_Rosby",
+        "name": "Gyles Rosby",
+        "title": [
+            "Lord of Rosby",
+            "Lord treasurer",
+            "Master of coin"
+        ],
+        "allegiance": " House Rosby",
+        "culture": " Crownlands",
+        "died": " In 300 AC[1], at King's Landing[1]",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Niece of",
+            "Tanda Stokeworth",
+            "[2]"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ],
+        "played by": " Unidentified",
+        "tv series": " Season 1"
+    },
+    "Gyles_Yronwood": {
+        "id": "Gyles_Yronwood",
+        "name": "Gyles Yronwood",
+        "title": " Ser",
+        "allegiance": [
+            "House Yronwood",
+            "Blacks"
+        ],
+        "culture": " Dornishmen",
+        "died": " In 130 AC, at Flea Bottom",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Gylo_Rhegan": {
+        "id": "Gylo_Rhegan",
+        "name": "Gylo Rhegan",
+        "title": " Commander of the Long Lances",
+        "allegiance": " Long Lances",
+        "book(s)": " A Dance with Dragons"
+    },
+    "Gyloro_Dothare": {
+        "id": "Gyloro_Dothare",
+        "name": "Gyloro Dothare",
+        "culture": " Braavosi",
+        "book(s)": " A Feast for Crows (mentioned)"
+    },
+    "Gynir": {
+        "id": "Gynir",
+        "name": "Gynir",
+        "alias": [
+            "Gynir Rednose",
+            "Rednose"
+        ],
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Gysella_Goodbrother": {
+        "id": "Gysella_Goodbrother",
+        "name": "Gysella Goodbrother",
+        "allegiance": " House Goodbrother",
+        "culture": " ironborn",
+        "born": " In or before 282 AC[1]",
+        "book(s)": " A Feast for Crows (appears)"
+    },
+    "Ginger_Jack": {
+        "id": "Ginger_Jack",
+        "name": "Ginger Jack",
+        "alias": " Ginjer Jack[1]",
+        "allegiance": " Windblown",
+        "born": " At Westeros",
+        "book(s)": " A Dance with Dragons (appears)"
+    },
+    "Grey_Jeyne": {
+        "id": "Grey_Jeyne",
+        "name": "Grey Jeyne"
+    },
+    "Goodwife_Maerie": {
+        "id": "Goodwife_Maerie",
+        "name": "Goodwife Maerie",
+        "title": " Goodwife",
+        "died": " At Riverlands",
+        "book(s)": " A Storm of Swords (mentioned)"
+    }
+}

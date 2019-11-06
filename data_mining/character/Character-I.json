@@ -1,0 +1,224 @@
+{
+    "Iggo": {
+        "id": "Iggo",
+        "name": "Iggo",
+        "allegiance": " Brave Companions",
+        "culture": " Dothraki",
+        "died": " In 299 AC, at Riverlands",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Igon_Vyrwel": {
+        "id": "Igon_Vyrwel",
+        "name": "Igon Vyrwel",
+        "title": " Captain of the guards",
+        "allegiance": [
+            "House Vyrwel",
+            "House Tyrell"
+        ],
+        "culture": " Reach",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(appendix)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Illifer": {
+        "id": "Illifer",
+        "name": "Illifer the Penniless",
+        "alias": " Illy[1]",
+        "title": " Ser",
+        "born": " In 240 AC or before[2]",
+        "book(s)": " A Feast for Crows (appears)",
+        "personal arms": [
+            "Gold and ermine gyronny",
+            "(Gyronny of eight or and ermine)"
+        ]
+    },
+    "Illister": {
+        "id": "Illister",
+        "name": "Illister",
+        "title": " Maester",
+        "allegiance": " The Citadel",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Illyrio_Mopatis": {
+        "id": "Illyrio_Mopatis",
+        "name": "Illyrio Mopatis",
+        "alias": [
+            "The cheesemonger",
+            "The fat man",
+            "The lord of cheese"
+        ],
+        "title": " Magister of Pentos",
+        "culture": " Pentoshi",
+        "born": " At Pentos[1]",
+        "spouse": [
+            "1st:",
+            "Cousin to the Prince of Pentos",
+            "2nd:",
+            "Serra"
+        ],
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Roger Allam",
+        "tv series": " Season 1"
+    },
+    "Illyrio_Mopatis%27s_first_wife": {
+        "id": "Illyrio_Mopatis%27s_first_wife",
+        "name": "Illyrio Mopatis's first wife",
+        "culture": " Pentoshi",
+        "born": " At Pentos",
+        "died": " At Pentos",
+        "spouse": " Illyrio Mopatis",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Ilyn_Payne": {
+        "id": "Ilyn_Payne",
+        "name": "Ilyn Payne",
+        "title": [
+            "Ser",
+            "Captain of the guards",
+            "(formerly)",
+            "King's Justice"
+        ],
+        "allegiance": [
+            "House Payne",
+            "House Lannister",
+            "(formerly)",
+            "House Baratheon of King's Landing"
+        ],
+        "culture": " Westermen",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ],
+        "played by": " Wilko Johnson",
+        "tv series": " Season 1 | Season 2"
+    },
+    "Imry_Florent": {
+        "id": "Imry_Florent",
+        "name": "Imry Florent",
+        "alias": " fool of Florent[1]",
+        "title": [
+            "Ser",
+            "Lord High Captain"
+        ],
+        "allegiance": " House Florent",
+        "died": " In 299 AC, at the Blackwater Rush",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(appendix)"
+        ],
+        "played by": " Gordon Mahon (listed as Gordan Mahon)[2]",
+        "tv series": " Season 2"
+    },
+    "Ironbelly": {
+        "id": "Ironbelly",
+        "name": "Ironbelly",
+        "alias": " Ironbelly",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)"
+        ]
+    },
+    "Irri": {
+        "id": "Irri",
+        "name": "Irri",
+        "allegiance": " House Targaryen",
+        "culture": " Dothraki",
+        "born": " In 283 AC or 284 AC[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Amrita Acharia",
+        "tv series": " Season 1 | Season 2"
+    },
+    "Isembard_Arryn": {
+        "id": "Isembard_Arryn",
+        "name": "Isembard Arryn",
+        "alias": " The Gilded Falcon",
+        "title": [
+            "Lord of the Eyrie",
+            "(claimant)",
+            "Defender of the Vale",
+            "(claimant)",
+            "Warden of the East",
+            "(claimant)",
+            "Master of coin"
+        ],
+        "allegiance": " House Arryn of Gulltown",
+        "culture": " Valemen",
+        "issue": " Sons",
+        "book(s)": " Fire & Blood (mentioned)",
+        "personal arms": " A golden falcon soaring across against a white moon, on a sky-blue field (Bleu celeste, upon a plate a falcon or rousant of the field)"
+    },
+    "Ithoke": {
+        "id": "Ithoke",
+        "name": "Ithoke",
+        "alias": " Fearless Ithoke",
+        "allegiance": " House of Loraq",
+        "culture": " Ghiscari",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appears)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Izembaro": {
+        "id": "Izembaro",
+        "name": "Izembaro",
+        "alias": [
+            "King of the Mummers",
+            "Izembaro the Great"
+        ],
+        "allegiance": " The Gate",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    }
+}

@@ -1,0 +1,559 @@
+{
+    "Uhlan": {
+        "id": "Uhlan",
+        "name": "Uhlan",
+        "title": " Serjeant",
+        "allegiance": " Second Sons",
+        "book(s)": [
+            "A Dance with Dragons",
+            "(appendix)",
+            "The Winds of Winter",
+            "(appears)"
+        ]
+    },
+    "Ulf_son_of_Umar": {
+        "id": "Ulf_son_of_Umar",
+        "name": "Ulf son of Umar",
+        "allegiance": " Moon Brothers",
+        "culture": " Vale mountain clans",
+        "died": " In 298 AC, at the Green Fork",
+        "book(s)": " A Game of Thrones (appears)"
+    },
+    "Ulf_the_Ill": {
+        "id": "Ulf_the_Ill",
+        "name": "Ulf the Ill",
+        "alias": " Ulf the Ill",
+        "allegiance": " House Greyjoy",
+        "culture": " Ironborn",
+        "died": " In 299 AC, at Winterfell",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Ulf_the_White": {
+        "id": "Ulf_the_White",
+        "name": "Ulf White",
+        "alias": [
+            "Ulf the White",
+            "[1]",
+            "Ulf the Sot",
+            "[1]",
+            "The Betrayer",
+            "[2]"
+        ],
+        "title": [
+            "Ser",
+            "Lord of Bitterbridge",
+            "Lord of Highgarden",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "Blacks",
+            "Greens",
+            "Two Betrayers"
+        ],
+        "culture": " Crownlands",
+        "born": " At Dragonstone",
+        "died": " In 130 AC, at Tumbleton",
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Uller": {
+        "id": "Uller",
+        "name": "Uller",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)",
+            "A Feast for Crows",
+            "(appendix)"
+        ]
+    },
+    "Ulmer": {
+        "id": "Ulmer",
+        "name": "Ulmer of the Kingswood",
+        "alias": " Ulmer of the Kingswood[1]",
+        "allegiance": [
+            "Kingswood Brotherhood",
+            "Night's Watch"
+        ],
+        "born": " At kingswood[2]",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Ulrick_Dayne": {
+        "id": "Ulrick_Dayne",
+        "name": "Ulrick Dayne",
+        "title": [
+            "Ser",
+            "Sword of the Morning"
+        ],
+        "allegiance": " House Dayne",
+        "culture": " Dornishmen",
+        "book(s)": " The Sworn Sword (mentioned)"
+    },
+    "Ulwyck_Uller": {
+        "id": "Ulwyck_Uller",
+        "name": "Ulwyck Uller",
+        "title": " Ser[1]",
+        "allegiance": " House Uller",
+        "culture": " Dornishmen",
+        "book(s)": [
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Umar": {
+        "id": "Umar",
+        "name": "Umar",
+        "allegiance": " Moon Brothers",
+        "culture": " Vale mountain clans",
+        "issue": " Ulf",
+        "book(s)": " A Game of Thrones (mentioned)"
+    },
+    "Umbert": {
+        "id": "Umbert",
+        "name": "Umbert",
+        "title": " Archmaester",
+        "allegiance": " The Citadel",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Umfred": {
+        "id": "Umfred",
+        "name": "Umfred",
+        "title": " Steward of the \"Drearfort\"",
+        "allegiance": " House Baelish",
+        "culture": " Valemen",
+        "book(s)": " A Storm of Swords (appears)"
+    },
+    "Umma": {
+        "id": "Umma",
+        "name": "Umma",
+        "allegiance": " House of Black and White",
+        "culture": " Braavosi",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(appears)"
+        ]
+    },
+    "Ummet": {
+        "id": "Ummet",
+        "name": "Ummet",
+        "allegiance": " House Targaryen",
+        "died": " In 131 AC[1], at King's Landing[1]",
+        "book(s)": " Fire and Blood (mentioned)"
+    },
+    "Unella": {
+        "id": "Unella",
+        "name": "Unella",
+        "title": " Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ],
+        "book(s)": [
+            "A Feast for Crows",
+            "(appears)",
+            "A Dance with Dragons",
+            "(appears)"
+        ],
+        "played by": " Hannah Waddingham",
+        "tv series": " Season 5 | Season 6"
+    },
+    "Unwin_Peake": {
+        "id": "Unwin_Peake",
+        "name": "Unwin Peake",
+        "title": [
+            "Lord of Starpike",
+            "[1]",
+            "Lord of Dunstonbury",
+            "[1]",
+            "Lord of Whitegrove",
+            "[1]",
+            "Lord Regent",
+            "[2]",
+            "Protector of the Realm",
+            "[1]",
+            "Hand of the King",
+            "[1]"
+        ],
+        "allegiance": [
+            "House Peake",
+            "[3]",
+            "Greens",
+            "[3]",
+            "Caltrops",
+            "[3]"
+        ],
+        "culture": " Reach",
+        "born": " In or before 99 AC[4]",
+        "died": " In 136 196 AC[4]",
+        "spouse": " 3 wives[1]",
+        "issue": [
+            "Titus Peake",
+            "[1]",
+            "Myrielle Peake",
+            "[1]",
+            "2 sons",
+            "[1]",
+            "3 daughters",
+            "[1]"
+        ],
+        "book(s)": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "Fire & Blood",
+            "(mentioned)",
+            "The Princess and the Queen",
+            "(mentioned)"
+        ]
+    },
+    "Urek_Ironmaker": {
+        "id": "Urek_Ironmaker",
+        "name": "Urek Ironmaker",
+        "allegiance": " House Ironmaker",
+        "culture": " ironborn",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Urho_the_Unwashed": {
+        "id": "Urho_the_Unwashed",
+        "name": "Urho the Unwashed",
+        "allegiance": " Pirates",
+        "culture": " Essos",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Urragon_III_Greyiron": {
+        "id": "Urragon_III_Greyiron",
+        "name": "Urragon III Greyiron",
+        "full name": " Urragon Greyiron, Third of His Name Since the Grey King",
+        "alias": " Urragon the Bald",
+        "titles": " High King of the Iron Islands",
+        "royal house": " House Greyiron",
+        "successor": " Urrathon IV Goodbrother",
+        "issue": " Torgon Greyiron and other sons",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Urragon_IV_Greyiron": {
+        "id": "Urragon_IV_Greyiron",
+        "name": "Urragon IV Greyiron",
+        "full name": " Urragon Greyiron, Fourth of His Name Since the Grey King",
+        "titles": " High King of the Iron Islands",
+        "royal house": " House Greyiron",
+        "predecessor": " Torgon Greyiron",
+        "heir": " Urron Greyiron",
+        "successor": " Urron Greyiron",
+        "father": " Torgon Greyiron",
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Urras_Greyiron": {
+        "id": "Urras_Greyiron",
+        "name": "Urras Greyiron",
+        "full name": " Urras Greyiron",
+        "alias": [
+            "Ironfoot",
+            "[1]",
+            "Urras Ironfoot",
+            "[1]"
+        ],
+        "titles": [
+            "High King of the Iron Islands",
+            "Salt King",
+            "of Orkmont"
+        ],
+        "born in": " Orkmont",
+        "royal house": " House Greyiron",
+        "successor": [
+            "Erich I Greyiron",
+            "(briefly)",
+            "Regnar Drumm"
+        ],
+        "issue": [
+            "Erich I Greyiron",
+            "Son(s)"
+        ],
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Urrathon_IV_Goodbrother": {
+        "id": "Urrathon_IV_Goodbrother",
+        "name": "Urrathon IV Goodbrother",
+        "full name": " Urrathon Goodbrother, Fourth of His Name Since the Grey King",
+        "alias": " Badbrother",
+        "titles": " High King of the Iron Islands",
+        "royal house": " House Goodbrother",
+        "predecessor": " Urragon III Greyiron",
+        "successor": " Torgon Greyiron",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Dance with Dragons",
+            "(mentioned)"
+        ]
+    },
+    "Urrathon_Night-Walker": {
+        "id": "Urrathon_Night-Walker",
+        "name": "Urrathon Night-Walker",
+        "culture": " Qartheen",
+        "book(s)": " A Clash of Kings (mentioned)"
+    },
+    "Urrathon_Peake": {
+        "id": "Urrathon_Peake",
+        "name": "Urrathon Peake",
+        "alias": " Urrathon the Shieldsmasher",
+        "title": " Ser",
+        "allegiance": " House Peake",
+        "culture": " Reach",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Urreg": {
+        "id": "Urreg",
+        "name": "Urreg",
+        "book(s)": " A Clash of Kings (appears)"
+    },
+    "Urrigon_Greyjoy": {
+        "id": "Urrigon_Greyjoy",
+        "name": "Urrigon Greyjoy",
+        "alias": " Urri",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "born": " In or between 268 AC and 270 AC[1]",
+        "died": " In 283 AC or 284 AC[1], at Pyke",
+        "book(s)": [
+            "A Feast for Crows",
+            "(mentioned)",
+            "The Winds of Winter",
+            "(mentioned)"
+        ]
+    },
+    "Urrigon_Hightower": {
+        "id": "Urrigon_Hightower",
+        "name": "Urrigon Hightower",
+        "full name": " Urrigon Hightower",
+        "titles": " King of the Hightower",
+        "royal house": " House Hightower",
+        "predecessor": " Uthor of the High Tower"
+    },
+    "Urron_Greyiron": {
+        "id": "Urron_Greyiron",
+        "name": "Urron Greyiron",
+        "reign": " about 5,000 years ago.",
+        "full name": " Urron Greyiron",
+        "alias": [
+            "Urron Redhand",
+            "[1]",
+            "Urron of",
+            "Orkmont",
+            "[2]",
+            "The Redhand",
+            "[3]"
+        ],
+        "titles": [
+            "Iron King",
+            "King of the Iron Islands",
+            "Salt king",
+            "of Orkmont"
+        ],
+        "culture": " ironborn",
+        "royal house": " House Greyiron",
+        "predecessor": " Urragon IV Greyiron",
+        "books": [
+            "The World of Ice & Fire",
+            "(mentioned)",
+            "A Game of Thrones",
+            "(appendix)",
+            "A Clash of Kings",
+            "(mentioned)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Ursula_Upcliff": {
+        "id": "Ursula_Upcliff",
+        "name": "Ursula Upcliff",
+        "title": " Bride of the Merling King",
+        "allegiance": " House Upcliff",
+        "race": " First Men",
+        "died": " At the Giant's Lance",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Urswyck": {
+        "id": "Urswyck",
+        "name": "Urswyck",
+        "alias": [
+            "Urswyck the Faithful",
+            "Faithful Urswyck"
+        ],
+        "allegiance": " Brave Companions",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(mentioned)"
+        ]
+    },
+    "Urzen": {
+        "id": "Urzen",
+        "name": "Urzen",
+        "allegiance": " House Greyjoy",
+        "culture": " ironborn",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appendix)"
+        ]
+    },
+    "Uther_Peake": {
+        "id": "Uther_Peake",
+        "name": "Uther Peake",
+        "title": [
+            "Lord of Starpike",
+            "[1]",
+            "Lord of Dunstonbury",
+            "[1]",
+            "Lord of Whitegrove",
+            "[1]"
+        ],
+        "allegiance": " House Peake",
+        "culture": " Reach",
+        "spouse": " Lady Prunella Celtigar",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Uther_Shett": {
+        "id": "Uther_Shett",
+        "name": "Uther Shett",
+        "title": " Ser",
+        "allegiance": " House Shett of Gulltown",
+        "book(s)": " The Winds of Winter (appears)"
+    },
+    "Uthero_Zalyne": {
+        "id": "Uthero_Zalyne",
+        "name": "Uthero Zalyne",
+        "title": " Sealord of Braavos",
+        "allegiance": " Braavos",
+        "culture": " Braavosi",
+        "died": " At Volantis",
+        "book(s)": " The World of Ice & Fire (mentioned)"
+    },
+    "Utherydes_Wayn": {
+        "id": "Utherydes_Wayn",
+        "name": "Utherydes Wayn",
+        "title": " Steward of Riverrun",
+        "allegiance": [
+            "House Wayn",
+            "House Tully"
+        ],
+        "culture": " Rivermen",
+        "born": " In or between 237 AC and 241 AC (roughly)[1]",
+        "book(s)": [
+            "A Game of Thrones",
+            "(appears)",
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)",
+            "A Feast for Crows",
+            "(appendix)",
+            "A Dance with Dragons",
+            "(appendix)"
+        ]
+    },
+    "Uthor": {
+        "id": "Uthor",
+        "name": "Uthor",
+        "title": " Maester at the Dreadfort",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Bolton"
+        ],
+        "died": " In 297 300 AC (presumably)",
+        "book(s)": " A Dance with Dragons (mentioned)"
+    },
+    "Uthor_of_the_High_Tower": {
+        "id": "Uthor_of_the_High_Tower",
+        "name": "Uthor of the High Tower",
+        "full name": " Uthor of the High Tower",
+        "titles": " King of the High Tower",
+        "royal house": " House Hightower",
+        "heir": " Urrigon Hightower",
+        "successor": " Urrigon Hightower",
+        "spouse": " Maris the Maid",
+        "issue": [
+            "Urrigon Hightower",
+            "Peremore Hightower"
+        ],
+        "books": " The World of Ice & Fire (mentioned)"
+    },
+    "Uthor_Tollett": {
+        "id": "Uthor_Tollett",
+        "name": "Uthor Tollett",
+        "title": " Lord of the Grey Glen",
+        "allegiance": " House Tollett",
+        "culture": " Valemen",
+        "book(s)": " A Feast for Crows (appendix)"
+    },
+    "Uthor_Uller": {
+        "id": "Uthor_Uller",
+        "name": "Uthor Uller",
+        "title": " Lord of the Hellholt[1]",
+        "allegiance": " House Uller",
+        "culture": " Dornishmen",
+        "book(s)": " Fire & Blood (mentioned)"
+    },
+    "Uthor_Underleaf": {
+        "id": "Uthor_Underleaf",
+        "name": "Uthor Underleaf",
+        "alias": " The Snail[1]",
+        "title": " Ser",
+        "born": " In or around 181 AC, 182 AC or 183 AC[2]",
+        "book(s)": " The Mystery Knight (appears)"
+    },
+    "Utt": {
+        "id": "Utt",
+        "name": "Utt",
+        "title": " Septon",
+        "allegiance": [
+            "Brave Companions",
+            "Faith of the Seven",
+            "(expelled)"
+        ],
+        "died": " In 299 AC, at the burning septry",
+        "book(s)": [
+            "A Clash of Kings",
+            "(appears)",
+            "A Storm of Swords",
+            "(appears)"
+        ]
+    }
+}
