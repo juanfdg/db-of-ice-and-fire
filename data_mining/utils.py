@@ -10,5 +10,6 @@ def beautify_string(word):
 def _bs(w):
     w = w.replace(u"\u00a0", " ")
     w = w.replace(u"\u2013", " ")
+    w = w.replace(u"\u00e9", " ")
     w = w.replace(u"\n", " ")
     return w

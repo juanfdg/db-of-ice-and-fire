@@ -1,0 +1,577 @@
+{
+    "Crownlands": {
+        "Royal House": [
+            "House_Baratheon_of_King%27s_Landing"
+        ],
+        "Noble Houses": [
+            "House_Blount",
+            "House_Buckwell",
+            "House_Byrch",
+            "House_Bywater",
+            "House_Chelsted",
+            "House_Chyttering",
+            "House_Cressey",
+            "House_Darke",
+            "House_Edgerton",
+            "House_Farring",
+            "House_Follard",
+            "House_Gaunt",
+            "House_Harte",
+            "House_Hayford",
+            "House_Langward",
+            "House_Mallery",
+            "House_Manning",
+            "House_Massey",
+            "House_Pyle",
+            "House_Rambton",
+            "House_Rollingford",
+            "House_Rosby",
+            "House_Rykker",
+            "House_Staunton",
+            "House_Stokeworth",
+            "House_Thorne",
+            "House_Wendwater"
+        ],
+        "Landed Knights": [
+            "House_Brune_of_Brownhollow",
+            "House_Hogg"
+        ],
+        "Narrow Sea Houses": [
+            "House_Baratheon_of_Dragonstone",
+            "House_Bar_Emmon",
+            "House_Celtigar",
+            "House_Sunglass",
+            "House_Velaryon"
+        ],
+        "Crackclaw Point Houses": [
+            "House_Boggs",
+            "House_Brune_of_Brownhollow",
+            "House_Brune_of_the_Dyre_Den",
+            "House_Cave",
+            "House_Crabb",
+            "House_Hardy",
+            "House_Pyne"
+        ],
+        "Other Houses": [
+            "House_Dargood",
+            "House_Darkwood",
+            "House_Hollard",
+            "House_Longwaters"
+        ],
+        "Exiled Houses": [
+            "House_Targaryen"
+        ],
+        "Extinct Houses": [
+            "House_Blackfyre",
+            "House_Cargyll",
+            "House_Darklyn"
+        ]
+    },
+    "North": {
+        "Great House": [
+            "House_Stark"
+        ],
+        "Noble Houses": [
+            "House_Ashwood",
+            "House_Bole",
+            "House_Bolton",
+            "House_Branch",
+            "House_Cassel",
+            "House_Cerwyn",
+            "House_Condon",
+            "House_Dustin",
+            "House_Flint_of_Flint%27s_Finger",
+            "House_Flint_of_Widow%27s_Watch",
+            "House_Forrester",
+            "House_Glenmore",
+            "House_Holt_(north)",
+            "House_Hornwood",
+            "House_Ironsmith",
+            "House_Karstark",
+            "House_Lake_(north)",
+            "House_Lightfoot",
+            "House_Locke",
+            "House_Long",
+            "House_Manderly",
+            "House_Marsh",
+            "House_Mollen",
+            "House_Mormont",
+            "House_Moss",
+            "House_Overton",
+            "House_Poole",
+            "House_Reed",
+            "House_Ryswell",
+            "House_Slate",
+            "House_Stout",
+            "House_Umber",
+            "House_Waterman",
+            "House_Wells_(north)",
+            "House_Whitehill",
+            "House_Woods",
+            "House_Woolfield"
+        ],
+        "Masterly Houses": [
+            "House_Glover",
+            "House_Tallhart"
+        ],
+        "Crannogmen": [
+            "House_Blackmyre",
+            "House_Boggs_(north)",
+            "House_Cray",
+            "House_Fenn",
+            "House_Greengood",
+            "House_Peat",
+            "House_Quagg",
+            "House_Reed"
+        ],
+        "Mountain Clans": [
+            "House_Burley",
+            "House_Flint_of_the_mountains",
+            "House_Harclay",
+            "House_Knott",
+            "House_Liddle",
+            "House_Norrey",
+            "House_Wull"
+        ],
+        "Skagosi Clans": [
+            "House_Crowl",
+            "House_Magnar",
+            "House_Stane"
+        ],
+        "Exiled Houses": [
+            "House_Blackwood"
+        ],
+        "Extinct Houses": [
+            "House_Amber",
+            "House_Greenwood",
+            "House_Fisher_of_the_Stony_Shore",
+            "House_Flint_of_Breakstone_Hill",
+            "House_Frost",
+            "House_Greystark",
+            "House_Ryder",
+            "House_Towers_(north)",
+            "House_Woodfoot"
+        ]
+    },
+    "Vale": {
+        "Great House": [
+            "House_Arryn"
+        ],
+        "Noble Houses": [
+            "House_Baelish",
+            "House_Belmore",
+            "House_Breakstone",
+            "House_Coldwater",
+            "House_Corbray",
+            "House_Crayne",
+            "House_Donnerly",
+            "House_Donniger",
+            "House_Dutton",
+            "House_Egen",
+            "House_Elesham",
+            "House_Grafton",
+            "House_Hardyng",
+            "House_Hersy",
+            "House_Hunter",
+            "House_Lipps",
+            "House_Lynderly",
+            "House_Melcolm",
+            "House_Moore",
+            "House_Pryor",
+            "House_Redfort",
+            "House_Royce",
+            "House_Ruthermont",
+            "House_Tollett",
+            "House_Upcliff",
+            "House_Waynwood",
+            "House_Wydman"
+        ],
+        "Landed Knights": [
+            "House_Shett_of_Gull_Tower",
+            "House_Shett_of_Gulltown",
+            "House_Templeton",
+            "House_Waxley",
+            "House_Woodhull"
+        ],
+        "Sistermen Houses": [
+            "House_Borrell",
+            "House_Longthorpe",
+            "House_Sunderland",
+            "House_Torrent"
+        ],
+        "Other Houses": [
+            "House_Arryn_of_Gulltown",
+            "House_Royce_of_the_Gates_of_the_Moon"
+        ],
+        "Extinct Houses": [
+            "House_Shell_(Vale)",
+            "House_Brightstone"
+        ]
+    },
+    "Riverlands": {
+        "Great House": [
+            "House_Tully"
+        ],
+        "Noble Houses": [
+            "House_Bigglestone",
+            "House_Blackwood",
+            "House_Blanetree",
+            "House_Bracken",
+            "House_Butterwell",
+            "House_Chambers",
+            "House_Charlton",
+            "House_Darry",
+            "House_Deddings",
+            "House_Erenford",
+            "House_Frey",
+            "House_Goodbrook",
+            "House_Grell",
+            "House_Harlton",
+            "House_Hawick",
+            "House_Keath",
+            "House_Lolliston",
+            "House_Lychester",
+            "House_Mallister",
+            "House_Mooton",
+            "House_Nutt",
+            "House_Pemford",
+            "House_Perryn",
+            "House_Piper",
+            "House_Roote",
+            "House_Ryger",
+            "House_Shawney",
+            "House_Smallwood",
+            "House_Terrick",
+            "House_Vance_of_Atranta",
+            "House_Vance_of_Wayfarer%27s_Rest",
+            "House_Vypren",
+            "House_Wayn",
+            "House_Whent"
+        ],
+        "Landed Knights": [
+            "House_Cox",
+            "House_Grey",
+            "House_Haigh",
+            "House_Nayland",
+            "House_Paege",
+            "House_Wode"
+        ],
+        "Other Houses": [
+            "House_Heddle"
+        ],
+        "Deposed Houses": [
+            "House_Lothston",
+            "House_Mudd",
+            "House_Strong"
+        ],
+        "Extinct Houses": [
+            "House_Fisher",
+            "House_Harroway",
+            "House_Hoare",
+            "House_Hook",
+            "House_Justman",
+            "House_Qoherys",
+            "House_Teague",
+            "House_Towers_of_Harrenhal"
+        ]
+    },
+    "Islands": {
+        "Great House": [
+            "House_Greyjoy"
+        ],
+        "Noble Houses": [
+            "House_Blacktyde",
+            "House_Botley",
+            "House_Drumm",
+            "House_Farwynd",
+            "House_Goodbrother",
+            "House_Harlaw",
+            "House_Kenning_of_Harlaw",
+            "House_Merlyn",
+            "House_Myre",
+            "House_Orkwood",
+            "House_Saltcliffe",
+            "House_Sparr",
+            "House_Stonehouse",
+            "House_Stonetree",
+            "House_Sunderly",
+            "House_Tawney",
+            "House_Volmark",
+            "House_Wynch"
+        ],
+        "Other Houses": [
+            "House_Codd",
+            "House_Farwynd_of_the_Lonely_Light",
+            "House_Goodbrother_of_Corpse_Lake",
+            "House_Goodbrother_of_Crow_Spike_Keep",
+            "House_Goodbrother_of_Downdelving",
+            "House_Goodbrother_of_Orkmont",
+            "House_Goodbrother_of_Shatterstone",
+            "House_Harlaw_of_Grey_Garden",
+            "House_Harlaw_of_Harridan_Hill",
+            "House_Harlaw_of_Harlaw_Hall",
+            "House_Harlaw_of_the_Tower_of_Glimmering",
+            "House_Humble",
+            "House_Ironmaker",
+            "House_Netley",
+            "House_Sharp",
+            "House_Shepherd",
+            "House_Weaver"
+        ],
+        "Extinct Houses": [
+            "House_Greyiron",
+            "House_Hoare"
+        ]
+    },
+    "Westerlands": {
+        "Great House": [
+            "House_Lannister"
+        ],
+        "Noble Houses": [
+            "House_Algood",
+            "House_Banefort",
+            "House_Bettley",
+            "House_Brax",
+            "House_Broom",
+            "House_Broome",
+            "House_Crakehall",
+            "House_Doggett",
+            "House_Drox",
+            "House_Estren",
+            "House_Falwell",
+            "House_Farman",
+            "House_Ferren",
+            "House_Foote",
+            "House_Garner",
+            "House_Hamell",
+            "House_Hawthorne",
+            "House_Jast",
+            "House_Kenning_of_Kayce",
+            "House_Kyndall",
+            "House_Lannister_of_Lannisport",
+            "House_Lefford",
+            "House_Lydden",
+            "House_Marbrand",
+            "House_Moreland",
+            "House_Myatt",
+            "House_Payne",
+            "House_Plumm",
+            "House_Prester",
+            "House_Sarsfield",
+            "House_Sarwyck",
+            "House_Serrett",
+            "House_Stackspear",
+            "House_Turnberry",
+            "House_Westerling",
+            "House_Yarwyck"
+        ],
+        "Landed Knights": [
+            "House_Clegane",
+            "House_Clifton",
+            "House_Greenfield",
+            "House_Hetherspoon",
+            "House_Lorch",
+            "House_Peckledon",
+            "House_Ruttiger",
+            "House_Swyft",
+            "House_Vikary",
+            "House_Westford",
+            "House_Yew"
+        ],
+        "Other Houses": [
+            "House_Lannett",
+            "House_Lantell",
+            "House_Lanny",
+            "House_Spicer"
+        ],
+        "Extinct Houses": [
+            "House_Casterly",
+            "House_Parren",
+            "House_Reyne",
+            "House_Tarbeck"
+        ]
+    },
+    "Reach": {
+        "Great House": [
+            "House_Tyrell"
+        ],
+        "Noble Houses": [
+            "House_Ambrose",
+            "House_Appleton",
+            "House_Ashford",
+            "House_Beesbury",
+            "House_Blackbar",
+            "House_Bulwer",
+            "House_Caswell",
+            "House_Cockshaw",
+            "House_Cordwayner",
+            "House_Costayne",
+            "House_Crane",
+            "House_Cuy",
+            "House_Florent",
+            "House_Fossoway_of_Cider_Hall",
+            "House_Fossoway_of_New_Barrel",
+            "House_Footly",
+            "House_Graceford",
+            "House_Hightower",
+            "House_Meadows",
+            "House_Merryweather",
+            "House_Mullendore",
+            "House_Oakheart",
+            "House_Peake",
+            "House_Redwyne",
+            "House_Rodden",
+            "House_Rowan",
+            "House_Shermer",
+            "House_Tarly",
+            "House_Varner",
+            "House_Vyrwel"
+        ],
+        "Shield Islands": [
+            "House_Chester",
+            "House_Grimm",
+            "House_Hewett",
+            "House_Serry"
+        ],
+        "Other Houses": [
+            "House_Ball",
+            "House_Bridges",
+            "House_Bushy",
+            "House_Cobb",
+            "House_Conklyn",
+            "House_Dunn",
+            "House_Durwell",
+            "House_Graves",
+            "House_Hastwyck",
+            "House_Hunt",
+            "House_Hutcheson",
+            "House_Inchfield",
+            "House_Kidwell",
+            "House_Leygood",
+            "House_Lowther",
+            "House_Lyberr",
+            "House_Middlebury",
+            "House_Norcross",
+            "House_Norridge",
+            "House_Oldflowers",
+            "House_Orme",
+            "House_Pommingham",
+            "House_Redding",
+            "House_Rhysling",
+            "House_Risley",
+            "House_Roxton",
+            "House_Sloane",
+            "House_Stackhouse",
+            "House_Uffering",
+            "House_Webber",
+            "House_Westbrook",
+            "House_Willum",
+            "House_Woodwright",
+            "House_Wythers",
+            "House_Yelshire"
+        ],
+        "Landed Knights": [
+            "House_Osgrey"
+        ],
+        "Exiled Houses": [
+            "House_Manderly"
+        ],
+        "Extinct Houses": [
+            "House_Gardener",
+            "House_Osgrey_of_Leafy_Lake"
+        ]
+    },
+    "Stormlands": {
+        "Great House": [
+            "House_Baratheon"
+        ],
+        "Marcher Lords": [
+            "House_Caron",
+            "House_Dondarrion",
+            "House_Selmy",
+            "House_Swann"
+        ],
+        "Noble Houses": [
+            "House_Buckler",
+            "House_Cafferen",
+            "House_Errol",
+            "House_Estermont",
+            "House_Fell",
+            "House_Gower",
+            "House_Grandison",
+            "House_Hasty",
+            "House_Herston",
+            "House_Horpe",
+            "House_Kellington",
+            "House_Lonmouth",
+            "House_Mertyns",
+            "House_Morrigen",
+            "House_Musgood",
+            "House_Peasebury",
+            "House_Penrose",
+            "House_Rogers",
+            "House_Staedmon",
+            "House_Swygert",
+            "House_Tarth",
+            "House_Trant",
+            "House_Tudbury",
+            "House_Wagstaff",
+            "House_Wensington",
+            "House_Whitehead",
+            "House_Wylde"
+        ],
+        "Landed Knights": [
+            "House_Bolling",
+            "House_Brownhill_(stormlands)",
+            "House_Connington",
+            "House_Hasty",
+            "House_Seaworth"
+        ],
+        "Exiled Houses": [
+            "House_Cole"
+        ],
+        "Extinct Houses": [
+            "House_Durrandon",
+            "House_Toyne"
+        ]
+    },
+    "Dorne": {
+        "Great House": [
+            "House_Martell"
+        ],
+        "Noble Houses": [
+            "House_Allyrion",
+            "House_Blackmont",
+            "House_Dayne",
+            "House_Fowler",
+            "House_Gargalen",
+            "House_Jordayne",
+            "House_Ladybright",
+            "House_Manwoody",
+            "House_Qorgyle",
+            "House_Toland",
+            "House_Uller",
+            "House_Vaith",
+            "House_Wells_(Dorne)",
+            "House_Wyl",
+            "House_Yronwood"
+        ],
+        "Landed Knights": [
+            "House_Dalt",
+            "House_Drinkwater",
+            "House_Dayne_of_High_Hermitage",
+            "House_Santagar"
+        ],
+        "Extinct Houses": [
+            "House_Briar",
+            "House_Brook",
+            "House_Brownhill",
+            "House_Dryland",
+            "House_Holt_(Dorne)",
+            "House_Hull",
+            "House_Lake_(Dorne)",
+            "House_Shell_(Dorne)",
+            "House_Wade"
+        ]
+    }
+}

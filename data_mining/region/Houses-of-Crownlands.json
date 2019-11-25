@@ -1,0 +1,606 @@
+{
+    "House_Baratheon_of_King%27s_Landing": {
+        "id": "House_Baratheon_of_King%27s_Landing",
+        "name": "House Baratheon of King's Landing",
+        "coat of arms": [
+            "A black crowned stag and a gold lion, combatant, on a per pale gold and crimson field",
+            "(",
+            "Per pale or and gules, a stag, crowned, sable and a lion of the first combatant",
+            ")",
+            "Formerly just a black crowned stag on gold",
+            "(Or, a stag, crowned, sable)"
+        ],
+        "seat": " Red Keep, King's Landing",
+        "lord": " King Tommen I",
+        "region": " Crownlands",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Lord of Storm's End",
+            "(",
+            "disputed",
+            ")"
+        ],
+        "heir": " Myrcella Baratheon",
+        "overlord": " none, sovereign (disputed by House Baratheon of Dragonstone and House Targaryen)",
+        "founder": " Robert I Baratheon",
+        "founded": " 283 AC"
+    },
+    "House_Blount": {
+        "id": "House_Blount",
+        "name": "House Blount",
+        "coat of arms": [
+            "A red bend sinister between two black porcupines, on a green field",
+            "(",
+            "Vert, a bend sinister gules between two porcupines sable",
+            ")"
+        ],
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Buckwell": {
+        "id": "House_Buckwell",
+        "name": "House Buckwell",
+        "coat of arms": [
+            "A rack of golden antlers, on a field of vair",
+            "(",
+            "Vair, a stag's attire or",
+            ")"
+        ],
+        "words": " Pride and Purpose",
+        "seat": " the Antlers",
+        "region": " crownlands",
+        "title": " Lord of the Antlers",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Byrch": {
+        "id": "House_Byrch",
+        "name": "House Byrch",
+        "coat of arms": [
+            "Gyronny white and black quartered with a silver axe on a green field",
+            "(Quarterly, first and fourth gyronny argent and sable, second and third vert, an axe of the first)"
+        ],
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Bywater": {
+        "id": "House_Bywater",
+        "name": "House Bywater",
+        "coat of arms": [
+            "Blue frets on a white field, three silver fish on a blue chief",
+            "(",
+            "Argent fretty azure, on a chief of the second three fish of the field",
+            ")"
+        ],
+        "region": " crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Chelsted": {
+        "id": "House_Chelsted",
+        "name": "House Chelsted",
+        "coat of arms": [
+            "Per bend green and white shield, a spiked mace and a silver dagger crossed",
+            "(Per bend vert and white, a mace spiked palewise proper surmounted by a dagger fesswise argent)"
+        ],
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Chyttering": {
+        "id": "House_Chyttering",
+        "name": "House Chyttering",
+        "coat of arms": [
+            "Three golden enhanced bendlets on a white shield",
+            "(",
+            "Argent, three bendlets enhanced or",
+            ")"
+        ],
+        "seat": " Chyttering",
+        "lord": " Lucos Chyttering",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Cressey": {
+        "id": "House_Cressey",
+        "name": "House Cressey",
+        "coat of arms": [
+            "Seven silver coins on a red bend sinister, between two silver helmets, on a blue field",
+            "(",
+            "Azure, on a bend sinister gules seven plates, between two helmets argent",
+            ")"
+        ],
+        "region": " crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Darke": {
+        "id": "House_Darke",
+        "name": "House Darke",
+        "region": " Crownlands",
+        "founder": " Jonquil Darke (possibly)"
+    },
+    "House_Edgerton": {
+        "id": "House_Edgerton",
+        "name": "House Edgerton",
+        "coat of arms": [
+            "Quartered: black and white half-fusily, a wheel of flame on indigo",
+            "(Quarterly, first and fourth half-fusily sable and argent, second and third purpure, a wheel inflamed proper)"
+        ],
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Farring": {
+        "id": "House_Farring",
+        "name": "House Farring",
+        "coat of arms": " Per pale purple and white, two knights combatant with swords, counter-charged",
+        "region": " The crownlands",
+        "overlord": " House Baratheon of Dragonstone"
+    },
+    "House_Follard": {
+        "id": "House_Follard",
+        "name": "House Follard",
+        "coat of arms": [
+            "Gyronny of twelve red and white; on a gold canton, a two-peaked fool's cap of red and white with silver bells",
+            "(Gyronny of twelve gules and argent, on a canton or a fool\u2019s cap peaked once of the first and once of the second)"
+        ],
+        "words": " None so Wise",
+        "region": " crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Gaunt": {
+        "id": "House_Gaunt",
+        "name": "House Gaunt",
+        "coat of arms": " Purpure, three lances palewise in fess between two flaunches sable",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Harte": {
+        "id": "House_Harte",
+        "name": "House Harte",
+        "coat of arms": [
+            "Three red hart's heads caboshed on a white bend on vair",
+            "(Vair, on a bend argent three harts\u2019 heads caboshed gules)"
+        ],
+        "region": " The crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Hayford": {
+        "id": "House_Hayford",
+        "name": "House Hayford",
+        "coat of arms": [
+            "Green fretty over gold, a green pale wavy",
+            "(Or fretty vert, a pale wavy of the second)"
+        ],
+        "seat": " Hayford",
+        "lord": " Lady Ermesande Hayford",
+        "region": " crownlands",
+        "title": " Lord of Hayford",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Langward": {
+        "id": "House_Langward",
+        "name": "House Langward",
+        "coat of arms": [
+            "Per fess undy: A crown of white stars on burgundy above black",
+            "(Per fess undy murrey and sable, in chief mullets arranged in a crown argent)"
+        ],
+        "region": " The crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Mallery": {
+        "id": "House_Mallery",
+        "name": "House Mallery",
+        "coat of arms": " Purpure, six mullets argent",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Manning": {
+        "id": "House_Manning",
+        "name": "House Manning",
+        "coat of arms": [
+            "A red sea lion between two black pallets on white",
+            "(Argent, between two pallets sable a sea-lion gules)"
+        ],
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Massey": {
+        "id": "House_Massey",
+        "name": "House Massey",
+        "coat of arms": [
+            "A triple spiral; red, green and blue, on white",
+            "(Argent, a triple gurges gules, vert and azure)"
+        ],
+        "seat": " Stonedance",
+        "region": " Crownlands",
+        "title": " Lord of Stonedance[1]",
+        "overlord": " House Baratheon of King's Landing",
+        "founder": " Maldon Massey",
+        "founded": " Age of Heroes"
+    },
+    "House_Pyle": {
+        "id": "House_Pyle",
+        "name": "House Pyle",
+        "coat of arms": [
+            "A grey iron greathelm on white",
+            "(Argent, an iron greathelm cendr e)"
+        ],
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Rambton": {
+        "id": "House_Rambton",
+        "name": "House Rambton",
+        "coat of arms": [
+            "A white ram's head with golden horns on red",
+            "(Gules, a ram's head cabossed argent attired or)"
+        ],
+        "region": " the Crownlands",
+        "overlord": " House Sunglass"
+    },
+    "House_Rollingford": {
+        "id": "House_Rollingford",
+        "name": "House Rollingford",
+        "coat of arms": [
+            "Six roundels fountain, 3-2-1, on grey",
+            "(Cendr e, six fountains 3-2-1)"
+        ],
+        "region": " crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Rosby": {
+        "id": "House_Rosby",
+        "name": "House Rosby",
+        "coat of arms": " Ermine, three chevronels gules",
+        "seat": " Rosby",
+        "lord": " Unknown",
+        "region": " The crownlands",
+        "title": " Lord of Rosby",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Rykker": {
+        "id": "House_Rykker",
+        "name": "House Rykker",
+        "coat of arms": [
+            "Two black warhammers crossed on a white saltire on blue",
+            "(Azure, on a saltire argent two warhammers saltirewise sable)"
+        ],
+        "seat": " The Dun Fort",
+        "lord": " Renfred Rykker",
+        "region": " Crownlands",
+        "title": " Lord of Duskendale[1]",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Staunton": {
+        "id": "House_Staunton",
+        "name": "House Staunton",
+        "coat of arms": [
+            "Two black wings upon a white fess on checkered black and grey",
+            "(Chequy sable and cendr e, on a fess argent two wings of the first)"
+        ],
+        "seat": " Rook's Rest",
+        "region": " crownlands",
+        "overlord": " House Baratheon of Dragonstone"
+    },
+    "House_Stokeworth": {
+        "id": "House_Stokeworth",
+        "name": "House Stokeworth",
+        "coat of arms": " Vert, a lamb couchant argent holding a goblet or[1]",
+        "words": " Proud to be Faithful[1]",
+        "seat": " Stokeworth[2]",
+        "lord": " Lady Lollys Stokeworth[3]",
+        "region": " crownlands[2]",
+        "title": " Lord of Stokeworth[3]",
+        "heir": " Tyrion Tanner[3]",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Thorne": {
+        "id": "House_Thorne",
+        "name": "House Thorne",
+        "coat of arms": " Gules, a flail argent within an bordure rayonne sable",
+        "region": " the Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Wendwater": {
+        "id": "House_Wendwater",
+        "name": "House Wendwater",
+        "coat of arms": [
+            "A green engrailed pall, inverted on white, dividing three trees, green, red and bare",
+            "(Argent, a pall reversed engrailed vert between three trees proper, in chief dexter veined of the second, in chief sinister veined gules and in base blasted)"
+        ],
+        "words": " For All Seasons",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Brune_of_Brownhollow": {
+        "id": "House_Brune_of_Brownhollow",
+        "name": "House Brune of Brownhollow",
+        "coat of arms": [
+            "A bear paw, brown on white, within a double tressure brown",
+            "(Argent, a bear's paw erased within a double tressure brun\u00e2tre)"
+        ],
+        "seat": " Brownhollow",
+        "lord": " Ser Bennard Brune",
+        "region": " Crackclaw Point, Crownlands",
+        "title": " Knight of Brownhollow",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Hogg": {
+        "id": "House_Hogg",
+        "name": "House Hogg",
+        "seat": " Sow's Horn",
+        "lord": " Ser Roger Hogg",
+        "region": " Crownlands",
+        "title": " Knight of Sow's Horn[1]",
+        "overlord": " House Hayford"
+    },
+    "House_Baratheon_of_Dragonstone": {
+        "id": "House_Baratheon_of_Dragonstone",
+        "name": "House Baratheon of Dragonstone",
+        "coat of arms": [
+            "A crowned black stag within a flaming",
+            "red heart",
+            "on a bright yellow field",
+            "(Or, a heart gules enflamed proper charged with a stag sable crowned of the field)"
+        ],
+        "seat": " Dragonstone",
+        "lord": " Stannis Baratheon",
+        "region": [
+            "Crownlands",
+            "Stormlands"
+        ],
+        "title": [
+            "Lord of Dragonstone",
+            "Lord of Storm's End",
+            "(disputed)",
+            "King of Westeros",
+            "(disputed)"
+        ],
+        "heir": " Shireen Baratheon",
+        "overlord": " None; sovereign (disputed by House Baratheon of King's Landing)",
+        "founder": " Stannis Baratheon",
+        "founded": " 284 AC"
+    },
+    "House_Bar_Emmon": {
+        "id": "House_Bar_Emmon",
+        "name": "House Bar Emmon",
+        "coat of arms": [
+            "A leaping blue swordfish on fretty silver on white",
+            "(White fretty argent, a swordfish embowed azure)"
+        ],
+        "seat": " Sharp Point[1]",
+        "lord": " Duram Bar Emmon[1]",
+        "region": " The crownlands[1]",
+        "title": [
+            "Lord of Sharp Point",
+            "[1]",
+            "King (formerly)",
+            "[2]"
+        ],
+        "overlord": " House Baratheon of Dragonstone[1]",
+        "founder": " Togarion Bar Emmon[2]",
+        "founded": " Coming of the Andals[2]"
+    },
+    "House_Celtigar": {
+        "id": "House_Celtigar",
+        "name": "House Celtigar",
+        "coat of arms": [
+            "Red crabs strewn on white",
+            "(Argent, sem  of crabs gules)"
+        ],
+        "seat": " Claw Isle",
+        "lord": " Ardrian Celtigar[1]",
+        "region": " Blackwater Bay, the crownlands",
+        "title": " Lord of Claw Isle[1]",
+        "overlord": " House Baratheon of King's Landing",
+        "ancestral weapon": " Valyrian steel axe[2]",
+        "founded": " Prior to the Aegon's Conquest[3]"
+    },
+    "House_Sunglass": {
+        "id": "House_Sunglass",
+        "name": "House Sunglass",
+        "coat of arms": " Argent, seven mullets of seven points or",
+        "seat": " Sweetport Sound",
+        "lord": " Lord Sunglass (in Volantis)",
+        "region": " Blackwater Bay, the crownlands",
+        "title": " Lord of Sweetport Sound[1]",
+        "overlord": " House Baratheon of Dragonstone"
+    },
+    "House_Velaryon": {
+        "id": "House_Velaryon",
+        "name": "House Velaryon",
+        "coat of arms": [
+            "A silver seahorse on sea green",
+            "(Aquamarine, a seahorse argent)"
+        ],
+        "words": " The Old, the True, the Brave",
+        "seat": " Driftmark",
+        "lord": " Monterys Velaryon",
+        "region": " Blackwater Bay, the crownlands",
+        "title": [
+            "Lord of the Tides",
+            "Master of Driftmark"
+        ],
+        "overlord": " House Baratheon of Dragonstone",
+        "cadet branch": " House Longwaters",
+        "founded": " Prior to 114 BC"
+    },
+    "House_Boggs": {
+        "id": "House_Boggs",
+        "name": "House Boggs",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Brune_of_the_Dyre_Den": {
+        "id": "House_Brune_of_the_Dyre_Den",
+        "name": "House Brune of the Dyre Den",
+        "seat": " The Dyre Den",
+        "lord": " Eustace Brune",
+        "region": " Crackclaw Point, Crownlands",
+        "title": " Lord of the Dyre Den[1]",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Cave": {
+        "id": "House_Cave",
+        "name": "House Cave",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Crabb": {
+        "id": "House_Crabb",
+        "name": "House Crabb",
+        "seat": " The Whispers (former)",
+        "region": " The crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Hardy": {
+        "id": "House_Hardy",
+        "name": "House Hardy",
+        "region": " crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Pyne": {
+        "id": "House_Pyne",
+        "name": "House Pyne",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Dargood": {
+        "id": "House_Dargood",
+        "name": "House Dargood",
+        "region": " Crownlands"
+    },
+    "House_Darkwood": {
+        "id": "House_Darkwood",
+        "name": "House Darkwood",
+        "region": " Crownlands"
+    },
+    "House_Hollard": {
+        "id": "House_Hollard",
+        "name": "House Hollard",
+        "coat of arms": [
+            "Barry red and pink, three golden crowns on a blue (or black) chief",
+            "(Barry gules and rose, on a chief azure",
+            "(or",
+            "sable",
+            ")",
+            "three crowns or)",
+            "[N 1]"
+        ],
+        "seat": " Hollard castle",
+        "lord": " Extinct",
+        "region": " Crownlands",
+        "overlord": " House Darklyn",
+        "died out": " 300 AC"
+    },
+    "House_Longwaters": {
+        "id": "House_Longwaters",
+        "name": "House Longwaters",
+        "region": " Crownlands",
+        "overlord": " House Baratheon of King's Landing"
+    },
+    "House_Targaryen": {
+        "id": "House_Targaryen",
+        "name": "House Targaryen",
+        "coat of arms": [
+            "A red three-headed dragon on black",
+            "(Sable, a dragon thrice-headed gules)"
+        ],
+        "words": " Fire and Blood",
+        "seat": [
+            "Great Pyramid",
+            "of",
+            "Meereen",
+            "Aegonfort",
+            "(formerly)",
+            "Red Keep",
+            "(formerly)",
+            "Dragonstone",
+            "(formerly)",
+            "Summerhall",
+            "(formerly)"
+        ],
+        "lord": [
+            "Queen",
+            "Daenerys I",
+            "King",
+            "Aegon VI",
+            "(disputed)"
+        ],
+        "region": [
+            "Slaver's Bay",
+            "Crownlands",
+            "(formerly)",
+            "Valyria",
+            "(formerly)"
+        ],
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Prince of Dragonstone",
+            "(heir apparent)",
+            "Prince of Summerhall",
+            "Queen of Meereen",
+            "Khaleesi",
+            "of the Great Grass Sea",
+            "Lord of Dragonstone"
+        ],
+        "overlord": " None",
+        "cadet branch": " House Blackfyre",
+        "ancestral weapon": [
+            "Blackfyre",
+            "Dark Sister"
+        ],
+        "founded": [
+            "Targaryen family: before",
+            "114 BC",
+            "House Targaryen of King's Landing:",
+            "1 AC"
+        ]
+    },
+    "House_Blackfyre": {
+        "id": "House_Blackfyre",
+        "name": "House Blackfyre",
+        "coat of arms": [
+            "The colors of House Targaryen, reversed",
+            "(Gules, a three headed dragon breathing flames sable)"
+        ],
+        "seat": " Tyrosh (in exile)",
+        "lord": " Extinct",
+        "region": " Crownlands (exiled)",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "(claimant)",
+            "Lord of the Seven Kingdoms",
+            "(claimant)"
+        ],
+        "overlord": " None, sovereign (disputed by House Targaryen)",
+        "ancestral weapon": " Blackfyre",
+        "founder": " Daemon Blackfyre",
+        "founded": " 184 AC",
+        "died out": " 260 AC (male line extincted)"
+    },
+    "House_Cargyll": {
+        "id": "House_Cargyll",
+        "name": "House Cargyll",
+        "coat of arms": [
+            "A golden goose on bendy sinister black and red",
+            "(Bendy sinister sable and gules, a goose Or)"
+        ],
+        "lord": " Extinct",
+        "region": " Crownlands",
+        "overlord": " House Targaryen",
+        "died out": " After 209 AC"
+    },
+    "House_Darklyn": {
+        "id": "House_Darklyn",
+        "name": "House Darklyn",
+        "coat of arms": " Fusily sable and or, upon a pale in dexter gules seven escutcheons argent",
+        "seat": " Dun Fort in Duskendale",
+        "lord": " Extinct",
+        "region": " Crownlands",
+        "title": " Lord of Duskendale[1]",
+        "overlord": " House Targaryen",
+        "cadet branch": " House Darke",
+        "founded": " Age of Heroes",
+        "died out": " 277 AC"
+    }
+}

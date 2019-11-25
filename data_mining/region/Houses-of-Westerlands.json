@@ -1,0 +1,771 @@
+{
+    "House_Lannister": {
+        "id": "House_Lannister",
+        "name": "House Lannister",
+        "coat of arms": [
+            "A gold lion, on a crimson field",
+            "(",
+            "Gules, a lion or",
+            ")"
+        ],
+        "words": " Hear Me Roar!",
+        "seat": " Casterly Rock",
+        "lord": [
+            "Queen Dowager",
+            "Cersei Lannister",
+            "Tyrion Lannister",
+            "(claimant)"
+        ],
+        "region": " Westerlands",
+        "title": [
+            "King of the Rock",
+            "(formerly)",
+            "Lord of Casterly Rock",
+            "Shield of Lannisport",
+            "Warden of the West"
+        ],
+        "overlord": " House Baratheon of King's Landing",
+        "cadet branch": [
+            "House Lannister of Lannisport",
+            "House Lannister of Darry",
+            "House Lannett",
+            "(possibly)",
+            "House Lanny",
+            "(possibly)",
+            "House Lantell",
+            "(possibly)"
+        ],
+        "ancestral weapon": " Brightroar (lost)",
+        "founder": " Lann the Clever",
+        "founded": " Age of Heroes"
+    },
+    "House_Algood": {
+        "id": "House_Algood",
+        "name": "House Algood",
+        "coat of arms": [
+            "A golden wreath, on a blue field with a gold border",
+            "(",
+            "Azure, a garland of laurel within a bordure or",
+            ")"
+        ],
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Banefort": {
+        "id": "House_Banefort",
+        "name": "House Banefort",
+        "coat of arms": [
+            "A black hooded man, on a grey field, within a fiery tressure",
+            "(",
+            "Cendr e, a hooded man sable within a tressure rayonn  along the outer edge gules",
+            ")"
+        ],
+        "seat": " Banefort",
+        "lord": " Quenten Banefort",
+        "region": " Westerlands",
+        "title": [
+            "Lord of Banefort",
+            "[1]",
+            "Hooded King",
+            "(formerly)",
+            "[2]"
+        ],
+        "overlord": " House Lannister",
+        "founder": " Hooded Man[2]",
+        "founded": " Age of Heroes[2]"
+    },
+    "House_Bettley": {
+        "id": "House_Bettley",
+        "name": "House Bettley",
+        "coat of arms": [
+            "Three blue beetles, on a gold field",
+            "(",
+            "Or, three beetles azure",
+            ")"
+        ],
+        "region": " the Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Brax": {
+        "id": "House_Brax",
+        "name": "House Brax",
+        "coat of arms": [
+            "A purple unicorn, on a silver field",
+            "(",
+            "Argent, a unicorn rampant purpure",
+            ")"
+        ],
+        "seat": " Hornvale",
+        "lord": " Tytos Brax",
+        "region": " Westerlands",
+        "title": " Lord of Hornvale",
+        "heir": " Ser Flement Brax",
+        "overlord": " House Lannister",
+        "founded": " Andal invasion[1]"
+    },
+    "House_Broom": {
+        "id": "House_Broom",
+        "name": "House Broom",
+        "coat of arms": [
+            "A silver helm crested with a sprig of broom, on a checkered black and green field",
+            "(",
+            "Chequy sable and vert, a helm argent, crested with a sprig of broom proper",
+            ")"
+        ],
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Broome": {
+        "id": "House_Broome",
+        "name": "House Broome",
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Crakehall": {
+        "id": "House_Crakehall",
+        "name": "House Crakehall",
+        "coat of arms": [
+            "A brindled black and white boar on a brown field",
+            "(Brun\u00e2tre, a boar brindled sable and argent)"
+        ],
+        "words": " None so Fierce",
+        "seat": " Crakehall",
+        "lord": " Roland Crakehall[1]",
+        "region": " The westerlands",
+        "title": " Lord of Crakehall[1]",
+        "heir": " Ser Tybolt Crakehall[1]",
+        "overlord": " House Lannister",
+        "founder": " Crake the Boarkiller",
+        "founded": " Age of Heroes"
+    },
+    "House_Doggett": {
+        "id": "House_Doggett",
+        "name": "House Doggett",
+        "coat of arms": [
+            "Per bend, a white unicorn on a green field, a black raven on a white field",
+            "(Per bend vert and argent, in sinister chief a unicorn of the second, in dexter base a raven sable)"
+        ],
+        "region": " The Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Drox": {
+        "id": "House_Drox",
+        "name": "House Drox",
+        "coat of arms": [
+            "Three black crossbows, on a gold field with a black border",
+            "(",
+            "Or, three crossbows within a bordure sable",
+            ")"
+        ],
+        "region": " Westerlands",
+        "overlord": " House Lannister",
+        "founded": " Coming of the Andals[1]"
+    },
+    "House_Estren": {
+        "id": "House_Estren",
+        "name": "House Estren",
+        "coat of arms": [
+            "A green saltire between four red double-headed eagles, on a white field",
+            "(",
+            "Argent, a saltire vert between four double-headed eagles displayed gules",
+            ")"
+        ],
+        "seat": " Wyndhall",
+        "lord": " Regenard Estren",
+        "region": " westerlands",
+        "title": " Lord of Wyndhall",
+        "overlord": " House Lannister"
+    },
+    "House_Falwell": {
+        "id": "House_Falwell",
+        "name": "House Falwell",
+        "coat of arms": [
+            "A fool in red and gold motley juggling five suns, on a black field",
+            "(",
+            "Sable, a fool proper clothed in motley gules and or, juggling five suns-in-splendour of the last",
+            ")"
+        ],
+        "region": " westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Farman": {
+        "id": "House_Farman",
+        "name": "House Farman",
+        "coat of arms": [
+            "Three silver ships on a blue field with a border of crimson and gold",
+            "(",
+            "Azure, three galleys argent within a bordure compony gules and or",
+            ")"
+        ],
+        "words": " The Wind Our Steed[1]",
+        "seat": " Faircastle, Fair Isle[1]",
+        "lord": " Sebaston Farman[2]",
+        "region": " Westerlands[2]",
+        "title": [
+            "Lord of Fair Isle",
+            "[2]",
+            "King",
+            "of Fair Isle (formerly)",
+            "[3]"
+        ],
+        "overlord": " House Lannister[2]",
+        "founded": " Dawn Age[1]"
+    },
+    "House_Ferren": {
+        "id": "House_Ferren",
+        "name": "House Ferren",
+        "coat of arms": [
+            "Per saltire, checkered red and gold, a silver and black ferret on a green field",
+            "(",
+            "Per saltire chequy gules and or and vert, in each flank point a ferret argent and sable",
+            ")"
+        ],
+        "region": " the Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Foote": {
+        "id": "House_Foote",
+        "name": "House Foote",
+        "coat of arms": [
+            "A copper dagger across a black chevron, on a white field",
+            "(",
+            "Argent, a chevron reversed sable, surmounted by a dagger erect tenn ",
+            ")"
+        ],
+        "region": " the Westerlands",
+        "overlord": " House Lannister",
+        "cadet branch": " House Foote of Nightsong"
+    },
+    "House_Garner": {
+        "id": "House_Garner",
+        "name": "House Garner",
+        "coat of arms": [
+            "Three grey owls upon white plates, on a green field",
+            "(",
+            "Vert, three plates, each charged with an owl close affront  cendr e",
+            ")"
+        ],
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Hamell": {
+        "id": "House_Hamell",
+        "name": "House Hamell",
+        "coat of arms": [
+            "An erminois maunch, on a pink field with an erminois border",
+            "(Rose, a maunch within a bordure erminois)"
+        ],
+        "region": " westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Hawthorne": {
+        "id": "House_Hawthorne",
+        "name": "House Hawthorne",
+        "coat of arms": [
+            "A ring of black thorns and a ring of pink flowers, interlocked, on a green field",
+            "(Vert, an annulet of thorns sable embracing another of flowers rose)"
+        ],
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Jast": {
+        "id": "House_Jast",
+        "name": "House Jast",
+        "coat of arms": [
+            "An inverted yellow pall between three yellow lions' heads, on a black field",
+            "(",
+            "Sable, a pall reversed between three lions' heads erased or",
+            ")"
+        ],
+        "lord": " Antario Jast",
+        "region": " The westerlands",
+        "overlord": " House Lannister",
+        "founded": " Andal Invasion[1]"
+    },
+    "House_Kenning_of_Kayce": {
+        "id": "House_Kenning_of_Kayce",
+        "name": "House Kenning of Kayce",
+        "coat of arms": [
+            "Four sunbursts counterchanged on a quartered orange and black field",
+            "(",
+            "Quarterly tenn  and sable, four suns-in-splendour counterchanged",
+            ")"
+        ],
+        "seat": " Kayce",
+        "lord": " Terrence Kenning",
+        "region": " Westerlands",
+        "title": [
+            "Lord of Kayce",
+            "Knight of Kayce",
+            "[1]",
+            "(formerly)"
+        ],
+        "overlord": " House Lannister",
+        "founder": " Herrock Kenning"
+    },
+    "House_Kyndall": {
+        "id": "House_Kyndall",
+        "name": "House Kyndall",
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Lannister_of_Lannisport": {
+        "id": "House_Lannister_of_Lannisport",
+        "name": "House Lannister of Lannisport",
+        "seat": " Lannisport",
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Lefford": {
+        "id": "House_Lefford",
+        "name": "House Lefford",
+        "coat of arms": [
+            "A golden inverted pile on a sky-blue field, a yellow sun in the first",
+            "(",
+            "Bleu celeste, a pile reversed or, in canton a sun-in-splendor of the same",
+            ")"
+        ],
+        "seat": " Golden Tooth",
+        "lord": " Lady Alysanne Lefford",
+        "region": " westerlands",
+        "title": " Lord of the Golden Tooth",
+        "overlord": " House Lannister",
+        "founded": " coming of the Andals"
+    },
+    "House_Lydden": {
+        "id": "House_Lydden",
+        "name": "House Lydden",
+        "coat of arms": [
+            "A white badger on a per pale green and brown field",
+            "(Per pale vert and brun\u00e2tre, a badger argent)"
+        ],
+        "seat": " Deep Den",
+        "lord": " Lord Lewys Lydden",
+        "region": " the Westerlands",
+        "title": " Lord of the Deep Den",
+        "overlord": " House Lannister"
+    },
+    "House_Marbrand": {
+        "id": "House_Marbrand",
+        "name": "House Marbrand",
+        "coat of arms": [
+            "An orange burning tree, on a smoky field",
+            "(",
+            "Cendr e, a tree in flame tenn ",
+            ")"
+        ],
+        "words": " Burning bright",
+        "seat": " Ashemark",
+        "lord": " Damon Marbrand",
+        "region": " westerlands",
+        "title": " Lord of Ashemark",
+        "heir": " Ser Addam Marbrand",
+        "overlord": " House Lannister"
+    },
+    "House_Moreland": {
+        "id": "House_Moreland",
+        "name": "House Moreland",
+        "coat of arms": [
+            "Per pale barry russet and green",
+            "(Per pale barry brun\u00e2tre and vert)"
+        ],
+        "lord": " Robin Moreland",
+        "region": " Westerlands",
+        "overlord": " House Lannister",
+        "founder": " Pate the Plowman[1]"
+    },
+    "House_Myatt": {
+        "id": "House_Myatt",
+        "name": "House Myatt",
+        "coat of arms": [
+            "A spotted yellow-and-black treecat, on a mud-brown field",
+            "(Brun\u00e2tre, a treecat or pellet )"
+        ],
+        "region": " westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Payne": {
+        "id": "House_Payne",
+        "name": "House Payne",
+        "coat of arms": [
+            "Gold coins in the checks of a checkered purple and white field",
+            "(",
+            "Chequy purpure and argent, each chequer charged with a bezant",
+            ")"
+        ],
+        "region": " The Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Plumm": {
+        "id": "House_Plumm",
+        "name": "House Plumm",
+        "coat of arms": [
+            "Three purple roundels, on a gold field",
+            "(",
+            "Or, three golpes",
+            ")"
+        ],
+        "words": " Come Try Me",
+        "lord": " Philip Plumm",
+        "region": " Westerlands",
+        "heir": " Dennis Plumm",
+        "overlord": " House Lannister"
+    },
+    "House_Prester": {
+        "id": "House_Prester",
+        "name": "House Prester",
+        "coat of arms": [
+            "A red ox, on an ermine field",
+            "(",
+            "Ermine, an ox passant gules",
+            ")"
+        ],
+        "words": " Tireless",
+        "seat": " Feastfires",
+        "lord": " Garrison Prester",
+        "region": " Westerlands",
+        "title": " Lord of Feastfires",
+        "heir": " Forley Prester[1]",
+        "overlord": " House Lannister"
+    },
+    "House_Sarsfield": {
+        "id": "House_Sarsfield",
+        "name": "House Sarsfield",
+        "coat of arms": [
+            "A green arrow on a white bend, on a green field",
+            "(",
+            "Vert, on a bend argent an arrow of the field, point to dexter chief",
+            ")"
+        ],
+        "words": " True to the Mark",
+        "seat": " Sarsfield",
+        "region": " westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Sarwyck": {
+        "id": "House_Sarwyck",
+        "name": "House Sarwyck",
+        "coat of arms": " A broken silver sword on red (Gules, a broken sword argent)",
+        "words": " Family is Hope, Protect it Always",
+        "seat": " Riverspring",
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Serrett": {
+        "id": "House_Serrett",
+        "name": "House Serrett",
+        "coat of arms": [
+            "A peacock in his pride, on a cream field",
+            "(Carnation, a peacock in his pride proper)"
+        ],
+        "words": " I Have No Rival",
+        "seat": " Silverhill",
+        "region": " the Westerlands",
+        "title": " Lord of Silverhill",
+        "overlord": " House Lannister",
+        "founded": " Andal Invasion[1]"
+    },
+    "House_Stackspear": {
+        "id": "House_Stackspear",
+        "name": "House Stackspear",
+        "coat of arms": [
+            "Two crossed black spears, on a checkered silver and gold field",
+            "(",
+            "Chequy argent and or, two spears in saltire sable",
+            ")"
+        ],
+        "lord": " Selmond Stackspear",
+        "region": " Westerlands",
+        "heir": " Steffon Stackspear",
+        "overlord": " House Lannister"
+    },
+    "House_Turnberry": {
+        "id": "House_Turnberry",
+        "name": "House Turnberry",
+        "coat of arms": [
+            "Nine strawberries on a white saltire, on a field of green and red vairy in point",
+            "(Vairy-in-point vert and gules, on a saltire argent nine strawberries proper)"
+        ],
+        "region": " westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Westerling": {
+        "id": "House_Westerling",
+        "name": "House Westerling",
+        "coat of arms": [
+            "Six seashells, white on sand",
+            "(",
+            "Or, six escallops argent",
+            ")"
+        ],
+        "words": " Honor, Not Honors",
+        "seat": " The Crag",
+        "lord": " Gawen Westerling",
+        "region": " The westerlands",
+        "title": " Lord of the Crag",
+        "heir": " Rollam Westerling",
+        "overlord": [
+            "House Lannister",
+            "(AGOT)",
+            "House Stark",
+            "(ASOS)",
+            "House Lannister (ADWD)"
+        ],
+        "founded": " Age of Heroes"
+    },
+    "House_Yarwyck": {
+        "id": "House_Yarwyck",
+        "name": "House Yarwyck",
+        "coat of arms": [
+            "Two bronze halberds crossed between four red diamonds, on a white field",
+            "(Argent, between four lozenges gules two halberds saltirewise bronze)"
+        ],
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Clegane": {
+        "id": "House_Clegane",
+        "name": "House Clegane",
+        "coat of arms": [
+            "Three dogs on a yellow field",
+            "(",
+            "Or, three dogs courant in pale sable",
+            ")"
+        ],
+        "seat": " Clegane's Keep",
+        "lord": " Extinct",
+        "region": " westerlands",
+        "title": " Ser",
+        "overlord": " House Lannister",
+        "founder": " Clegane"
+    },
+    "House_Clifton": {
+        "id": "House_Clifton",
+        "name": "House Clifton",
+        "lord": " Ser Gareth Clifton",
+        "region": " Westerlands",
+        "overlord": " House Farman"
+    },
+    "House_Greenfield": {
+        "id": "House_Greenfield",
+        "name": "House Greenfield",
+        "coat of arms": [
+            "A white double-tressure, on a green field",
+            "(",
+            "Vert, a double-tressure argent",
+            ")"
+        ],
+        "seat": " Greenfield",
+        "lord": " Garth Greenfield",
+        "region": " Westerlands",
+        "title": " The Knight of Greenfield",
+        "overlord": " House Lannister"
+    },
+    "House_Hetherspoon": {
+        "id": "House_Hetherspoon",
+        "name": "House Hetherspoon",
+        "coat of arms": [
+            "An oak spoon within a white cartouche, on a field of orange and black diamonds",
+            "(Lozengy tenn  and sable, on a cartouche argent an oak spoon proper)"
+        ],
+        "lord": " Ser Tybolt Hetherspoon",
+        "region": " The Westerlands",
+        "title": " Ser",
+        "overlord": " House Lannister"
+    },
+    "House_Lorch": {
+        "id": "House_Lorch",
+        "name": "House Lorch",
+        "coat of arms": [
+            "A black manticore on a white field, beneath a crimson chief with three gold coins",
+            "(",
+            "Argent, a manticore passant sable, on a chief gules three bezants",
+            ")"
+        ],
+        "lord": " Ser Lorent Lorch[1]",
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Peckledon": {
+        "id": "House_Peckledon",
+        "name": "House Peckledon",
+        "coat of arms": [
+            "Ten purple stars, on a yellow field",
+            "(",
+            "Or, ten mullets, 4, 3, 2, 1, purpure",
+            ")"
+        ],
+        "words": " Unflinching",
+        "region": " the Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Ruttiger": {
+        "id": "House_Ruttiger",
+        "name": "House Ruttiger",
+        "coat of arms": [
+            "An orange engrailed bend, on a black field",
+            "(",
+            "Sable, a bend tenn  engrailed",
+            ")"
+        ],
+        "lord": " Ser Raynard Ruttiger",
+        "region": " the Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Swyft": {
+        "id": "House_Swyft",
+        "name": "House Swyft",
+        "coat of arms": [
+            "A blue bantam rooster, on a yellow field",
+            "(",
+            "Or, a cock close azure",
+            ")"
+        ],
+        "words": " Awake! Awake!",
+        "seat": " Cornfield",
+        "lord": " Ser Harys Swyft",
+        "region": " Westerlands",
+        "title": [
+            "Knight of Cornfield",
+            "[1]",
+            "Lord of Cornfield (formerly)",
+            "[N 1]"
+        ],
+        "heir": " Ser Steffon Swyft",
+        "overlord": " House Lannister"
+    },
+    "House_Vikary": {
+        "id": "House_Vikary",
+        "name": "House Vikary",
+        "coat of arms": [
+            "Quarterly: a red boar's head on a white field; beneath a gold bend sinister, a silver lion rampant regardant with a forked tail, with gold teeth and claws, on a red field",
+            "(",
+            "Quarterly, first and fourth, argent, a boar's head couped gules, second and third, gules, a lion rampant regardant queue-forch  argent, armed and langued or, debruised by a bend sinister of the last",
+            ")"
+        ],
+        "lord": " Ser Lymond Vikary",
+        "region": " The Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Westford": {
+        "id": "House_Westford",
+        "name": "House Westford",
+        "coat of arms": [
+            "A black dog on blue",
+            "(",
+            "Azure, a dog sable",
+            ")"
+        ],
+        "words": " Death Over Dishonor",
+        "lord": " Mors Westford (exiled to the Night's Watch)",
+        "region": " Westerlands",
+        "overlord": " House Lannister"
+    },
+    "House_Yew": {
+        "id": "House_Yew",
+        "name": "House Yew",
+        "coat of arms": [
+            "A golden longbow between two crimson flaunches, on a white field",
+            "(",
+            "Argent, a longbow or between two flaunches gules",
+            ")"
+        ],
+        "lord": " Manfryd Yew[1]",
+        "region": " Westerlands[1]",
+        "overlord": " House Lannister[1]",
+        "founder": " Alan o' the Oak[2]",
+        "founded": " Before the Andal Invasion[2]"
+    },
+    "House_Lannett": {
+        "id": "House_Lannett",
+        "name": "House Lannett",
+        "region": " Westerlands"
+    },
+    "House_Lantell": {
+        "id": "House_Lantell",
+        "name": "House Lantell",
+        "region": " Westerlands"
+    },
+    "House_Lanny": {
+        "id": "House_Lanny",
+        "name": "House Lanny",
+        "region": " Westerlands"
+    },
+    "House_Spicer": {
+        "id": "House_Spicer",
+        "name": "House Spicer",
+        "coat of arms": [
+            "Three black pepperpots on a saffron bend, across a field of green and silver stripes",
+            "(",
+            "Paly vert and argent, three pepperpots sable on a bend tenn ",
+            ")"
+        ],
+        "seat": " Castamere",
+        "lord": " Rolph Spicer",
+        "region": " westerlands",
+        "title": " Lord of Castamere",
+        "heir": " Sybell Spicer",
+        "overlord": " House Lannister",
+        "founder": " Rolph Spicer's father",
+        "founded": " In or between 244 AC and 267 AC"
+    },
+    "House_Casterly": {
+        "id": "House_Casterly",
+        "name": "House Casterly",
+        "seat": " Casterly Rock",
+        "lord": " Extinct",
+        "region": " Westerlands",
+        "title": " Lord of Casterly Rock",
+        "cadet branch": " House Lannister",
+        "founder": " Corlos",
+        "founded": " Age of Heroes"
+    },
+    "House_Parren": {
+        "id": "House_Parren",
+        "name": "House Parren",
+        "coat of arms": [
+            "Per saltire: burgundy and white stripes; a black lion's head on a gold field",
+            "(",
+            "Per saltire, the first paly gules and argent, the second or, a lion's head erased sable",
+            ")"
+        ],
+        "lord": " extinct",
+        "region": " westerlands",
+        "overlord": " House Lannister",
+        "died out": " after 209 AC"
+    },
+    "House_Reyne": {
+        "id": "House_Reyne",
+        "name": "House Reyne",
+        "coat of arms": [
+            "A red lion rampant regardant with a forked tail, with gold tongue and claws, on a silver field",
+            "(",
+            "Argent, a lion rampant regardant queue-fourch  gules, armed and langued or",
+            ")"
+        ],
+        "seat": " Castamere",
+        "lord": " Extinct",
+        "region": " Westerlands",
+        "title": " Lord of Castamere",
+        "overlord": " House Lannister[1]",
+        "cadet branch": " House Vikary (possibly)[2]",
+        "founded": " Age of Heroes[1]",
+        "died out": " 261 AC[3]"
+    },
+    "House_Tarbeck": {
+        "id": "House_Tarbeck",
+        "name": "House Tarbeck",
+        "coat of arms": [
+            "A seven-pointed star, parts silver parts blue, on a silver and blue field",
+            "(",
+            "Gyronny argent and azure, a star of seven points counterchanged",
+            ")"
+        ],
+        "seat": " Tarbeck Hall",
+        "lord": " Extinct",
+        "region": " Westerlands",
+        "title": " Lord of Tarbeck Hall",
+        "overlord": " House Lannister",
+        "died out": " 261 AC[1]"
+    }
+}

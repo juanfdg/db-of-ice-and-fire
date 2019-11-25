@@ -1,0 +1,948 @@
+{
+    "House_Tyrell": {
+        "id": "House_Tyrell",
+        "name": "House Tyrell",
+        "coat of arms": [
+            "A golden rose, on a green field",
+            "(",
+            "Vert, a rose or",
+            ")"
+        ],
+        "words": " Growing Strong",
+        "seat": " Highgarden",
+        "lord": " Mace Tyrell",
+        "region": " The Reach",
+        "title": [
+            "High Steward of Highgarden",
+            "(pre-Conquest)",
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "heir": " Willas Tyrell",
+        "overlord": " House Baratheon of King's Landing",
+        "cadet branch": " House Tyrell of Brightwater Keep",
+        "founder": " Ser Alester Tyrell"
+    },
+    "House_Ambrose": {
+        "id": "House_Ambrose",
+        "name": "House Ambrose",
+        "coat of arms": [
+            "A yellow field strewn with red ants",
+            "(Or, sem  of ants gules)"
+        ],
+        "words": " Never Resting",
+        "lord": " Lord Arthur Ambrose",
+        "region": " The Reach",
+        "heir": " Alyn Ambrose",
+        "overlord": " House Tyrell"
+    },
+    "House_Appleton": {
+        "id": "House_Appleton",
+        "name": "House Appleton",
+        "coat of arms": [
+            "Quarterly: An apple tree on yellow, a grey gatehouse on white",
+            "(Quarterly, first and fourth or, an apple tree proper, second and third argent, a gatehouse cendr e)"
+        ],
+        "seat": " Appleton",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Ashford": {
+        "id": "House_Ashford",
+        "name": "House Ashford",
+        "coat of arms": [
+            "A white sun-and-chevron on orange",
+            "(Tenn , beneath a chevron inverted a sun-in-splendour argent)"
+        ],
+        "words": " Our Sun Shines Bright",
+        "seat": " Ashford",
+        "region": " Reach",
+        "title": " Lord of Ashford",
+        "overlord": " House Tyrell"
+    },
+    "House_Beesbury": {
+        "id": "House_Beesbury",
+        "name": "House Beesbury",
+        "coat of arms": " Paly or and sable, on a pale of the last three beehives of the first",
+        "words": " Beware our Sting",
+        "seat": " Honeyholt",
+        "lord": " Warryn Beesbury[1]",
+        "region": " Reach",
+        "title": " Lord of Honeyholt[1]",
+        "overlord": " House Hightower",
+        "founder": " Ellyn Ever Sweet[2]"
+    },
+    "House_Blackbar": {
+        "id": "House_Blackbar",
+        "name": "House Blackbar",
+        "coat of arms": " Argent, a fess sable",
+        "seat": " Bandallon",
+        "region": " the Reach",
+        "title": " Lord of Bandallon",
+        "overlord": " House Tyrell"
+    },
+    "House_Bulwer": {
+        "id": "House_Bulwer",
+        "name": "House Bulwer",
+        "coat of arms": " Sanguine, a bull`s skull argent",
+        "words": " Death Before Disgrace",
+        "seat": " Blackcrown",
+        "lord": " Lady Alysanne Bulwer",
+        "region": " The Reach",
+        "title": " Lord of Blackcrown[1]",
+        "overlord": " House Hightower",
+        "founder": " Bors the Breaker",
+        "founded": " Age of Heroes"
+    },
+    "House_Caswell": {
+        "id": "House_Caswell",
+        "name": "House Caswell",
+        "coat of arms": " Argent, a centaur with bow or",
+        "seat": " Bitterbridge",
+        "lord": " Lorent Caswell",
+        "region": " The Reach",
+        "title": [
+            "Lord of Bitterbridge",
+            "Defender of the Fords"
+        ],
+        "overlord": " House Tyrell"
+    },
+    "House_Cockshaw": {
+        "id": "House_Cockshaw",
+        "name": "House Cockshaw",
+        "coat of arms": " Sable, three feathers in fess gules argent and or",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Cordwayner": {
+        "id": "House_Cordwayner",
+        "name": "House Cordwayner",
+        "coat of arms": [
+            "Black boots on field of green and gold diamonds",
+            "(Lozengy vert and or, a pair of boots sable)"
+        ],
+        "seat": " Hammerhal",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Costayne": {
+        "id": "House_Costayne",
+        "name": "House Costayne",
+        "coat of arms": [
+            "Quartered: a silver chalice on black, a black rose on gold",
+            "(Quarterly, first and fourth sable, a chalice argent, second and third or, a rose of the first)"
+        ],
+        "seat": " Three Towers",
+        "lord": " Lord Tommen Costayne[1]",
+        "region": " Reach",
+        "title": " Lord of the Three Towers[1]",
+        "overlord": " House Hightower[1]"
+    },
+    "House_Crane": {
+        "id": "House_Crane",
+        "name": "House Crane",
+        "coat of arms": [
+            "A vee of golden cranes on pale blue",
+            "(Bleu celeste, cranes in chevron or)"
+        ],
+        "seat": " Red Lake",
+        "region": " Reach",
+        "overlord": " House Tyrell",
+        "founder": " Rose of Red Lake[1]"
+    },
+    "House_Cuy": {
+        "id": "House_Cuy",
+        "name": "House Cuy",
+        "coat of arms": [
+            "Six yellow flowers on blue",
+            "(Azure, six flowers or)"
+        ],
+        "seat": " Sunhouse",
+        "lord": " Lord Branston Cuy",
+        "region": " Reach",
+        "title": " Lord of Sunflower Hall[1]",
+        "overlord": " House Hightower",
+        "founded": " Coming of the Andals"
+    },
+    "House_Florent": {
+        "id": "House_Florent",
+        "name": "House Florent",
+        "coat of arms": [
+            "A red fox in a circle of blue flowers on ermine",
+            "[1]",
+            "(Ermine, a fox gules within an annulet of flowers azure)"
+        ],
+        "seat": " Brightwater Keep[1] (stripped)[2]",
+        "lord": " Alekyne Florent (attained)[2]",
+        "region": " Reach[1]",
+        "title": " Lord of Brightwater Keep[1]",
+        "heir": " Melessa Florent[2]",
+        "overlord": [
+            "House Tyrell",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "[2]",
+            "(ADWD)"
+        ],
+        "founder": " Florys the Fox[3]",
+        "founded": " Age of Heroes[3]"
+    },
+    "House_Fossoway_of_Cider_Hall": {
+        "id": "House_Fossoway_of_Cider_Hall",
+        "name": "House Fossoway of Cider Hall",
+        "coat of arms": " Or, an apple gules[1]",
+        "words": " Taste of Glory[2]",
+        "seat": " Cider Hall[1]",
+        "lord": " Unknown",
+        "region": " The Reach[3]",
+        "title": " Lord of Cider Hall[4]",
+        "overlord": " House Tyrell[3]",
+        "cadet branch": " Fossoways of New Barrel[1]",
+        "founder": " Foss the Archer[5]",
+        "founded": " Age of Heroes[5]"
+    },
+    "House_Fossoway_of_New_Barrel": {
+        "id": "House_Fossoway_of_New_Barrel",
+        "name": "House Fossoway of New Barrel",
+        "coat of arms": " Or, an apple vert",
+        "seat": " New Barrel",
+        "region": " The Reach",
+        "overlord": " House Tyrell",
+        "founder": " Ser Raymun Fossoway",
+        "founded": " 209 AC"
+    },
+    "House_Footly": {
+        "id": "House_Footly",
+        "name": "House Footly",
+        "coat of arms": [
+            "A field of silver caltrops on black",
+            "(Sable, sem  of caltrops argent)"
+        ],
+        "words": " Tread Lightly Here",
+        "seat": " Tumbleton",
+        "region": " Reach",
+        "title": " Lord of Tumbleton[1]",
+        "overlord": " House Tyrell"
+    },
+    "House_Graceford": {
+        "id": "House_Graceford",
+        "name": "House Graceford",
+        "coat of arms": [
+            "The Mother's face upon white pale wavy dividing a brown field",
+            "(Brun\u00e2tre, on a pale wavy argent the Mother\u2019s head caboshed proper)"
+        ],
+        "words": " Work Her Will",
+        "seat": " Holyhall",
+        "lord": " Lady Alyce Graceford",
+        "region": " Reach",
+        "title": " Lord of Holyhall[1]",
+        "overlord": " House Tyrell",
+        "founded": " Coming of the Andals[2]"
+    },
+    "House_Hightower": {
+        "id": "House_Hightower",
+        "name": "House Hightower",
+        "coat of arms": [
+            "A white tower crowned with flames on smoke grey",
+            "(Cendr e, a tower argent, beacon inflamed gules)"
+        ],
+        "words": " We Light the Way",
+        "seat": " The Hightower, Oldtown",
+        "lord": " Leyton Hightower",
+        "region": " The Reach",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "King of the High Tower",
+            "(formerly)",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "heir": " Ser Baelor Hightower",
+        "overlord": " House Tyrell",
+        "ancestral weapon": " Vigilance",
+        "founder": " Uthor of the High Tower",
+        "founded": " Dawn Age"
+    },
+    "House_Meadows": {
+        "id": "House_Meadows",
+        "name": "House Meadows",
+        "coat of arms": [
+            "A border of flowers of many colors and varieties on green",
+            "(Vert, an orle of flowers variegated)"
+        ],
+        "seat": " Grassfield Keep, in Grassy Vale",
+        "lord": " Elwood Meadows[1]",
+        "region": " The Reach[2]",
+        "title": " Lord of Grassfield Keep[3]",
+        "overlord": [
+            "House Tyrell",
+            "(ACOK)",
+            "House Baratheon of Dragonstone",
+            "[1]",
+            "(ADWD)"
+        ]
+    },
+    "House_Merryweather": {
+        "id": "House_Merryweather",
+        "name": "House Merryweather",
+        "coat of arms": [
+            "A golden horn of plenty spilling out apples, carrots, plums, onions, leeks, turnips, and fruits of many colors on a white field bordered in gold",
+            "(Argent, a cornucopia or overflowing with apples, carrots, plums, onions, leeks, turnips and fruits variegated all proper within a bordure of the second)"
+        ],
+        "words": " Behold Our Bounty[1]",
+        "seat": " Longtable[2]",
+        "lord": " Orton Merryweather[2]",
+        "region": " The Reach[2]",
+        "title": " Lord of Longtable[2]",
+        "heir": " Russell Merryweather[2]",
+        "overlord": " House Tyrell[2]"
+    },
+    "House_Mullendore": {
+        "id": "House_Mullendore",
+        "name": "House Mullendore",
+        "coat of arms": [
+            "Black-and-orange butterflies strewn over white",
+            "(Argent, sem  of butterflies sable and tenn )"
+        ],
+        "seat": " Uplands",
+        "lord": " Martyn Mullendore",
+        "region": " The Reach",
+        "title": " Lord of Uplands[1]",
+        "overlord": " House Hightower[1]"
+    },
+    "House_Oakheart": {
+        "id": "House_Oakheart",
+        "name": "House Oakheart",
+        "coat of arms": " Or, three oak leaves vert[1]",
+        "words": " Our Roots Go Deep[2]",
+        "seat": " Old Oak[3]",
+        "lord": " Lady Arwyn Oakheart[3]",
+        "region": " The Reach[3]",
+        "title": [
+            "Lord of Old Oak",
+            "[3]",
+            "King",
+            "(in the Age of Heroes)"
+        ],
+        "overlord": " House Tyrell[3]",
+        "founder": " John the Oak[4]",
+        "founded": " Age of Heroes[4]"
+    },
+    "House_Peake": {
+        "id": "House_Peake",
+        "name": "House Peake",
+        "coat of arms": [
+            "Three black castles on orange",
+            "(Tenn , three castles sable)"
+        ],
+        "seat": [
+            "Starpike",
+            "Dunstonbury",
+            "(formerly)",
+            "Whitegrove",
+            "(formerly)"
+        ],
+        "lord": " Titus Peake",
+        "region": " The Reach",
+        "title": [
+            "Lord of Starpike",
+            "[1]",
+            "Lord of Dunstonbury",
+            "[1]",
+            "(formerly)",
+            "Lord of Whitegrove",
+            "[1]",
+            "(formerly)"
+        ],
+        "overlord": " House Tyrell",
+        "ancestral weapon": " Orphan-Maker (stolen from House Roxton)[2]",
+        "founder": " Husband of Florys the Fox",
+        "founded": " Age of Heroes[2]"
+    },
+    "House_Redwyne": {
+        "id": "House_Redwyne",
+        "name": "House Redwyne",
+        "coat of arms": " Azure, a grape cluster proper",
+        "seat": " The Arbor",
+        "lord": " Paxter Redwyne[1]",
+        "region": " The Reach",
+        "title": [
+            "Lord of the Arbor",
+            "[1]",
+            "King of the Arbor",
+            "(formerly)"
+        ],
+        "heir": " Ser Horas Redwyne[1]",
+        "overlord": " House Tyrell",
+        "founder": " Gilbert of the Vines",
+        "founded": " Age of Heroes"
+    },
+    "House_Rodden": {
+        "id": "House_Rodden",
+        "name": "House Rodden",
+        "lord": " Unknown",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Rowan": {
+        "id": "House_Rowan",
+        "name": "House Rowan",
+        "coat of arms": " Argent, a tree eradicated Or",
+        "seat": " Goldengrove",
+        "lord": " Mathis Rowan",
+        "region": " Reach",
+        "title": [
+            "Lord of Goldengrove",
+            "[1]",
+            "Marshall of the Northmarch",
+            "(possibly)"
+        ],
+        "overlord": " House Tyrell",
+        "founder": " Rowan Gold-Tree",
+        "founded": " Age of Heroes"
+    },
+    "House_Shermer": {
+        "id": "House_Shermer",
+        "name": "House Shermer",
+        "coat of arms": [
+            "A field of copper nails on blue, a copper border rayonne",
+            "(Azure sem  of nails within a bordure rayonny copper)"
+        ],
+        "seat": " Smithyton",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Tarly": {
+        "id": "House_Tarly",
+        "name": "House Tarly",
+        "coat of arms": " Vert, a huntsman striding to dexter proper garbed gules",
+        "words": " First in Battle",
+        "seat": " Horn Hill",
+        "lord": " Randyll Tarly",
+        "region": " Reach",
+        "title": " Lord of Horn Hill",
+        "heir": " Dickon Tarly",
+        "overlord": " House Tyrell",
+        "ancestral weapon": " Heartsbane",
+        "founder": " Herndon of the Horn and Harlon the Hunter",
+        "founded": " Age of Heroes"
+    },
+    "House_Varner": {
+        "id": "House_Varner",
+        "name": "House Varner",
+        "coat of arms": " Ermines, a weasel argent",
+        "lord": " Steffon Varner",
+        "region": " Reach",
+        "overlord": " House Tyrell",
+        "founded": " coming of the Andals[1]"
+    },
+    "House_Vyrwel": {
+        "id": "House_Vyrwel",
+        "name": "House Vyrwel",
+        "coat of arms": [
+            "A silver wyvern within a red double tressure on sable",
+            "(Sable, a wyvern argent within a double tressure gules)"
+        ],
+        "seat": " Darkdell",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Chester": {
+        "id": "House_Chester",
+        "name": "House Chester",
+        "coat of arms": [
+            "A green hand on a gold escutcheon on a green field, a border of red rayonne",
+            "(Vert, on an escutcheon or a hand of the field all within a bordure rayonny gules)"
+        ],
+        "seat": " Deposed (formerly Greenshield)",
+        "lord": " Unknown",
+        "region": " the Reach, Shield Islands",
+        "title": " Lord of Greenshield[1] (stripped)",
+        "overlord": [
+            "House Tyrell",
+            "(AGOT)",
+            "House Greyjoy",
+            "(ADWD)"
+        ]
+    },
+    "House_Grimm": {
+        "id": "House_Grimm",
+        "name": "House Grimm",
+        "coat of arms": [
+            "An iron escutcheon with silver studs on a grey-green field strewn with longships proper",
+            "(Vert-cendr e sem  of longships proper, an escutcheon cendr e plat )"
+        ],
+        "seat": " Grimston on Greyshield (deposed)",
+        "lord": " Guthor Grimm (captive)",
+        "region": " The Reach, the Shield Islands",
+        "title": " Lord of Greyshield[1]",
+        "overlord": [
+            "House Tyrell",
+            "(AGOT)",
+            "House Greyjoy",
+            "(ADWD)"
+        ]
+    },
+    "House_Hewett": {
+        "id": "House_Hewett",
+        "name": "House Hewett",
+        "coat of arms": [
+            "Oaken escutcheon studded with iron, a field bendy of undulating blue and white",
+            "(Bendy undy azure and argent, an escutcheon brun\u00e2tre plat )"
+        ],
+        "seat": " Deposed (formerly Lord Hewett's castle on Oakenshield)",
+        "region": " The Reach, the Shield Islands",
+        "title": " Lord of Oakenshield[1] (stripped)",
+        "overlord": [
+            "House Tyrell",
+            "(AGOT)",
+            "House Greyjoy",
+            "(ADWD)"
+        ]
+    },
+    "House_Serry": {
+        "id": "House_Serry",
+        "name": "House Serry",
+        "coat of arms": " Argent, an escutcheon gules charged with a rose of the first all within a bordure embattled of the second",
+        "seat": " Deposed (formerly Southshield)",
+        "lord": " Lord Osbert Serry (deposed)",
+        "region": " the Shield Islands, the Reach",
+        "title": " Lord of Southshield[1]",
+        "overlord": [
+            "House Tyrell",
+            "(AGOT)",
+            "House Greyjoy",
+            "(ADWD)"
+        ]
+    },
+    "House_Ball": {
+        "id": "House_Ball",
+        "name": "House Ball",
+        "coat of arms": [
+            "Three white plates upon a chevron red on a white field",
+            "(Argent, on a chevron inverted gules three plates)"
+        ],
+        "region": " The Reach",
+        "overlord": " House Tyrell",
+        "founder": " Florys the Fox[1]"
+    },
+    "House_Bridges": {
+        "id": "House_Bridges",
+        "name": "House Bridges",
+        "coat of arms": [
+            "A black stone bridge with three arches upon a golden chief above three blue pallets on white",
+            "(Argent, three pallets azure, on a chief or a stone bridge of three arches sable)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Bushy": {
+        "id": "House_Bushy",
+        "name": "House Bushy",
+        "coat of arms": [
+            "A green fess embattled on white",
+            "(Argent, a fess embattled vert)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Cobb": {
+        "id": "House_Cobb",
+        "name": "House Cobb",
+        "coat of arms": " Unknown",
+        "lord": " Unknown",
+        "region": " The Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Conklyn": {
+        "id": "House_Conklyn",
+        "name": "House Conklyn",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Dunn": {
+        "id": "House_Dunn",
+        "name": "House Dunn",
+        "coat of arms": [
+            "Per pale black and pink, a countercharged two-headed pelican",
+            "(Per pale sable and rose, a pelican bicapitated counterchanged)"
+        ],
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Durwell": {
+        "id": "House_Durwell",
+        "name": "House Durwell",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Graves": {
+        "id": "House_Graves",
+        "name": "House Graves",
+        "coat of arms": [
+            "Green and white gyronny, a double-headed eagle counter-charged, gold beak and talons",
+            "(Gyronny vert and argent, an eagle bicapitated counterchanged beaked and armed or)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Hastwyck": {
+        "id": "House_Hastwyck",
+        "name": "House Hastwyck",
+        "coat of arms": [
+            "Barry olive and ivory",
+            "(Barry vert and argent)"
+        ],
+        "words": " None so Dutiful",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Hunt": {
+        "id": "House_Hunt",
+        "name": "House Hunt",
+        "coat of arms": [
+            "A brown deer, bound and slung on a pole, on white",
+            "(Argent, on a pole fesswise proper a deer bound and slung brun\u00e2tre)"
+        ],
+        "region": " The Reach",
+        "overlord": " House Tarly"
+    },
+    "House_Hutcheson": {
+        "id": "House_Hutcheson",
+        "name": "House Hutcheson",
+        "coat of arms": " Or, two bendlets between in base dexter a hand pointing to chief sinister, and in chief sinister a sun in splendour gules",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Inchfield": {
+        "id": "House_Inchfield",
+        "name": "House Inchfield",
+        "coat of arms": " Cendr e, a bend sinister chequy sable and argent",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Kidwell": {
+        "id": "House_Kidwell",
+        "name": "House Kidwell",
+        "coat of arms": [
+            "Pale green ivy bendy on black masonry",
+            "(Sable masoned proper bendy of ivy leaves vert)"
+        ],
+        "seat": " Ivy Hall",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Leygood": {
+        "id": "House_Leygood",
+        "name": "House Leygood",
+        "coat of arms": [
+            "Three black thunderbolts on orange",
+            "(Tenn , three thunderbolts sable)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell",
+        "founded": " coming of the Andals[1]"
+    },
+    "House_Lowther": {
+        "id": "House_Lowther",
+        "name": "House Lowther",
+        "coat of arms": [
+            "A silver dolphin on a blue-green field",
+            "(Aquamarine, a dolphin argent)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Lyberr": {
+        "id": "House_Lyberr",
+        "name": "House Lyberr",
+        "coat of arms": [
+            "Per bend sinister: a grey cat's face on black, a brown jug on white",
+            "(Per bend sinister, in chief dexter sable, a cat\u2019s head caboshed cendr e, in base sinister argent, a jug brun\u00e2tre)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Middlebury": {
+        "id": "House_Middlebury",
+        "name": "House Middlebury",
+        "coat of arms": [
+            "Quarterly, a black saltire on yellow, green and white diamonds",
+            "(Quarterly, first and fourth or, a saltire sable, second and third lozengy vert and argent)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Norcross": {
+        "id": "House_Norcross",
+        "name": "House Norcross",
+        "coat of arms": " Argent, a cross embattled sable",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Norridge": {
+        "id": "House_Norridge",
+        "name": "House Norridge",
+        "coat of arms": [
+            "A flight of flaming arrows rising bendwise on a blue field",
+            "(Azure, a flight of arrows bendwise points to chief dexter inflamed proper)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Oldflowers": {
+        "id": "House_Oldflowers",
+        "name": "House Oldflowers",
+        "coat of arms": [
+            "Ten white hands on green, 4-3-2-1, beneath a red bend sinister",
+            "(Vert, 10 hands 4-3-2-1 argent debruised by a bend sinister gules)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Orme": {
+        "id": "House_Orme",
+        "name": "House Orme",
+        "coat of arms": [
+            "Per fess: three golden harps on black, gold and silver bendy sinister",
+            "(Per fess, in chief sable, three harps or, in base bendy sinister of the second and argent)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell",
+        "founded": " coming of the Andals[1]"
+    },
+    "House_Pommingham": {
+        "id": "House_Pommingham",
+        "name": "House Pommingham",
+        "coat of arms": [
+            "A red pomegranate on white, a double tressure red",
+            "(Argent, a pomegranate within a double tressure gules)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Redding": {
+        "id": "House_Redding",
+        "name": "House Redding",
+        "coat of arms": [
+            "A golden flagon on burgundy within a border of gold and white checks",
+            "(Murrey, a flagon or within a bordure chequy of the second and argent)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Rhysling": {
+        "id": "House_Rhysling",
+        "name": "House Rhysling",
+        "coat of arms": [
+            "An oaken door banded with iron, in a grey stone doorway, on black masonry",
+            "(Sable masoned proper, an door brun\u00e2tre banded cendr e within a stone doorway of the last)"
+        ],
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Risley": {
+        "id": "House_Risley",
+        "name": "House Risley",
+        "coat of arms": [
+            "A black knight on a black rearing horse on white, bearing a golden lance and a white shield, upon which is seen the above in miniature",
+            "(Argent, a knight mounted upon a horse forcen  sable bearing a lance or and a shield of the field itself charged with the whole)"
+        ],
+        "seat": " Risley Glade[1]",
+        "region": " Reach",
+        "title": [
+            "Knight of Risley Glade",
+            "[1]",
+            "(formerly)",
+            "Lord of",
+            "Risley Glade"
+        ],
+        "overlord": " House Tyrell"
+    },
+    "House_Roxton": {
+        "id": "House_Roxton",
+        "name": "House Roxton",
+        "coat of arms": " Bleu celeste, per saltire a chain of rings Or",
+        "seat": " Ring",
+        "region": " Reach",
+        "overlord": " House Tyrell",
+        "ancestral weapon": " Orphan-Maker",
+        "founded": " Coming of the Andals[1]"
+    },
+    "House_Sloane": {
+        "id": "House_Sloane",
+        "name": "House Sloane",
+        "coat of arms": [
+            "Per pale, white stars strewn on indigo, an orange sun on yellow",
+            "(Per pale, in dexter purpure sem  of mullets argent, in sinister or, a sun-in-splendour tenn )"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Stackhouse": {
+        "id": "House_Stackhouse",
+        "name": "House Stackhouse",
+        "region": " the Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Uffering": {
+        "id": "House_Uffering",
+        "name": "House Uffering",
+        "coat of arms": [
+            "Oak and iron paly, beneath a white chief with seven green hands",
+            "(Paly brun\u00e2tre and cendr e, on a chief argent seven hands vert)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell",
+        "founded": " coming of the Andals[1]"
+    },
+    "House_Webber": {
+        "id": "House_Webber",
+        "name": "House Webber",
+        "coat of arms": " Sable, a cobweb argent thereon a spider gules",
+        "seat": " Coldmoat",
+        "region": " The Reach",
+        "title": " Lord of Coldmoat",
+        "overlord": " House Rowan"
+    },
+    "House_Westbrook": {
+        "id": "House_Westbrook",
+        "name": "House Westbrook",
+        "coat of arms": [
+            "Two green bars gemmel on gold",
+            "(Or, two bars-gemels vert)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Willum": {
+        "id": "House_Willum",
+        "name": "House Willum",
+        "coat of arms": [
+            "Three silver longswords crossed on black beneath a dragonbone skeleton on a white chief",
+            "(Sable, three longswords crossed argent, on a chief of the second a dragonbone skeleton proper)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Woodwright": {
+        "id": "House_Woodwright",
+        "name": "House Woodwright",
+        "coat of arms": " A red pall on a field of oak",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Wythers": {
+        "id": "House_Wythers",
+        "name": "House Wythers",
+        "coat of arms": [
+            "A grey squirrel on white with a red border",
+            "(Argent, a squirrel argent within a bordure gules)"
+        ],
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Yelshire": {
+        "id": "House_Yelshire",
+        "name": "House Yelshire",
+        "coat of arms": " Barry vert and Or, on a chief sable a battering-ram proper headed Or",
+        "region": " Reach",
+        "overlord": " House Tyrell"
+    },
+    "House_Osgrey": {
+        "id": "House_Osgrey",
+        "name": "House Osgrey",
+        "coat of arms": " Argent, a lion rampant chequy vert and or",
+        "seat": [
+            "Standfast",
+            "Coldmoat",
+            "(formerly)"
+        ],
+        "region": " The Reach",
+        "title": [
+            "Knight of Standfast",
+            "Lord of Coldmoat",
+            "(formerly)",
+            "Marshall of the Northmarch",
+            "(pre-Conquest)"
+        ],
+        "overlord": " House Rowan",
+        "cadet branch": " Osgrey of Leafy Lake"
+    },
+    "House_Manderly": {
+        "id": "House_Manderly",
+        "name": "House Manderly",
+        "coat of arms": [
+            "A white merman with dark green hair, beard and tail, carrying a black trident, over a blue-green field",
+            "(Aquamarine, a merman argent crined, bearded and queued vert, carrying a trident sable)"
+        ],
+        "seat": [
+            "New Castle",
+            "in",
+            "White Harbor",
+            "Wolf's Den",
+            "(formerly)",
+            "Dunstonbury",
+            "(formerly)"
+        ],
+        "lord": " Wyman Manderly",
+        "region": [
+            "The",
+            "North",
+            "The",
+            "Reach",
+            "(formerly)"
+        ],
+        "title": [
+            "Lord of White Harbor",
+            "Warden of the White Knife",
+            "Shield of the Faith",
+            "Defender of the Dispossessed",
+            "Lord Marshal of the Mander",
+            "Knight",
+            "of the",
+            "Order of the Green Hand",
+            "Lord of Dunstonbury",
+            "(formerly)"
+        ],
+        "heir": " Ser Wylis Manderly",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Gardener": {
+        "id": "House_Gardener",
+        "name": "House Gardener",
+        "coat of arms": " Argent, a hand couped vert",
+        "seat": " Highgarden",
+        "lord": " Extinct",
+        "region": " The Reach",
+        "title": [
+            "King of the Reach",
+            "Lord of",
+            "Highgarden"
+        ],
+        "founder": " Garth the Gardener",
+        "founded": " Age of Heroes",
+        "died out": " 1 BC in the War of Conquest"
+    },
+    "House_Osgrey_of_Leafy_Lake": {
+        "id": "House_Osgrey_of_Leafy_Lake",
+        "name": "House Osgrey of Leafy Lake",
+        "seat": " Extinct (formerly Leafy Lake)",
+        "lord": " Extinct",
+        "region": " the Reach",
+        "overlord": " House Osgrey of Standfast",
+        "died out": " before 210 AC"
+    }
+}
