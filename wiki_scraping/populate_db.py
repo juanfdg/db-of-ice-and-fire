@@ -3,12 +3,8 @@ import glob
 import json
 
 from collections import defaultdict
-from peewee import *
 
 import wiki_scraping.queries as queries
-
-db = PostgresqlDatabase('got', user='got', password='got',
-                        host='localhost', port=5432)
 
 # Characters data
 characters = []
@@ -33,9 +29,9 @@ for file in glob.glob(base_path + '/filter/character/Character-*.json'):
             if born.strip().startswith("At "):
                 place_birth = born[3:]
             else:
-                place_birth_idx = born.find(", at")
+                place_birth_idx = born.find(", at ")
                 if place_birth_idx > 0:
-                    place_birth = born[place_birth_idx:]
+                    place_birth = born[place_birth_idx+5:]
 
         place_death = None
         if death:
@@ -46,8 +42,6 @@ for file in glob.glob(base_path + '/filter/character/Character-*.json'):
                 if place_death_idx > 0:
                     place_death = death[place_death_idx:]
 
-        print("hi 1")
-
         characters.append({
             "id_char": char["id"],
             "name_char": char["name"],
@@ -57,26 +51,30 @@ for file in glob.glob(base_path + '/filter/character/Character-*.json'):
             "father": char.get("father"),
         })
 
-        print("hi 2")
-
         # Characters name to id map
         characters_name_to_id[char["name"]] = char["id"]
 
         # Culture of character, if present
         culture = char.get("culture")
         if culture:
-            character_cultures.append({
-                "character": char["id"],
-                "culture": culture
-            })
-
-            cultures.add(culture)
-        print("hi 3")
+            if isinstance(culture, list):
+                for c in culture:
+                    character_cultures.append({
+                        "character": char["id"],
+                        "culture": c
+                    })
+                    cultures.add(c)
+            else:
+                character_cultures.append({
+                    "character": char["id"],
+                    "culture": culture
+                })
+                cultures.add(culture)
 
         # Aliases and titles of character, if present
-        alias = char.get("alias")
-        if isinstance(alias, list):
-            for a in alias:
+        character_alias = char.get("alias")
+        if isinstance(character_alias, list):
+            for a in character_alias:
                 aliases.append({
                     "character": char["id"],
                     "alias": a
@@ -84,12 +82,12 @@ for file in glob.glob(base_path + '/filter/character/Character-*.json'):
         else:
             aliases.append({
                 "character": char["id"],
-                "alias": alias
+                "alias": character_alias
             })
 
-        title = char.get("titles")
-        if isinstance(title, list):
-            for t in title:
+        character_title = char.get("titles")
+        if isinstance(character_title, list):
+            for t in character_title:
                 titles.append({
                     "character": char["id"],
                     "title": t
@@ -97,15 +95,13 @@ for file in glob.glob(base_path + '/filter/character/Character-*.json'):
         else:
             titles.append({
                 "character": char["id"],
-                "title": title
+                "title": character_title
             })
 
-        print("hi 4")
-
         # Allegiances of character, if present
-        allegiance = char.get("allegiance")
-        if isinstance(allegiance, list):
-            for a in allegiances:
+        character_allegiance = char.get("allegiance")
+        if isinstance(character_allegiance, list):
+            for a in character_allegiance:
                 allegiances.append({
                     "character": char["id"],
                     "house": a
@@ -113,27 +109,33 @@ for file in glob.glob(base_path + '/filter/character/Character-*.json'):
         else:
             allegiances.append({
                 "character": char["id"],
-                "house": allegiance
+                "house": character_allegiance
             })
 
         # Store parents names as tuple (father, mother) for later processing
         parents[char["id"]] = (char.get("father"), char.get("mother"))
 
-        print("hi 5")
+
+def add_lineage(parent, child):
+    if isinstance(parent, list):
+        for p in parent:
+            if p in characters_name_to_id:
+                lineages.append({
+                    "parent": characters_name_to_id[p],
+                    "child": child
+                })
+    else:
+        if parent and parent in characters_name_to_id:
+            lineages.append({
+                "parent": characters_name_to_id[parent],
+                "child": child
+            })
+
 
 # Lineages with parent name translated to id
 for child, (father, mother) in parents.items():
-    if father:
-        lineages.append({
-            "parent": characters_name_to_id[father],
-            "child": child
-        })
-    if mother:
-        lineages.append({
-            "parent": characters_name_to_id[mother],
-            "child": child
-        })
-    print("hi 6")
+    add_lineage(father, child)
+    add_lineage(mother, child)
 
 # Houses data
 regions = []
@@ -163,7 +165,6 @@ for region, region_houses in json.load(open(file, 'r')).items():
                 houses[h]["is_deposed"] = True
             elif house_type == "Landed Knight":
                 houses[h]["is_landed_knight"] = True
-        print("hi 7")
 
     for house in houses.values():
         if "is_royal" not in house:
@@ -180,7 +181,6 @@ for region, region_houses in json.load(open(file, 'r')).items():
             house["is_deposed"] = False
         if "is_landed_knight" not in house:
             house["is_landed_knight"] = False
-        print("hi 8")
 
 for file in glob.glob(base_path + '/filter/region/Houses-of-*.json'):
     for h in houses:
@@ -217,12 +217,12 @@ for chapter in json.load(open(file, 'r')):
                 "id_chapter": chapter["chapter_id"],
                 "id_char": character
             })
+
 books = [{"id_book": id, "name_book": name} for id, name in books.items()]
 
 
 if __name__ == "__main__":
     # Characters
-    print(characters)
     queries.insert_dict_list('character', characters)
     queries.insert_dict_list('alias', aliases)
     queries.insert_dict_list('title', titles)
