@@ -34,15 +34,7 @@ const webpackConfig = {
     filename: 'bundle.js' // Output to public/bundle.js
   },
   module: {
-    rules: [
-      {
-        test: /\.js$/,
-        use: [
-          {loader: 'babel-loader'},
-        ],
-        exclude: /node_modules/
-      }
-    ]
+    rules: [ babelLoader, scssLoader, urlLoader, htmlLoader ]
   }
   // module: { loaders: [ babelLoader, scssLoader, urlLoader, htmlLoader ] }
 }
