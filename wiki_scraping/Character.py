@@ -2,7 +2,7 @@ import json
 import string
 import requests
 from bs4 import BeautifulSoup
-from data_mining.utils import beautify_string
+from wiki_scraping.utils import beautify_string
 
 
 class Character:
