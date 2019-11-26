@@ -1,2 +1,9 @@
 .idea/
 */__pycache__/
+Application/node_modules
+Application/.env
+Application/data
+Application/.vscode
+Application/public/bundle.js
+Application/database_setup/**/*.json
+Application/*.log
