@@ -1,16 +1,14 @@
 CREATE TABLE alias (
     character   VARCHAR(100) NOT NULL,
     alias       VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE alias ADD CONSTRAINT alias_pk PRIMARY KEY ( character,alias );
 
 CREATE TABLE allegiance (
     character   VARCHAR(100) NOT NULL,
     house       VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE allegiance ADD CONSTRAINT allegiance_pk PRIMARY KEY ( character,house );
 
@@ -19,8 +17,7 @@ CREATE TABLE appearance_chapter_character (
     pov            VARCHAR(100) NOT NULL,
     pov_sequence   INTEGER NOT NULL,
     character      VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE appearance_chapter_character ADD CONSTRAINT appear_chap_char_pk PRIMARY KEY ( id_book,pov,pov_sequence,character );
 
@@ -28,16 +25,14 @@ CREATE TABLE battle (
     id_battle      VARCHAR(100) NOT NULL,
     name_battle    VARCHAR(100) NOT NULL,
     place_battle   VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE battle ADD CONSTRAINT battle_pk PRIMARY KEY ( id_battle );
 
 CREATE TABLE book (
     id_book     VARCHAR(10) NOT NULL,
     name_book   VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE book ADD CONSTRAINT book_pk PRIMARY KEY ( id_book );
 
@@ -46,8 +41,7 @@ CREATE TABLE chapter (
     pov             VARCHAR(100) NOT NULL,
     pov_sequence    INTEGER NOT NULL,
     book_sequence   INTEGER NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE chapter ADD CONSTRAINT chapter_pk PRIMARY KEY ( pov,id_book,pov_sequence );
 
@@ -56,30 +50,26 @@ CREATE TABLE character (
     name_char     VARCHAR(100) NOT NULL,
     place_birth   VARCHAR(50) NOT NULL,
     place_death   VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE character ADD CONSTRAINT character_pk PRIMARY KEY ( id_char );
 
 CREATE TABLE character_culture (
     character   VARCHAR(100) NOT NULL,
     culture     VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE character_culture ADD CONSTRAINT character_culture_pk PRIMARY KEY ( character,culture );
 
 CREATE TABLE continent (
     continent_name   VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE continent ADD CONSTRAINT continent_pk PRIMARY KEY ( continent_name );
 
 CREATE TABLE culture (
     name_culture   VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE culture ADD CONSTRAINT culture_pk PRIMARY KEY ( name_culture );
 
@@ -96,48 +86,42 @@ CREATE TABLE house (
     "Extinct?"         INTEGER,
     "Deposed?"         INTEGER,
     "Landed_Knight?"   INTEGER
-)
-    LOGGING;
+);
 
 ALTER TABLE house ADD CONSTRAINT house_pk PRIMARY KEY ( name_house );
 
 CREATE TABLE house_battle (
     battle   VARCHAR(100) NOT NULL,
     house    VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE house_battle ADD CONSTRAINT house_battle_pk PRIMARY KEY ( battle,house );
 
 CREATE TABLE lineage (
     parent   VARCHAR(100) NOT NULL,
     child    VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE lineage ADD CONSTRAINT lineage_pk PRIMARY KEY ( child,parent );
 
 CREATE TABLE marriage (
     husband   VARCHAR(100) NOT NULL,
     wife      VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE marriage ADD CONSTRAINT marriage_pk PRIMARY KEY ( husband,wife );
 
 CREATE TABLE place (
     place_name   VARCHAR(50) NOT NULL,
     region       VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE place ADD CONSTRAINT place_pk PRIMARY KEY ( place_name );
 
 CREATE TABLE region (
     region_name   VARCHAR(50) NOT NULL,
     continent     VARCHAR(50) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE region ADD CONSTRAINT region_pk PRIMARY KEY ( region_name );
 
@@ -151,16 +135,14 @@ CREATE TABLE season_appearance (
     season_6    INTEGER,
     season_7    INTEGER,
     season_8    INTEGER
-)
-    LOGGING;
+);
 
 ALTER TABLE season_appearance ADD CONSTRAINT season_appearance_pk PRIMARY KEY ( character );
 
 CREATE TABLE title (
     character   VARCHAR(100) NOT NULL,
     title       VARCHAR(100) NOT NULL
-)
-    LOGGING;
+);
 
 ALTER TABLE title ADD CONSTRAINT title_pk PRIMARY KEY ( character,title );
 
