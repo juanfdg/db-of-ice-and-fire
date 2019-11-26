@@ -1,247 +1,239 @@
-CREATE TABLE alias (
-    character   VARCHAR(100) NOT NULL,
-    alias       VARCHAR(100) NOT NULL
+create schema public;
+
+comment on schema public is 'standard public schema';
+
+alter schema public owner to postgres;
+
+create table if not exists book
+(
+	id_book varchar not null
+		constraint book_pk
+			primary key,
+	name_book varchar not null
 );
 
-ALTER TABLE alias ADD CONSTRAINT alias_pk PRIMARY KEY ( character,alias );
+alter table book owner to got;
 
-CREATE TABLE allegiance (
-    character   VARCHAR(100) NOT NULL,
-    house       VARCHAR(50) NOT NULL
+create table if not exists continent
+(
+	continent_name varchar(50) not null
+		constraint continent_pk
+			primary key
 );
 
-ALTER TABLE allegiance ADD CONSTRAINT allegiance_pk PRIMARY KEY ( character,house );
+alter table continent owner to got;
 
-CREATE TABLE appearance_chapter_character (
-    id_book        VARCHAR(10) NOT NULL,
-    pov            VARCHAR(100) NOT NULL,
-    pov_sequence   INTEGER NOT NULL,
-    character      VARCHAR(100) NOT NULL
+create table if not exists culture
+(
+	name_culture varchar(100) not null
+		constraint culture_pk
+			primary key
 );
 
-ALTER TABLE appearance_chapter_character ADD CONSTRAINT appear_chap_char_pk PRIMARY KEY ( id_book,pov,pov_sequence,character );
+alter table culture owner to got;
 
-CREATE TABLE battle (
-    id_battle      VARCHAR(100) NOT NULL,
-    name_battle    VARCHAR(100) NOT NULL,
-    place_battle   VARCHAR(50) NOT NULL
+create table if not exists region
+(
+	region_name varchar(50) not null
+		constraint region_pk
+			primary key
 );
 
-ALTER TABLE battle ADD CONSTRAINT battle_pk PRIMARY KEY ( id_battle );
+alter table region owner to got;
 
-CREATE TABLE book (
-    id_book     VARCHAR(10) NOT NULL,
-    name_book   VARCHAR(50) NOT NULL
+create table if not exists place
+(
+	place_name varchar(50) not null
+		constraint place_pk
+			primary key,
+	region varchar(50) not null
+		constraint place_region_fk
+			references region
 );
 
-ALTER TABLE book ADD CONSTRAINT book_pk PRIMARY KEY ( id_book );
+alter table place owner to got;
 
-CREATE TABLE chapter (
-    id_book         VARCHAR(10) NOT NULL,
-    pov             VARCHAR(100) NOT NULL,
-    pov_sequence    INTEGER NOT NULL,
-    book_sequence   INTEGER NOT NULL
+create table if not exists battle
+(
+	id_battle varchar(100) not null
+		constraint battle_pk
+			primary key,
+	name_battle varchar(100) not null,
+	place_battle varchar(50) not null
+		constraint table_43_place_fk
+			references place
 );
 
-ALTER TABLE chapter ADD CONSTRAINT chapter_pk PRIMARY KEY ( pov,id_book,pov_sequence );
+alter table battle owner to got;
 
-CREATE TABLE character (
-    id_char       VARCHAR(100) NOT NULL,
-    name_char     VARCHAR(100) NOT NULL,
-    place_birth   VARCHAR(50) NOT NULL,
-    place_death   VARCHAR(50) NOT NULL
+create table if not exists character
+(
+	id_char varchar(100) not null
+		constraint character_pk
+			primary key,
+	name_char varchar(100) not null,
+	place_birth varchar(50) not null
+		constraint character_place_fk
+			references place,
+	place_death varchar(50) not null
+		constraint character_place_fkv2
+			references place
 );
 
-ALTER TABLE character ADD CONSTRAINT character_pk PRIMARY KEY ( id_char );
+alter table character owner to got;
 
-CREATE TABLE character_culture (
-    character   VARCHAR(100) NOT NULL,
-    culture     VARCHAR(100) NOT NULL
+create table if not exists alias
+(
+	character varchar(100) not null
+		constraint table_38_character_fk
+			references character,
+	alias varchar(100) not null,
+	constraint alias_pk
+		primary key (character, alias)
 );
 
-ALTER TABLE character_culture ADD CONSTRAINT character_culture_pk PRIMARY KEY ( character,culture );
+alter table alias owner to got;
 
-CREATE TABLE continent (
-    continent_name   VARCHAR(50) NOT NULL
+create table if not exists chapter
+(
+	id_book varchar not null
+		constraint table_31_book_fk
+			references book,
+	pov varchar not null
+		constraint table_31_character_fk
+			references character,
+	id_chapter varchar not null
+		constraint chapter_pk
+			primary key,
+	name_chapter varchar
 );
 
-ALTER TABLE continent ADD CONSTRAINT continent_pk PRIMARY KEY ( continent_name );
+alter table chapter owner to got;
 
-CREATE TABLE culture (
-    name_culture   VARCHAR(100) NOT NULL
+create table if not exists appearance_chapter_character
+(
+	id_chapter varchar not null
+		constraint appearance_chapter_character_pk
+			primary key
+		constraint appearance_chapter_character_chapter_id_chapter_fk
+			references chapter,
+	id_character varchar not null
+		constraint table_32_character_fk
+			references character
 );
 
-ALTER TABLE culture ADD CONSTRAINT culture_pk PRIMARY KEY ( name_culture );
+alter table appearance_chapter_character owner to got;
 
-CREATE TABLE house (
-    name_house         VARCHAR(50) NOT NULL,
-    lord               VARCHAR(100),
-    words              VARCHAR(250),
-    region             VARCHAR(50),
-    founder            VARCHAR(100),
-    "Royal?"           INTEGER,
-    "Great?"           INTEGER,
-    "Noble?"           INTEGER,
-    "Exiled?"          INTEGER,
-    "Extinct?"         INTEGER,
-    "Deposed?"         INTEGER,
-    "Landed_Knight?"   INTEGER
+create table if not exists character_culture
+(
+	character varchar(100) not null
+		constraint table_41_character_fk
+			references character,
+	culture varchar(100) not null
+		constraint table_41_culture_fk
+			references culture,
+	constraint character_culture_pk
+		primary key (character, culture)
 );
 
-ALTER TABLE house ADD CONSTRAINT house_pk PRIMARY KEY ( name_house );
+alter table character_culture owner to got;
 
-CREATE TABLE house_battle (
-    battle   VARCHAR(100) NOT NULL,
-    house    VARCHAR(50) NOT NULL
+create table if not exists house
+(
+	name_house varchar(50) not null
+		constraint house_pk
+			primary key,
+	lord varchar(100)
+		constraint house_character_fk
+			references character,
+	words varchar(250),
+	region varchar(50)
+		constraint house_region_fk
+			references region,
+	founder varchar(100)
+		constraint house_character_fkv2
+			references character,
+	is_royal boolean,
+	is_great boolean,
+	is_noble boolean,
+	is_exiled boolean,
+	is_extinct boolean,
+	is_deposed boolean,
+	is_landed_knight boolean
 );
 
-ALTER TABLE house_battle ADD CONSTRAINT house_battle_pk PRIMARY KEY ( battle,house );
+alter table house owner to got;
 
-CREATE TABLE lineage (
-    parent   VARCHAR(100) NOT NULL,
-    child    VARCHAR(100) NOT NULL
+create table if not exists allegiance
+(
+	character varchar(100) not null
+		constraint table_36_character_fk
+			references character,
+	house varchar(50) not null
+		constraint table_36_house_fk
+			references house,
+	constraint allegiance_pk
+		primary key (character, house)
 );
 
-ALTER TABLE lineage ADD CONSTRAINT lineage_pk PRIMARY KEY ( child,parent );
+alter table allegiance owner to got;
 
-CREATE TABLE marriage (
-    husband   VARCHAR(100) NOT NULL,
-    wife      VARCHAR(100) NOT NULL
+create table if not exists house_battle
+(
+	battle varchar(100) not null
+		constraint table_44_battle_fk
+			references battle,
+	house varchar(50) not null
+		constraint table_44_house_fk
+			references house,
+	constraint house_battle_pk
+		primary key (battle, house)
 );
 
-ALTER TABLE marriage ADD CONSTRAINT marriage_pk PRIMARY KEY ( husband,wife );
+alter table house_battle owner to got;
 
-CREATE TABLE place (
-    place_name   VARCHAR(50) NOT NULL,
-    region       VARCHAR(50) NOT NULL
+create table if not exists lineage
+(
+	parent varchar(100) not null
+		constraint table_28_character_fk
+			references character,
+	child varchar(100) not null
+		constraint table_28_character_fkv1
+			references character,
+	constraint lineage_pk
+		primary key (child, parent)
 );
 
-ALTER TABLE place ADD CONSTRAINT place_pk PRIMARY KEY ( place_name );
+alter table lineage owner to got;
 
-CREATE TABLE region (
-    region_name   VARCHAR(50) NOT NULL,
-    continent     VARCHAR(50) NOT NULL
+create table if not exists season_appearance
+(
+	character varchar(100) not null
+		constraint season_appearance_pk
+			primary key
+		constraint season_appearance_character_fk
+			references character,
+	season_1 integer,
+	season_2 integer,
+	season_3 integer,
+	season_4 integer,
+	season_5 integer,
+	season_6 integer,
+	season_7 integer,
+	season_8 integer
 );
 
-ALTER TABLE region ADD CONSTRAINT region_pk PRIMARY KEY ( region_name );
+alter table season_appearance owner to got;
 
-CREATE TABLE season_appearance (
-    character   VARCHAR(100) NOT NULL,
-    season_1    INTEGER,
-    season_2    INTEGER,
-    season_3    INTEGER,
-    season_4    INTEGER,
-    season_5    INTEGER,
-    season_6    INTEGER,
-    season_7    INTEGER,
-    season_8    INTEGER
+create table if not exists title
+(
+	character varchar(100) not null
+		constraint table_39_character_fk
+			references character,
+	title varchar(100) not null,
+	constraint title_pk
+		primary key (character, title)
 );
 
-ALTER TABLE season_appearance ADD CONSTRAINT season_appearance_pk PRIMARY KEY ( character );
+alter table title owner to got;
 
-CREATE TABLE title (
-    character   VARCHAR(100) NOT NULL,
-    title       VARCHAR(100) NOT NULL
-);
-
-ALTER TABLE title ADD CONSTRAINT title_pk PRIMARY KEY ( character,title );
-
-ALTER TABLE character ADD CONSTRAINT character_place_fk FOREIGN KEY ( place_birth )
-    REFERENCES place ( place_name )
-NOT DEFERRABLE;
-
-ALTER TABLE character ADD CONSTRAINT character_place_fkv2 FOREIGN KEY ( place_death )
-    REFERENCES place ( place_name )
-NOT DEFERRABLE;
-
-ALTER TABLE house ADD CONSTRAINT house_character_fk FOREIGN KEY ( lord )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE house ADD CONSTRAINT house_character_fkv2 FOREIGN KEY ( founder )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE house ADD CONSTRAINT house_region_fk FOREIGN KEY ( region )
-    REFERENCES region ( region_name )
-NOT DEFERRABLE;
-
-ALTER TABLE place ADD CONSTRAINT place_region_fk FOREIGN KEY ( region )
-    REFERENCES region ( region_name )
-NOT DEFERRABLE;
-
-ALTER TABLE region ADD CONSTRAINT region_continent_fk FOREIGN KEY ( continent )
-    REFERENCES continent ( continent_name )
-NOT DEFERRABLE;
-
-ALTER TABLE season_appearance ADD CONSTRAINT season_appearance_character_fk FOREIGN KEY ( character )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE marriage ADD CONSTRAINT table_27_character_fk FOREIGN KEY ( husband )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE marriage ADD CONSTRAINT table_27_character_fkv1 FOREIGN KEY ( wife )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE lineage ADD CONSTRAINT table_28_character_fk FOREIGN KEY ( parent )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE lineage ADD CONSTRAINT table_28_character_fkv1 FOREIGN KEY ( child )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE chapter ADD CONSTRAINT table_31_book_fk FOREIGN KEY ( id_book )
-    REFERENCES book ( id_book )
-NOT DEFERRABLE;
-
-ALTER TABLE chapter ADD CONSTRAINT table_31_character_fk FOREIGN KEY ( pov )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE appearance_chapter_character ADD CONSTRAINT table_32_chapter_fk FOREIGN KEY ( pov,id_book,pov_sequence )
-    REFERENCES chapter ( pov,id_book,pov_sequence )
-NOT DEFERRABLE;
-
-ALTER TABLE appearance_chapter_character ADD CONSTRAINT table_32_character_fk FOREIGN KEY ( character )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE allegiance ADD CONSTRAINT table_36_character_fk FOREIGN KEY ( character )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE allegiance ADD CONSTRAINT table_36_house_fk FOREIGN KEY ( house )
-    REFERENCES house ( name_house )
-NOT DEFERRABLE;
-
-ALTER TABLE alias ADD CONSTRAINT table_38_character_fk FOREIGN KEY ( character )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE title ADD CONSTRAINT table_39_character_fk FOREIGN KEY ( character )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE character_culture ADD CONSTRAINT table_41_character_fk FOREIGN KEY ( character )
-    REFERENCES character ( id_char )
-NOT DEFERRABLE;
-
-ALTER TABLE character_culture ADD CONSTRAINT table_41_culture_fk FOREIGN KEY ( culture )
-    REFERENCES culture ( name_culture )
-NOT DEFERRABLE;
-
-ALTER TABLE battle ADD CONSTRAINT table_43_place_fk FOREIGN KEY ( place_battle )
-    REFERENCES place ( place_name )
-NOT DEFERRABLE;
-
-ALTER TABLE house_battle ADD CONSTRAINT table_44_battle_fk FOREIGN KEY ( battle )
-    REFERENCES battle ( id_battle )
-NOT DEFERRABLE;
-
-ALTER TABLE house_battle ADD CONSTRAINT table_44_house_fk FOREIGN KEY ( house )
-    REFERENCES house ( name_house )
-NOT DEFERRABLE;
