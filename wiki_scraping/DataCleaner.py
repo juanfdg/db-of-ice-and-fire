@@ -14,6 +14,7 @@ def CharacterCleaner(file_name):
     content = json.loads(file.read())
     file.close()
 
+    # Removing Unsupported Columns
     for characters in content.keys():
         for key in unsupported_keys:
             if key in content[characters].keys():
@@ -22,6 +23,7 @@ def CharacterCleaner(file_name):
             if key in content[characters].keys():
                 content[characters][rename_keys[key]] = content[characters].pop(key)
 
+    # Removing [digit]
     for characters in content.keys():
         for key in content[characters].keys():
             if type(content[characters][key]) == list:
@@ -29,6 +31,18 @@ def CharacterCleaner(file_name):
                     content[characters][key][i] = re.sub(r"\[\d*\]", "", content[characters][key][i])
             else:
                 content[characters][key] = re.sub(r"\[\d*\]", "", content[characters][key])
+
+    # Removing empty fields
+    for characters in content.keys():
+        for key in content[characters].keys():
+            if type(content[characters][key]) == list:
+                index = []
+                for i in range(len(content[characters][key])):
+                    if content[characters][key][i] == "":
+                        index.append(i)
+                index.reverse()
+                for i in index:
+                    content[characters][key].pop(i)
 
     file = open('filter/character/'+file_name[68:], 'w')
     file.write(json.dumps(content, indent=4))
