@@ -7,3 +7,5 @@ Application/.vscode
 Application/public/bundle.js
 Application/database_setup/**/*.json
 Application/*.log
+
+*/filter/
