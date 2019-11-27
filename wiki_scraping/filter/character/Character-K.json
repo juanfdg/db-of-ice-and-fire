@@ -1,0 +1,400 @@
+{
+    "Kaeth": {
+        "id": "Kaeth",
+        "name": "Kaeth",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel",
+        "born": "At 175 AC, 176 AC or 177 AC",
+        "died": "In 257 AC or 258 AC, at King's Landing"
+    },
+    "Karlon_Stark": {
+        "id": "Karlon_Stark",
+        "name": "Karlon Stark",
+        "alias": "Karl",
+        "title": "Lord of Karl's Hold",
+        "allegiance": [
+            "House Stark",
+            "House Karstark"
+        ],
+        "culture": "Northmen"
+    },
+    "Karolyn": {
+        "id": "Karolyn",
+        "name": "Karolyn",
+        "title": "Septa",
+        "allegiance": "Faith of the Seven"
+    },
+    "Karyl_Vance": {
+        "id": "Karyl_Vance",
+        "name": "Karyl Vance",
+        "title": [
+            "Ser",
+            "Lord of Wayfarer's Rest"
+        ],
+        "allegiance": "House Vance of Wayfarer's Rest",
+        "culture": "Rivermen",
+        "born": "At Wayfarer's Rest",
+        "spouse": "Unknown",
+        "issue": [
+            "Liane Vance",
+            "Rhialta Vance",
+            "Emphyria Vance"
+        ]
+    },
+    "Kasporio": {
+        "id": "Kasporio",
+        "name": "Kasporio",
+        "alias": [
+            "Kasporio the Cunning",
+            "Kasporio the Cunt"
+        ],
+        "title": "Second-in-command of the Second Sons",
+        "allegiance": "Second Sons"
+    },
+    "Kedge_Whiteye": {
+        "id": "Kedge_Whiteye",
+        "name": "Kedge Whiteye",
+        "allegiance": "Night's Watch",
+        "born": "In or between 251 AC and 260 AC"
+    },
+    "Kedry": {
+        "id": "Kedry",
+        "name": "Kedry",
+        "title": "Maester",
+        "allegiance": "The Citadel",
+        "died": "In 300 AC, at off the coast of the Disputed Lands"
+    },
+    "Kegs": {
+        "id": "Kegs",
+        "name": "Kegs",
+        "allegiance": "Night's Watch"
+    },
+    "Kella": {
+        "id": "Kella",
+        "name": "Kella",
+        "allegiance": "House Baelish",
+        "culture": "Valemen",
+        "issue": "Many children"
+    },
+    "Kem": {
+        "id": "Kem",
+        "name": "Kem",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "Second Sons"
+        ],
+        "culture": "Crownlands",
+        "born": "At Flea Bottom"
+    },
+    "Kemmett_Pyke": {
+        "id": "Kemmett_Pyke",
+        "name": "Kemmett Pyke",
+        "alias": "Kemmett the Bastard",
+        "culture": "ironborn"
+    },
+    "Kenned_the_Whale": {
+        "id": "Kenned_the_Whale",
+        "name": "Kenned the Whale",
+        "alias": "Kenned the Whale",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Kennos_of_Kayce": {
+        "id": "Kennos_of_Kayce",
+        "name": "Kennos of Kayce",
+        "title": "Ser",
+        "allegiance": "House Kenning of Kayce"
+    },
+    "Kermit_Tully": {
+        "id": "Kermit_Tully",
+        "name": "Kermit Tully",
+        "title": [
+            "Ser",
+            "Lord Paramount of the Trident",
+            "Lord of Riverrun"
+        ],
+        "allegiance": [
+            "House Tully",
+            "Blacks",
+            "Lads"
+        ],
+        "culture": "Rivermen",
+        "born": "In 112 AC"
+    },
+    "Kerwin": {
+        "id": "Kerwin",
+        "name": "Kerwin",
+        "title": "Maester at Greenshield",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Chester",
+            "House Greyjoy",
+            "(",
+            "thrall",
+            ")"
+        ],
+        "born": "In 277 AC or 278 AC",
+        "died": "In 300 AC"
+    },
+    "Ketter": {
+        "id": "Ketter",
+        "name": "Ketter",
+        "allegiance": "Night's Watch"
+    },
+    "Kevan_Lannister": {
+        "id": "Kevan_Lannister",
+        "name": "Kevan Lannister",
+        "title": [
+            "Ser",
+            "Master of laws",
+            "Lord Regent",
+            "Protector of the Realm"
+        ],
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 244 AC, at Casterly Rock",
+        "died": "In 300 AC, at King's Landing",
+        "spouse": "Lady Dorna Swyft",
+        "issue": [
+            "Lancel Lannister",
+            "Willem Lannister",
+            "Martyn Lannister",
+            "Janei Lannister"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 5 | Season 6"
+    },
+    "Kezmya_Pahl": {
+        "id": "Kezmya_Pahl",
+        "name": "Kezmya Pahl",
+        "title": "Cupbearer",
+        "allegiance": "House of Pahl",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Khiara_the_Great": {
+        "id": "Khiara_the_Great",
+        "name": "Khiara the Great",
+        "culture": "Lengii",
+        "spouse": [
+            "YiTish consort",
+            "Lengii consort"
+        ],
+        "title": "God-Empress"
+    },
+    "Khorane_Sathmantes": {
+        "id": "Khorane_Sathmantes",
+        "name": "Khorane Sathmantes",
+        "culture": "Lyseni"
+    },
+    "Khrazz": {
+        "id": "Khrazz",
+        "name": "Khrazz",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari",
+        "born": "In 277 AC (roughly)",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Kiera_of_Tyrosh": {
+        "id": "Kiera_of_Tyrosh",
+        "name": "Kiera of Tyrosh",
+        "title": "Lady",
+        "allegiance": "House Targaryen",
+        "culture": "Tyroshi",
+        "spouse": [
+            "1st: Prince",
+            "Valarr Targaryen",
+            "2nd: Prince",
+            "Daeron Targaryen"
+        ],
+        "issue": [
+            "Stillborn sons",
+            "Vaella Targaryen"
+        ]
+    },
+    "Kindly_Man": {
+        "id": "Kindly_Man",
+        "name": "Kindly man",
+        "alias": "The Kindly Man",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "King_Cutthroat": {
+        "id": "King_Cutthroat",
+        "name": "King Cutthroat",
+        "title": "King of Astapor",
+        "culture": "Astapori",
+        "died": "In 300 AC, at Astapor"
+    },
+    "Kirby_Pimm": {
+        "id": "Kirby_Pimm",
+        "name": "Kirby Pimm",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Kirth": {
+        "id": "Kirth",
+        "name": "Kirth",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Kirth_Vance": {
+        "id": "Kirth_Vance",
+        "name": "Kirth Vance",
+        "title": "Ser",
+        "allegiance": "House Vance of Atranta",
+        "culture": "Rivermen"
+    },
+    "Knight_of_Ninestars_(First_Blackfyre_Rebellion)": {
+        "id": "Knight_of_Ninestars_(First_Blackfyre_Rebellion)",
+        "name": "Knight of Ninestars (First Blackfyre Rebellion)",
+        "title": [
+            "Ser",
+            "The",
+            "Knight of Ninestars"
+        ],
+        "allegiance": "House Templeton",
+        "culture": "Valemen",
+        "died": "In 196 AC, at Redgrass Field"
+    },
+    "Knight_of_the_Red_Chicken": {
+        "id": "Knight_of_the_Red_Chicken",
+        "name": "Knight of the Red Chicken",
+        "alias": "Knight of the Red Chicken",
+        "title": "Ser",
+        "allegiance": "House Baratheon of Dragonstone"
+    },
+    "Kojja_Mo": {
+        "id": "Kojja_Mo",
+        "name": "Kojja Mo",
+        "culture": "Summer Isles"
+    },
+    "Korra": {
+        "id": "Korra",
+        "name": "Korra",
+        "alias": [
+            "Lady Korra",
+            "Korra the Cruel"
+        ],
+        "title": "Captain of Hag's Teeth",
+        "allegiance": "Pirates",
+        "culture": "Essos"
+    },
+    "Koss": {
+        "id": "Koss",
+        "name": "Koss",
+        "died": "In 299 AC, at Gods Eye"
+    },
+    "Kraznys_mo_Nakloz": {
+        "id": "Kraznys_mo_Nakloz",
+        "name": "Kraznys mo Nakloz",
+        "allegiance": [
+            "Good Masters",
+            "House of Nakloz"
+        ],
+        "culture": "Astapor",
+        "died": "In 299 AC, at Astapor",
+        "tv series": "Season 3"
+    },
+    "Kromm": {
+        "id": "Kromm",
+        "name": "Kromm",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "born": "At Iron Islands",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Kurleket": {
+        "id": "Kurleket",
+        "name": "Kurleket",
+        "allegiance": "House Bracken",
+        "died": "In 298 AC, at the Mountains of the Moon",
+        "tv series": "Season 1"
+    },
+    "Kurz": {
+        "id": "Kurz",
+        "name": "Kurz",
+        "died": "In 299 AC, at Riverlands"
+    },
+    "Kyle": {
+        "id": "Kyle",
+        "name": "Kyle",
+        "alias": [
+            "Cat of Misty Moor",
+            "Kyle the Cat"
+        ],
+        "title": "Ser"
+    },
+    "Kyle_(brotherhood)": {
+        "id": "Kyle_(brotherhood)",
+        "name": "Kyle (brotherhood)",
+        "allegiance": "Brotherhood without banners",
+        "died": "In 299 AC, at the burning septry"
+    },
+    "Kyle_Condon": {
+        "id": "Kyle_Condon",
+        "name": "Kyle Condon",
+        "title": "Ser",
+        "allegiance": "House Condon"
+    },
+    "Kyle_Connington": {
+        "id": "Kyle_Connington",
+        "name": "Kyle Connington",
+        "title": "Lord of Griffin's Roost",
+        "allegiance": "House Connington",
+        "culture": "Stormlander"
+    },
+    "Kyle_Royce": {
+        "id": "Kyle_Royce",
+        "name": "Kyle Royce",
+        "allegiance": "House Royce",
+        "culture": "Valemen",
+        "died": "In 282 AC, at King's Landing"
+    },
+    "Kyleg": {
+        "id": "Kyleg",
+        "name": "Kyleg",
+        "alias": "Kyleg of the Wooden Ear",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Kym": {
+        "id": "Kym",
+        "name": "Kym",
+        "title": "Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Tully"
+        ]
+    },
+    "Kyra": {
+        "id": "Kyra",
+        "name": "Kyra",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 280 AC or 281 AC, at the winter town",
+        "died": "In 300 AC, at forests near the Dreadfort"
+    },
+    "Kyra_Frey": {
+        "id": "Kyra_Frey",
+        "name": "Kyra Frey",
+        "allegiance": "House Frey",
+        "born": "In or between 261 AC and 278 AC",
+        "spouse": "Ser Garse Goodbrook",
+        "issue": [
+            "Walder Goodbrook",
+            "Jeyne Goodbrook"
+        ]
+    },
+    "Kyrie": {
+        "id": "Kyrie",
+        "name": "Kyrie",
+        "title": "Maester at Storm's End",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Baratheon"
+        ]
+    }
+}

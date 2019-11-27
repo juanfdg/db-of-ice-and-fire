@@ -1,0 +1,850 @@
+{
+    "House_Tully": {
+        "id": "House_Tully",
+        "name": "House Tully",
+        "coat of arms": [
+            "A leaping silver trout on a field of blue and mud red",
+            "(Paly wavy azure and gules, a trout embowed argent)"
+        ],
+        "words": "Family, Duty, Honor",
+        "seat": "Exiled (formerly Riverrun)",
+        "lord": "Edmure Tully (captive)",
+        "region": "Riverlands",
+        "title": [
+            "Lord of Riverrun",
+            "Lord Paramount of the Trident"
+        ],
+        "heir": "Roslin Frey's unborn child",
+        "overlord": [
+            "House Baratheon of King's Landing",
+            "(AGOT)",
+            "House Stark",
+            "(ACOK, ASOS)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Bigglestone": {
+        "id": "House_Bigglestone",
+        "name": "House Bigglestone",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Blackwood": {
+        "id": "House_Blackwood",
+        "name": "House Blackwood",
+        "coat of arms": [
+            "A flock of ravens surrounding a black shield charged with a dead weirwood, on a scarlet field",
+            "(Gules, on an escutcheon sable a dead weirwood tree proper, all within an orle of ravens volant sable)"
+        ],
+        "seat": "Raventree Hall",
+        "lord": "Tytos Blackwood",
+        "region": [
+            "Riverlands",
+            "The",
+            "North",
+            "(formerly)"
+        ],
+        "title": [
+            "Lord of Raventree Hall",
+            "River king",
+            "(formerly)"
+        ],
+        "heir": "Brynden Blackwood",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "cadet branch": "House Justman",
+        "founded": "Age of Heroes"
+    },
+    "House_Blanetree": {
+        "id": "House_Blanetree",
+        "name": "House Blanetree",
+        "coat of arms": [
+            "Green and brown maple leaves, strewn across a yellow field",
+            "(Or, sem  of maple leaves vert and tenn )"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Bracken": {
+        "id": "House_Bracken",
+        "name": "House Bracken",
+        "coat of arms": [
+            "A red stallion upon a gold shield, on a brown field",
+            "(Tenn , on an escutcheon or a stallion rampant gules)"
+        ],
+        "seat": "Stone Hedge",
+        "lord": "Jonos Bracken",
+        "region": "Riverlands",
+        "title": [
+            "Lord of Stone Hedge",
+            "River king",
+            "(formerly)"
+        ],
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "cadet branch": "House Justman",
+        "founded": "Age of Heroes"
+    },
+    "House_Butterwell": {
+        "id": "House_Butterwell",
+        "name": "House Butterwell",
+        "coat of arms": [
+            "Barry wavy green, white, and yellow",
+            "(Barry wavy vert, argent, and or)"
+        ],
+        "seat": [
+            "Lord Harroway's Town",
+            "(formerly)",
+            "Whitewalls",
+            "(formerly)"
+        ],
+        "region": "The riverlands",
+        "title": [
+            "Lord of",
+            "Lord Harroway's Town",
+            "(formerly)",
+            "Lord of",
+            "Whitewalls",
+            "(formerly)"
+        ],
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Chambers": {
+        "id": "House_Chambers",
+        "name": "House Chambers",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Charlton": {
+        "id": "House_Charlton",
+        "name": "House Charlton",
+        "coat of arms": [
+            "Three sprigs of mistletoe, green and red, on a gold field within a green border",
+            "(Or, three sprigs of mistletoe vert, fructed gules, within a bordure of the second)"
+        ],
+        "region": "Riverlands",
+        "overlord": "House Frey"
+    },
+    "House_Darry": {
+        "id": "House_Darry",
+        "name": "House Darry",
+        "coat of arms": [
+            "A black plowman on a brown field",
+            "(Brun\u00e2tre, a plowman sable)"
+        ],
+        "seat": "Darry",
+        "lord": "Lady Mariya Darry",
+        "region": "The riverlands",
+        "title": "Lord of Darry",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "founded": "Coming of the Andals",
+        "died out": "299 AC (extincted through the male line)"
+    },
+    "House_Deddings": {
+        "id": "House_Deddings",
+        "name": "House Deddings",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Erenford": {
+        "id": "House_Erenford",
+        "name": "House Erenford",
+        "coat of arms": [
+            "A golden heron, beak and legs black, standing with a silver fish in its beak, on a pink field",
+            "(Rose, a heron close or beaked and membered sable, clasped in its beak a fish argent)"
+        ],
+        "region": "Riverlands",
+        "overlord": "House Frey"
+    },
+    "House_Frey": {
+        "id": "House_Frey",
+        "name": "House Frey",
+        "coat of arms": [
+            "Two blue towers, united by a bridge, on a silver-grey field",
+            "(Cendr e, a bridge azure, at either end a tower of the same)"
+        ],
+        "seat": "The Twins",
+        "lord": "Walder Frey",
+        "region": "Riverlands",
+        "title": "Lord of the Crossing",
+        "heir": "Edwyn Frey",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "cadet branch": "House Frey of Riverrun",
+        "founded": "Around 300 BC"
+    },
+    "House_Goodbrook": {
+        "id": "House_Goodbrook",
+        "name": "House Goodbrook",
+        "coat of arms": [
+            "A blue wavy bend, on a gold field",
+            "(Or, a bend wavy azure)"
+        ],
+        "lord": "Lord Lymond Goodbrook",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Grell": {
+        "id": "House_Grell",
+        "name": "House Grell",
+        "coat of arms": [
+            "Three red martlets on a white bend, on a blue field",
+            "(Azure, on a bend argent three martlets gules)"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Harlton": {
+        "id": "House_Harlton",
+        "name": "House Harlton",
+        "coat of arms": [
+            "A silver tree on green",
+            "(Vert, a tree argent)"
+        ],
+        "seat": "Castlewood",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Hawick": {
+        "id": "House_Hawick",
+        "name": "House Hawick",
+        "coat of arms": [
+            "White seabirds strewn across a blue field",
+            "(Azure, sem  of seabirds argent)"
+        ],
+        "seat": "Saltpans",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Keath": {
+        "id": "House_Keath",
+        "name": "House Keath",
+        "coat of arms": [
+            "Quarterly of nine; a white fish on a grey field; a gold fish hook on a white field",
+            "(Quarterly of nine, first, third, fifth, seventh and ninth cendr e, a fish argent; second, fourth, sixth and eight argent, a fish-hook or)"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Lolliston": {
+        "id": "House_Lolliston",
+        "name": "House Lolliston",
+        "coat of arms": [
+            "Three oaken barrels, on a white field",
+            "(Argent, three oaken barrels proper)"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Lychester": {
+        "id": "House_Lychester",
+        "name": "House Lychester",
+        "coat of arms": [
+            "A black talon, on an orange and white gyronny field",
+            "(Gyronny tenn  and argent, an eagle's leg erased sable)"
+        ],
+        "seat": "Castle Lychester",
+        "lord": "Lymond Lychester",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Mallister": {
+        "id": "House_Mallister",
+        "name": "House Mallister",
+        "coat of arms": [
+            "A silver eagle, displayed, on an indigo field",
+            "(Purpure, an eagle displayed argent)"
+        ],
+        "words": "Above the Rest",
+        "seat": "Seagard",
+        "lord": "Jason Mallister",
+        "region": "Riverlands",
+        "title": [
+            "Lord of Seagard",
+            "King of the Trident",
+            "(formerly)"
+        ],
+        "heir": "Patrek Mallister",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Mooton": {
+        "id": "House_Mooton",
+        "name": "House Mooton",
+        "coat of arms": [
+            "A red salmon within a gold tressure, on a white field",
+            "(Argent, a salmon gules within a tressure or)"
+        ],
+        "words": "Wisdom and Strength",
+        "seat": "Maidenpool",
+        "lord": "William Mooton",
+        "region": "Riverlands",
+        "title": [
+            "Lord of Maidenpool",
+            "King",
+            "(formerly)"
+        ],
+        "heir": "Eleanor Mooton",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "founded": "Before the Andal Invasion"
+    },
+    "House_Nutt": {
+        "id": "House_Nutt",
+        "name": "House Nutt",
+        "region": "Riverlands",
+        "title": "Queen of the Trident (formerly)",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Pemford": {
+        "id": "House_Pemford",
+        "name": "House Pemford",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Perryn": {
+        "id": "House_Perryn",
+        "name": "House Perryn",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Piper": {
+        "id": "House_Piper",
+        "name": "House Piper",
+        "coat of arms": [
+            "A pink dancing maiden in a swirl of white silk, on a blue field",
+            "(Azure, a maiden dancing proper enwrapped with silk argent)"
+        ],
+        "words": "Brave and Beautiful",
+        "seat": "Pinkmaiden Castle",
+        "lord": "Clement Piper",
+        "region": "The riverlands",
+        "title": "Lord of Pinkmaiden Castle",
+        "heir": "Ser Marq Piper",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Roote": {
+        "id": "House_Roote",
+        "name": "House Roote",
+        "coat of arms": [
+            "A brown double-headed horse on a field of wavy green and green",
+            "(Wavy vert and vert, a horse bicapitated brun\u00e2tre)"
+        ],
+        "seat": "Lord Harroway's Town",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Ryger": {
+        "id": "House_Ryger",
+        "name": "House Ryger",
+        "coat of arms": [
+            "A green weeping willow, on a white field",
+            "(Argent, a willow-tree vert)"
+        ],
+        "seat": "Willow Wood",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Shawney": {
+        "id": "House_Shawney",
+        "name": "House Shawney",
+        "coat of arms": [
+            "Per fesse, a divided blue, red, green field above, a white catfish on a black field below",
+            "(Per fesse, the first tierced in pale azure, gules and vert, the second sable, a catfish argent)"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Smallwood": {
+        "id": "House_Smallwood",
+        "name": "House Smallwood",
+        "coat of arms": [
+            "Six brown acorns, 3, 2, 1, on a yellow field",
+            "(Or, six acorns 3-2-1 brun\u00e2tre)"
+        ],
+        "words": "From These Beginnings",
+        "seat": "Acorn Hall",
+        "lord": "Theomar Smallwood",
+        "region": "Riverlands",
+        "title": "Lord of Acorn Hall",
+        "heir": "Carellen Smallwood",
+        "overlord": "House Vance of Wayfarer's Rest"
+    },
+    "House_Terrick": {
+        "id": "House_Terrick",
+        "name": "House Terrick",
+        "coat of arms": [
+            "Per saltire purple and gold, four hawks' heads countercharged",
+            "(Per saltire purpure and or, four hawks' heads counterchanged)"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Vance_of_Atranta": {
+        "id": "House_Vance_of_Atranta",
+        "name": "House Vance of Atranta",
+        "coat of arms": [
+            "Quartered, a green dragon on a white field and a white tower on a black field",
+            "(Quarterly, first and fourth, argent, a dragon vert, second and third, sable, a tower argent)"
+        ],
+        "seat": "Atranta",
+        "lord": "Norbert Vance",
+        "region": "riverlands",
+        "title": "Lord of Atranta",
+        "heir": "Ser Ronald Vance",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "founder": "Armistead Vance",
+        "founded": "Andal Invasion"
+    },
+    "House_Vance_of_Wayfarer%27s_Rest": {
+        "id": "House_Vance_of_Wayfarer%27s_Rest",
+        "name": "House Vance of Wayfarer's Rest",
+        "coat of arms": [
+            "Quartered, a black dragon on a white field and two golden eyes in a golden ring on a black field",
+            "(Quarterly, first and fourth, argent, a dragon sable, second and third, sable, a pair of eyes within an annulet or)"
+        ],
+        "seat": "Wayfarer's Rest",
+        "lord": "Karyl Vance",
+        "region": "riverlands",
+        "title": "Lord of Wayfarer's Rest",
+        "heir": "Liane Vance",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "founder": "Armistead Vance",
+        "founded": "Andal Invasion"
+    },
+    "House_Vypren": {
+        "id": "House_Vypren",
+        "name": "House Vypren",
+        "coat of arms": [
+            "A black toad on white lily pad, on a green field",
+            "(Vert, a toad sable atop a lilypad argent)"
+        ],
+        "lord": "Lucias Vypren",
+        "region": "Riverlands",
+        "heir": "Ser Damon Vypren",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Wayn": {
+        "id": "House_Wayn",
+        "name": "House Wayn",
+        "coat of arms": [
+            "Four wheels counterchanged on a quartered blue and white field",
+            "(Quarterly azure and argent, four wheels counterchanged)"
+        ],
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Whent": {
+        "id": "House_Whent",
+        "name": "House Whent",
+        "coat of arms": [
+            "Nine black bats, on a yellow field",
+            "(Or, nine bats, 4, 3, 2, displayed sable)"
+        ],
+        "seat": "Harrenhal (stripped)",
+        "region": "Riverlands",
+        "title": "Lord of Harrenhal (stripped)",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Cox": {
+        "id": "House_Cox",
+        "name": "House Cox",
+        "seat": "Saltpans",
+        "lord": "Ser Quincy Cox",
+        "region": "Riverlands",
+        "title": "Knight of Saltpans",
+        "heir": "Quincy's eldest son",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Grey": {
+        "id": "House_Grey",
+        "name": "House Grey",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Haigh": {
+        "id": "House_Haigh",
+        "name": "House Haigh",
+        "coat of arms": [
+            "A black pitchfork on a gold bend sinister, on a russet field",
+            "(Brun\u00e2tre, on a bend sinister or a pitchfork sable)"
+        ],
+        "lord": "Ser Leslyn Haigh (probably)",
+        "region": "Riverlands",
+        "heir": "Ser Harys Haigh (probably)",
+        "overlord": "House Frey"
+    },
+    "House_Nayland": {
+        "id": "House_Nayland",
+        "name": "House Nayland",
+        "seat": "Hag's Mire",
+        "region": "Riverlands",
+        "overlord": "House Frey"
+    },
+    "House_Paege": {
+        "id": "House_Paege",
+        "name": "House Paege",
+        "coat of arms": [
+            "Twining red-and-white snakes, on a black field",
+            "(Sable, two serpents argent and gules entwined palewise)"
+        ],
+        "lord": "Ser Halmon Paege",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Wode": {
+        "id": "House_Wode",
+        "name": "House Wode",
+        "coat of arms": [
+            "Three white hedgehogs, on a yellow field",
+            "(Or, three hedgehogs argent)"
+        ],
+        "words": "Touch Me Not",
+        "region": "The riverlands",
+        "overlord": [
+            "House Whent",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Heddle": {
+        "id": "House_Heddle",
+        "name": "House Heddle",
+        "lord": "Jeyne Heddle",
+        "region": "Riverlands",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ]
+    },
+    "House_Lothston": {
+        "id": "House_Lothston",
+        "name": "House Lothston",
+        "coat of arms": [
+            "A black bat on a field per bend, silver and gold",
+            "(Per bend argent and or, a bat displayed sable)"
+        ],
+        "seat": "Harrenhal",
+        "lord": "Extinct",
+        "region": "The riverlands",
+        "title": "Lord of Harrenhal",
+        "overlord": "House Tully",
+        "founder": "Lord Lucas Lothston (House Lothston of Harrenhal)",
+        "founded": "151 AC (House Lothston of Harrenhal)",
+        "died out": "221 233 AC[N 1]"
+    },
+    "House_Mudd": {
+        "id": "House_Mudd",
+        "name": "House Mudd",
+        "coat of arms": [
+            "A golden crown studded with emeralds, on a red-brown field",
+            "(Brun\u00e2tre, an ancient crown or studded with emeralds proper)"
+        ],
+        "seat": "Oldstones",
+        "region": "The riverlands",
+        "title": "King of the Rivers and the Hills"
+    },
+    "House_Strong": {
+        "id": "House_Strong",
+        "name": "House Strong",
+        "coat of arms": [
+            "A tripartite pale, blue, red, and green, on a white field",
+            "(Argent, a pale tierced per pale azure, gules, and vert)"
+        ],
+        "seat": "Harrenhal",
+        "lord": "Extinct",
+        "region": "The riverlands",
+        "title": "Lord of Harrenhal",
+        "overlord": "House Tully",
+        "founded": [
+            "Age of Heroes",
+            "(House Strong)",
+            "73 AC",
+            "(House Strong of Harrenhal)"
+        ],
+        "died out": "131 AC"
+    },
+    "House_Fisher": {
+        "id": "House_Fisher",
+        "name": "House Fisher",
+        "coat of arms": [
+            "A crowned catfish, spotted grey, on a blue field",
+            "(Azure, a catfish cendr e, crowned or)"
+        ],
+        "seat": "Misty Isle",
+        "lord": "Extinct",
+        "region": "Riverlands",
+        "title": "River king"
+    },
+    "House_Harroway": {
+        "id": "House_Harroway",
+        "name": "House Harroway",
+        "coat of arms": [
+            "Per bend sinister orange and sable rayonn , a castle counterchanged",
+            "(Per bend sinister rayonn  tenn  and sable, a castle counterchanged)"
+        ],
+        "seat": "Harrenhal",
+        "lord": "Extinct",
+        "region": "The riverlands",
+        "title": "Lord of Harrenhal",
+        "overlord": "House Tully",
+        "died out": "44 AC"
+    },
+    "House_Hoare": {
+        "id": "House_Hoare",
+        "name": "House Hoare",
+        "coat of arms": [
+            "Per saltire, two heavy silver chains crossing between a gold longship on a black field, a dark green pine on a white field, a cluster of red grapes on a gold field, and a black raven flying in a blue sky",
+            "(Per saltire sable, azure, argent and or, two chains throughout saltirewise argent between in chief a longship or, in dexter a raven volant sable, in sinister a pine-tree vert and in base a bunch of grapes gules)"
+        ],
+        "seat": [
+            "Orkmont",
+            "Hoare Castle",
+            "Fairmarket",
+            "Harrenhal"
+        ],
+        "region": [
+            "Iron Islands",
+            "Riverlands"
+        ],
+        "title": [
+            "King of the Iron Islands",
+            "King of the Isles and the Rivers"
+        ],
+        "founded": "Age of Heroes",
+        "died out": "Aegon's Conquest (2 1 BC)"
+    },
+    "House_Hook": {
+        "id": "House_Hook",
+        "name": "House Hook",
+        "seat": "Extinct",
+        "region": "Riverlands",
+        "title": "River king"
+    },
+    "House_Justman": {
+        "id": "House_Justman",
+        "name": "House Justman",
+        "coat of arms": [
+            "Golden scales within a blue a double tressure, on a white field",
+            "(Argent, a pair of balances or within a double-tressure azure)"
+        ],
+        "lord": "Extinct",
+        "region": "Riverlands",
+        "title": "King of the Trident",
+        "founder": "Benedict I Justman"
+    },
+    "House_Qoherys": {
+        "id": "House_Qoherys",
+        "name": "House Qoherys",
+        "coat of arms": [
+            "A flaming red and yellow saltire between four white skulls, on a black field",
+            "(Sable, a saltire rayonn  gules, tipped or, between four skulls argent)"
+        ],
+        "seat": "Harrenhal",
+        "lord": "Extinct",
+        "region": "Riverlands",
+        "title": "Lord of Harrenhal",
+        "overlord": "House Tully",
+        "founder": "Quenton Qoherys",
+        "founded": "ca. 1 AC",
+        "died out": "37 AC or shortly after"
+    },
+    "House_Teague": {
+        "id": "House_Teague",
+        "name": "House Teague",
+        "coat of arms": [
+            "A golden trident upright between two golden flanches, on a black field",
+            "(Sable, between two flaunches a trident erect or)"
+        ],
+        "lord": "Extinct",
+        "region": "Riverlands",
+        "title": "King of the Rivers and the Hills",
+        "founder": "Torrence Teague",
+        "died out": "Battle of Six Kings"
+    },
+    "House_Towers_of_Harrenhal": {
+        "id": "House_Towers_of_Harrenhal",
+        "name": "House Towers of Harrenhal",
+        "coat of arms": [
+            "Five black towers within a red and black double tressure, on a white field",
+            "(Argent, five towers sable within a double-tressure, the outer gules and the inner of the second)"
+        ],
+        "seat": "Harrenhal",
+        "lord": "Extinct",
+        "region": "The riverlands",
+        "title": "Lord of Harrenhal",
+        "overlord": "House Tully",
+        "founder": "Ser Walton Towers",
+        "founded": "44 AC",
+        "died out": "61 AC"
+    }
+}

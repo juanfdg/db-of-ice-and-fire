@@ -1,0 +1,353 @@
+{
+    "House_Martell": {
+        "id": "House_Martell",
+        "name": "House Martell",
+        "coat of arms": [
+            "A gold spear piercing a red sun on an orange field",
+            "(Tenn , a sun-in-splendour gules transfixed by a spear or)"
+        ],
+        "words": "Unbowed, Unbent, Unbroken",
+        "seat": "Old Palace in Sunspear",
+        "lord": "Prince Doran Martell",
+        "region": "Dorne",
+        "title": [
+            "Lord of Sunspear",
+            "Lord of the Sandship",
+            "(formerly)",
+            "Prince of Dorne"
+        ],
+        "heir": "Princess Arianne Martell",
+        "overlord": "House Baratheon of King's Landing",
+        "founder": [
+            "Morgan Martell",
+            "(House Martell)",
+            "Mors Martell",
+            "&",
+            "Nymeria",
+            "(House Nymeros Martell)"
+        ],
+        "founded": [
+            "Andal Invasion",
+            "(House Martell)",
+            "700 BC",
+            "(House Nymeros Martell)"
+        ]
+    },
+    "House_Allyrion": {
+        "id": "House_Allyrion",
+        "name": "House Allyrion",
+        "coat of arms": "Gyronny Gules and Sable, a hand couped Or",
+        "words": "No Foe May Pass",
+        "seat": "Godsgrace",
+        "lord": "Lady Delonne Allyrion",
+        "region": "Dorne",
+        "title": "Lord of Godsgrace",
+        "heir": "Ser Ryon Allyrion",
+        "overlord": "House Martell",
+        "founded": "Coming of the Andals"
+    },
+    "House_Blackmont": {
+        "id": "House_Blackmont",
+        "name": "House Blackmont",
+        "coat of arms": [
+            "A black vulture with a pink infant in its claws, on yellow",
+            "(Or, a vulture volant sable clutching an infant carnation)"
+        ],
+        "seat": "Blackmont",
+        "lord": "Lady Larra Blackmont",
+        "region": "Dorne",
+        "title": "Lord of Blackmont",
+        "heir": "Jynessa Blackmont",
+        "overlord": "House Martell",
+        "founded": "Before 700 BC"
+    },
+    "House_Dayne": {
+        "id": "House_Dayne",
+        "name": "House Dayne",
+        "coat of arms": "A white sword and falling star crossed on lilac (Purpure, a blazing star bendways surmounted by a sword bendways sinister argent)",
+        "seat": "Starfall",
+        "lord": "Edric Dayne",
+        "region": "Dorne",
+        "title": [
+            "Lord of Starfall",
+            "King of the Torrentine",
+            "(historical)"
+        ],
+        "overlord": "House Martell",
+        "cadet branch": "House Dayne of High Hermitage",
+        "ancestral weapon": "Dawn"
+    },
+    "House_Fowler": {
+        "id": "House_Fowler",
+        "name": "House Fowler",
+        "coat of arms": "Argent, a hooded hawk azure",
+        "words": "Let Me Soar",
+        "seat": "Skyreach",
+        "lord": "Lord Franklyn Fowler",
+        "region": "Dorne",
+        "title": [
+            "Lord of Skyreach",
+            "Warden of the Prince's Pass",
+            "Lord of the Wide Way",
+            "King of Stone and Sky",
+            "(formerly)"
+        ],
+        "overlord": "House Martell",
+        "founded": "Age of Heroes"
+    },
+    "House_Gargalen": {
+        "id": "House_Gargalen",
+        "name": "House Gargalen",
+        "coat of arms": "Red cockatrice with black snake in beak on gold (Or, a cockatrice gules, in its beak a serpent sable)",
+        "seat": "Salt Shore",
+        "lord": "Lord Tremond Gargalen",
+        "region": "Dorne",
+        "title": "Lord of Salt Shore",
+        "overlord": "House Martell"
+    },
+    "House_Jordayne": {
+        "id": "House_Jordayne",
+        "name": "House Jordayne",
+        "coat of arms": [
+            "A golden quill on checkered dark and light green",
+            "(Chequy vert and vert of a paler variety, a quill or)"
+        ],
+        "words": "Let it be Written",
+        "seat": "The Tor",
+        "lord": "Trebor Jordayne",
+        "region": "Dorne",
+        "title": "Lord of the Tor",
+        "heir": "Myria Jordayne",
+        "overlord": "House Martell",
+        "founded": "Coming of the Andals"
+    },
+    "House_Ladybright": {
+        "id": "House_Ladybright",
+        "name": "House Ladybright",
+        "region": "Dorne",
+        "overlord": "House Martell"
+    },
+    "House_Manwoody": {
+        "id": "House_Manwoody",
+        "name": "House Manwoody",
+        "coat of arms": [
+            "A white skull with a golden crown on a black field",
+            "(Sable, a skull argent crowned or)"
+        ],
+        "seat": "Kingsgrave",
+        "lord": "Dagos Manwoody",
+        "region": "Dorne",
+        "title": [
+            "Lord of Kingsgrave",
+            "King",
+            "(formerly)"
+        ],
+        "heir": "Mors Manwoody",
+        "overlord": "House Martell"
+    },
+    "House_Qorgyle": {
+        "id": "House_Qorgyle",
+        "name": "House Qorgyle",
+        "coat of arms": "Gules, three scorpions sable.",
+        "seat": "Sandstone",
+        "lord": "Quentyn Qorgyle",
+        "region": "Dorne",
+        "title": "Lord of Sandstone",
+        "heir": "Gulian Qorgyle",
+        "overlord": "House Martell",
+        "founded": "Coming of the Andals"
+    },
+    "House_Toland": {
+        "id": "House_Toland",
+        "name": "House Toland",
+        "coat of arms": "Or, a dragon biting its tail vert",
+        "seat": "Ghost Hill",
+        "lord": "Lady Nymella Toland",
+        "region": "Dorne",
+        "title": "Lord of Ghost Hill",
+        "heir": "Valena Toland",
+        "overlord": "House Martell"
+    },
+    "House_Uller": {
+        "id": "House_Uller",
+        "name": "House Uller",
+        "coat of arms": "per fess rayonny Or and gules",
+        "seat": "Hellholt",
+        "lord": "Lord Harmen Uller",
+        "region": "Dorne",
+        "title": "Lord of Hellholt",
+        "overlord": "House Martell",
+        "founded": "Coming of the Andals"
+    },
+    "House_Vaith": {
+        "id": "House_Vaith",
+        "name": "House Vaith",
+        "coat of arms": [
+            "Three black leopards standing on a yellow pile on orange",
+            "(Tenn , on a pile or three leopards statant sable)"
+        ],
+        "seat": "Vaith",
+        "lord": "Daeron Vaith",
+        "region": "Dorne",
+        "title": "Lord of the Red Dunes",
+        "overlord": "House Martell",
+        "founded": "Andal Invasion"
+    },
+    "House_Wells_(Dorne)": {
+        "id": "House_Wells_(Dorne)",
+        "name": "House Wells (Dorne)",
+        "region": "Dorne",
+        "overlord": "House Martell"
+    },
+    "House_Wyl": {
+        "id": "House_Wyl",
+        "name": "House Wyl",
+        "coat of arms": [
+            "A black adder biting a heel on yellow",
+            "(Or, a human heel proper being bitten by an adder sable)"
+        ],
+        "seat": "Wyl",
+        "region": "Dorne",
+        "overlord": "House Martell"
+    },
+    "House_Yronwood": {
+        "id": "House_Yronwood",
+        "name": "House Yronwood",
+        "coat of arms": "Or, a portcullis sable",
+        "words": "We Guard the Way",
+        "seat": "Yronwood",
+        "lord": "Anders Yronwood",
+        "region": "Dorne",
+        "title": [
+            "The",
+            "Bloodroyal",
+            "High King of Dorne",
+            "(formerly)",
+            "King of Redmarch",
+            "(formerly)",
+            "King of the Dornish",
+            "(formerly)",
+            "King of the Greenbelt",
+            "(formerly)",
+            "Knight of the Wells",
+            "(formerly)",
+            "Lord of the Stone Way",
+            "(formerly)",
+            "Lord of Yronwood",
+            "Master of the Green Hills",
+            "(formerly)",
+            "Warden of the Stone Way"
+        ],
+        "heir": "Gwyneth Yronwood",
+        "overlord": "House Martell",
+        "founded": "Age of Heroes"
+    },
+    "House_Dalt": {
+        "id": "House_Dalt",
+        "name": "House Dalt",
+        "coat of arms": [
+            "A purple field strewn with lemons",
+            "(Purpure, sem  of lemons or)"
+        ],
+        "seat": "Lemonwood",
+        "lord": "Ser Deziel Dalt",
+        "region": "Dorne",
+        "title": "Knight of Lemonwood",
+        "heir": "Ser Andrey Dalt",
+        "overlord": "House Martell"
+    },
+    "House_Drinkwater": {
+        "id": "House_Drinkwater",
+        "name": "House Drinkwater",
+        "region": "Dorne",
+        "overlord": "House Yronwood"
+    },
+    "House_Dayne_of_High_Hermitage": {
+        "id": "House_Dayne_of_High_Hermitage",
+        "name": "House Dayne of High Hermitage",
+        "seat": "High Hermitage",
+        "lord": "Ser Gerold Dayne",
+        "region": "Dorne",
+        "title": "Knight of High Hermitage",
+        "overlord": "House Dayne"
+    },
+    "House_Santagar": {
+        "id": "House_Santagar",
+        "name": "House Santagar",
+        "coat of arms": "Per bend sinister azure and argent, a leopard rampant Or spotted sable bearing an axe of the third",
+        "seat": "Spottswood",
+        "lord": "Ser Symon Santagar",
+        "region": "Dorne",
+        "title": "Knight of Spottswood",
+        "heir": "Sylva Santagar",
+        "overlord": "House Martell",
+        "founded": "Andal Invasion"
+    },
+    "House_Briar": {
+        "id": "House_Briar",
+        "name": "House Briar",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Brook": {
+        "id": "House_Brook",
+        "name": "House Brook",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Brownhill": {
+        "id": "House_Brownhill",
+        "name": "House Brownhill",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Dryland": {
+        "id": "House_Dryland",
+        "name": "House Dryland",
+        "region": "Dorne",
+        "title": [
+            "King of the Brimstone",
+            "Lord of Hellgate Hall"
+        ],
+        "overlord": "none",
+        "died out": "Rhoynar migration"
+    },
+    "House_Holt_(Dorne)": {
+        "id": "House_Holt_(Dorne)",
+        "name": "House Holt (Dorne)",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Hull": {
+        "id": "House_Hull",
+        "name": "House Hull",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Lake_(Dorne)": {
+        "id": "House_Lake_(Dorne)",
+        "name": "House Lake (Dorne)",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Shell_(Dorne)": {
+        "id": "House_Shell_(Dorne)",
+        "name": "House Shell (Dorne)",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    },
+    "House_Wade": {
+        "id": "House_Wade",
+        "name": "House Wade",
+        "region": "Dorne",
+        "title": "High King of Dorne",
+        "overlord": "none"
+    }
+}

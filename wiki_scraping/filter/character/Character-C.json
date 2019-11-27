@@ -1,0 +1,1347 @@
+{
+    "Cadwyl": {
+        "id": "Cadwyl",
+        "name": "Cadwyl",
+        "alias": "Cadwyle",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Cadwyn": {
+        "id": "Cadwyn",
+        "name": "Cadwyn",
+        "title": "Ser",
+        "allegiance": "House Lannister"
+    },
+    "Caggo": {
+        "id": "Caggo",
+        "name": "Caggo",
+        "alias": [
+            "Caggo Corpsekiller",
+            "The Corpsekiller"
+        ],
+        "title": "Captain of the Windblown",
+        "allegiance": "Windblown",
+        "culture": "Dothraki"
+    },
+    "Caleotte": {
+        "id": "Caleotte",
+        "name": "Caleotte",
+        "title": "Maester at Sunspear",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Martell"
+        ]
+    },
+    "Calla_Blackfyre": {
+        "id": "Calla_Blackfyre",
+        "name": "Calla Blackfyre",
+        "allegiance": "House Blackfyre",
+        "culture": "Crownlands",
+        "born": "In 185 195 AC",
+        "spouse": "Ser Aegor Rivers"
+    },
+    "Calon": {
+        "id": "Calon",
+        "name": "Calon",
+        "allegiance": "House Stark",
+        "culture": "northmen"
+    },
+    "Calor": {
+        "id": "Calor",
+        "name": "Calor",
+        "allegiance": "Moon Brothers",
+        "culture": "Vale mountain clans",
+        "issue": "Crawn"
+    },
+    "Camarron_of_the_Count": {
+        "id": "Camarron_of_the_Count",
+        "name": "Camarron",
+        "alias": "Camarron of the Count",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari",
+        "died": "At Meereen"
+    },
+    "Cameron_Tarth": {
+        "id": "Cameron_Tarth",
+        "name": "Cameron Tarth",
+        "title": [
+            "The",
+            "Evenstar",
+            "Lord of Evenfall",
+            "Lord of",
+            "Tarth"
+        ],
+        "allegiance": "House Tarth",
+        "culture": "Stormlander"
+    },
+    "Canker_Jeyne": {
+        "id": "Canker_Jeyne",
+        "name": "Canker Jeyne",
+        "alias": "Canker Jeyne",
+        "culture": "Braavosi"
+    },
+    "Canty": {
+        "id": "Canty",
+        "name": "Canty",
+        "allegiance": "House Baratheon of Dragonstone"
+    },
+    "Captain%27s_sister": {
+        "id": "Captain%27s_sister",
+        "name": "Captain's sister",
+        "culture": "Crownlands",
+        "born": "At Duskendale"
+    },
+    "Carellen_Smallwood": {
+        "id": "Carellen_Smallwood",
+        "name": "Carellen Smallwood",
+        "allegiance": "House Smallwood",
+        "culture": "Rivermen"
+    },
+    "Carolei_Waynwood": {
+        "id": "Carolei_Waynwood",
+        "name": "Carolei Waynwood",
+        "allegiance": [
+            "House Waynwood",
+            "House Frey"
+        ],
+        "culture": "Valemen",
+        "spouse": "Ser Geremy Frey",
+        "issue": [
+            "Sandor Frey",
+            "Cynthea Frey"
+        ]
+    },
+    "Carrot": {
+        "id": "Carrot",
+        "name": "Carrot",
+        "allegiance": "House Royce of the Gates of the Moon"
+    },
+    "Casper_Straw": {
+        "id": "Casper_Straw",
+        "name": "Casper Straw",
+        "title": [
+            "Ser",
+            "Captain of the",
+            "Warrior's Sons",
+            "Steward of the",
+            "High Septon"
+        ],
+        "allegiance": [
+            "House Straw",
+            "Warrior's Sons",
+            "Faith of the Seven"
+        ]
+    },
+    "Casper_Wylde": {
+        "id": "Casper_Wylde",
+        "name": "Casper Wylde",
+        "title": "Lord of the Rain House",
+        "allegiance": "House Wylde"
+    },
+    "Caspor_Hill": {
+        "id": "Caspor_Hill",
+        "name": "Caspor Hill",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Cass": {
+        "id": "Cass",
+        "name": "Cass"
+    },
+    "Cassana_Estermont": {
+        "id": "Cassana_Estermont",
+        "name": "Cassana Estermont",
+        "title": "Lady of Storm's End",
+        "allegiance": [
+            "House Estermont",
+            "House Baratheon"
+        ],
+        "culture": "Stormlander",
+        "died": "In 278 AC, at Shipbreaker Bay, near Storm's End",
+        "spouse": "Lord Steffon Baratheon",
+        "issue": [
+            "Robert Baratheon",
+            "Stannis Baratheon",
+            "Renly Baratheon"
+        ]
+    },
+    "Cassander": {
+        "id": "Cassander",
+        "name": "Cassander",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Cassandra_Baratheon": {
+        "id": "Cassandra_Baratheon",
+        "name": "Cassandra Baratheon",
+        "alias": "Cass",
+        "allegiance": [
+            "House Baratheon",
+            "House Brownhill"
+        ],
+        "culture": "Stormlander",
+        "born": "In 103 116 AC",
+        "spouse": "Ser Walter Brownhill"
+    },
+    "Cassella_Vaith": {
+        "id": "Cassella_Vaith",
+        "name": "Cassella Vaith",
+        "title": "Lady of the Red Dunes",
+        "allegiance": "House Vaith",
+        "culture": "Dornishmen"
+    },
+    "Cassella_Staunton": {
+        "id": "Cassella_Staunton",
+        "name": "Cassella Staunton",
+        "allegiance": [
+            "House Staunton",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "born": "In 40 AC",
+        "died": "In 54 AC, at Dragonstone"
+    },
+    "Casso_Mogat": {
+        "id": "Casso_Mogat",
+        "name": "Casso Mogat",
+        "title": "Captain of the Merry Midwife",
+        "born": "At Sisterton"
+    },
+    "Caster": {
+        "id": "Caster",
+        "name": "Caster",
+        "culture": "First Men",
+        "born": "In Age of Heroes",
+        "issue": "Corlos"
+    },
+    "Castos": {
+        "id": "Castos",
+        "name": "Castos",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Catelyn_Bracken": {
+        "id": "Catelyn_Bracken",
+        "name": "Catelyn Bracken",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen"
+    },
+    "Catelyn_Stark": {
+        "id": "Catelyn_Stark",
+        "name": "Catelyn Stark",
+        "alias": [
+            "Catelyn Tully",
+            "Catelyn Tully Stark",
+            "Cat",
+            "Stoneheart",
+            "Lady Stoneheart",
+            "The Silent Sister",
+            "Mother Merciless",
+            "The Hangwoman"
+        ],
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Tully",
+            "House Stark",
+            "Brotherhood without banners"
+        ],
+        "culture": "Rivermen",
+        "born": "In 264 AC or 265 AC, at Riverrun",
+        "died": "In 299 AC, at the Twins",
+        "spouse": "Lord Eddard Stark",
+        "issue": [
+            "Robb Stark",
+            "Sansa Stark",
+            "Arya Stark",
+            "Bran Stark",
+            "Rickon Stark"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 3"
+    },
+    "Catspaw": {
+        "id": "Catspaw",
+        "name": "Catspaw",
+        "alias": "Footpad",
+        "died": "In 298 AC, at Winterfell",
+        "tv series": "Season 1"
+    },
+    "Cayn": {
+        "id": "Cayn",
+        "name": "Cayn",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 298 AC, at King's Landing",
+        "issue": "Calon"
+    },
+    "Cedra": {
+        "id": "Cedra",
+        "name": "Cedra",
+        "allegiance": "House Martell"
+    },
+    "Cedric_Payne": {
+        "id": "Cedric_Payne",
+        "name": "Cedric Payne",
+        "title": "Ser",
+        "allegiance": "House Payne",
+        "culture": "Westermen",
+        "died": "In 298 AC, at Riverlands"
+    },
+    "Cedrik_Storm": {
+        "id": "Cedrik_Storm",
+        "name": "Cedrik Storm",
+        "alias": "The Bastard of Bronzegate",
+        "allegiance": "House Buckler",
+        "culture": "Stormlands"
+    },
+    "Celia_Tully": {
+        "id": "Celia_Tully",
+        "name": "Celia Tully",
+        "allegiance": "House Tully",
+        "culture": "Rivermen"
+    },
+    "Cellador": {
+        "id": "Cellador",
+        "name": "Cellador",
+        "alias": "Celladar",
+        "title": "Septon",
+        "allegiance": [
+            "Night's Watch",
+            "Faith of the Seven"
+        ]
+    },
+    "Cerelle_Lannister_(daughter_of_Tybolt)": {
+        "id": "Cerelle_Lannister_(daughter_of_Tybolt)",
+        "name": "Cerelle Lannister (daughter of Tybolt)",
+        "title": "Lady of Casterly Rock",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 209 AC",
+        "died": "In 213 AC"
+    },
+    "Cerelle_Lannister_(daughter_of_Jason)": {
+        "id": "Cerelle_Lannister_(daughter_of_Jason)",
+        "name": "Cerelle Lannister (daughter of Jason)",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 103 130 AC"
+    },
+    "Cerenna_Lannister": {
+        "id": "Cerenna_Lannister",
+        "name": "Cerenna Lannister",
+        "allegiance": "House Lannister",
+        "culture": "Westermen"
+    },
+    "Cerion_Lannister": {
+        "id": "Cerion_Lannister",
+        "name": "Cerion Lannister",
+        "culture": "Andal",
+        "title": "King of the Rock"
+    },
+    "Cerissa_Brax": {
+        "id": "Cerissa_Brax",
+        "name": "Cerissa Brax",
+        "title": "Lady of Casterly Rock",
+        "allegiance": [
+            "House Brax",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "born": "In or before 185 AC",
+        "spouse": "Lord Damon Lannister",
+        "issue": [
+            "Tybolt Lannister",
+            "Gerold Lannister"
+        ]
+    },
+    "Cerrick": {
+        "id": "Cerrick",
+        "name": "Cerrick",
+        "alias": "The grey pup",
+        "title": "Maester at Coldmoat",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Webber"
+        ],
+        "culture": "ironborn"
+    },
+    "Cersei_Frey": {
+        "id": "Cersei_Frey",
+        "name": "Cersei Frey",
+        "alias": "Little Bee",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 292 AC or 293 AC"
+    },
+    "Cersei_Lannister": {
+        "id": "Cersei_Lannister",
+        "name": "Cersei Lannister",
+        "title": [
+            "Light of the West",
+            "Queen Dowager",
+            "Protector of the Realm",
+            "Lady of Casterly Rock",
+            "Queen Regent"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "House Baratheon of King's Landing"
+        ],
+        "culture": "Westermen",
+        "born": "In 266 AC, at Casterly Rock",
+        "spouse": "King Robert I Baratheon",
+        "issue": [
+            "Joffrey Baratheon",
+            "Myrcella Baratheon",
+            "Tommen Baratheon"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Ceryse_Hightower": {
+        "id": "Ceryse_Hightower",
+        "name": "Ceryse Hightower",
+        "title": [
+            "Lady",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "House Targaryen"
+        ],
+        "culture": "Reach",
+        "born": "In 2 AC",
+        "died": "In 45 AC, at King's Landing",
+        "spouse": "King Maegor I Targaryen"
+    },
+    "Cetheres": {
+        "id": "Cetheres",
+        "name": "Cetheres",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Chai_Duq": {
+        "id": "Chai_Duq",
+        "name": "Chai Duq",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Chains": {
+        "id": "Chains",
+        "name": "Chains",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Charioteer": {
+        "id": "Charioteer",
+        "name": "Charioteer",
+        "alias": "The Charioteer",
+        "allegiance": "Wise Masters",
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Chatana_Qo": {
+        "id": "Chatana_Qo",
+        "name": "Chatana Qo",
+        "alias": "The Arrow of Jhahar",
+        "title": "Princess of Sweet Lotus Vale",
+        "allegiance": "House Qo"
+    },
+    "Chataya": {
+        "id": "Chataya",
+        "name": "Chataya",
+        "allegiance": "Chataya's brothel",
+        "culture": "Summer Isles"
+    },
+    "Chayle": {
+        "id": "Chayle",
+        "name": "Chayle",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "At near the White Knife",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Cheese_(the_rat-catcher)": {
+        "id": "Cheese_(the_rat-catcher)",
+        "name": "Cheese (the rat-catcher)",
+        "alias": "\"Cheese\"",
+        "allegiance": "Blacks",
+        "culture": "Crownlands"
+    },
+    "Chella": {
+        "id": "Chella",
+        "name": "Chella",
+        "allegiance": "Black Ears",
+        "culture": "Vale mountain clans",
+        "issue": "Sons",
+        "tv series": "Season 1"
+    },
+    "Chett": {
+        "id": "Chett",
+        "name": "Chett",
+        "allegiance": "Night's Watch",
+        "culture": "Rivermen",
+        "born": "At Hag's Mire",
+        "died": "In 299 AC, at Fist of the First Men"
+    },
+    "Cheyk": {
+        "id": "Cheyk",
+        "name": "Cheyk",
+        "allegiance": "Black Ears",
+        "culture": "Vale mountain clans",
+        "issue": "Chella"
+    },
+    "Chezdhar_zo_Rhaezn": {
+        "id": "Chezdhar_zo_Rhaezn",
+        "name": "Chezdhar zo Rhaezn",
+        "alias": "Clanker Lord",
+        "allegiance": [
+            "Wise Masters",
+            "House of Rhaezn"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Chiggen": {
+        "id": "Chiggen",
+        "name": "Chiggen",
+        "died": "In 298 AC, at the Mountains of the Moon"
+    },
+    "Childer": {
+        "id": "Childer",
+        "name": "Childer",
+        "title": "Maester",
+        "allegiance": "Citadel"
+    },
+    "Chiswyck": {
+        "id": "Chiswyck",
+        "name": "Chiswyck",
+        "allegiance": "House Clegane",
+        "died": "In 299 AC, at Harrenhal"
+    },
+    "Choq_Choq": {
+        "id": "Choq_Choq",
+        "name": "Choq Choq",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Chyttering_(father_of_Lucos)": {
+        "id": "Chyttering_(father_of_Lucos)",
+        "name": "Chyttering (father of Lucos)",
+        "title": "Lord",
+        "allegiance": "House Chyttering",
+        "culture": "Crownlands",
+        "died": "In 299 AC, at Blackwater Rush",
+        "issue": "Lucos Chyttering"
+    },
+    "Cissy": {
+        "id": "Cissy",
+        "name": "Cissy",
+        "allegiance": "House Waynwood"
+    },
+    "Clarence_Cargyll": {
+        "id": "Clarence_Cargyll",
+        "name": "Clarence Cargyll",
+        "title": "Ser",
+        "allegiance": "House Cargyll",
+        "culture": "Crownlands"
+    },
+    "Clarence_Charlton": {
+        "id": "Clarence_Charlton",
+        "name": "Clarence Charlton",
+        "title": "Ser",
+        "allegiance": "House Charlton",
+        "culture": "Rivermen"
+    },
+    "Clarence_Crabb": {
+        "id": "Clarence_Crabb",
+        "name": "Clarence Crabb",
+        "title": "Ser",
+        "allegiance": "House Crabb"
+    },
+    "Clarence_Crabb_(Short)": {
+        "id": "Clarence_Crabb_(Short)",
+        "name": "Clarence Crabb (Short)",
+        "alias": "Clarence the Short",
+        "title": "Ser",
+        "allegiance": [
+            "House Crabb",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Clarent_Crakehall": {
+        "id": "Clarent_Crakehall",
+        "name": "Clarent Crakehall",
+        "title": "Ser",
+        "allegiance": [
+            "House Crakehall",
+            "Greens"
+        ],
+        "born": "At Crakehall",
+        "died": "In 130 AC, at Gods Eye"
+    },
+    "Clarice_Osgrey": {
+        "id": "Clarice_Osgrey",
+        "name": "Clarice Osgrey",
+        "title": [
+            "Mistress of Queen",
+            "Jaehaera Targaryen",
+            "'s household",
+            "Mistress of Queen",
+            "Daenaera Velaryon",
+            "'s household"
+        ],
+        "allegiance": "House Osgrey",
+        "culture": "Reach"
+    },
+    "Clarisse_Dayne": {
+        "id": "Clarisse_Dayne",
+        "name": "Clarisse Dayne",
+        "title": "Lady of Starfall",
+        "allegiance": "House Dayne",
+        "culture": "Dornishmen"
+    },
+    "Clayton_Suggs": {
+        "id": "Clayton_Suggs",
+        "name": "Clayton Suggs",
+        "title": "Ser",
+        "allegiance": [
+            "House Suggs",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ],
+        "culture": "crownlands",
+        "born": "At Flea Bottom"
+    },
+    "Clegane_(father_of_Gregor_and_Sandor)": {
+        "id": "Clegane_(father_of_Gregor_and_Sandor)",
+        "name": "Clegane (father of Gregor and Sandor)",
+        "title": [
+            "Ser",
+            "Knight of Clegane's Keep"
+        ],
+        "allegiance": [
+            "House Clegane",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Unknown",
+        "issue": [
+            "Gregor Clegane",
+            "Sandor Clegane",
+            "Daughter"
+        ]
+    },
+    "Clegane_(founder)": {
+        "id": "Clegane_(founder)",
+        "name": "Clegane (founder)",
+        "title": [
+            "Ser",
+            "Knight of",
+            "Clegane's Keep"
+        ],
+        "allegiance": [
+            "House Clegane",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Unknown",
+        "issue": "Son"
+    },
+    "Clegg": {
+        "id": "Clegg",
+        "name": "Clegg",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel"
+    },
+    "Clement": {
+        "id": "Clement",
+        "name": "Clement",
+        "title": "Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ],
+        "born": "In 251 AC or 252 AC",
+        "died": "In 300 AC"
+    },
+    "Clement_Celtigar": {
+        "id": "Clement_Celtigar",
+        "name": "Clement Celtigar",
+        "title": "Lord of Claw Isle",
+        "allegiance": [
+            "House Celtigar",
+            "Blacks"
+        ],
+        "culture": "Crownlands"
+    },
+    "Clement_Crabb": {
+        "id": "Clement_Crabb",
+        "name": "Clement Crabb",
+        "title": "Ser",
+        "allegiance": [
+            "House Crabb",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Clement_Piper": {
+        "id": "Clement_Piper",
+        "name": "Clement Piper",
+        "title": "Lord of Pinkmaiden",
+        "allegiance": "House Piper",
+        "culture": "Rivermen",
+        "issue": [
+            "Marq Piper",
+            "Lewys Piper"
+        ]
+    },
+    "Cleoden_I_Durrandon": {
+        "id": "Cleoden_I_Durrandon",
+        "name": "Cleoden I Durrandon",
+        "culture": "First Men",
+        "title": "Storm King"
+    },
+    "Cleon": {
+        "id": "Cleon",
+        "name": "Cleon",
+        "alias": [
+            "Cleon the Great",
+            "The Butcher King",
+            "King Cleaver"
+        ],
+        "title": "King of Astapor",
+        "culture": "Astapori",
+        "died": "In 300 AC, at Astapor",
+        "spouse": "At least 4 wives",
+        "issue": "3 daughters"
+    },
+    "Cleon_the_Second": {
+        "id": "Cleon_the_Second",
+        "name": "Cleon the Second",
+        "alias": "Cleon the Second",
+        "title": "King of Astapor",
+        "culture": "Astapori",
+        "died": "In 300 AC, at Astapor"
+    },
+    "Cleos_Frey": {
+        "id": "Cleos_Frey",
+        "name": "Cleos Frey",
+        "alias": "cousin Cleos",
+        "title": "Ser",
+        "allegiance": [
+            "House Frey",
+            "House Lannister"
+        ],
+        "culture": "westermen",
+        "born": "In or between 257 AC and 276 AC, at Casterly Rock",
+        "died": "In 299 AC, at near Maidenpool",
+        "spouse": "Jeyne Darry",
+        "issue": [
+            "Tywin Frey",
+            "Willem Frey"
+        ]
+    },
+    "Cletus_Yronwood": {
+        "id": "Cletus_Yronwood",
+        "name": "Cletus Yronwood",
+        "title": "Ser",
+        "allegiance": "House Yronwood",
+        "culture": "Dornishmen",
+        "died": "In 300 AC, at Disputed Lands"
+    },
+    "Cley_Cerwyn": {
+        "id": "Cley_Cerwyn",
+        "name": "Cley Cerwyn",
+        "title": "Lord of Cerwyn",
+        "allegiance": "House Cerwyn",
+        "culture": "Northmen",
+        "born": "In 284 AC or 285 AC, at Cerwyn",
+        "died": "In 299 AC, at Winterfell",
+        "tv series": "Season 6"
+    },
+    "Cleyton_Caswell": {
+        "id": "Cleyton_Caswell",
+        "name": "Cleyton Caswell",
+        "title": "Ser",
+        "allegiance": "House Caswell"
+    },
+    "Clifford_Conklyn": {
+        "id": "Clifford_Conklyn",
+        "name": "Clifford Conklyn",
+        "title": "Ser",
+        "allegiance": "House Conklyn"
+    },
+    "Clifford_Swann": {
+        "id": "Clifford_Swann",
+        "name": "Clifford Swann",
+        "title": "Lord of Stonehelm",
+        "allegiance": "House Swann",
+        "culture": "Marcher"
+    },
+    "Clubfoot_Karl": {
+        "id": "Clubfoot_Karl",
+        "name": "Clubfoot Karl",
+        "alias": "Clubfoot Karl",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at the haunted forest"
+    },
+    "Clydas": {
+        "id": "Clydas",
+        "name": "Clydas",
+        "allegiance": "Night's Watch",
+        "born": "In 240 AC or before",
+        "tv series": "Season 1"
+    },
+    "Cohollo": {
+        "id": "Cohollo",
+        "name": "Cohollo",
+        "title": [
+            "Ko",
+            "Bloodrider",
+            "of Khal Drogo"
+        ],
+        "allegiance": "Khal Drogo",
+        "culture": "Dothraki",
+        "died": "In ~298/299 AC, at Dothraki sea",
+        "tv series": "Season 1"
+    },
+    "Coldhands": {
+        "id": "Coldhands",
+        "name": "Coldhands",
+        "allegiance": [
+            "Night's Watch",
+            "(formerly)",
+            "Three-eyed crow"
+        ],
+        "died": "In \"long ago\", at Beyond the Wall"
+    },
+    "Colemon": {
+        "id": "Colemon",
+        "name": "Colemon",
+        "title": "Maester",
+        "allegiance": [
+            "Citadel",
+            "House Arryn"
+        ]
+    },
+    "Colen_of_Greenpools": {
+        "id": "Colen_of_Greenpools",
+        "name": "Colen of Greenpools",
+        "title": "Ser",
+        "allegiance": "House Baratheon"
+    },
+    "Colin_Florent": {
+        "id": "Colin_Florent",
+        "name": "Colin Florent",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Brightwater Keep"
+        ],
+        "allegiance": "House Florent",
+        "culture": "Reach",
+        "spouse": "Unknown",
+        "issue": [
+            "Delena Florent",
+            "Omer Florent",
+            "Merrell Florent"
+        ]
+    },
+    "Collio_Quaynis": {
+        "id": "Collio_Quaynis",
+        "name": "Collio Quaynis",
+        "culture": "Tyroshi"
+    },
+    "Colloquo_Votar": {
+        "id": "Colloquo_Votar",
+        "name": "Colloquo Votar",
+        "culture": "Volantis"
+    },
+    "Colmar_Frey": {
+        "id": "Colmar_Frey",
+        "name": "Colmar Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 288 AC"
+    },
+    "Conn": {
+        "id": "Conn",
+        "name": "Conn",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans",
+        "died": "In 298 AC, at the Green Fork"
+    },
+    "Conwy": {
+        "id": "Conwy",
+        "name": "Conwy",
+        "allegiance": "Night's Watch"
+    },
+    "Coratt": {
+        "id": "Coratt",
+        "name": "Coratt",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans",
+        "issue": "Conn"
+    },
+    "Corenna_Swann": {
+        "id": "Corenna_Swann",
+        "name": "Corenna Swann",
+        "allegiance": [
+            "House Swann",
+            "House Frey"
+        ],
+        "culture": "Stormlander",
+        "spouse": "Ser Stevron Frey",
+        "issue": "Ryman Frey"
+    },
+    "Corliss_Penny": {
+        "id": "Corliss_Penny",
+        "name": "Corliss Penny",
+        "title": "Ser",
+        "allegiance": [
+            "House Penny",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ]
+    },
+    "Corlos": {
+        "id": "Corlos",
+        "name": "Corlos",
+        "alias": "Corlos son of Caster",
+        "title": "Lord of Casterly Rock",
+        "allegiance": "House Casterly",
+        "culture": "First Men",
+        "born": "In Age of Heroes"
+    },
+    "Corlys_Velaryon": {
+        "id": "Corlys_Velaryon",
+        "name": "Corlys Velaryon",
+        "alias": "The Sea Snake",
+        "title": [
+            "Ser",
+            "Lord of the Tides",
+            "Master of Driftmark",
+            "Lord admiral",
+            "Master of ships",
+            "Hand of the Queen",
+            "Lord Regent",
+            "Captain of the",
+            "Cod Queen",
+            "Captain of the",
+            "Summer Maid",
+            "Captain of the",
+            "Ice Wolf",
+            "Captain of the",
+            "Sea Snake"
+        ],
+        "allegiance": [
+            "House Velaryon",
+            "Blacks",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "born": "In 53 AC, at Driftmark",
+        "died": "In 132 AC, at Red Keep, King's Landing",
+        "spouse": "Princess Rhaenys Targaryen",
+        "issue": [
+            "Laena Velaryon",
+            "Laenor Velaryon",
+            "Addam Velaryon",
+            "(rumored)",
+            "Alyn Velaryon",
+            "(rumored)"
+        ]
+    },
+    "Corlys_Velaryon_(son_of_Daemon)": {
+        "id": "Corlys_Velaryon_(son_of_Daemon)",
+        "name": "Corlys Velaryon (son of Daemon)",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands",
+        "born": "In or before 7 BC",
+        "died": "In 10 48 AC"
+    },
+    "Corsair_king": {
+        "id": "Corsair_king",
+        "name": "Corsair king"
+    },
+    "Cortnay_Penrose": {
+        "id": "Cortnay_Penrose",
+        "name": "Cortnay Penrose",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ],
+        "allegiance": [
+            "House Penrose",
+            "House Baratheon"
+        ],
+        "born": "At Parchments",
+        "died": "In 299 AC, at Storm's End"
+    },
+    "Corwin_Rogers": {
+        "id": "Corwin_Rogers",
+        "name": "Corwin Rogers",
+        "title": "Ser",
+        "allegiance": "House Rogers"
+    },
+    "Corwyn_Corbray": {
+        "id": "Corwyn_Corbray",
+        "name": "Corwyn Corbray",
+        "title": [
+            "Ser",
+            "Lord Regent"
+        ],
+        "allegiance": [
+            "House Corbray",
+            "Blacks"
+        ],
+        "culture": "Valemen",
+        "born": "In 100 AC",
+        "died": "In 134 AC, at Runestone",
+        "spouse": [
+            "1st:Unknown",
+            "2nd: Princess",
+            "Rhaena Targaryen"
+        ],
+        "issue": "2 daughters"
+    },
+    "Corwyn_Velaryon": {
+        "id": "Corwyn_Velaryon",
+        "name": "Corwyn Velaryon",
+        "allegiance": "House Velaryon",
+        "culture": "Crownlands"
+    },
+    "Coryanne_Martell": {
+        "id": "Coryanne_Martell",
+        "name": "Coryanne Martell",
+        "title": "Princess",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 116 132 AC"
+    },
+    "Coryanne_Wylde": {
+        "id": "Coryanne_Wylde",
+        "name": "Coryanne Wylde",
+        "title": [
+            "Lady",
+            "Septa",
+            "(allegedly)"
+        ],
+        "allegiance": [
+            "House Wylde",
+            "House Targaryen",
+            "Faith of the Seven",
+            "(allegedly)"
+        ],
+        "culture": "Stormlander",
+        "born": "In 35 AC",
+        "issue": "Baseborn son"
+    },
+    "Cosgrove": {
+        "id": "Cosgrove",
+        "name": "Cosgrove",
+        "title": "Steward of Whitewalls",
+        "allegiance": "House Butterwell",
+        "culture": "Rivermen"
+    },
+    "Cossomo": {
+        "id": "Cossomo",
+        "name": "Cossomo",
+        "alias": "Cossomo The Conjurer",
+        "culture": "Braavosi"
+    },
+    "Cotter_Pyke": {
+        "id": "Cotter_Pyke",
+        "name": "Cotter Pyke",
+        "title": "Commander of Eastwatch-by-the-Sea",
+        "allegiance": "Night's Watch",
+        "culture": "ironborn"
+    },
+    "Courtenay_Greenhill": {
+        "id": "Courtenay_Greenhill",
+        "name": "Courtenay Greenhill",
+        "title": "Ser",
+        "allegiance": "House Greenhill"
+    },
+    "Crackbones": {
+        "id": "Crackbones",
+        "name": "Crackbones",
+        "alias": "Old Crackbones"
+    },
+    "Craghas_Drahar": {
+        "id": "Craghas_Drahar",
+        "name": "Craghas Drahar",
+        "alias": "Craghas Crabfeeder",
+        "allegiance": "Kingdom of the Three Daughters",
+        "culture": "Myrish",
+        "died": "In 108 AC"
+    },
+    "Craghorn_Hoare": {
+        "id": "Craghorn_Hoare",
+        "name": "Craghorn Hoare",
+        "alias": "Craghorn of the Red Smile",
+        "title": "King of the Iron Islands"
+    },
+    "Cragorn": {
+        "id": "Cragorn",
+        "name": "Cragorn",
+        "allegiance": "House Greyjoy",
+        "died": "In 300 AC"
+    },
+    "Crake_the_Boarkiller": {
+        "id": "Crake_the_Boarkiller",
+        "name": "Crake the Boarkiller",
+        "alias": "Crake the Boarkiller",
+        "allegiance": "House Crakehall",
+        "born": "In Age of Heroes"
+    },
+    "Craster": {
+        "id": "Craster",
+        "name": "Craster",
+        "culture": "Free folk",
+        "born": "At Whitetree",
+        "died": "In 299 AC, at Craster's Keep",
+        "spouse": [
+            "Dyah",
+            "Ferny",
+            "Nella",
+            "Gilly",
+            "15 other wives"
+        ],
+        "issue": [
+            "Gilly",
+            "\"",
+            "Monster",
+            "\"",
+            "Many",
+            "sons",
+            "and daughters"
+        ],
+        "tv series": "Season 2 | Season 3"
+    },
+    "Crawn": {
+        "id": "Crawn",
+        "name": "Crawn",
+        "allegiance": "Moon Brothers",
+        "culture": "Vale mountain clans"
+    },
+    "Cregan_Karstark": {
+        "id": "Cregan_Karstark",
+        "name": "Cregan Karstark",
+        "allegiance": "House Karstark",
+        "culture": "Northmen",
+        "born": "In 249 AC (roughly), at Karhold",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown"
+        ]
+    },
+    "Cregan_Stark": {
+        "id": "Cregan_Stark",
+        "name": "Cregan Stark",
+        "alias": [
+            "The Wolf of the North",
+            "The Wolf of Winterfell",
+            "The Old Man of the North"
+        ],
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Stark",
+            "Blacks"
+        ],
+        "culture": "Northmen",
+        "born": "In 108 AC",
+        "died": "In 157 209 AC",
+        "spouse": [
+            "1st: Lady",
+            "Arra Norrey",
+            "2nd: Lady",
+            "Alysanne Blackwood",
+            "3rd: Lady",
+            "Lynara Stark"
+        ],
+        "issue": [
+            "Rickon Stark",
+            "Sarra Stark",
+            "Alys Stark",
+            "Raya Stark",
+            "Mariah Stark",
+            "Jonnel Stark",
+            "Edric Stark",
+            "Lyanna Stark",
+            "Barthogan Stark",
+            "Brandon Stark"
+        ]
+    },
+    "Cregard_Stark": {
+        "id": "Cregard_Stark",
+        "name": "Cregard Stark",
+        "allegiance": "House Stark",
+        "culture": "northmen"
+    },
+    "Creighton_Longbough": {
+        "id": "Creighton_Longbough",
+        "name": "Creighton Longbough",
+        "alias": "Creigh",
+        "title": "Ser",
+        "born": "In or between 240 AC and 249 AC"
+    },
+    "Creighton_Redfort": {
+        "id": "Creighton_Redfort",
+        "name": "Creighton Redfort",
+        "title": "Ser",
+        "allegiance": "House Redfort",
+        "culture": "Valemen"
+    },
+    "Cressen": {
+        "id": "Cressen",
+        "name": "Cressen",
+        "title": "Maester at Dragonstone",
+        "allegiance": [
+            "Citadel",
+            "House Baratheon",
+            "(formerly)",
+            "House Baratheon of Dragonstone"
+        ],
+        "born": "In 219 AC or 220 AC",
+        "died": "In 299 AC, at Dragonstone",
+        "tv series": "Season 2"
+    },
+    "Crey": {
+        "id": "Crey",
+        "name": "Crey",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Creylen": {
+        "id": "Creylen",
+        "name": "Creylen",
+        "title": "Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Lannister"
+        ]
+    },
+    "Crispian_Celtigar": {
+        "id": "Crispian_Celtigar",
+        "name": "Crispian Celtigar",
+        "title": [
+            "Lord of Claw Isle",
+            "Master of coin"
+        ],
+        "allegiance": "House Celtigar",
+        "culture": "Crownlands"
+    },
+    "Criston_Cole": {
+        "id": "Criston_Cole",
+        "name": "Criston Cole",
+        "alias": "Criston the Kingmaker",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Cole",
+            "Rhaenyra Targaryen",
+            "(formerly)",
+            "Kingsguard",
+            "Greens"
+        ],
+        "culture": "Stormlander",
+        "born": "In 82 AC, at Blackhaven",
+        "died": "In 130 AC, at the Butcher's Ball south of the Gods Eye"
+    },
+    "Criston_Wylde": {
+        "id": "Criston_Wylde",
+        "name": "Criston Wylde",
+        "title": "Ser",
+        "allegiance": "House Wylde"
+    },
+    "Cromm": {
+        "id": "Cromm",
+        "name": "Cromm",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 300 AC, at Deepwood Motte"
+    },
+    "Cuger": {
+        "id": "Cuger",
+        "name": "Cuger",
+        "alias": "Cugen",
+        "allegiance": "Night's Watch"
+    },
+    "Culiper": {
+        "id": "Culiper",
+        "name": "Culiper",
+        "title": "Maester at Dragonstone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ],
+        "born": "In or between 31 BC and 36 BC",
+        "died": "In 54 AC, at Dragonstone"
+    },
+    "Cutjack": {
+        "id": "Cutjack",
+        "name": "Cutjack"
+    },
+    "Cynthea_Frey": {
+        "id": "Cynthea_Frey",
+        "name": "Cynthea Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 290 AC"
+    },
+    "Cyrelle_Tarbeck": {
+        "id": "Cyrelle_Tarbeck",
+        "name": "Cyrelle Tarbeck",
+        "allegiance": [
+            "House Tarbeck",
+            "Silent sisters"
+        ],
+        "culture": "Westermen",
+        "born": "In 241 AC",
+        "spouse": "Unknown"
+    },
+    "Cyrenna_Swann": {
+        "id": "Cyrenna_Swann",
+        "name": "Cyrenna Swann",
+        "title": "Lady of the Crossing",
+        "allegiance": [
+            "House Swann",
+            "House Frey"
+        ],
+        "culture": "Stormlander",
+        "born": "In 237 AC or before",
+        "died": "In or between 248 AC and 258 AC",
+        "spouse": "Lord Walder Frey",
+        "issue": [
+            "Jared Frey",
+            "Luceon Frey"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Xanda_Qo": {
+        "id": "Xanda_Qo",
+        "name": "Xanda Qo",
+        "title": "Princess of Sweet Lotus Vale",
+        "allegiance": "House Qo"
+    },
+    "Xandarro_Xhore": {
+        "id": "Xandarro_Xhore",
+        "name": "Xandarro Xhore",
+        "culture": "Qartheen"
+    },
+    "Xaro_Xhoan_Daxos": {
+        "id": "Xaro_Xhoan_Daxos",
+        "name": "Xaro Xhoan Daxos",
+        "allegiance": "the Thirteen",
+        "culture": "Qartheen",
+        "tv series": "Season 2"
+    },
+    "Xhobar_Qhoqua": {
+        "id": "Xhobar_Qhoqua",
+        "name": "Xhobar Qhoqua",
+        "alias": "The Ebon Prince",
+        "allegiance": [
+            "House Qhoqua",
+            "Band of Nine"
+        ]
+    },
+    "Xhondo_Dhoru": {
+        "id": "Xhondo_Dhoru",
+        "name": "Xhondo Dhoru",
+        "culture": "Summer Isles"
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "Yellow_Dick": {
+        "id": "Yellow_Dick",
+        "name": "Yellow Dick",
+        "allegiance": "House Bolton",
+        "culture": "Northmen",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Young_Henly": {
+        "id": "Young_Henly",
+        "name": "Young Henly",
+        "allegiance": "Night's Watch",
+        "born": "In or between 240 AC and 248 AC",
+        "died": "In 299 AC, at Castle Black"
+    },
+    "Young_John_Mudd": {
+        "id": "Young_John_Mudd",
+        "name": "Young John Mudd",
+        "alias": "Young John Mudd",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Yandel": {
+        "id": "Yandel",
+        "name": "Yandel",
+        "title": "Maester",
+        "allegiance": "The Citadel",
+        "culture": "Reach",
+        "born": "In 272 AC"
+    },
+    "Yandry": {
+        "id": "Yandry",
+        "name": "Yandry",
+        "allegiance": "House Targaryen",
+        "culture": "Dornish, Orphans of the Greenblood",
+        "spouse": "Ysilla"
+    },
+    "Yezzan_zo_Qaggaz": {
+        "id": "Yezzan_zo_Qaggaz",
+        "name": "Yezzan zo Qaggaz",
+        "alias": [
+            "The Yellow Whale",
+            "Lord Yellowbelly",
+            "The lord of suet"
+        ],
+        "allegiance": [
+            "Wise Masters",
+            "of",
+            "Yunkai",
+            "House of Qaggaz"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai",
+        "died": "In 300 AC, at Outside Meereen",
+        "tv series": "Season 5 | Season 6"
+    },
+    "Ygon_Farwynd": {
+        "id": "Ygon_Farwynd",
+        "name": "Ygon Farwynd",
+        "allegiance": "House Farwynd of the Lonely Light",
+        "culture": "ironborn"
+    },
+    "Ygon_Oldfather": {
+        "id": "Ygon_Oldfather",
+        "name": "Ygon Oldfather",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "spouse": "18 wives",
+        "issue": "Sons"
+    },
+    "Ygritte": {
+        "id": "Ygritte",
+        "name": "Ygritte",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "born": "In 280 AC",
+        "died": "In 299 AC, at Castle Black",
+        "tv series": "Season 2 | Season 3 | Season 4"
+    },
+    "Yna": {
+        "id": "Yna",
+        "name": "Yna",
+        "alias": "Yna One-Eye",
+        "allegiance": "Happy Port"
+    },
+    "Ynys_Yronwood": {
+        "id": "Ynys_Yronwood",
+        "name": "Ynys Yronwood",
+        "allegiance": [
+            "House Yronwood",
+            "House Allyrion"
+        ],
+        "culture": "Dornishmen",
+        "born": "In or before 286 AC",
+        "spouse": "Ser Ryon Allyrion",
+        "issue": "2 sons"
+    },
+    "Yohn_Farwynd": {
+        "id": "Yohn_Farwynd",
+        "name": "Yohn Farwynd",
+        "allegiance": "House Farwynd of the Lonely Light",
+        "culture": "ironborn"
+    },
+    "Yohn_Royce": {
+        "id": "Yohn_Royce",
+        "name": "Yohn Royce",
+        "alias": "Bronze Yohn",
+        "title": "Lord of Runestone",
+        "allegiance": [
+            "House Royce",
+            "Lords Declarant"
+        ],
+        "culture": "Valemen",
+        "spouse": "Unknown",
+        "issue": [
+            "Andar Royce",
+            "Robar Royce",
+            "Waymar Royce",
+            "Ysilla Royce",
+            "Daughter(s)"
+        ],
+        "tv series": "Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Yorbert_Royce": {
+        "id": "Yorbert_Royce",
+        "name": "Yorbert Royce",
+        "title": [
+            "Lord of Runestone",
+            "Regent",
+            "Lord Protector of the Vale"
+        ],
+        "allegiance": "House Royce",
+        "culture": "Valemen",
+        "died": "In 101 AC, 102 AC or 103 AC",
+        "issue": "Rhea Royce (possibly)"
+    },
+    "Yoren": {
+        "id": "Yoren",
+        "name": "Yoren",
+        "allegiance": "Night's Watch",
+        "culture": "Westeros",
+        "died": "In 299 AC, at Gods Eye",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Yoren_Yronwood": {
+        "id": "Yoren_Yronwood",
+        "name": "Yoren Yronwood",
+        "allegiance": "House Yronwood",
+        "culture": "Dornishmen"
+    },
+    "Yorick_V_Yronwood": {
+        "id": "Yorick_V_Yronwood",
+        "name": "Yorick V Yronwood",
+        "culture": "Dornishmen",
+        "title": [
+            "The",
+            "Bloodroyal",
+            "Knight of the Wells",
+            "Lord of Yronwood",
+            "Warden of the Stone Way",
+            "King of Redmarch",
+            "King of the Greenbelt",
+            "King of the Dornish"
+        ]
+    },
+    "Yorkel": {
+        "id": "Yorkel",
+        "name": "Yorkel",
+        "allegiance": "House Targaryen"
+    },
+    "Yorko_Terys": {
+        "id": "Yorko_Terys",
+        "name": "Yorko Terys",
+        "culture": "Braavosi"
+    },
+    "Yormwell": {
+        "id": "Yormwell",
+        "name": "Yormwell",
+        "title": "Maester",
+        "allegiance": [
+            "Citadel",
+            "House Targaryen"
+        ]
+    },
+    "Yorrick": {
+        "id": "Yorrick",
+        "name": "Yorrick",
+        "title": "Maester at New Castle",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Manderly"
+        ]
+    },
+    "Yorwyck_VI_Royce": {
+        "id": "Yorwyck_VI_Royce",
+        "name": "Yorwyck VI Royce",
+        "culture": "First Men",
+        "issue": "At least one son",
+        "title": "Bronze King"
+    },
+    "Yrma_Peake": {
+        "id": "Yrma_Peake",
+        "name": "Yrma Peake",
+        "alias": "Yrma of the Golden Bowl",
+        "title": "Lady of Starpike",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Ysabel": {
+        "id": "Ysabel",
+        "name": "Ysabel",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ]
+    },
+    "Ysabel_Staunton": {
+        "id": "Ysabel_Staunton",
+        "name": "Ysabel Staunton",
+        "allegiance": "House Staunton",
+        "culture": "Crownlands",
+        "born": "In 103 133 AC"
+    },
+    "Ysilla": {
+        "id": "Ysilla",
+        "name": "Ysilla",
+        "allegiance": "House Targaryen",
+        "culture": "Dornish, Orphans of the Greenblood",
+        "spouse": "Yandry"
+    },
+    "Ysilla_Royce": {
+        "id": "Ysilla_Royce",
+        "name": "Ysilla Royce",
+        "allegiance": [
+            "House Royce",
+            "House Redfort"
+        ],
+        "culture": "Valemen",
+        "spouse": "Ser Mychel Redfort"
+    },
+    "Yurkhaz_zo_Yunzak": {
+        "id": "Yurkhaz_zo_Yunzak",
+        "name": "Yurkhaz zo Yunzak",
+        "title": "Supreme Commander of the Armies and Allies of Yunkai",
+        "allegiance": "Wise Masters",
+        "culture": "Ghiscari",
+        "born": "At Yunkai",
+        "died": "In 300 AC, at Daznak's Pit, Meereen"
+    }
+}

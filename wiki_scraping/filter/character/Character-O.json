@@ -1,0 +1,979 @@
+{
+    "Old_Bill_Bone": {
+        "id": "Old_Bill_Bone",
+        "name": "Old Bill Bone",
+        "allegiance": "Windblown",
+        "born": "At Summer Islands"
+    },
+    "Old_Henly": {
+        "id": "Old_Henly",
+        "name": "Old Henly",
+        "allegiance": "Night's Watch",
+        "born": "In or between 220 AC and 280 AC",
+        "died": "In 299 AC, at Castle Black"
+    },
+    "Old_John_Mudd": {
+        "id": "Old_John_Mudd",
+        "name": "Old John Mudd",
+        "alias": "Old John Mudd",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Obara_Sand": {
+        "id": "Obara_Sand",
+        "name": "Obara Sand",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 271 AC or 272 AC, at Oldtown",
+        "tv series": "Season 5 | Season 6 | Season 7"
+    },
+    "Obella_Sand": {
+        "id": "Obella_Sand",
+        "name": "Obella Sand",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 287 AC or 288 AC"
+    },
+    "Oberyn_Martell": {
+        "id": "Oberyn_Martell",
+        "name": "Oberyn Martell",
+        "alias": [
+            "The Red Viper",
+            "The snake",
+            "Oberyn Viper",
+            "Red snake"
+        ],
+        "title": [
+            "Prince",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Martell",
+            "Second Sons",
+            "(formerly)"
+        ],
+        "culture": "Dornishmen",
+        "born": "In 257 AC or 258 AC",
+        "died": "In 300 AC, at King's Landing",
+        "spouse": "Ellaria Sand (paramour)",
+        "issue": [
+            "Obara Sand",
+            "Nymeria Sand",
+            "Tyene Sand",
+            "Sarella Sand",
+            "Elia Sand",
+            "Obella Sand",
+            "Dorea Sand",
+            "Loreza Sand"
+        ],
+        "tv series": "Season 4"
+    },
+    "Ocley": {
+        "id": "Ocley",
+        "name": "Ocley",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Ogo": {
+        "id": "Ogo",
+        "name": "Ogo",
+        "title": "Khal",
+        "culture": "Dothraki",
+        "died": "In 298 AC, at Dothraki sea",
+        "issue": "Fogo"
+    },
+    "Old_Grey_Gull": {
+        "id": "Old_Grey_Gull",
+        "name": "Old Grey Gull",
+        "title": "Priest of the Drowned God",
+        "allegiance": "Drowned God",
+        "culture": "Ironborn"
+    },
+    "Old_Mother": {
+        "id": "Old_Mother",
+        "name": "Old Mother",
+        "alias": "The Old Mother",
+        "allegiance": "Band of Nine"
+    },
+    "Old_Tattersalt": {
+        "id": "Old_Tattersalt",
+        "name": "Old Tattersalt",
+        "alias": "Old Tattersalt",
+        "title": "Captain of Blackbird",
+        "allegiance": "Night's Watch",
+        "died": "In Hardhome, at 300 AC"
+    },
+    "Olene_Tyrell": {
+        "id": "Olene_Tyrell",
+        "name": "Olene Tyrell",
+        "allegiance": [
+            "House Tyrell",
+            "House Blackbar"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Leo Blackbar"
+    },
+    "Olenna_Redwyne": {
+        "id": "Olenna_Redwyne",
+        "name": "Olenna Tyrell",
+        "alias": [
+            "Olenna Redwyne",
+            "Olenna Tyrell",
+            "Queen of Thorns"
+        ],
+        "title": "Dowager Lady of Highgarden",
+        "allegiance": [
+            "House Redwyne",
+            "House Tyrell"
+        ],
+        "culture": "Reach",
+        "born": "In 228 AC, at Arbor",
+        "spouse": "Lord Luthor Tyrell",
+        "issue": [
+            "Mace Tyrell",
+            "Mina Tyrell",
+            "Janna Tyrell"
+        ],
+        "tv series": "Season 3 | Season 4 | Season 5 | Season 6 | Season 7"
+    },
+    "Ollidar": {
+        "id": "Ollidar",
+        "name": "Ollidar",
+        "title": [
+            "Archmaester",
+            "Grand Maester"
+        ],
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": "In 5 AC or 6 AC, at King's Landing"
+    },
+    "Ollidor": {
+        "id": "Ollidor",
+        "name": "Ollidor",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ]
+    },
+    "Ollo_Lophand": {
+        "id": "Ollo_Lophand",
+        "name": "Ollo Lophand",
+        "alias": "Ollo Lophand",
+        "allegiance": "Night's Watch",
+        "culture": "Tyroshi",
+        "died": "In 300 AC, at the haunted forest"
+    },
+    "Olymer_Tyrell": {
+        "id": "Olymer_Tyrell",
+        "name": "Olymer Tyrell",
+        "title": "Ser",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "spouse": "Lysa Meadows",
+        "issue": [
+            "Raymund Tyrell",
+            "Rickard Tyrell",
+            "Megga Tyrell"
+        ]
+    },
+    "Olyvar_Frey": {
+        "id": "Olyvar_Frey",
+        "name": "Olyvar Frey",
+        "allegiance": [
+            "House Frey",
+            "House Stark"
+        ],
+        "culture": "Rivermen",
+        "born": "In 281 AC"
+    },
+    "Olyvar_Martell": {
+        "id": "Olyvar_Martell",
+        "name": "Olyvar Martell",
+        "title": "Prince",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In or between 248 AC and 257 AC",
+        "died": "In or between 248 AC and 258 AC"
+    },
+    "Olyvar_Oakheart": {
+        "id": "Olyvar_Oakheart",
+        "name": "Olyvar Oakheart",
+        "alias": "The Green Oak",
+        "title": "Ser",
+        "allegiance": [
+            "House Oakheart",
+            "Kingsguard"
+        ],
+        "died": "In between 157 AC and 161 AC"
+    },
+    "Olyvar_Yronwood": {
+        "id": "Olyvar_Yronwood",
+        "name": "Olyvar Yronwood",
+        "title": [
+            "The",
+            "Bloodroyal",
+            "High King of Dorne",
+            "Lord of the Stone Way",
+            "Lord of Yronwood",
+            "Master of the Green Hills"
+        ]
+    },
+    "Olyver_Baratheon": {
+        "id": "Olyver_Baratheon",
+        "name": "Olyver Baratheon",
+        "alias": "Olyvar Baratheon",
+        "title": "Lord of Storm's End",
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 131 AC, at Storm's End"
+    },
+    "Olyver_Bracken": {
+        "id": "Olyver_Bracken",
+        "name": "Olyver Bracken",
+        "title": [
+            "Ser",
+            "Commander",
+            "of",
+            "Rimegate"
+        ],
+        "allegiance": [
+            "House Bracken",
+            "Kingsguard",
+            "Night's Watch"
+        ],
+        "culture": "Rivermen",
+        "died": "In 50 AC, at Rimegate"
+    },
+    "Omer_Blackberry": {
+        "id": "Omer_Blackberry",
+        "name": "Omer Blackberry",
+        "allegiance": [
+            "House Blackberry",
+            "House Baratheon of Dragonstone",
+            "King's men"
+        ]
+    },
+    "Omer_Florent": {
+        "id": "Omer_Florent",
+        "name": "Omer Florent",
+        "title": "Maester",
+        "allegiance": [
+            "House Florent",
+            "The",
+            "Citadel",
+            "House Oakheart"
+        ],
+        "culture": "Reach"
+    },
+    "Ondrew_Locke": {
+        "id": "Ondrew_Locke",
+        "name": "Ondrew Locke",
+        "alias": "old Lord Locke",
+        "title": "Lord of Oldcastle",
+        "allegiance": "House Locke",
+        "culture": "Northmen"
+    },
+    "One-eyed_crone": {
+        "id": "One-eyed_crone",
+        "name": "One-eyed crone",
+        "title": "Khaleesi (formerly)",
+        "allegiance": "Dosh khaleen",
+        "culture": "Dothraki"
+    },
+    "Onqo": {
+        "id": "Onqo",
+        "name": "Onqo",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Onyx_Emperor": {
+        "id": "Onyx_Emperor",
+        "name": "Onyx Emperor",
+        "alias": "Onyx Emperor",
+        "culture": "Great Empire of the Dawn",
+        "title": [
+            "God-Emperor",
+            "Onyx Emperor"
+        ]
+    },
+    "Opal_Emperor": {
+        "id": "Opal_Emperor",
+        "name": "Opal Emperor",
+        "alias": "Opal Emperor",
+        "culture": "Yi Ti",
+        "issue": [
+            "Amethyst Empress",
+            "Bloodstone Emperor"
+        ],
+        "title": [
+            "God-Emperor",
+            "Opal Emperor"
+        ]
+    },
+    "Oppo": {
+        "id": "Oppo",
+        "name": "Oppo",
+        "alias": "Groat",
+        "died": "In 300 AC, at Volantis"
+    },
+    "Orbelo": {
+        "id": "Orbelo",
+        "name": "Orbelo",
+        "culture": "Braavosi"
+    },
+    "Orbert_Caswell": {
+        "id": "Orbert_Caswell",
+        "name": "Orbert Caswell",
+        "alias": "The Black Centaur",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Caswell",
+            "Night's Watch"
+        ],
+        "died": "At Castle Black"
+    },
+    "Ordello": {
+        "id": "Ordello",
+        "name": "Ordello",
+        "title": "Magister of Pentos",
+        "culture": "Pentoshi",
+        "died": "In 299 AC, at Pentos"
+    },
+    "Orell": {
+        "id": "Orell",
+        "name": "Orell",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 299 AC, at Skirling Pass",
+        "tv series": "Season 3"
+    },
+    "Orivel": {
+        "id": "Orivel",
+        "name": "Orivel",
+        "alias": "Orivel the Open-Handed",
+        "title": "Ser",
+        "allegiance": "Kingsguard"
+    },
+    "Orland_of_Oldtown": {
+        "id": "Orland_of_Oldtown",
+        "name": "Orland of Oldtown",
+        "alias": "Ormond of Oldtown",
+        "allegiance": "House Baratheon of King's Landing"
+    },
+    "Orlos": {
+        "id": "Orlos",
+        "name": "Orlos",
+        "alias": "Orlos the Catamite",
+        "culture": "Ghiscari"
+    },
+    "Ormond_(knight)": {
+        "id": "Ormond_(knight)",
+        "name": "Ormond (knight)",
+        "title": "Ser",
+        "died": "In 299 AC, at Pennytree"
+    },
+    "Ormond_Osgrey": {
+        "id": "Ormond_Osgrey",
+        "name": "Ormond Osgrey",
+        "title": "Lord of Coldmoat",
+        "allegiance": "House Osgrey",
+        "culture": "Reach"
+    },
+    "Ormond_Westerling": {
+        "id": "Ormond_Westerling",
+        "name": "Ormond Westerling",
+        "title": "Ser",
+        "allegiance": "House Westerling",
+        "culture": "Westermen"
+    },
+    "Ormond_Yronwood": {
+        "id": "Ormond_Yronwood",
+        "name": "Ormond Yronwood",
+        "title": [
+            "Lord of Yronwood",
+            "Warden of the Stone Way",
+            "The",
+            "Bloodroyal"
+        ],
+        "allegiance": "House Yronwood",
+        "culture": "Dornishmen",
+        "died": "In 281 299 AC",
+        "issue": [
+            "Anders Yronwood",
+            "Son"
+        ]
+    },
+    "Ormund_Baratheon": {
+        "id": "Ormund_Baratheon",
+        "name": "Ormund Baratheon",
+        "title": [
+            "Lord Paramount of the Stormlands",
+            "Lord of Storm's End",
+            "Hand of the King"
+        ],
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In or before 233 AC",
+        "died": "In 260 AC, at Stepstones",
+        "spouse": "Princess Rhaelle Targaryen",
+        "issue": "Steffon Baratheon"
+    },
+    "Ormund_III_Durrandon": {
+        "id": "Ormund_III_Durrandon",
+        "name": "Ormund III Durrandon",
+        "title": "Storm King",
+        "spouse": "Unknown"
+    },
+    "Ormund_Hightower": {
+        "id": "Ormund_Hightower",
+        "name": "Ormund Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Greens"
+        ],
+        "culture": "Reach",
+        "born": "In or before 102 AC",
+        "died": "In 130 AC, at Tumbleton",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Lady",
+            "Samantha Tarly"
+        ],
+        "issue": [
+            "Lyonel Hightower",
+            "Martyn Hightower",
+            "Garmund Hightower",
+            "Bethany Hightower"
+        ]
+    },
+    "Ormund_Wylde": {
+        "id": "Ormund_Wylde",
+        "name": "Ormund Wylde",
+        "title": "Ser",
+        "allegiance": [
+            "House Wylde",
+            "House Baratheon of Dragonstone"
+        ]
+    },
+    "Oro_Tendyris": {
+        "id": "Oro_Tendyris",
+        "name": "Oro Tendyris",
+        "culture": "Braavosi"
+    },
+    "Orryn_Baratheon": {
+        "id": "Orryn_Baratheon",
+        "name": "Orryn Baratheon",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon",
+            "Maiden's Men"
+        ],
+        "culture": "Stormlander",
+        "born": "In 26 AC",
+        "died": "In or after 51 AC, at the Disputed Lands",
+        "spouse": "Daughter of the Archon of Tyrosh",
+        "issue": "Daughter"
+    },
+    "Orson_Stone": {
+        "id": "Orson_Stone",
+        "name": "Orson Stone",
+        "alias": "The Bastard Knight",
+        "title": "Ser",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Orton_Merryweather": {
+        "id": "Orton_Merryweather",
+        "name": "Orton Merryweather",
+        "title": [
+            "Lord of Longtable",
+            "Lord justiciar",
+            "Hand of the King"
+        ],
+        "allegiance": "House Merryweather",
+        "culture": "Reach",
+        "spouse": "Lady Taena of Myr",
+        "issue": "Russell Merryweather"
+    },
+    "Orwyle": {
+        "id": "Orwyle",
+        "name": "Orwyle",
+        "alias": "Old Wyl",
+        "title": [
+            "Archmaester",
+            "Grand Maester"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "Greens"
+        ],
+        "died": "In 133 AC, at King's Landing"
+    },
+    "Orys_Baratheon": {
+        "id": "Orys_Baratheon",
+        "name": "Orys Baratheon",
+        "alias": [
+            "Orys One-Hand",
+            "The King's Stump"
+        ],
+        "title": [
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Baratheon",
+            "House Targaryen"
+        ],
+        "culture": "Stormlander",
+        "died": "In 38 AC",
+        "spouse": "Princess Argella Durrandon",
+        "issue": [
+            "Davos Baratheon",
+            "Raymont Baratheon"
+        ]
+    },
+    "Osbert_Serry": {
+        "id": "Osbert_Serry",
+        "name": "Osbert Serry",
+        "title": "Lord of Southshield",
+        "allegiance": "House Serry",
+        "culture": "Reach",
+        "issue": "Talbert Serry"
+    },
+    "Oscar_Tully": {
+        "id": "Oscar_Tully",
+        "name": "Oscar Tully",
+        "title": [
+            "Ser",
+            "Commander of the",
+            "Stormbreakers"
+        ],
+        "allegiance": [
+            "House Tully",
+            "Blacks",
+            "Lads",
+            "Stormbreakers"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 113 AC and 116 AC"
+    },
+    "Osfryd_Kettleblack": {
+        "id": "Osfryd_Kettleblack",
+        "name": "Osfryd Kettleblack",
+        "title": [
+            "Ser",
+            "Captain of the",
+            "red cloaks",
+            "Commander of the City Watch"
+        ],
+        "allegiance": [
+            "House Kettleblack",
+            "City Watch of King's Landing"
+        ],
+        "culture": "Crownlands"
+    },
+    "Osgood_Arryn": {
+        "id": "Osgood_Arryn",
+        "name": "Osgood Arryn",
+        "alias": "the Old Falcon",
+        "issue": "Oswin Arryn",
+        "title": "King of Mountain and Vale"
+    },
+    "Osgood_III_Shett": {
+        "id": "Osgood_III_Shett",
+        "name": "Osgood III Shett",
+        "issue": [
+            "A son",
+            "A daughter"
+        ],
+        "title": "King of the True Men"
+    },
+    "Osha": {
+        "id": "Osha",
+        "name": "Osha",
+        "allegiance": "House Stark",
+        "culture": "Free folk",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 6"
+    },
+    "Osmund_Frey": {
+        "id": "Osmund_Frey",
+        "name": "Osmund Frey",
+        "allegiance": "House Frey",
+        "born": "In 297 AC"
+    },
+    "Osmund_Kettleblack": {
+        "id": "Osmund_Kettleblack",
+        "name": "Osmund Kettleblack",
+        "alias": "Oswald Kettleblack",
+        "title": "Ser",
+        "allegiance": [
+            "House Kettleblack",
+            "Gallant Men",
+            "(formerly)",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Osmund_Strong": {
+        "id": "Osmund_Strong",
+        "name": "Osmund Strong",
+        "title": [
+            "Ser",
+            "Hand of the King"
+        ],
+        "allegiance": "House Strong",
+        "culture": "Rivermen",
+        "died": "In 34 AC"
+    },
+    "Osmund_Tyrell": {
+        "id": "Osmund_Tyrell",
+        "name": "Osmund Tyrell",
+        "title": [
+            "High Steward of Highgarden",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "House Gardener"
+        ],
+        "culture": "Reach",
+        "issue": "Robert Tyrell"
+    },
+    "Osmynd": {
+        "id": "Osmynd",
+        "name": "Osmynd",
+        "title": "Septon",
+        "allegiance": "Faith of the Seven"
+    },
+    "Osney_Kettleblack": {
+        "id": "Osney_Kettleblack",
+        "name": "Osney Kettleblack",
+        "title": "Ser",
+        "allegiance": "House Kettleblack",
+        "culture": "Crownlands"
+    },
+    "Osric_V_Arryn": {
+        "id": "Osric_V_Arryn",
+        "name": "Osric V Arryn",
+        "culture": "Andal",
+        "title": "King of Mountain and Vale"
+    },
+    "Osric_Stark": {
+        "id": "Osric_Stark",
+        "name": "Osric Stark",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Stark",
+            "Night's Watch"
+        ],
+        "culture": "Northmen"
+    },
+    "Osric_Umber": {
+        "id": "Osric_Umber",
+        "name": "Osric Umber",
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "spouse": "Arrana Stark"
+    },
+    "Orphan_Oss": {
+        "id": "Orphan_Oss",
+        "name": "Orphan Oss",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at the haunted forest"
+    },
+    "Ossifer_Lipps": {
+        "id": "Ossifer_Lipps",
+        "name": "Ossifer Lipps",
+        "title": "Ser",
+        "allegiance": "House Lipps",
+        "culture": "Valemen"
+    },
+    "Ossifer_Plumm": {
+        "id": "Ossifer_Plumm",
+        "name": "Ossifer Plumm",
+        "title": "Lord",
+        "allegiance": "House Plumm",
+        "culture": "Westermen",
+        "died": "In 176 AC",
+        "spouse": "Princess Elaena Targaryen",
+        "issue": "Viserys Plumm (alleged)"
+    },
+    "Ossy": {
+        "id": "Ossy",
+        "name": "Ossy",
+        "allegiance": "House Royce of the Gates of the Moon"
+    },
+    "Oswald_Wode": {
+        "id": "Oswald_Wode",
+        "name": "Oswald Wode",
+        "title": "Ser",
+        "allegiance": [
+            "House Wode",
+            "Blacks"
+        ],
+        "culture": "Rivermen"
+    },
+    "Oswell_I_Arryn": {
+        "id": "Oswell_I_Arryn",
+        "name": "Oswell I Arryn",
+        "title": "King of Mountain and Vale"
+    },
+    "Oswell_Kettleblack": {
+        "id": "Oswell_Kettleblack",
+        "name": "Oswell Kettleblack",
+        "alias": "Kettleblack",
+        "allegiance": [
+            "House Kettleblack",
+            "House Baelish of Harrenhal"
+        ],
+        "culture": "Crownlands"
+    },
+    "Oswell_Whent": {
+        "id": "Oswell_Whent",
+        "name": "Oswell Whent",
+        "title": "Ser",
+        "allegiance": [
+            "House Whent",
+            "Kingsguard"
+        ],
+        "culture": "Rivermen",
+        "born": "At Harrenhal",
+        "died": "In 283 AC, at the tower of joy",
+        "tv series": "Season 6"
+    },
+    "Oswin_Arryn": {
+        "id": "Oswin_Arryn",
+        "name": "Oswin Arryn",
+        "alias": "The Talon",
+        "father": "Osgood Arryn",
+        "title": "King of Mountain and Vale"
+    },
+    "Oswyck": {
+        "id": "Oswyck",
+        "name": "Oswyck",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "died": "In 54 AC, at Dragonstone"
+    },
+    "Oswyn": {
+        "id": "Oswyn",
+        "name": "Oswyn",
+        "alias": "Oswyn Longneck the Thrice-Hanged",
+        "allegiance": "Kingswood Brotherhood"
+    },
+    "Othell_Yarwyck": {
+        "id": "Othell_Yarwyck",
+        "name": "Othell Yarwyck",
+        "title": "First Builder",
+        "allegiance": [
+            "House Yarwyck",
+            "Night's Watch"
+        ],
+        "culture": "Westermen",
+        "tv series": "Season 1 | Season 4 | Season 5 | Season 6"
+    },
+    "Othgar_Hoare_(Demonlover)": {
+        "id": "Othgar_Hoare_(Demonlover)",
+        "name": "Othgar Hoare (Demonlover)",
+        "alias": "Othgar Demonlover",
+        "title": "King of the Iron Islands"
+    },
+    "Othgar_Hoare_(the_Soulless)": {
+        "id": "Othgar_Hoare_(the_Soulless)",
+        "name": "Othgar Hoare (the Soulless)",
+        "alias": "Othgar the Soulless",
+        "title": "King of the Iron Islands"
+    },
+    "Otho_Bracken": {
+        "id": "Otho_Bracken",
+        "name": "Otho Bracken",
+        "alias": "The Brute of Bracken",
+        "title": "Ser",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen"
+    },
+    "Otho_II_Hightower": {
+        "id": "Otho_II_Hightower",
+        "name": "Otho II Hightower",
+        "title": "King of the High Tower",
+        "allegiance": "House Hightower"
+    },
+    "Othor": {
+        "id": "Othor",
+        "name": "Othor",
+        "allegiance": "Night's Watch",
+        "died": "In 298 AC, at the haunted forest",
+        "tv series": "Season 1"
+    },
+    "Otter_Gimpknee": {
+        "id": "Otter_Gimpknee",
+        "name": "Otter Gimpknee",
+        "culture": "ironborn"
+    },
+    "Otto_Hightower": {
+        "id": "Otto_Hightower",
+        "name": "Otto Hightower",
+        "title": [
+            "Ser",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Greens"
+        ],
+        "culture": "Reach",
+        "born": "In or before 75 AC",
+        "died": "In 130 AC, at King's Landing",
+        "spouse": "Unknown",
+        "issue": [
+            "Alicent Hightower",
+            "Gwayne Hightower",
+            "Son(s)"
+        ]
+    },
+    "Ottomore": {
+        "id": "Ottomore",
+        "name": "Ottomore",
+        "alias": "Maester at Darry",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Darry",
+            "(possibly)",
+            "House Lannister of Darry"
+        ]
+    },
+    "Ottyn_Wythers": {
+        "id": "Ottyn_Wythers",
+        "name": "Ottyn Wythers",
+        "title": "Ser",
+        "allegiance": [
+            "House Wythers",
+            "Night's Watch"
+        ],
+        "culture": "Reach",
+        "born": "In 230 AC (roughly)",
+        "died": "In 299 AC, at the Fist of the First Men"
+    },
+    "Owain_Bourney": {
+        "id": "Owain_Bourney",
+        "name": "Owain Bourney",
+        "alias": "Lord Owain the Betrayer",
+        "title": "Lord Bourney",
+        "allegiance": [
+            "House Bourney",
+            "blacks",
+            "greens"
+        ],
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Owen_the_Oaf": {
+        "id": "Owen_the_Oaf",
+        "name": "Owen the Oaf",
+        "alias": "Owen the Oaf",
+        "allegiance": "Night's Watch"
+    },
+    "Owen_(brother_of_Meribald)": {
+        "id": "Owen_(brother_of_Meribald)",
+        "name": "Owen (brother of Meribald)",
+        "culture": "Rivermen",
+        "died": "In 260 AC, at Stepstones"
+    },
+    "Owen_(knight)": {
+        "id": "Owen_(knight)",
+        "name": "Owen (knight)",
+        "title": "Ser",
+        "culture": "Valemen"
+    },
+    "Owen_Bush": {
+        "id": "Owen_Bush",
+        "name": "Owen Bush",
+        "title": "Ser",
+        "allegiance": [
+            "House Bush",
+            "Kingsguard"
+        ],
+        "died": "In 48 AC, at King's Landing"
+    },
+    "Owen_Costayne": {
+        "id": "Owen_Costayne",
+        "name": "Owen Costayne",
+        "title": "Lord of the Three Towers",
+        "allegiance": [
+            "House Costayne",
+            "Blacks"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Honeywine"
+    },
+    "Owen_Fossoway": {
+        "id": "Owen_Fossoway",
+        "name": "Owen Fossoway",
+        "title": "Lord of Cider Hall",
+        "allegiance": [
+            "House Fossoway of Cider Hall",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Owen_Inchfield": {
+        "id": "Owen_Inchfield",
+        "name": "Owen Inchfield",
+        "title": "Ser",
+        "allegiance": "House Inchfield"
+    },
+    "Owen_Merryweather": {
+        "id": "Owen_Merryweather",
+        "name": "Owen Merryweather",
+        "alias": [
+            "The Chuckler",
+            "Old Merryweather",
+            "The Horn-of-Plenty Hand"
+        ],
+        "title": [
+            "Lord of Longtable",
+            "Hand of the King"
+        ],
+        "allegiance": "House Merryweather",
+        "culture": "Reach",
+        "died": "In 282 299 AC",
+        "spouse": "Unknown",
+        "issue": "Father of Orton Merryweather"
+    },
+    "Owen_Norrey": {
+        "id": "Owen_Norrey",
+        "name": "Owen Norrey",
+        "allegiance": "House Norrey",
+        "culture": "Northern mountain clans",
+        "died": "In 299 AC, at the Twins"
+    },
+    "Oznak_zo_Pahl": {
+        "id": "Oznak_zo_Pahl",
+        "name": "Oznak zo Pahl",
+        "allegiance": [
+            "House of Pahl",
+            "Great Masters"
+        ],
+        "culture": "Meereen",
+        "died": "In 299 AC, at Meereen"
+    }
+}

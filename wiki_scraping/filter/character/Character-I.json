@@ -1,0 +1,136 @@
+{
+    "Iggo": {
+        "id": "Iggo",
+        "name": "Iggo",
+        "allegiance": "Brave Companions",
+        "culture": "Dothraki",
+        "died": "In 299 AC, at Riverlands"
+    },
+    "Igon_Vyrwel": {
+        "id": "Igon_Vyrwel",
+        "name": "Igon Vyrwel",
+        "title": "Captain of the guards",
+        "allegiance": [
+            "House Vyrwel",
+            "House Tyrell"
+        ],
+        "culture": "Reach"
+    },
+    "Illifer": {
+        "id": "Illifer",
+        "name": "Illifer the Penniless",
+        "alias": "Illy",
+        "title": "Ser",
+        "born": "In 240 AC or before"
+    },
+    "Illister": {
+        "id": "Illister",
+        "name": "Illister",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Illyrio_Mopatis": {
+        "id": "Illyrio_Mopatis",
+        "name": "Illyrio Mopatis",
+        "alias": [
+            "The cheesemonger",
+            "The fat man",
+            "The lord of cheese"
+        ],
+        "title": "Magister of Pentos",
+        "culture": "Pentoshi",
+        "born": "At Pentos",
+        "spouse": [
+            "1st:",
+            "Cousin to the Prince of Pentos",
+            "2nd:",
+            "Serra"
+        ],
+        "tv series": "Season 1"
+    },
+    "Illyrio_Mopatis%27s_first_wife": {
+        "id": "Illyrio_Mopatis%27s_first_wife",
+        "name": "Illyrio Mopatis's first wife",
+        "culture": "Pentoshi",
+        "born": "At Pentos",
+        "died": "At Pentos",
+        "spouse": "Illyrio Mopatis"
+    },
+    "Ilyn_Payne": {
+        "id": "Ilyn_Payne",
+        "name": "Ilyn Payne",
+        "title": [
+            "Ser",
+            "Captain of the guards",
+            "(formerly)",
+            "King's Justice"
+        ],
+        "allegiance": [
+            "House Payne",
+            "House Lannister",
+            "(formerly)",
+            "House Baratheon of King's Landing"
+        ],
+        "culture": "Westermen",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Imry_Florent": {
+        "id": "Imry_Florent",
+        "name": "Imry Florent",
+        "alias": "fool of Florent",
+        "title": [
+            "Ser",
+            "Lord High Captain"
+        ],
+        "allegiance": "House Florent",
+        "died": "In 299 AC, at the Blackwater Rush",
+        "tv series": "Season 2"
+    },
+    "Ironbelly": {
+        "id": "Ironbelly",
+        "name": "Ironbelly",
+        "alias": "Ironbelly"
+    },
+    "Irri": {
+        "id": "Irri",
+        "name": "Irri",
+        "allegiance": "House Targaryen",
+        "culture": "Dothraki",
+        "born": "In 283 AC or 284 AC",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Isembard_Arryn": {
+        "id": "Isembard_Arryn",
+        "name": "Isembard Arryn",
+        "alias": "The Gilded Falcon",
+        "title": [
+            "Lord of the Eyrie",
+            "(claimant)",
+            "Defender of the Vale",
+            "(claimant)",
+            "Warden of the East",
+            "(claimant)",
+            "Master of coin"
+        ],
+        "allegiance": "House Arryn of Gulltown",
+        "culture": "Valemen",
+        "issue": "Sons"
+    },
+    "Ithoke": {
+        "id": "Ithoke",
+        "name": "Ithoke",
+        "alias": "Fearless Ithoke",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Izembaro": {
+        "id": "Izembaro",
+        "name": "Izembaro",
+        "alias": [
+            "King of the Mummers",
+            "Izembaro the Great"
+        ],
+        "allegiance": "The Gate",
+        "culture": "Braavosi"
+    }
+}

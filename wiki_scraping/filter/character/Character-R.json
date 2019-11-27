@@ -1,0 +1,2957 @@
+{
+    "Red_Alyn_of_the_Rosewood": {
+        "id": "Red_Alyn_of_the_Rosewood",
+        "name": "Red Alyn of the Rosewood",
+        "alias": "Red Alyn of the Rosewood",
+        "allegiance": "Night's Watch",
+        "born": "At the Rosewood",
+        "died": "In 300 AC, at Castle Black"
+    },
+    "Red_Jack_Crabb": {
+        "id": "Red_Jack_Crabb",
+        "name": "Red Jack Crabb",
+        "allegiance": [
+            "House Crabb",
+            "Night's Watch"
+        ],
+        "culture": "Crownlands"
+    },
+    "Red_Jeyne": {
+        "id": "Red_Jeyne",
+        "name": "Red Jeyne"
+    },
+    "Racallio_Ryndoon": {
+        "id": "Racallio_Ryndoon",
+        "name": "Racallio Ryndoon",
+        "alias": "Queen Racallio",
+        "title": [
+            "Captain",
+            "King of the Narrow Sea"
+        ],
+        "allegiance": [
+            "Kingdom of the Three Daughters",
+            "Kingdom of the Narrow Sea"
+        ],
+        "culture": "Tyroshi"
+    },
+    "Rafe": {
+        "id": "Rafe",
+        "name": "Rafe"
+    },
+    "Rafford": {
+        "id": "Rafford",
+        "name": "Rafford",
+        "alias": [
+            "Raff",
+            "Raff the Sweetling"
+        ],
+        "allegiance": "House Clegane",
+        "born": "At Westerlands",
+        "died": "In 300 AC, at Braavos"
+    },
+    "Ragnor_Pyke": {
+        "id": "Ragnor_Pyke",
+        "name": "Ragnor Pyke",
+        "title": "Captain",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Ragwyle": {
+        "id": "Ragwyle",
+        "name": "Ragwyle",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Rainbow_Knight": {
+        "id": "Rainbow_Knight",
+        "name": "Rainbow Knight",
+        "title": "Ser",
+        "culture": "Westerosi"
+    },
+    "Rakharo": {
+        "id": "Rakharo",
+        "name": "Rakharo",
+        "title": [
+            "Ko",
+            "Bloodrider",
+            "of Daenerys Targaryen"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Queensguard"
+        ],
+        "culture": "Dothraki",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Ralf_(Limper)": {
+        "id": "Ralf_(Limper)",
+        "name": "Ralf the Limper",
+        "title": "Captain of the Lord Quellon",
+        "culture": "ironborn"
+    },
+    "Ralf_(Lordsport)": {
+        "id": "Ralf_(Lordsport)",
+        "name": "Ralf of Lordsport",
+        "alias": "Ralf of Lordsport",
+        "culture": "ironborn"
+    },
+    "Ralf_(Shepherd)": {
+        "id": "Ralf_(Shepherd)",
+        "name": "Ralf the Shepherd",
+        "alias": "Ralf the Shepherd",
+        "culture": "ironborn"
+    },
+    "Ragged_Ralf": {
+        "id": "Ragged_Ralf",
+        "name": "Ragged Ralf",
+        "alias": "Ragged Ralf",
+        "born": "In Age of Heroes, at Old Wyk"
+    },
+    "Ralf_Kenning": {
+        "id": "Ralf_Kenning",
+        "name": "Ralf Kenning",
+        "title": [
+            "Captain",
+            "Castellan",
+            "of",
+            "Moat Cailin",
+            "Commander"
+        ],
+        "allegiance": "House Kenning of Harlaw",
+        "culture": "ironborn",
+        "died": "In 300 AC, at Moat Cailin"
+    },
+    "Ralf_Stonehouse": {
+        "id": "Ralf_Stonehouse",
+        "name": "Ralf Stonehouse",
+        "alias": "Red Ralf Stonehouse",
+        "title": "Captain of Red Jester",
+        "allegiance": "House Stonehouse",
+        "culture": "ironborn"
+    },
+    "Ralph_Buckler": {
+        "id": "Ralph_Buckler",
+        "name": "Ralph Buckler",
+        "title": "Lord of Bronzegate",
+        "allegiance": "House Buckler",
+        "culture": "Stormlands"
+    },
+    "Ramsay_Snow": {
+        "id": "Ramsay_Snow",
+        "name": "Ramsay Snow",
+        "alias": [
+            "Ramsay Bolton",
+            "The Bastard of Bolton",
+            "The Bastard of the Dreadfort",
+            "Reek",
+            "Red Helm",
+            "Monster"
+        ],
+        "title": [
+            "Lord of the Hornwood",
+            "Lord of Winterfell",
+            "Castellan",
+            "of the",
+            "Dreadfort"
+        ],
+        "allegiance": [
+            "House Bolton of the Dreadfort",
+            "House Bolton of Winterfell"
+        ],
+        "culture": "Northmen",
+        "born": "In 282 AC or before",
+        "spouse": [
+            "1st: Lady",
+            "Donella Hornwood",
+            "2nd: Lady \"",
+            "Arya Stark",
+            "\""
+        ],
+        "tv series": "Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Randa": {
+        "id": "Randa",
+        "name": "Randa",
+        "died": "At the Riverlands"
+    },
+    "Randor_the_Exile": {
+        "id": "Randor_the_Exile",
+        "name": "Randor the Exile",
+        "alias": "Randor the Exile",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Randyll_Tarly": {
+        "id": "Randyll_Tarly",
+        "name": "Randyll Tarly",
+        "title": [
+            "Lord of Horn Hill",
+            "Justiciar",
+            "Master of laws"
+        ],
+        "allegiance": "House Tarly",
+        "culture": "Reach",
+        "spouse": "Lady Melessa Florent",
+        "issue": [
+            "Samwell Tarly",
+            "Talla Tarly",
+            "2 daughters",
+            "Dickon Tarly"
+        ],
+        "tv series": "Season 6 | Season 7"
+    },
+    "Rast": {
+        "id": "Rast",
+        "name": "Rast",
+        "alias": "Rat",
+        "allegiance": "Night's Watch",
+        "died": "In +/- 299 AC, at Castle Black",
+        "tv series": "Season 1 | Season 3 | Season 4"
+    },
+    "Rat_Cook": {
+        "id": "Rat_Cook",
+        "name": "Rat Cook",
+        "alias": "Rat Cook",
+        "allegiance": "Night's Watch"
+    },
+    "Rattleshirt": {
+        "id": "Rattleshirt",
+        "name": "Lord of Bones",
+        "alias": [
+            "Rattleshirt",
+            "Lord o' Bones",
+            "Bag o' Bones"
+        ],
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at Castle Black",
+        "tv series": "Season 2 | Season 3 | Season 5"
+    },
+    "Ravella_Swann": {
+        "id": "Ravella_Swann",
+        "name": "Ravella Smallwood",
+        "alias": "Ravella Swann",
+        "title": "Lady of Acorn Hall",
+        "allegiance": [
+            "House Swann",
+            "House Smallwood"
+        ],
+        "culture": "Marcher",
+        "spouse": "Lord Theomar Smallwood",
+        "issue": [
+            "Carellen Smallwood",
+            "Deceased son"
+        ]
+    },
+    "Ravos_Hoare": {
+        "id": "Ravos_Hoare",
+        "name": "Ravos Hoare",
+        "alias": "Ravos the Raper",
+        "allegiance": "House Hoare",
+        "culture": "ironborn",
+        "died": "At Bear Island"
+    },
+    "Rawney": {
+        "id": "Rawney",
+        "name": "Rawney",
+        "title": "Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ]
+    },
+    "Raya_Stark": {
+        "id": "Raya_Stark",
+        "name": "Raya Stark",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 135 AC"
+    },
+    "Rayford_Rosby": {
+        "id": "Rayford_Rosby",
+        "name": "Rayford Rosby",
+        "title": "Ser",
+        "allegiance": "House Rosby",
+        "culture": "Crownlands",
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Raylon_Rivers": {
+        "id": "Raylon_Rivers",
+        "name": "Raylon Rivers",
+        "title": "Ser",
+        "allegiance": [
+            "House Bracken",
+            "Greens"
+        ],
+        "culture": "Rivermen"
+    },
+    "Raymar_Royce": {
+        "id": "Raymar_Royce",
+        "name": "Raymar Royce",
+        "title": "Lord",
+        "allegiance": "House Royce of the Gates of the Moon",
+        "culture": "Valemen",
+        "issue": [
+            "Son(s)",
+            "Benedict Royce"
+        ]
+    },
+    "Raymond_Nayland": {
+        "id": "Raymond_Nayland",
+        "name": "Raymond Nayland",
+        "title": "Ser",
+        "allegiance": "House Nayland"
+    },
+    "Raymond_Rychard": {
+        "id": "Raymond_Rychard",
+        "name": "Raymond Rychard",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Raymont_Baratheon": {
+        "id": "Raymont_Baratheon",
+        "name": "Raymont Baratheon",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon",
+            "Kingsguard"
+        ],
+        "culture": "Stormlander",
+        "born": "In or between 1 BC and 25 AC",
+        "died": "In 41 48 AC"
+    },
+    "Raymun_Redbeard": {
+        "id": "Raymun_Redbeard",
+        "name": "Raymun Redbeard",
+        "title": "King-Beyond-the-Wall",
+        "culture": "Free folk",
+        "died": "In 226 AC, at Long Lake",
+        "issue": "Sons"
+    },
+    "Raymun_Darry": {
+        "id": "Raymun_Darry",
+        "name": "Raymun Darry",
+        "title": [
+            "Ser",
+            "Lord of Darry",
+            "(unconfirmed)"
+        ],
+        "allegiance": "House Darry",
+        "culture": "Rivermen",
+        "died": "In 298 AC, at the Mummer's Ford",
+        "issue": "Lyman Darry"
+    },
+    "Raymun_Fossoway": {
+        "id": "Raymun_Fossoway",
+        "name": "Raymun Fossoway",
+        "alias": "Raymun the Reluctant",
+        "title": "Ser",
+        "allegiance": [
+            "House Fossoway of Cider Hall",
+            "House Fossoway of New Barrel"
+        ],
+        "culture": "Reach",
+        "born": "At Cider Hall"
+    },
+    "Raymund_Connington": {
+        "id": "Raymund_Connington",
+        "name": "Raymund Connington",
+        "allegiance": "House Connington",
+        "culture": "Stormlander"
+    },
+    "Raymund_Frey": {
+        "id": "Raymund_Frey",
+        "name": "Raymund Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 264 AC or 265 AC",
+        "spouse": "Beony Beesbury",
+        "issue": [
+            "Robert Frey",
+            "Malwyn Frey",
+            "Serra Frey",
+            "Sarra Frey",
+            "Cersei Frey",
+            "Jaime Frey",
+            "Tywin Frey"
+        ]
+    },
+    "Raymund_Mallery": {
+        "id": "Raymund_Mallery",
+        "name": "Raymund Mallery",
+        "title": [
+            "Ser",
+            "Commander",
+            "of",
+            "Sable Hall"
+        ],
+        "allegiance": [
+            "House Mallery",
+            "Kingsguard",
+            "Night's Watch"
+        ],
+        "culture": "Crownlands",
+        "died": "In 50 51 AC, at Beyond the Wall"
+    },
+    "Raymund_Tyrell": {
+        "id": "Raymund_Tyrell",
+        "name": "Raymund Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Raynald_Westerling": {
+        "id": "Raynald_Westerling",
+        "name": "Raynald Westerling",
+        "alias": [
+            "The seashell knight",
+            "The knight of seashells"
+        ],
+        "title": "Ser",
+        "allegiance": "House Westerling",
+        "culture": "Westermen",
+        "born": "In or before 282 AC, at the Crag",
+        "died": "In 299 AC (supposedly), at the Twins"
+    },
+    "Raynard": {
+        "id": "Raynard",
+        "name": "Raynard",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ]
+    },
+    "Raynard_Ruttiger": {
+        "id": "Raynard_Ruttiger",
+        "name": "Raynard Ruttiger",
+        "title": "Ser",
+        "allegiance": "House Ruttiger"
+    },
+    "Raynard_Ruskyn": {
+        "id": "Raynard_Ruskyn",
+        "name": "Raynard Ruskyn",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Ruskyn",
+            "Kingsguard"
+        ]
+    },
+    "Red_Lamb": {
+        "id": "Red_Lamb",
+        "name": "Red Lamb",
+        "alias": "Red Lamb",
+        "title": "Ser",
+        "allegiance": "House Targaryen",
+        "culture": "Lhazarene"
+    },
+    "Red_Oarsman": {
+        "id": "Red_Oarsman",
+        "name": "Red Oarsman",
+        "title": "Captain",
+        "culture": "ironborn"
+    },
+    "Red_Raven_(free_folk)": {
+        "id": "Red_Raven_(free_folk)",
+        "name": "Red Raven (free folk)",
+        "alias": "The Red Raven",
+        "allegiance": "Raymun Redbeard",
+        "culture": "Free folk"
+    },
+    "Red_Rolfe": {
+        "id": "Red_Rolfe",
+        "name": "Red Rolfe",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Redtusk": {
+        "id": "Redtusk",
+        "name": "Redtusk",
+        "alias": "Redtusk",
+        "title": "Ser"
+    },
+    "Redwyn": {
+        "id": "Redwyn",
+        "name": "Redwyn",
+        "allegiance": "Night's Watch"
+    },
+    "Reek": {
+        "id": "Reek",
+        "name": "Reek",
+        "alias": "Reek",
+        "allegiance": "House Bolton",
+        "culture": "Northmen",
+        "died": "In 299 AC, at the north"
+    },
+    "Regenard_Estren": {
+        "id": "Regenard_Estren",
+        "name": "Regenard Estren",
+        "title": "Lord of Wyndhall",
+        "allegiance": "House Estren",
+        "culture": "Westermen"
+    },
+    "Regis_Groves": {
+        "id": "Regis_Groves",
+        "name": "Regis Groves",
+        "title": "Ser",
+        "allegiance": [
+            "House Groves",
+            "Blacks",
+            "Kingsguard"
+        ],
+        "died": "In 132 AC, at Harrenhal"
+    },
+    "Regnar_Drumm": {
+        "id": "Regnar_Drumm",
+        "name": "Regnar Drumm",
+        "alias": "Raven-feeder",
+        "culture": "Ironborn",
+        "title": [
+            "High King of the Iron Islands",
+            "Rock king",
+            "of",
+            "Old Wyk"
+        ]
+    },
+    "Rego_Draz": {
+        "id": "Rego_Draz",
+        "name": "Rego Draz",
+        "alias": "The Lord of Air",
+        "title": [
+            "Lord",
+            "Master of coin"
+        ],
+        "culture": "Pentoshi",
+        "born": "At Pentos",
+        "died": "In 59 AC, at King's Landing"
+    },
+    "Renfred_Rykker": {
+        "id": "Renfred_Rykker",
+        "name": "Renfred Rykker",
+        "title": "Lord of Duskendale",
+        "allegiance": "House Rykker",
+        "culture": "Crownlands",
+        "spouse": "Unknown",
+        "issue": "Children"
+    },
+    "Renly_Baratheon": {
+        "id": "Renly_Baratheon",
+        "name": "Renly Baratheon",
+        "alias": [
+            "The King in",
+            "Highgarden",
+            "The King in the South"
+        ],
+        "title": [
+            "Lord Paramount of the Stormlands",
+            "Lord of Storm's End",
+            "Master of laws",
+            "Lord of the Seven Kingdoms",
+            "(claimant)"
+        ],
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 277 AC",
+        "died": "In 299 AC, at Storm's End",
+        "spouse": "Margaery Tyrell",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Renly_Norcross": {
+        "id": "Renly_Norcross",
+        "name": "Renly Norcross",
+        "allegiance": "House Norcross",
+        "culture": "Reach",
+        "born": "In 296 AC or 297 AC"
+    },
+    "Rennifer_Crabb": {
+        "id": "Rennifer_Crabb",
+        "name": "Rennifer Crabb",
+        "title": "Ser",
+        "allegiance": [
+            "House Crabb",
+            "Blacks"
+        ],
+        "culture": "Crownlands"
+    },
+    "Rennifer_Longwaters": {
+        "id": "Rennifer_Longwaters",
+        "name": "Rennifer Longwaters",
+        "title": "Chief undergaoler",
+        "allegiance": "House Longwaters",
+        "culture": "Crownlands"
+    },
+    "Reynard_Reyne": {
+        "id": "Reynard_Reyne",
+        "name": "Reynard Reyne",
+        "title": "Ser",
+        "allegiance": "House Reyne",
+        "culture": "Westermen",
+        "died": "In 261 AC, at Castamere"
+    },
+    "Reynard_Webber": {
+        "id": "Reynard_Webber",
+        "name": "Reynard Webber",
+        "title": "Lord of Coldmoat",
+        "allegiance": "House Webber",
+        "culture": "Reach"
+    },
+    "Reysen": {
+        "id": "Reysen",
+        "name": "Reysen",
+        "alias": "Rey"
+    },
+    "Reznak_mo_Reznak": {
+        "id": "Reznak_mo_Reznak",
+        "name": "Reznak mo Reznak",
+        "title": "Seneschal of Meereen",
+        "allegiance": [
+            "House of Reznak",
+            "House Targaryen"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Rhae_Targaryen": {
+        "id": "Rhae_Targaryen",
+        "name": "Rhae Targaryen",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In or between 201 AC and 209 AC"
+    },
+    "Rhaegar_Frey": {
+        "id": "Rhaegar_Frey",
+        "name": "Rhaegar Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 269 AC and 274 AC",
+        "died": "In 300 AC (suspected), at the north",
+        "spouse": "Jeyne Beesbury",
+        "issue": [
+            "Robert Frey",
+            "Walda Frey",
+            "Jonos Frey"
+        ]
+    },
+    "Rhaegar_Targaryen": {
+        "id": "Rhaegar_Targaryen",
+        "name": "Rhaegar Targaryen",
+        "alias": [
+            "Silver prince",
+            "The dragon prince",
+            "The last dragon",
+            "The prince that was promised"
+        ],
+        "title": [
+            "Prince of Dragonstone",
+            "Ser"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 259 AC, at Summerhall",
+        "died": "In 283 AC[N 1], at the Trident",
+        "spouse": "Princess Elia Martell",
+        "issue": [
+            "Rhaenys Targaryen",
+            "Aegon Targaryen"
+        ],
+        "tv series": "Season 7"
+    },
+    "Rhaegel_Targaryen": {
+        "id": "Rhaegel_Targaryen",
+        "name": "Rhaegel Targaryen",
+        "title": "Prince of Dragonstone",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In or between 173 AC and 177 AC",
+        "died": "In 215 AC",
+        "spouse": "Lady Alys Arryn",
+        "issue": [
+            "Aelor Targaryen",
+            "Aelora Targaryen",
+            "Daenora Targaryen"
+        ]
+    },
+    "Rhaego": {
+        "id": "Rhaego",
+        "name": "Rhaego",
+        "alias": "The stallion who mounts the world",
+        "title": "Khalakka",
+        "allegiance": "House Targaryen",
+        "born": "In ~298/299 AC, at Lhazar",
+        "died": "In 298 AC or 299 AC, at Lhazar"
+    },
+    "Rhaella_Targaryen": {
+        "id": "Rhaella_Targaryen",
+        "name": "Rhaella Targaryen",
+        "title": [
+            "Princess",
+            "Queen",
+            "Dowager Queen"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 245 AC or 246 AC, at King's Landing",
+        "died": "In 284 AC, at Dragonstone",
+        "spouse": "King Aerys II Targaryen",
+        "issue": [
+            "Rhaegar Targaryen",
+            "Shaena Targaryen",
+            "Daeron Targaryen",
+            "Stillborn child",
+            "Aegon Targaryen",
+            "Jaehaerys Targaryen",
+            "Viserys Targaryen",
+            "Daenerys Targaryen"
+        ]
+    },
+    "Rhaella_Targaryen_(daughter_of_Aegon)": {
+        "id": "Rhaella_Targaryen_(daughter_of_Aegon)",
+        "name": "Rhaella Targaryen (daughter of Aegon)",
+        "title": [
+            "Princess",
+            "Septa"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Faith of the Seven"
+        ],
+        "culture": "crownlands",
+        "born": "In 42 AC, at Casterly Rock",
+        "died": "In 58 AC or after"
+    },
+    "Rhaelle_Targaryen": {
+        "id": "Rhaelle_Targaryen",
+        "name": "Rhaelle Targaryen",
+        "title": "Princess",
+        "allegiance": [
+            "House Targaryen",
+            "House Baratheon"
+        ],
+        "culture": "Crownlands",
+        "born": "In or between 229 AC and 233 AC",
+        "died": "In or after 246 AC",
+        "spouse": "Lord Ormund Baratheon",
+        "issue": "Steffon Baratheon"
+    },
+    "Rhaena_Targaryen_(daughter_of_Aenys_I)": {
+        "id": "Rhaena_Targaryen_(daughter_of_Aenys_I)",
+        "name": "Rhaena Targaryen (daughter of Aenys I)",
+        "alias": [
+            "Black Bride",
+            "The Queen in the West",
+            "The Queen in the East"
+        ],
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 23 AC, at Dragonstone",
+        "died": "In 73 AC, at Harrenhal",
+        "spouse": [
+            "1st: Prince",
+            "Aegon Targaryen",
+            "2nd: King",
+            "Maegor I Targaryen",
+            "3rd:",
+            "Androw Farman"
+        ],
+        "issue": [
+            "Aerea Targaryen",
+            "Rhaella Targaryen"
+        ]
+    },
+    "Rhaena_Targaryen_(daughter_of_Daemon)": {
+        "id": "Rhaena_Targaryen_(daughter_of_Daemon)",
+        "name": "Rhaena Targaryen (daughter of Daemon)",
+        "alias": [
+            "Rhaena of Pentos",
+            "Rhaena Corbray",
+            "Rhae"
+        ],
+        "title": [
+            "Lady",
+            "Princess"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "House Corbray",
+            "House Hightower",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 116 AC, at Pentos",
+        "spouse": [
+            "1st: Ser",
+            "Corwyn Corbray",
+            "2nd:",
+            "Garmund Hightower"
+        ],
+        "issue": "6 daughters by Garmund Hightower"
+    },
+    "Rhaena_Targaryen_(daughter_of_Aegon_III)": {
+        "id": "Rhaena_Targaryen_(daughter_of_Aegon_III)",
+        "name": "Rhaena Targaryen (daughter of Aegon III)",
+        "title": [
+            "Princess",
+            "Septa"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Faith of the Seven"
+        ],
+        "culture": "Crownlands",
+        "born": "In 147 AC",
+        "died": "In or after 171 AC"
+    },
+    "Rhaenyra_Targaryen": {
+        "id": "Rhaenyra_Targaryen",
+        "name": "Rhaenyra Targaryen",
+        "alias": [
+            "The Realm's Delight",
+            "The whore of Dragonstone",
+            "King Maegor with teats",
+            "The Half-Year Queen",
+            "Rhaenyra the Pretender",
+            "Queen Rhaenyra"
+        ],
+        "title": [
+            "Princess of Dragonstone",
+            "Queen of the Andals, the Rhoynar, and the First Men",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 97 AC",
+        "died": "In 130 AC, at Dragonstone",
+        "spouse": [
+            "1st: Ser",
+            "Laenor Velaryon",
+            "2nd: Prince",
+            "Daemon Targaryen"
+        ],
+        "issue": [
+            "Jacaerys Velaryon",
+            "Lucerys Velaryon",
+            "Joffrey Velaryon",
+            "Aegon Targaryen",
+            "Viserys Targaryen",
+            "Visenya Targaryen"
+        ]
+    },
+    "Rhaenys_Targaryen": {
+        "id": "Rhaenys_Targaryen",
+        "name": "Rhaenys Targaryen",
+        "title": "Queen",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 25BC or 26BC, at Dragonstone",
+        "died": "In 10 AC, at Hellholt",
+        "spouse": "King Aegon I Targaryen",
+        "issue": "Aenys I Targaryen"
+    },
+    "Rhaenys_Targaryen_(daughter_of_Aemon)": {
+        "id": "Rhaenys_Targaryen_(daughter_of_Aemon)",
+        "name": "Rhaenys Targaryen (daughter of Aemon)",
+        "alias": "The Queen Who Never Was",
+        "title": "Princess",
+        "allegiance": [
+            "House Targaryen",
+            "House Velaryon",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 74 AC",
+        "died": "In 129 AC, at Rook's Rest",
+        "spouse": "Lord Corlys Velaryon",
+        "issue": [
+            "Laena Velaryon",
+            "Laenor Velaryon"
+        ]
+    },
+    "Rhaenys_Targaryen_(daughter_of_Rhaegar)": {
+        "id": "Rhaenys_Targaryen_(daughter_of_Rhaegar)",
+        "name": "Rhaenys Targaryen (daughter of Rhaegar)",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "born": "In 280 AC, at Dragonstone",
+        "died": "In 283 AC, at King's Landing"
+    },
+    "Rhea_Florent": {
+        "id": "Rhea_Florent",
+        "name": "Rhea Florent",
+        "title": "Lady of the Hightower",
+        "allegiance": [
+            "House Florent",
+            "House Hightower"
+        ],
+        "culture": "Reach",
+        "spouse": "Lord Leyton Hightower"
+    },
+    "Rhea_Royce": {
+        "id": "Rhea_Royce",
+        "name": "Rhea Royce",
+        "alias": "Bronze bitch",
+        "title": "Lady of Runestone",
+        "allegiance": [
+            "House Royce",
+            "House Targaryen"
+        ],
+        "culture": "Valemen",
+        "died": "In 115 AC, at the Vale",
+        "spouse": "Prince Daemon Targaryen"
+    },
+    "Rhialta_Vance": {
+        "id": "Rhialta_Vance",
+        "name": "Rhialta Vance",
+        "allegiance": "House Vance of Wayfarer's Rest",
+        "culture": "Rivermen"
+    },
+    "Rhodry": {
+        "id": "Rhodry",
+        "name": "Rhodry",
+        "title": "Maester at Castle Cerwyn",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Cerwyn"
+        ]
+    },
+    "Rhogar_Velaryon": {
+        "id": "Rhogar_Velaryon",
+        "name": "Rhogar Velaryon",
+        "title": "Ser",
+        "allegiance": [
+            "House Velaryon",
+            "Night's Watch"
+        ],
+        "culture": "crownlands",
+        "died": "In or after 132 AC"
+    },
+    "Rhogoro": {
+        "id": "Rhogoro",
+        "name": "Rhogoro",
+        "title": "Khalakka",
+        "culture": "Dothraki"
+    },
+    "Rhonda_Rowan": {
+        "id": "Rhonda_Rowan",
+        "name": "Rhonda Rowan",
+        "allegiance": [
+            "House Rowan",
+            "House Hightower"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Baelor Hightower"
+    },
+    "Ricasso": {
+        "id": "Ricasso",
+        "name": "Ricasso",
+        "title": "Seneschal of Sunspear",
+        "allegiance": "House Martell"
+    },
+    "Richard_Farrow": {
+        "id": "Richard_Farrow",
+        "name": "Richard Farrow",
+        "title": "Ser",
+        "allegiance": "House Farrow",
+        "died": "In 299 AC, at the Battle of the Blackwater"
+    },
+    "Richard_Horpe": {
+        "id": "Richard_Horpe",
+        "name": "Richard Horpe",
+        "alias": [
+            "wrong-way ranger",
+            "the slayer",
+            "the knight of the moths"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "House Horpe",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ]
+    },
+    "Richard_Lonmouth": {
+        "id": "Richard_Lonmouth",
+        "name": "Richard Lonmouth",
+        "alias": "The Knight of Skulls and Kisses",
+        "title": "Ser",
+        "allegiance": "House Lonmouth",
+        "culture": "Stormlands"
+    },
+    "Richard_Morrigen": {
+        "id": "Richard_Morrigen",
+        "name": "Richard Morrigen",
+        "title": "Ser",
+        "allegiance": "House Morrigen",
+        "culture": "Stormlander"
+    },
+    "Richard_Rodden": {
+        "id": "Richard_Rodden",
+        "name": "Richard Rodden",
+        "title": "Lord/Ser[N 1]",
+        "allegiance": [
+            "House Rodden",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Richard_Roote": {
+        "id": "Richard_Roote",
+        "name": "Richard Roote",
+        "title": "Ser",
+        "allegiance": [
+            "House Roote",
+            "Kingsguard"
+        ],
+        "culture": "Rivermen"
+    },
+    "Rickard_Karstark": {
+        "id": "Rickard_Karstark",
+        "name": "Rickard Karstark",
+        "title": "Lord of Karhold",
+        "allegiance": "House Karstark",
+        "culture": "Northmen",
+        "born": "At Karhold",
+        "died": "In 299 AC, at Riverrun (executed)",
+        "issue": [
+            "Harrion Karstark",
+            "Eddard Karstark",
+            "Torrhen Karstark",
+            "Alys Karstark"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 3"
+    },
+    "Rickard_Liddle": {
+        "id": "Rickard_Liddle",
+        "name": "Rickard Liddle",
+        "alias": "Little Liddle",
+        "allegiance": "House Liddle",
+        "culture": "Northern mountain clans"
+    },
+    "Rickard_Redwyne": {
+        "id": "Rickard_Redwyne",
+        "name": "Rickard Redwyne",
+        "title": "Ser",
+        "allegiance": "House Redwyne",
+        "culture": "Reach"
+    },
+    "Rickard_Rowan": {
+        "id": "Rickard_Rowan",
+        "name": "Rickard Rowan",
+        "title": "Lord of Goldengrove",
+        "allegiance": "House Rowan",
+        "culture": "Reach"
+    },
+    "Rickard_Ryswell": {
+        "id": "Rickard_Ryswell",
+        "name": "Rickard Ryswell",
+        "allegiance": "House Ryswell",
+        "culture": "Northmen"
+    },
+    "Rickard_Stark_(King)": {
+        "id": "Rickard_Stark_(King)",
+        "name": "Rickard Stark (king)",
+        "alias": "The Laughing Wolf",
+        "culture": "Northmen",
+        "father": "Jon Stark",
+        "title": "King in the North",
+        "spouse": "Daughter of the Marsh King"
+    },
+    "Rickard_Stark": {
+        "id": "Rickard_Stark",
+        "name": "Rickard Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or between 230 AC and 249 AC, at Winterfell",
+        "died": "In 282 AC, at the Red Keep, King's Landing",
+        "spouse": "Lady Lyarra Stark",
+        "issue": [
+            "Brandon Stark",
+            "Eddard Stark",
+            "Lyanna Stark",
+            "Benjen Stark"
+        ],
+        "tv series": "Season 6"
+    },
+    "Rickard_Thorne": {
+        "id": "Rickard_Thorne",
+        "name": "Rickard Thorne",
+        "alias": "False knight",
+        "title": "Ser",
+        "allegiance": [
+            "House Thorne",
+            "Kingsguard",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "died": "In 130 AC, at Bitterbridge"
+    },
+    "Rickard_Tyrell": {
+        "id": "Rickard_Tyrell",
+        "name": "Rickard Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Rickard_Wylde": {
+        "id": "Rickard_Wylde",
+        "name": "Rickard Wylde",
+        "allegiance": "House Wylde",
+        "born": "In 295 AC"
+    },
+    "Rickon_Stark": {
+        "id": "Rickon_Stark",
+        "name": "Rickon Stark",
+        "title": "Prince",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 295 AC, at Winterfell",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 6"
+    },
+    "Rickon_Stark_(son_of_Benjen)": {
+        "id": "Rickon_Stark_(son_of_Benjen)",
+        "name": "Rickon Stark (son of Benjen)",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or before 96 AC",
+        "died": "In 121 AC",
+        "spouse": "Lady Gilliane Glover",
+        "issue": [
+            "Cregan Stark",
+            "Son",
+            "Sara Snow"
+        ]
+    },
+    "Rickon_Stark_(son_of_Cregan)": {
+        "id": "Rickon_Stark_(son_of_Cregan)",
+        "name": "Rickon Stark (son of Cregan)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 128 AC",
+        "died": "In 157 161 AC, at Sunspear",
+        "spouse": "Jeyne Manderly",
+        "issue": [
+            "Serena Stark",
+            "Sansa Stark"
+        ]
+    },
+    "Rigney": {
+        "id": "Rigney",
+        "name": "Rigney",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Rob": {
+        "id": "Rob",
+        "name": "Rob",
+        "alias": "Big Rob",
+        "allegiance": "House Osgrey"
+    },
+    "Rob_the_Starvling": {
+        "id": "Rob_the_Starvling",
+        "name": "Rob the Starvling",
+        "alias": "Rob the Starvling",
+        "allegiance": [
+            "Poor Fellows",
+            "Night's Watch"
+        ],
+        "culture": "Westerosi"
+    },
+    "Robar_Royce": {
+        "id": "Robar_Royce",
+        "name": "Robar Royce",
+        "alias": "Robar the Red",
+        "title": "Ser",
+        "allegiance": [
+            "House Royce",
+            "Rainbow Guard"
+        ],
+        "culture": "Valemen",
+        "born": "In 277 AC (roughly), at Runestone",
+        "died": "In 299 AC, at near Storm's End",
+        "tv series": "Season 2"
+    },
+    "Robar_II_Royce": {
+        "id": "Robar_II_Royce",
+        "name": "Robar II Royce",
+        "culture": "First Men",
+        "died": "Giant's Lance",
+        "title": [
+            "High King of the Vale, the Fingers, and the Mountains of the Moon",
+            "Bronze King"
+        ]
+    },
+    "Robard_Cerwyn": {
+        "id": "Robard_Cerwyn",
+        "name": "Robard Cerwyn",
+        "allegiance": "House Cerwyn",
+        "culture": "Northmen",
+        "spouse": "Aregelle Stark",
+        "issue": "Children"
+    },
+    "Robb_Reyne": {
+        "id": "Robb_Reyne",
+        "name": "Robb Reyne",
+        "title": "Ser",
+        "allegiance": [
+            "House Reyne",
+            "House Blackfyre"
+        ],
+        "culture": "Westermen"
+    },
+    "Robb_Rivers": {
+        "id": "Robb_Rivers",
+        "name": "Robb Rivers",
+        "alias": [
+            "Red Robb Rivers",
+            "The Bowman of Raventree"
+        ],
+        "allegiance": [
+            "House Blackwood",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "born": "At the riverlands"
+    },
+    "Robb_Stark": {
+        "id": "Robb_Stark",
+        "name": "Robb Stark",
+        "alias": [
+            "The Young Wolf",
+            "Robb the Lord",
+            "The wolfling",
+            "The pup",
+            "Robb the boy",
+            "The Boy Wolf",
+            "The King Who Lost the North"
+        ],
+        "father": "Eddard Stark",
+        "mother": "Catelyn Stark",
+        "tv series": "Season 1 | Season 2 | Season 3",
+        "born": "283 AC Riverrun",
+        "died": "299 AC the Twins",
+        "title": [
+            "King in the North",
+            "King of the Trident",
+            "Lord of Winterfell"
+        ],
+        "spouse": "Jeyne Westerling"
+    },
+    "Robert_Arryn": {
+        "id": "Robert_Arryn",
+        "name": "Robert Arryn",
+        "alias": [
+            "True Warden of the East",
+            "Sweetrobin"
+        ],
+        "title": [
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East"
+        ],
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In 292 AC",
+        "tv series": "Season 1 | Season 4 | Season 5 | Season 6 | Season 8"
+    },
+    "Robert_Ashford": {
+        "id": "Robert_Ashford",
+        "name": "Robert Ashford",
+        "title": "Ser",
+        "allegiance": "House Ashford",
+        "culture": "Reach",
+        "born": "At Ashford"
+    },
+    "Robert_I_Baratheon": {
+        "id": "Robert_I_Baratheon",
+        "name": "Robert I Baratheon",
+        "alias": [
+            "The",
+            "Usurper",
+            "Demon of the",
+            "Trident",
+            "The Whoremonger King",
+            "Rob"
+        ],
+        "issue": [
+            "Joffrey Baratheon",
+            "(legally)",
+            "Myrcella Baratheon",
+            "(legally)",
+            "Tommen Baratheon",
+            "(legally)",
+            "Bastards:",
+            "Mya Stone",
+            "Bella",
+            "Gendry",
+            "Edric Storm",
+            "Unknown twins",
+            "Barra",
+            "9 others"
+        ],
+        "father": "Steffon Baratheon",
+        "mother": "Cassana Estermont",
+        "tv series": "Season 1",
+        "born": "262 AC Storm's End",
+        "died": "298 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Lord Paramount of the Stormlands",
+            "(granted to",
+            "Renly",
+            ")",
+            "Lord of Storm's End",
+            "(granted to",
+            "Renly",
+            ")",
+            "Ser"
+        ],
+        "spouse": "Cersei Lannister"
+    },
+    "Robert_Blackwood": {
+        "id": "Robert_Blackwood",
+        "name": "Robert Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "died": "In 300 AC, at Raventree Hall"
+    },
+    "Robert_Blackwood_(209)": {
+        "id": "Robert_Blackwood_(209)",
+        "name": "Robert Blackwood (209)",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen"
+    },
+    "Robert_Brax": {
+        "id": "Robert_Brax",
+        "name": "Robert Brax",
+        "title": "Ser",
+        "allegiance": "House Brax",
+        "culture": "Westermen",
+        "born": "In or before 277 AC",
+        "died": "In 299 AC, at the Red Fork"
+    },
+    "Robert_Brax_(son_of_Flement)": {
+        "id": "Robert_Brax_(son_of_Flement)",
+        "name": "Robert Brax (son of Flement)",
+        "allegiance": "House Brax",
+        "culture": "Westermen",
+        "born": "In 290 AC"
+    },
+    "Robert_Darklyn": {
+        "id": "Robert_Darklyn",
+        "name": "Robert Darklyn",
+        "title": "Ser",
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Robert_Flowers": {
+        "id": "Robert_Flowers",
+        "name": "Robert Flowers",
+        "alias": "Red Robert Flowers",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": "Kingsguard",
+        "culture": "Reach"
+    },
+    "Robert_Frey_(son_of_Rhaegar)": {
+        "id": "Robert_Frey_(son_of_Rhaegar)",
+        "name": "Robert Frey (son of Rhaegar)",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 286 AC"
+    },
+    "Robert_Frey_(son_of_Raymund)": {
+        "id": "Robert_Frey_(son_of_Raymund)",
+        "name": "Robert Frey (son of Raymund)",
+        "title": "Acolyte",
+        "allegiance": [
+            "House Frey",
+            "The",
+            "Citadel"
+        ],
+        "culture": "Rivermen",
+        "born": "In 283 AC"
+    },
+    "Robert_Paege": {
+        "id": "Robert_Paege",
+        "name": "Robert Paege",
+        "title": "Ser",
+        "allegiance": "House Paege",
+        "culture": "Rivermen"
+    },
+    "Robert_Quince": {
+        "id": "Robert_Quince",
+        "name": "Robert Quince",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Dragonstone"
+        ],
+        "allegiance": "Blacks",
+        "died": "In 130 AC, at Dragonstone"
+    },
+    "Robert_Redwyne": {
+        "id": "Robert_Redwyne",
+        "name": "Robert Redwyne",
+        "title": [
+            "Ser",
+            "Commander of the City Watch",
+            "Lord of the Arbor"
+        ],
+        "allegiance": [
+            "House Redwyne",
+            "City Watch of King's Landing"
+        ],
+        "culture": "Reach",
+        "died": "In 89 AC"
+    },
+    "Robert_Reyne": {
+        "id": "Robert_Reyne",
+        "name": "Robert Reyne",
+        "title": "Lord of Castamere",
+        "allegiance": "House Reyne",
+        "died": "In 233 AC, at Starpike",
+        "issue": [
+            "Roger Reyne",
+            "Reynard Reyne",
+            "Ellyn Reyne"
+        ]
+    },
+    "Robert_Rowan": {
+        "id": "Robert_Rowan",
+        "name": "Robert Rowan",
+        "title": "Ser",
+        "allegiance": "House Rowan",
+        "culture": "Reach",
+        "born": "In 89 119 AC",
+        "died": "In 134 AC, at the Mountains of the Moon"
+    },
+    "Robert_Stone": {
+        "id": "Robert_Stone",
+        "name": "Robert Stone",
+        "title": "Ser"
+    },
+    "Robert_Tyrell": {
+        "id": "Robert_Tyrell",
+        "name": "Robert Tyrell",
+        "title": [
+            "High Steward of Highgarden",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "House Gardener"
+        ],
+        "culture": "Reach",
+        "issue": "Lorent Tyrell"
+    },
+    "Robert_Vance": {
+        "id": "Robert_Vance",
+        "name": "Robert Vance",
+        "title": "River king/King of the Trident",
+        "allegiance": "House Vance",
+        "culture": "Rivermen"
+    },
+    "Robeson": {
+        "id": "Robeson",
+        "name": "Robeson",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven"
+    },
+    "Robett_Glover": {
+        "id": "Robett_Glover",
+        "name": "Robett Glover",
+        "allegiance": "House Glover",
+        "culture": "Northmen",
+        "born": "At Deepwood Motte",
+        "spouse": "Sybelle Glover",
+        "issue": [
+            "Gawen Glover",
+            "Erena Glover"
+        ],
+        "tv series": "Season 6 | Season 7"
+    },
+    "Robin": {
+        "id": "Robin",
+        "name": "Robin",
+        "culture": "Rivermen",
+        "died": "In 260 AC, at Stepstones"
+    },
+    "Robin_(Flea_Bottom)": {
+        "id": "Robin_(Flea_Bottom)",
+        "name": "Robin (Flea Bottom)",
+        "culture": "Crownlands"
+    },
+    "Robin_Arryn": {
+        "id": "Robin_Arryn",
+        "name": "Robin Arryn",
+        "culture": "Andal",
+        "title": "King of Mountain and Vale"
+    },
+    "Robin_Darklyn": {
+        "id": "Robin_Darklyn",
+        "name": "Robin Darklyn",
+        "alias": "Darkrobin",
+        "title": "Ser",
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands",
+        "died": "In 10 48 AC"
+    },
+    "Robin_Flint": {
+        "id": "Robin_Flint",
+        "name": "Robin Flint",
+        "title": "Lord of Flint's Finger",
+        "allegiance": [
+            "House Flint of Widow's Watch",
+            "House Flint of Flint's Finger"
+        ],
+        "culture": "Northmen",
+        "died": "In 299 AC, at the Twins"
+    },
+    "Robin_Greyjoy": {
+        "id": "Robin_Greyjoy",
+        "name": "Robin Greyjoy",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "born": "In or between 269 AC and 283 AC",
+        "died": "At Pyke"
+    },
+    "Robin_Hill": {
+        "id": "Robin_Hill",
+        "name": "Robin Hill",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": "Night's Watch"
+    },
+    "Robin_Hollard": {
+        "id": "Robin_Hollard",
+        "name": "Robin Hollard",
+        "allegiance": "House Hollard",
+        "culture": "Crownlands",
+        "died": "In 277 AC, at Duskendale"
+    },
+    "Robin_Massey": {
+        "id": "Robin_Massey",
+        "name": "Robin Massey",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Massey",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands",
+        "died": "In 133 AC, at King's Landing"
+    },
+    "Robin_Moreland": {
+        "id": "Robin_Moreland",
+        "name": "Robin Moreland",
+        "title": "Lord",
+        "allegiance": "House Moreland",
+        "culture": "westermen"
+    },
+    "Robin_Peasebury": {
+        "id": "Robin_Peasebury",
+        "name": "Robin Peasebury",
+        "alias": "Lord Pea Pord",
+        "title": "Lord of Poddingfield",
+        "allegiance": [
+            "House Peasebury",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Stormlander"
+    },
+    "Robin_Penrose": {
+        "id": "Robin_Penrose",
+        "name": "Robin Penrose",
+        "allegiance": "House Penrose",
+        "culture": "Stormlander",
+        "born": "In or between 184 AC and ~197 AC"
+    },
+    "Robin_Potter": {
+        "id": "Robin_Potter",
+        "name": "Robin Potter",
+        "title": "Ser",
+        "allegiance": "House Potter"
+    },
+    "Robin_Ryger": {
+        "id": "Robin_Ryger",
+        "name": "Robin Ryger",
+        "title": [
+            "Ser",
+            "Captain of the guards",
+            "at",
+            "Riverrun"
+        ],
+        "allegiance": [
+            "House Ryger",
+            "House Tully",
+            "Night's Watch"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 237 AC and 240 AC (roughly)"
+    },
+    "Robyn_Rhysling": {
+        "id": "Robyn_Rhysling",
+        "name": "Robyn Rhysling",
+        "title": "Ser",
+        "allegiance": "House Rhysling",
+        "culture": "Reach"
+    },
+    "Robin_Shaw": {
+        "id": "Robin_Shaw",
+        "name": "Robin Shaw",
+        "title": "Ser",
+        "allegiance": "Kingsguard"
+    },
+    "Robyn_Ryswell": {
+        "id": "Robyn_Ryswell",
+        "name": "Robyn Ryswell",
+        "allegiance": [
+            "House Ryswell",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "spouse": "Lord Jonnel Stark"
+    },
+    "Roderick_Blackwood": {
+        "id": "Roderick_Blackwood",
+        "name": "Roderick Blackwood",
+        "title": "Lord of Raventree Hall",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "died": "At Teats",
+        "spouse": "Unknown",
+        "issue": [
+            "Shiera Blackwood",
+            "Son",
+            "Daughter"
+        ]
+    },
+    "Roderick_Dustin": {
+        "id": "Roderick_Dustin",
+        "name": "Roderick Dustin",
+        "alias": "Roddy the Ruin",
+        "title": "Lord of Barrowton",
+        "allegiance": [
+            "House Dustin",
+            "Blacks"
+        ],
+        "culture": "Northmen",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Rodrik_Arryn": {
+        "id": "Rodrik_Arryn",
+        "name": "Rodrik Arryn",
+        "title": [
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East",
+            "Master of laws",
+            "Lord justiciar"
+        ],
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In 44 AC",
+        "died": "In 82 97 AC",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Princess",
+            "Daella Targaryen"
+        ],
+        "issue": [
+            "Elys Arryn",
+            "Amanda Arryn",
+            "2 sons",
+            "Aemma Arryn"
+        ]
+    },
+    "Rodrik_Cassel": {
+        "id": "Rodrik_Cassel",
+        "name": "Rodrik Cassel",
+        "alias": "Old Ser Rodrik",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Winterfell",
+            "Castellan",
+            "of Winterfell"
+        ],
+        "allegiance": [
+            "House Cassel",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 248 AC",
+        "died": "In 299 AC, at Winterfell",
+        "spouse": "3 wives",
+        "issue": [
+            "Beth Cassel",
+            "Daughters"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 6"
+    },
+    "Rodrik_Flint": {
+        "id": "Rodrik_Flint",
+        "name": "Rodrik Flint",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Flint",
+            "Night's Watch"
+        ]
+    },
+    "Rodrik_Freeborn": {
+        "id": "Rodrik_Freeborn",
+        "name": "Rodrik Freeborn",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Rodrik_Greyjoy_(son_of_Dalton)": {
+        "id": "Rodrik_Greyjoy_(son_of_Dalton)",
+        "name": "Rodrik Greyjoy (son of Dalton)",
+        "title": [
+            "Lord Reaper of Pyke",
+            "(claimant)",
+            "Lord of the Iron Islands",
+            "(claimant)",
+            "Fool",
+            "at",
+            "Casterly Rock"
+        ],
+        "allegiance": [
+            "House Greyjoy",
+            "House Lannister"
+        ],
+        "culture": "ironborn"
+    },
+    "Rodrik_Greyjoy": {
+        "id": "Rodrik_Greyjoy",
+        "name": "Rodrik Greyjoy",
+        "title": "Captain",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "born": "In or between 268 AC and 274 AC",
+        "died": "In 289 AC, at Seagard"
+    },
+    "Rodrik_Harlaw": {
+        "id": "Rodrik_Harlaw",
+        "name": "Rodrik Harlaw",
+        "alias": "The Reader",
+        "title": [
+            "Harlaw of Harlaw",
+            "Lord of Harlaw",
+            "Lord of Ten Towers",
+            "Captain of",
+            "Sea Song"
+        ],
+        "allegiance": "House Harlaw",
+        "culture": "ironborn",
+        "born": "At Harlaw",
+        "spouse": "Unknown",
+        "issue": "2 sons"
+    },
+    "Rodrik_Ryswell": {
+        "id": "Rodrik_Ryswell",
+        "name": "Rodrik Ryswell",
+        "title": "Lord of the Rills",
+        "allegiance": "House Ryswell",
+        "culture": "Northmen",
+        "issue": [
+            "Bethany Ryswell",
+            "Barbrey Ryswell",
+            "Roger Ryswell",
+            "Rickard Ryswell",
+            "Roose Ryswell"
+        ]
+    },
+    "Rodrik_Sparr": {
+        "id": "Rodrik_Sparr",
+        "name": "Rodrik Sparr",
+        "alias": "The Vole",
+        "title": "Captain of the Grief",
+        "allegiance": "House Sparr",
+        "culture": "ironborn"
+    },
+    "Rodrik_Stark": {
+        "id": "Rodrik_Stark",
+        "name": "Rodrik Stark",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Rodrik_Stark_(son_of_Beron)": {
+        "id": "Rodrik_Stark_(son_of_Beron)",
+        "name": "Rodrik Stark (son of Beron)",
+        "alias": "The Wandering Wolf",
+        "allegiance": [
+            "House Stark",
+            "Second Sons"
+        ],
+        "culture": "Northmen",
+        "spouse": "Arya Flint",
+        "issue": [
+            "Branda Stark",
+            "Lyarra Stark"
+        ]
+    },
+    "Rodwell_Stark": {
+        "id": "Rodwell_Stark",
+        "name": "Rodwell Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 152 AC",
+        "died": "In or between 184 212 AC",
+        "spouse": "Lady Myriame Manderly"
+    },
+    "Roelle": {
+        "id": "Roelle",
+        "name": "Roelle",
+        "title": "Septa",
+        "allegiance": [
+            "House Tarth",
+            "Faith of the Seven"
+        ]
+    },
+    "Rogar_Baratheon": {
+        "id": "Rogar_Baratheon",
+        "name": "Rogar Baratheon",
+        "title": [
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands",
+            "Protector of the Realm",
+            "Hand of the King"
+        ],
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 17 AC",
+        "died": "In 62 AC, at Storm's End",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Lady",
+            "Alyssa Velaryon"
+        ],
+        "issue": [
+            "Boremund Baratheon",
+            "Jocelyn Baratheon"
+        ]
+    },
+    "Rogar_Bolton": {
+        "id": "Rogar_Bolton",
+        "name": "Rogar Bolton",
+        "alias": "Rogar the Huntsman",
+        "culture": "Northmen",
+        "issue": "Sons",
+        "title": "Red King"
+    },
+    "Roger_of_Pennytree": {
+        "id": "Roger_of_Pennytree",
+        "name": "Roger of Pennytree",
+        "culture": "Rivermen",
+        "born": "At Pennytree",
+        "died": "In 196 AC, at the Redgrass Field"
+    },
+    "Roger_Blackwood": {
+        "id": "Roger_Blackwood",
+        "name": "Roger Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen"
+    },
+    "Roger_Corne": {
+        "id": "Roger_Corne",
+        "name": "Roger Corne",
+        "title": "Ser",
+        "allegiance": [
+            "blacks",
+            "greens"
+        ],
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Roger_Hogg": {
+        "id": "Roger_Hogg",
+        "name": "Roger Hogg",
+        "title": [
+            "Ser",
+            "Knight of Sow's Horn"
+        ],
+        "allegiance": "House Hogg",
+        "culture": "Crownlands"
+    },
+    "Roger_Reyne": {
+        "id": "Roger_Reyne",
+        "name": "Roger Reyne",
+        "alias": "The Red Lion",
+        "title": [
+            "Ser",
+            "Lord of Castamere"
+        ],
+        "allegiance": "House Reyne",
+        "culture": "Westermen",
+        "born": "In or before 218 AC",
+        "died": "In 261 AC, at Castamere"
+    },
+    "Roger_Ryswell": {
+        "id": "Roger_Ryswell",
+        "name": "Roger Ryswell",
+        "allegiance": "House Ryswell",
+        "culture": "Northmen"
+    },
+    "Roggerio_Rogare": {
+        "id": "Roggerio_Rogare",
+        "name": "Roggerio Rogare",
+        "alias": "Lord Roggerio",
+        "title": [
+            "Lord",
+            "Captain of the",
+            "Mermaid's Daughter"
+        ],
+        "allegiance": "House Rogare",
+        "culture": "Lysene"
+    },
+    "Roggo": {
+        "id": "Roggo",
+        "name": "Roggo",
+        "alias": "Red Roggo",
+        "culture": "Braavosi"
+    },
+    "Roggon_Rustbeard": {
+        "id": "Roggon_Rustbeard",
+        "name": "Roggon Rustbeard",
+        "alias": "Roggon Rustbeard",
+        "culture": "ironborn"
+    },
+    "Rogin": {
+        "id": "Rogin",
+        "name": "Rogin",
+        "alias": "Rogin Salt-Beard",
+        "culture": "ironborn"
+    },
+    "Rognar_II_Greyiron": {
+        "id": "Rognar_II_Greyiron",
+        "name": "Rognar II Greyiron",
+        "culture": "ironborn",
+        "title": [
+            "Iron King",
+            "King of the Iron Islands"
+        ]
+    },
+    "Rogo": {
+        "id": "Rogo",
+        "name": "Rogo",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Rohanne_of_Tyrosh": {
+        "id": "Rohanne_of_Tyrosh",
+        "name": "Rohanne of Tyrosh",
+        "allegiance": "House Blackfyre",
+        "culture": "Tyroshi",
+        "died": "In or after 212 AC",
+        "spouse": "Daemon I Blackfyre",
+        "issue": [
+            "Aegon Blackfyre",
+            "Aemon Blackfyre",
+            "Daemon II Blackfyre",
+            "Haegon I Blackfyre",
+            "Aenys Blackfyre",
+            "Calla Blackfyre",
+            "2 sons",
+            "Daughter(s)"
+        ]
+    },
+    "Rohanne_Tarbeck": {
+        "id": "Rohanne_Tarbeck",
+        "name": "Rohanne Tarbeck",
+        "allegiance": [
+            "House Tarbeck",
+            "silent sisters"
+        ],
+        "culture": "Westermen",
+        "born": "In 240 AC",
+        "issue": "last Lord Tarbeck"
+    },
+    "Rohanne_Webber": {
+        "id": "Rohanne_Webber",
+        "name": "Rohanne Webber",
+        "alias": "The Red Widow",
+        "title": [
+            "Lady of Coldmoat",
+            "Lady of",
+            "Standfast",
+            "Lady of",
+            "Casterly Rock"
+        ],
+        "allegiance": [
+            "House Webber",
+            "House Staunton",
+            "House Uffering",
+            "House Osgrey",
+            "House Lannister"
+        ],
+        "culture": "Reach",
+        "born": "In 185 AC or 186 AC",
+        "died": "In or after 230 AC",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown",
+            "3rd: Ser",
+            "Simon Staunton",
+            "4th: Ser",
+            "Rolland Uffering",
+            "5th: Ser",
+            "Eustace Osgrey",
+            "6th: Lord",
+            "Gerold Lannister"
+        ],
+        "issue": [
+            "1 son",
+            "1 daughter",
+            "Tywald Lannister",
+            "Tion Lannister",
+            "Tytos Lannister",
+            "Jason Lannister"
+        ]
+    },
+    "Roland_of_the_Horn": {
+        "id": "Roland_of_the_Horn",
+        "name": "Roland of the Horn",
+        "alias": "Roland of the Horn",
+        "title": "Ser"
+    },
+    "Roland_I_Arryn": {
+        "id": "Roland_I_Arryn",
+        "name": "Roland I Arryn",
+        "culture": "Andal",
+        "issue": "Son",
+        "died": "the Vale",
+        "title": [
+            "King of Mountain and Vale",
+            "Ser"
+        ],
+        "spouse": "Teora Hunter"
+    },
+    "Roland_II_Arryn": {
+        "id": "Roland_II_Arryn",
+        "name": "Roland II Arryn",
+        "culture": "Andal",
+        "died": "Oldstones",
+        "title": "King of Mountain and Vale"
+    },
+    "Roland_Blackwood": {
+        "id": "Roland_Blackwood",
+        "name": "Roland Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen"
+    },
+    "Roland_Crakehall_(Lord)": {
+        "id": "Roland_Crakehall_(Lord)",
+        "name": "Roland Crakehall (lord)",
+        "title": "Lord of Crakehall",
+        "allegiance": "House Crakehall",
+        "culture": "Westermen",
+        "issue": [
+            "Tybolt Crakehall",
+            "Lyle Crakehall",
+            "Merlon Crakehall"
+        ]
+    },
+    "Roland_Crakehall_(Kingsguard)": {
+        "id": "Roland_Crakehall_(Kingsguard)",
+        "name": "Roland Crakehall (Kingsguard)",
+        "title": "Ser",
+        "allegiance": [
+            "House Crakehall",
+            "Kingsguard"
+        ],
+        "culture": "Westermen"
+    },
+    "Roland_Darry": {
+        "id": "Roland_Darry",
+        "name": "Roland Darry",
+        "title": "Lord of Darry",
+        "allegiance": [
+            "House Darry",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 131 AC, at the Kingsroad"
+    },
+    "Roland_Waynwood": {
+        "id": "Roland_Waynwood",
+        "name": "Roland Waynwood",
+        "title": "Ser",
+        "allegiance": "House Waynwood",
+        "culture": "Valemen",
+        "born": "In or between 274 AC and 281 AC"
+    },
+    "Roland_Westerling": {
+        "id": "Roland_Westerling",
+        "name": "Roland Westerling",
+        "title": [
+            "Lord of the",
+            "Crag",
+            "Lord Regent"
+        ],
+        "allegiance": "House Westerling",
+        "culture": "Westermen",
+        "died": "In 133 AC, at King's Landing",
+        "issue": "Johanna Westerling"
+    },
+    "Rolder": {
+        "id": "Rolder",
+        "name": "Rolder",
+        "allegiance": "House Lannister"
+    },
+    "Rolfe": {
+        "id": "Rolfe",
+        "name": "Rolfe"
+    },
+    "Rolfe_the_Dwarf": {
+        "id": "Rolfe_the_Dwarf",
+        "name": "Rolfe the Dwarf",
+        "alias": "Rolfe the Dwarf",
+        "culture": "Ironborn",
+        "died": "In 300 AC, at the woods outside Deepwood Motte"
+    },
+    "Rollam_Westerling": {
+        "id": "Rollam_Westerling",
+        "name": "Rollam Westerling",
+        "allegiance": "House Westerling",
+        "culture": "Westermen",
+        "born": "In 290 AC, at Crag"
+    },
+    "Rolland_Darklyn": {
+        "id": "Rolland_Darklyn",
+        "name": "Rolland Darklyn",
+        "title": "Ser",
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Rolland_Longthorpe": {
+        "id": "Rolland_Longthorpe",
+        "name": "Rolland Longthorpe",
+        "title": "Lord of Longsister",
+        "allegiance": "House Longthorpe"
+    },
+    "Rolland_Storm": {
+        "id": "Rolland_Storm",
+        "name": "Rolland Storm",
+        "alias": "The Bastard of Nightsong",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Dragonstone",
+            "Lord of Nightsong",
+            "(claimant)",
+            "Lord of the Marches",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "House Caron",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Marcher"
+    },
+    "Rolland_Uffering": {
+        "id": "Rolland_Uffering",
+        "name": "Rolland Uffering",
+        "title": "Ser",
+        "allegiance": "House Uffering",
+        "culture": "Reach",
+        "died": "In 209 AC or 210 AC",
+        "spouse": "Lady Rohanne Webber",
+        "issue": "Daughter (possibly)[N 1]"
+    },
+    "Rolley": {
+        "id": "Rolley",
+        "name": "Rolley of Sisterton",
+        "allegiance": "Night's Watch",
+        "culture": "Sistermen",
+        "born": "At Sisterton",
+        "died": "In 299 AC, at Craster's Keep"
+    },
+    "Rollo": {
+        "id": "Rollo",
+        "name": "Rollo",
+        "title": "Septon",
+        "allegiance": "Faith of the Seven"
+    },
+    "Rolly_Duckfield": {
+        "id": "Rolly_Duckfield",
+        "name": "Rolly Duckfield",
+        "alias": [
+            "Duck",
+            "Ser Duck"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "House Caswell",
+            "(formerly)",
+            "Golden Company",
+            "(formerly)",
+            "House Targaryen",
+            "Kingsguard"
+        ],
+        "culture": "Reach",
+        "born": "In or before 280 AC, at Bitterbridge"
+    },
+    "Rolph_Spicer": {
+        "id": "Rolph_Spicer",
+        "name": "Rolph Spicer",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of the",
+            "Crag",
+            "Lord of Castamere"
+        ],
+        "allegiance": [
+            "House Spicer",
+            "House Westerling"
+        ],
+        "culture": "Westermen"
+    },
+    "Rommo": {
+        "id": "Rommo",
+        "name": "Rommo",
+        "title": "jaqqa rhan",
+        "allegiance": "House Targaryen",
+        "culture": "Dothraki"
+    },
+    "Romny_Weaver": {
+        "id": "Romny_Weaver",
+        "name": "Romny Weaver",
+        "allegiance": "House Weaver",
+        "culture": "ironborn"
+    },
+    "Ronald_Connington": {
+        "id": "Ronald_Connington",
+        "name": "Ronald Connington",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Griffin's Roost",
+            "Knight of Griffin's Roost"
+        ],
+        "allegiance": "House Connington",
+        "culture": "Stormlands",
+        "born": "In or before 262 AC",
+        "died": "In or between 292 AC and 298 AC",
+        "issue": [
+            "Ronnet Connington",
+            "Raymund Connington",
+            "Alynne Connington"
+        ]
+    },
+    "Ronald_Storm": {
+        "id": "Ronald_Storm",
+        "name": "Ronald Storm",
+        "allegiance": "House Connington",
+        "culture": "Stormlands",
+        "born": "In or after 286 AC"
+    },
+    "Ronald_Vance": {
+        "id": "Ronald_Vance",
+        "name": "Ronald Vance",
+        "alias": "Ronald the Bad",
+        "title": "Ser",
+        "allegiance": "House Vance of Atranta",
+        "culture": "Rivermen"
+    },
+    "Ronard_Storm": {
+        "id": "Ronard_Storm",
+        "name": "Ronard Storm",
+        "alias": "Ronard the Bastard",
+        "spouse": "Sister of Morden II",
+        "issue": "99 sons",
+        "title": [
+            "Storm King",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ]
+    },
+    "Ronel_Rivers": {
+        "id": "Ronel_Rivers",
+        "name": "Ronel Rivers",
+        "allegiance": "House Frey",
+        "culture": "Rivermen"
+    },
+    "Ronnal_Baratheon": {
+        "id": "Ronnal_Baratheon",
+        "name": "Ronnal Baratheon",
+        "title": "Ser",
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 19 25 AC",
+        "died": "In 59 AC or 60 AC",
+        "spouse": "Unknown",
+        "issue": [
+            "Sons",
+            "2 daughters"
+        ]
+    },
+    "Ronnel_Arryn_(king)": {
+        "id": "Ronnel_Arryn_(king)",
+        "name": "Ronnel Arryn (king)",
+        "alias": "The King Who Flew",
+        "spouse": "None",
+        "mother": "Queen Regent Sharra Arryn",
+        "died": "37 AC or shortly after the Eyrie",
+        "title": [
+            "King of Mountain and Vale",
+            "Lord of the Eyrie",
+            "Warden of the East"
+        ]
+    },
+    "Ronnel_Arryn_(son_of_Jasper)": {
+        "id": "Ronnel_Arryn_(son_of_Jasper)",
+        "name": "Ronnel Arryn (son of Jasper)",
+        "title": [
+            "Ser",
+            "Keeper of the Gates of the Moon"
+        ],
+        "allegiance": "House Arryn",
+        "born": "In or between 219 AC and 252 AC",
+        "spouse": "Lady Belmore",
+        "issue": "Elbert Arryn"
+    },
+    "Ronnel_Harclay": {
+        "id": "Ronnel_Harclay",
+        "name": "Ronnel Harclay",
+        "title": "First Ranger",
+        "allegiance": [
+            "House Harclay",
+            "Night's Watch"
+        ],
+        "culture": "Northern mountain clans"
+    },
+    "Ronnel_Penrose": {
+        "id": "Ronnel_Penrose",
+        "name": "Ronnel Penrose",
+        "title": [
+            "Lord of Parchments",
+            "Master of coin"
+        ],
+        "allegiance": "House Penrose",
+        "culture": "Stormlander",
+        "died": "In or between 188 AC and 209 AC",
+        "spouse": "Princess Elaena Targaryen",
+        "issue": [
+            "Robin Penrose",
+            "Laena Penrose",
+            "Jocelyn Penrose",
+            "Joy Penrose"
+        ]
+    },
+    "Ronnel_Stout": {
+        "id": "Ronnel_Stout",
+        "name": "Ronnel Stout",
+        "allegiance": "House Stout",
+        "culture": "Northmen"
+    },
+    "Ronnel_Vance": {
+        "id": "Ronnel_Vance",
+        "name": "Ronnel Vance",
+        "title": "Lord",
+        "allegiance": "House Vance",
+        "culture": "rivermen",
+        "died": "In 43 AC, at the Gods Eye"
+    },
+    "Ronnet_Connington": {
+        "id": "Ronnet_Connington",
+        "name": "Ronnet Connington",
+        "alias": "Red Ronnet",
+        "title": [
+            "Ser",
+            "Knight of Griffin's Roost"
+        ],
+        "allegiance": "House Connington",
+        "culture": "Stormlands",
+        "born": "In 274 AC",
+        "issue": "Ronald Storm"
+    },
+    "Rook": {
+        "id": "Rook",
+        "name": "Rook",
+        "culture": "ironborn"
+    },
+    "Roone": {
+        "id": "Roone",
+        "name": "Roone",
+        "title": "Novice",
+        "allegiance": "The Citadel",
+        "born": "In 286 AC"
+    },
+    "Roone_(maester)": {
+        "id": "Roone_(maester)",
+        "name": "Roone (maester)",
+        "title": "Maester at Castle Lychester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Lychester"
+        ]
+    },
+    "Roose_Bolton": {
+        "id": "Roose_Bolton",
+        "name": "Roose Bolton",
+        "alias": [
+            "Lord Leech",
+            "The Leech Lord",
+            "Lord of leeches"
+        ],
+        "title": [
+            "Lord of the Dreadfort",
+            "Warden of the North"
+        ],
+        "allegiance": "House Bolton",
+        "culture": "Northmen",
+        "born": "In 260 AC or before, at the Dreadfort",
+        "spouse": [
+            "1st: Unnamed",
+            "2nd: Lady",
+            "Bethany Ryswell",
+            "3rd: Lady",
+            "\"Fat\" Walda Frey"
+        ],
+        "issue": [
+            "Sons who died in the cradle",
+            "Domeric Bolton",
+            "Ramsay Snow",
+            "Unborn child"
+        ],
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Roose_Ryswell": {
+        "id": "Roose_Ryswell",
+        "name": "Roose Ryswell",
+        "allegiance": "House Ryswell",
+        "culture": "Northmen"
+    },
+    "Rorge": {
+        "id": "Rorge",
+        "name": "Rorge",
+        "alias": [
+            "Broken Nose",
+            "The Mad Dog of Saltpans",
+            "The",
+            "Hound",
+            "(II)"
+        ],
+        "allegiance": "Brave Companions",
+        "died": "In 300 AC, at the inn at the crossroads",
+        "tv series": "Season 1 | Season 2 | Season 4"
+    },
+    "Roro_Uhoris": {
+        "id": "Roro_Uhoris",
+        "name": "Roro Uhoris",
+        "alias": "The Blind Bastard",
+        "title": "Captain of Cobblecat",
+        "culture": "Tyroshi",
+        "died": "At Eastwatch-by-the-sea"
+    },
+    "Rory": {
+        "id": "Rory",
+        "name": "Rory",
+        "allegiance": "Night's Watch",
+        "culture": "Westerosi"
+    },
+    "Roryn_Drumm": {
+        "id": "Roryn_Drumm",
+        "name": "Roryn Drumm",
+        "alias": "Roryn the Reaver",
+        "allegiance": "House Drumm",
+        "culture": "ironborn"
+    },
+    "Rosamund_Ball": {
+        "id": "Rosamund_Ball",
+        "name": "Rosamund Ball",
+        "title": "Lady",
+        "allegiance": "House Ball",
+        "culture": "Reach",
+        "died": "In 51 AC, at Maidenpool"
+    },
+    "Rosamund_Darry": {
+        "id": "Rosamund_Darry",
+        "name": "Rosamund Darry",
+        "allegiance": "House Darry",
+        "culture": "Rivermen",
+        "born": "In 103 133 AC"
+    },
+    "Rosamund_Lannister": {
+        "id": "Rosamund_Lannister",
+        "name": "Rosamund Lannister",
+        "allegiance": "House Lannister of Lannisport",
+        "culture": "Westermen"
+    },
+    "Rose_of_Red_Lake": {
+        "id": "Rose_of_Red_Lake",
+        "name": "Rose of Red Lake",
+        "allegiance": "House Crane",
+        "culture": "Reach"
+    },
+    "Rosey": {
+        "id": "Rosey",
+        "name": "Rosey",
+        "culture": "Reach",
+        "born": "In 284 AC or 285 AC, at Oldtown"
+    },
+    "Rosey_(daughter_of_Aegon_IV)": {
+        "id": "Rosey_(daughter_of_Aegon_IV)",
+        "name": "Rosey (daughter of Aegon IV)",
+        "title": "Septa (possibly)",
+        "allegiance": "Faith of the Seven",
+        "culture": "Crownlands",
+        "born": "In 158 AC, at King's Landing"
+    },
+    "Roslin_Frey": {
+        "id": "Roslin_Frey",
+        "name": "Roslin Frey",
+        "alias": "Roslin Tully",
+        "title": "Lady of Riverrun (briefly)",
+        "allegiance": [
+            "House Frey",
+            "House Tully"
+        ],
+        "culture": "Rivermen",
+        "born": "In 282 AC or 283 AC",
+        "spouse": "Ser Edmure Tully",
+        "issue": "Unborn child",
+        "tv series": "Season 3"
+    },
+    "Rossart": {
+        "id": "Rossart",
+        "name": "Rossart",
+        "title": [
+            "Grand Master",
+            "Wisdom",
+            "Lord",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "Alchemists' Guild",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "died": "In 283 AC, at King's Landing"
+    },
+    "Rowan": {
+        "id": "Rowan",
+        "name": "Rowan",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Rowan_Gold-Tree": {
+        "id": "Rowan_Gold-Tree",
+        "name": "Rowan Gold-Tree",
+        "allegiance": "House Rowan",
+        "culture": "Reach",
+        "issue": "Lann the Clever (allegedly)"
+    },
+    "Rowena_Arryn": {
+        "id": "Rowena_Arryn",
+        "name": "Rowena Arryn",
+        "title": "Lady of the Eyrie",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "spouse": "Lord Jon Arryn"
+    },
+    "Rowley": {
+        "id": "Rowley",
+        "name": "Rowley",
+        "title": [
+            "Maester",
+            "Lord Confessor"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ]
+    },
+    "Roy_Connington": {
+        "id": "Roy_Connington",
+        "name": "Roy Connington",
+        "alias": "Red Roy Connington",
+        "title": "Lord of Griffin's Roost",
+        "allegiance": "House Connington",
+        "culture": "Stormlander",
+        "born": "In 67 AC",
+        "died": "In 93 AC or 94 AC"
+    },
+    "Royce_II_Bolton": {
+        "id": "Royce_II_Bolton",
+        "name": "Royce II Bolton",
+        "culture": "Northmen",
+        "title": "Red King"
+    },
+    "Royce_IV_Bolton": {
+        "id": "Royce_IV_Bolton",
+        "name": "Royce IV Bolton",
+        "alias": "Royce Redarm",
+        "culture": "Northmen",
+        "title": "Red King"
+    },
+    "Royce_Blackwood": {
+        "id": "Royce_Blackwood",
+        "name": "Royce Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen"
+    },
+    "Royce_Caron": {
+        "id": "Royce_Caron",
+        "name": "Royce Caron",
+        "title": [
+            "Lord of",
+            "Nightsong",
+            "Marshal of the Marches",
+            "Lord Regent"
+        ],
+        "allegiance": "House Caron",
+        "culture": "Marcher",
+        "born": "In or before 84 AC",
+        "died": "In or after 133 AC",
+        "issue": "Elenda Caron"
+    },
+    "Royce_Coldwater": {
+        "id": "Royce_Coldwater",
+        "name": "Royce Coldwater",
+        "title": "Lord of Coldwater Burn",
+        "allegiance": "House Coldwater"
+    },
+    "Rudge": {
+        "id": "Rudge",
+        "name": "Rudge",
+        "allegiance": "Night's Watch"
+    },
+    "Rue": {
+        "id": "Rue",
+        "name": "Rue",
+        "title": "Septa (possibly)"
+    },
+    "Rufus_Leek": {
+        "id": "Rufus_Leek",
+        "name": "Rufus Leek",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of the",
+            "Dun Fort"
+        ],
+        "allegiance": [
+            "House Leek",
+            "House Rykker"
+        ]
+    },
+    "Rugen": {
+        "id": "Rugen",
+        "name": "Rugen",
+        "alias": "Varys",
+        "title": "Undergaoler"
+    },
+    "Runceford_Redwyne": {
+        "id": "Runceford_Redwyne",
+        "name": "Runceford Redwyne",
+        "title": "Lord of the Arbor",
+        "allegiance": "House Redwyne",
+        "culture": "Reach",
+        "issue": [
+            "Son",
+            "Olenna Redwyne"
+        ]
+    },
+    "Runcel_Hightower": {
+        "id": "Runcel_Hightower",
+        "name": "Runcel Hightower",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Hightower",
+            "Night's Watch"
+        ],
+        "issue": "Bastard son"
+    },
+    "Runciter": {
+        "id": "Runciter",
+        "name": "Runciter",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel",
+        "died": "In 112 AC"
+    },
+    "Rupert_Brax": {
+        "id": "Rupert_Brax",
+        "name": "Rupert Brax",
+        "alias": "Rubert Brax",
+        "title": "Ser",
+        "allegiance": "House Brax",
+        "died": "In 299 AC, at Oxcross"
+    },
+    "Rupert_Crabb": {
+        "id": "Rupert_Crabb",
+        "name": "Rupert Crabb",
+        "title": "Ser",
+        "allegiance": [
+            "House Crabb",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Rupert_Falwell": {
+        "id": "Rupert_Falwell",
+        "name": "Rupert Falwell",
+        "alias": "The Fighting Fool",
+        "title": "Lord",
+        "allegiance": [
+            "House Falwell",
+            "Faith Militant"
+        ],
+        "culture": "Westermen",
+        "died": "In 42 AC, at the Great Fork of the Blackwater"
+    },
+    "Rus": {
+        "id": "Rus",
+        "name": "Rus",
+        "allegiance": "drowned men",
+        "culture": "ironborn"
+    },
+    "Russ_Barleycorn": {
+        "id": "Russ_Barleycorn",
+        "name": "Russ Barleycorn",
+        "title": "Captain",
+        "allegiance": "Night's Watch",
+        "culture": "Westerosi"
+    },
+    "Russell_Merryweather": {
+        "id": "Russell_Merryweather",
+        "name": "Russell Merryweather",
+        "allegiance": "House Merryweather",
+        "culture": "Reach",
+        "born": "In 293 AC or 294 AC, at Longtable"
+    },
+    "Russell_Stillman": {
+        "id": "Russell_Stillman",
+        "name": "Russell Stillman",
+        "title": "Ser",
+        "allegiance": "House Velaryon"
+    },
+    "Rusty_Flowers": {
+        "id": "Rusty_Flowers",
+        "name": "Rusty Flowers",
+        "allegiance": "Night's Watch",
+        "born": "At the Reach"
+    },
+    "Ryam": {
+        "id": "Ryam",
+        "name": "Ryam",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Ryam_Florent": {
+        "id": "Ryam_Florent",
+        "name": "Ryam Florent",
+        "title": "Ser",
+        "allegiance": "House Florent",
+        "issue": [
+            "Selyse Florent",
+            "Imry Florent",
+            "Erren Florent"
+        ]
+    },
+    "Ryam_Redwyne": {
+        "id": "Ryam_Redwyne",
+        "name": "Ryam Redwyne",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Redwyne",
+            "Kingsguard"
+        ],
+        "culture": "Reach",
+        "died": "In 105 AC, at King's Landing"
+    },
+    "Ryben": {
+        "id": "Ryben",
+        "name": "Ryben",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Rycherd_Crane": {
+        "id": "Rycherd_Crane",
+        "name": "Rycherd Crane",
+        "title": "Ser",
+        "allegiance": "House Crane",
+        "culture": "Reach",
+        "spouse": "Rylene Florent"
+    },
+    "Ryella_Frey": {
+        "id": "Ryella_Frey",
+        "name": "Ryella Frey",
+        "allegiance": "House Frey",
+        "born": "In 294 AC"
+    },
+    "Ryella_Royce": {
+        "id": "Ryella_Royce",
+        "name": "Ryella Royce",
+        "allegiance": [
+            "House Royce",
+            "House Frey"
+        ],
+        "spouse": "Ser Arwood Frey",
+        "issue": [
+            "Ryella Frey",
+            "Androw Frey",
+            "Alyn Frey",
+            "Hostella Frey"
+        ]
+    },
+    "Ryger_Rivers": {
+        "id": "Ryger_Rivers",
+        "name": "Ryger Rivers",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "tv series": "Season 1"
+    },
+    "Ryk": {
+        "id": "Ryk",
+        "name": "Ryk",
+        "alias": [
+            "Longspear Ryk",
+            "Longspear"
+        ],
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "spouse": "Munda"
+    },
+    "Rylene_Florent": {
+        "id": "Rylene_Florent",
+        "name": "Rylene Florent",
+        "allegiance": [
+            "House Florent",
+            "House Crane"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Rycherd Crane"
+    },
+    "Ryles": {
+        "id": "Ryles",
+        "name": "Ryles",
+        "allegiance": "Night's Watch",
+        "died": "In +/- 299 AC, at beyond the Wall"
+    },
+    "Rylona_Rhee": {
+        "id": "Rylona_Rhee",
+        "name": "Rylona Rhee",
+        "title": "The Harpist",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Ryman_Frey": {
+        "id": "Ryman_Frey",
+        "name": "Ryman Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 245 AC and ~249 AC",
+        "died": "In 300 AC, at near Fairmarket",
+        "spouse": "Unknown",
+        "issue": [
+            "Edwyn Frey",
+            "Walder Frey",
+            "Petyr Frey"
+        ]
+    },
+    "Rymolf_Stormdrunk": {
+        "id": "Rymolf_Stormdrunk",
+        "name": "Rymolf Stormdrunk",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Rymond_Arryn": {
+        "id": "Rymond_Arryn",
+        "name": "Rymond Arryn",
+        "title": "Ser",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In or before 31 AC",
+        "died": "In 54 AC, at Mountains of the Moon",
+        "issue": [
+            "Rodrik Arryn",
+            "Daughter"
+        ]
+    },
+    "Rymund_the_Rhymer": {
+        "id": "Rymund_the_Rhymer",
+        "name": "Rymund the Rhymer",
+        "alias": "Rymund the Rhymer"
+    },
+    "Ryon_Allyrion": {
+        "id": "Ryon_Allyrion",
+        "name": "Ryon Allyrion",
+        "title": "Ser",
+        "allegiance": "House Allyrion",
+        "culture": "Dornishmen",
+        "born": "In or before 264 AC",
+        "spouse": "Ynys Yronwood",
+        "issue": [
+            "Daemon Sand",
+            "2 trueborn sons"
+        ]
+    },
+    "Ragged_Silas": {
+        "id": "Ragged_Silas",
+        "name": "Ragged Silas",
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows"
+        ],
+        "culture": "Westerosi"
+    }
+}

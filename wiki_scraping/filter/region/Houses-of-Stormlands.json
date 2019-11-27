@@ -1,0 +1,607 @@
+{
+    "House_Baratheon": {
+        "id": "House_Baratheon",
+        "name": "House Baratheon",
+        "coat of arms": [
+            "A black crowned stag, on a gold field",
+            "(",
+            "Or, a stag salient, crowned, sable",
+            ")"
+        ],
+        "words": "Ours is the Fury",
+        "seat": [
+            "Storm's End",
+            "King's Landing",
+            "(House Baratheon of King's Landing)",
+            "Dragonstone",
+            "(House Baratheon of Dragonstone)"
+        ],
+        "lord": [
+            "King",
+            "Tommen I",
+            "King",
+            "Stannis I",
+            "(disputed)"
+        ],
+        "region": "Stormlands",
+        "title": [
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands"
+        ],
+        "heir": [
+            "Princess",
+            "Myrcella",
+            "Princess",
+            "Shireen",
+            "(disputed)"
+        ],
+        "overlord": "Baratheons of King's Landing",
+        "cadet branch": [
+            "Baratheons of King's Landing",
+            "Baratheons of Dragonstone",
+            "House Bolling",
+            "(possibly)",
+            "House Wensington",
+            "(possibly)"
+        ],
+        "founder": "Orys Baratheon",
+        "founded": "1 AC"
+    },
+    "House_Caron": {
+        "id": "House_Caron",
+        "name": "House Caron",
+        "coat of arms": [
+            "A field of black nightingales on yellow",
+            "(",
+            "Or, sem  of nightingales sable",
+            ")"
+        ],
+        "words": "No Song so Sweet",
+        "seat": "Nightsong (stripped)",
+        "lord": "Rolland Storm",
+        "region": "Dornish Marches, in the stormlands",
+        "title": [
+            "Lord of Nightsong",
+            "Lord of the Marches",
+            "Marshal of the Marches"
+        ],
+        "overlord": [
+            "House Baratheon of Storm's End",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Dondarrion": {
+        "id": "House_Dondarrion",
+        "name": "House Dondarrion",
+        "coat of arms": [
+            "A forked purple lightning bolt, on black field speckled with four-pointed stars",
+            "(",
+            "Sable, sem  of mullets of four points argent, a lightning bolt forked purpure",
+            ")"
+        ],
+        "seat": "Blackhaven",
+        "lord": "Unknown",
+        "region": "Dornish Marches, in the stormlands",
+        "title": "Lord of Blackhaven",
+        "overlord": "House Baratheon",
+        "founder": "Unnamed messenger",
+        "founded": "Before Aegon's Conquest"
+    },
+    "House_Selmy": {
+        "id": "House_Selmy",
+        "name": "House Selmy",
+        "coat of arms": [
+            "Three stalks of yellow wheat, on a brown field",
+            "(Brun\u00e2tre, three stalks of wheat or)"
+        ],
+        "seat": "Harvest Hall",
+        "lord": "Arstan Selmy",
+        "region": "Stormlands",
+        "title": [
+            "Lord of Harvest Hall",
+            "Knight of Harvest Hall",
+            "(formerly)"
+        ],
+        "overlord": "House Baratheon"
+    },
+    "House_Swann": {
+        "id": "House_Swann",
+        "name": "House Swann",
+        "coat of arms": [
+            "Battling swans black and white, beaks and feet golden, on per pale white and black field",
+            "(",
+            "Per pale argent and sable, two swans combatant counterchanged, beaked and membered or",
+            ")"
+        ],
+        "seat": "Stonehelm",
+        "lord": "Gulian Swann",
+        "region": "Stormlands",
+        "title": "Lord of Stonehelm",
+        "heir": "Donnel Swann",
+        "overlord": "House Baratheon"
+    },
+    "House_Buckler": {
+        "id": "House_Buckler",
+        "name": "House Buckler",
+        "coat of arms": [
+            "Three brass buckles, on a blue field",
+            "(",
+            "Azure, three buckles or",
+            ")"
+        ],
+        "seat": "Bronzegate",
+        "lord": "Ralph Buckler",
+        "region": "Stormlands",
+        "title": "Lord of Bronzegate",
+        "overlord": "House Baratheon"
+    },
+    "House_Cafferen": {
+        "id": "House_Cafferen",
+        "name": "House Cafferen",
+        "coat of arms": [
+            "Two white fawns counter salient, on a green field",
+            "(",
+            "Vert, two fawns counter-salient argent",
+            ")"
+        ],
+        "seat": "Fawnton",
+        "region": "The Stormlands",
+        "title": "Lord of Fawnton",
+        "overlord": "House Baratheon"
+    },
+    "House_Errol": {
+        "id": "House_Errol",
+        "name": "House Errol",
+        "coat of arms": [
+            "A yellow haystack, on an orange field",
+            "(",
+            "Tenn , a haystack or",
+            ")"
+        ],
+        "seat": "Haystack Hall",
+        "lord": "Sebastion Errol",
+        "region": "Stormlands",
+        "title": "Lord of Haystack Hall",
+        "overlord": "House Baratheon"
+    },
+    "House_Estermont": {
+        "id": "House_Estermont",
+        "name": "House Estermont",
+        "coat of arms": [
+            "A dark-green sea-turtle on a pale-green field",
+            "(",
+            "Vert, a sea-turtle tergiant of the field",
+            ")"
+        ],
+        "seat": "Greenstone",
+        "lord": "Eldon Estermont",
+        "region": "The Stormlands",
+        "title": "Lord of Greenstone",
+        "heir": "Ser Aemon Estermont",
+        "overlord": "House Baratheon of King's Landing"
+    },
+    "House_Fell": {
+        "id": "House_Fell",
+        "name": "House Fell",
+        "coat of arms": [
+            "Per fess, a white crescent moon on a black field above a green field, a sprucetree line between",
+            "(Per fess sapin  sable and vert, in canton a moon increscent argent)"
+        ],
+        "seat": "Felwood",
+        "region": "stormlands",
+        "title": "Lord of Felwood",
+        "overlord": "House Baratheon"
+    },
+    "House_Gower": {
+        "id": "House_Gower",
+        "name": "House Gower",
+        "coat of arms": [
+            "Nine yellow trefoils on a black cross, on an ermine field",
+            "(",
+            "Ermine, on a cross sable nine trefoils or",
+            ")"
+        ],
+        "region": "the Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Grandison": {
+        "id": "House_Grandison",
+        "name": "House Grandison",
+        "coat of arms": [
+            "A black sleeping lion, on a yellow field",
+            "(",
+            "Or, a lion dormant sable",
+            ")"
+        ],
+        "words": "Rouse Me Not",
+        "seat": "Grandview",
+        "lord": "Hugh Grandison",
+        "region": "The Stormlands",
+        "title": "Lord of Grandview",
+        "overlord": "House Baratheon"
+    },
+    "House_Hasty": {
+        "id": "House_Hasty",
+        "name": "House Hasty",
+        "coat of arms": [
+            "A white bend cotised, on a purple field",
+            "(",
+            "Purpure, a bend cotised argent",
+            ")"
+        ],
+        "region": "the Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Herston": {
+        "id": "House_Herston",
+        "name": "House Herston",
+        "coat of arms": [
+            "A yellow rooster's head with red comb, within a white escutcheon, on a red field",
+            "(",
+            "Gules, on an escutcheon argent, a cock's head or, combed and wattled of the field",
+            ")"
+        ],
+        "region": "stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Horpe": {
+        "id": "House_Horpe",
+        "name": "House Horpe",
+        "coat of arms": [
+            "Per chevron engrailed grey and bone, three death's head moths counterchanged",
+            "(Per chevron engrailed cendr e and argent, three death's head moths counterchanged)"
+        ],
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Kellington": {
+        "id": "House_Kellington",
+        "name": "House Kellington",
+        "coat of arms": [
+            "A black book bound in bronze, locked, on a pale blue field",
+            "(Bleu celeste, a book sable clasped and garnished bronze)"
+        ],
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Lonmouth": {
+        "id": "House_Lonmouth",
+        "name": "House Lonmouth",
+        "coat of arms": [
+            "Quartered of six: red lips strewn on a yellow field, yellow skulls strewn on a black field",
+            "(",
+            "Quarterly of six, first, third and fifth, or, sem  of lips gules, second, fourth and sixth, sable, sem  of skulls of the first",
+            ")"
+        ],
+        "words": "The Choice is Yours",
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Mertyns": {
+        "id": "House_Mertyns",
+        "name": "House Mertyns",
+        "coat of arms": [
+            "A white great horned owl on a grey field",
+            "(",
+            "Cendr e, a great-horned owl close affront  argent",
+            ")"
+        ],
+        "seat": "Mistwood",
+        "lord": "Mary Mertyns",
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Morrigen": {
+        "id": "House_Morrigen",
+        "name": "House Morrigen",
+        "coat of arms": [
+            "A black crow in flight on a storm-green field",
+            "(",
+            "Vert, a crow volant sable",
+            ")"
+        ],
+        "seat": "Crow's Nest",
+        "lord": "Lester Morrigen",
+        "region": "The Stormlands",
+        "title": "Lord of Crow's Nest",
+        "heir": "Ser Richard Morrigen",
+        "overlord": [
+            "House Baratheon",
+            "(ACOK)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Musgood": {
+        "id": "House_Musgood",
+        "name": "House Musgood",
+        "coat of arms": [
+            "Quarterly: A golden pavilion on a blue field, a green laurel crown on a white field",
+            "(",
+            "Quarterly, first and fourth, azure, a pavilion or, second and third, argent, a garland of laurel vert",
+            ")"
+        ],
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Peasebury": {
+        "id": "House_Peasebury",
+        "name": "House Peasebury",
+        "coat of arms": [
+            "A green pea pod, burst open, on a white field, bordered by three rows of green peas",
+            "(",
+            "Argent, a pea pod open within a bordure of three rows of peas vert",
+            ")"
+        ],
+        "seat": "Poddingfield",
+        "lord": "Robin Peasebury",
+        "region": "Stormlands",
+        "title": "Lord of Poddingfield",
+        "overlord": "House Baratheon of Dragonstone"
+    },
+    "House_Penrose": {
+        "id": "House_Penrose",
+        "name": "House Penrose",
+        "coat of arms": [
+            "White crossed quills, on a russet field",
+            "(Brun\u00e2tre, two quills saltirewise argent)"
+        ],
+        "words": "Set Down Our Deeds",
+        "seat": "Parchments",
+        "lord": "Lord Penrose",
+        "region": "The stormlands",
+        "title": "Lord of Parchments",
+        "overlord": "House Baratheon"
+    },
+    "House_Rogers": {
+        "id": "House_Rogers",
+        "name": "House Rogers",
+        "coat of arms": [
+            "Nine silver unicorns around a silver maze, on a black field",
+            "(Sable, a maze within an annulet of nine unicorns argent)"
+        ],
+        "seat": "Amberly",
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Staedmon": {
+        "id": "House_Staedmon",
+        "name": "House Staedmon",
+        "coat of arms": [
+            "A black dagger piercing a red heart on a white de sang field, within an undulating red border",
+            "(",
+            "Argent goutt -de-sang, a heart gules transfixed by a dagger sable, all within a bordure wavy of the second",
+            ")"
+        ],
+        "seat": "Broad Arch",
+        "lord": "Alesander Staedmon",
+        "region": "the Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Swygert": {
+        "id": "House_Swygert",
+        "name": "House Swygert",
+        "coat of arms": [
+            "A white scroll with gold knobs, on a purple field within a white tressure",
+            "(",
+            "Purpure a scroll argent, knobbed or, within a tressure of the second",
+            ")"
+        ],
+        "words": "Truth Conquers",
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Tarth": {
+        "id": "House_Tarth",
+        "name": "House Tarth",
+        "coat of arms": [
+            "Quartered, yellow sun on a rose-coloured field and white crescents on a blue field",
+            "(Quarterly, first and fourth rose, a sun-in-splendour or, second and third azure, a moon increscent argent)"
+        ],
+        "seat": "Evenfall Hall",
+        "lord": "Selwyn Tarth",
+        "region": "stormlands",
+        "title": [
+            "King of Tarth",
+            "(formerly)",
+            "Lord of Evenfall",
+            "The",
+            "Evenstar"
+        ],
+        "heir": "Brienne Tarth",
+        "overlord": "House Baratheon"
+    },
+    "House_Trant": {
+        "id": "House_Trant",
+        "name": "House Trant",
+        "coat of arms": [
+            "A black hanged man, on a blue field",
+            "(",
+            "Azure, a hanged man sable",
+            ")"
+        ],
+        "words": "So End Our Foes",
+        "seat": "Gallowsgrey",
+        "region": "The Stormlands",
+        "title": "Lord of Gallowsgrey",
+        "overlord": "House Baratheon"
+    },
+    "House_Tudbury": {
+        "id": "House_Tudbury",
+        "name": "House Tudbury",
+        "coat of arms": [
+            "A brown tortoise within a yellow lozenge, on a green field",
+            "(Vert, on a lozenge or a tortoise tergiant brun\u00e2tre)"
+        ],
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Wagstaff": {
+        "id": "House_Wagstaff",
+        "name": "House Wagstaff",
+        "coat of arms": [
+            "Five yellow mascles, on a green field",
+            "(",
+            "Vert, five mascles in fess or",
+            ")"
+        ],
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Wensington": {
+        "id": "House_Wensington",
+        "name": "House Wensington",
+        "coat of arms": [
+            "Two golden trumpets crossed on a blue field, beneath a gold chief with three black stags",
+            "(",
+            "Azure, two trumpets saltirewise or, on a chief of the second three stags salient sable",
+            ")"
+        ],
+        "words": "Sound The Charge",
+        "region": "Stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Whitehead": {
+        "id": "House_Whitehead",
+        "name": "House Whitehead",
+        "seat": "Weeping Town",
+        "lord": "old Lord Whitehead",
+        "region": "stormlands",
+        "heir": "Addam Whitehead",
+        "overlord": "House Baratheon"
+    },
+    "House_Wylde": {
+        "id": "House_Wylde",
+        "name": "House Wylde",
+        "coat of arms": [
+            "A blue-green maelstrom, on a gold field",
+            "(Or, a gurges aquamarine)"
+        ],
+        "seat": "The Rain House",
+        "lord": "Casper Wylde",
+        "region": "Stormlands",
+        "title": "Lord of the Rain House",
+        "overlord": "House Baratheon"
+    },
+    "House_Bolling": {
+        "id": "House_Bolling",
+        "name": "House Bolling",
+        "coat of arms": [
+            "Vairy orange and blue, upon a black canton, a golden stag beneath an orange bend sinister",
+            "(",
+            "Vairy tenn  and azure, on a canton sable a stag or debruised by a bend sinister of the first",
+            ")"
+        ],
+        "region": "The stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Brownhill_(stormlands)": {
+        "id": "House_Brownhill_(stormlands)",
+        "name": "House Brownhill (stormlands)",
+        "coat of arms": "unknown",
+        "lord": "unknown",
+        "region": "stormlands",
+        "overlord": "House Baratheon"
+    },
+    "House_Connington": {
+        "id": "House_Connington",
+        "name": "House Connington",
+        "coat of arms": [
+            "Two combatant griffins, counterchanged, on a red and white field",
+            "(",
+            "Per pale gules and argent, two griffins combatant counterchanged",
+            ")"
+        ],
+        "seat": "Griffin's Roost",
+        "lord": "Jon Connington",
+        "region": "Stormlands",
+        "title": [
+            "Lord of Griffin's Roost",
+            "Knight of Griffin's Roost",
+            "(post",
+            "-Robert's Rebellion",
+            ")"
+        ],
+        "heir": "Ronnet Connington",
+        "overlord": "House Baratheon"
+    },
+    "House_Seaworth": {
+        "id": "House_Seaworth",
+        "name": "House Seaworth",
+        "coat of arms": [
+            "A black ship on a pale grey field, with a white onion on its sails",
+            "(",
+            "Cendr e, a ship sable, its sail charged with an onion argent",
+            ")"
+        ],
+        "lord": "Lord Davos Seaworth",
+        "region": "the Stormlands",
+        "title": "Lord of the Rainwood",
+        "heir": "Devan Seaworth",
+        "overlord": "House Baratheon of Dragonstone",
+        "founder": "Davos Seaworth",
+        "founded": "284 AC"
+    },
+    "House_Cole": {
+        "id": "House_Cole",
+        "name": "House Cole",
+        "coat of arms": [
+            "Ten black pellets, on a scarlet field",
+            "(",
+            "Gules, ten pellets, 4, 3, 2, 1",
+            ")"
+        ],
+        "region": "The Stormlands"
+    },
+    "House_Durrandon": {
+        "id": "House_Durrandon",
+        "name": "House Durrandon",
+        "coat of arms": [
+            "A black crowned stag, on a gold field",
+            "(",
+            "Or, a stag salient, crowned, sable",
+            ")"
+        ],
+        "words": "Ours is the Fury",
+        "seat": "Storm's End",
+        "region": [
+            "Stormlands",
+            "Riverlands",
+            "(~400BC - ~100 BC)"
+        ],
+        "title": "Storm King",
+        "heir": "Extinct",
+        "cadet branch": [
+            "House Baratheon",
+            "(female line)",
+            "House Bolling",
+            "(possibly)",
+            "House Wensington",
+            "(possibly)"
+        ],
+        "founder": "Durran Godsgrief",
+        "founded": "Age of Heroes",
+        "died out": "~2 BC/1 BC"
+    },
+    "House_Toyne": {
+        "id": "House_Toyne",
+        "name": "House Toyne",
+        "coat of arms": [
+            "A black winged heart, on a gold field, within a black embattled border",
+            "(Or, a heart with wings within a bordure embattled sable)"
+        ],
+        "words": "Fly High, Fly Far",
+        "region": "Stormlands",
+        "overlord": "House Baratheon",
+        "died out": [
+            "281 AC",
+            "in",
+            "Westeros",
+            "296 AC",
+            "in",
+            "Essos"
+        ]
+    }
+}

@@ -1,0 +1,1713 @@
+{
+    "Sour_Alyn": {
+        "id": "Sour_Alyn",
+        "name": "Sour Alyn",
+        "alias": "Sour Alyn",
+        "allegiance": [
+            "House Bolton",
+            "Bastard's Boys"
+        ],
+        "culture": "Northmen"
+    },
+    "Silver_Denys": {
+        "id": "Silver_Denys",
+        "name": "Silver Denys",
+        "allegiance": "Blacks",
+        "died": "In 129 AC, at Dragonstone",
+        "issue": "Sons"
+    },
+    "Silveraxe_Fell": {
+        "id": "Silveraxe_Fell",
+        "name": "Silveraxe Fell",
+        "alias": "Silveraxe",
+        "allegiance": "House Fell",
+        "culture": "Stormlander"
+    },
+    "Six-Toed_Harl": {
+        "id": "Six-Toed_Harl",
+        "name": "Six-Toed Harl",
+        "alias": "Six-Toed Harl",
+        "culture": "ironborn"
+    },
+    "Squinty_Jeyne": {
+        "id": "Squinty_Jeyne",
+        "name": "Squinty Jeyne",
+        "alias": "Squinty Jeyne",
+        "allegiance": "House Osgrey"
+    },
+    "Spotted_Pate": {
+        "id": "Spotted_Pate",
+        "name": "Spotted Pate"
+    },
+    "Spotted_Pate_of_Maidenpool": {
+        "id": "Spotted_Pate_of_Maidenpool",
+        "name": "Spotted Pate of Maidenpool",
+        "alias": "Spotted Pate of Maidenpool",
+        "allegiance": "Night's Watch",
+        "born": "At Maidenpool",
+        "died": "In 299 AC, at Castle Black"
+    },
+    "Steely_Pate": {
+        "id": "Steely_Pate",
+        "name": "Steely Pate"
+    },
+    "Small_Paul": {
+        "id": "Small_Paul",
+        "name": "Small Paul",
+        "alias": "Cheese-for-wits",
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at beyond the Wall"
+    },
+    "S%27vrone": {
+        "id": "S%27vrone",
+        "name": "S'vrone",
+        "culture": "Braavosi"
+    },
+    "Saathos_the_Wise": {
+        "id": "Saathos_the_Wise",
+        "name": "Saathos the Wise",
+        "alias": "Saathos the Wise"
+    },
+    "Saathos_Saan": {
+        "id": "Saathos_Saan",
+        "name": "Saathos Saan",
+        "title": [
+            "Captain",
+            "King of the Basilisk Isles"
+        ],
+        "allegiance": "Saan family",
+        "culture": "Lysene"
+    },
+    "Sabitha_Vypren": {
+        "id": "Sabitha_Vypren",
+        "name": "Sabitha Frey",
+        "title": "Lady of the Twins",
+        "allegiance": [
+            "House Vypren",
+            "House Frey",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Lord Forrest Frey",
+        "issue": "Son"
+    },
+    "Saera_Targaryen": {
+        "id": "Saera_Targaryen",
+        "name": "Saera Targaryen",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 67 AC",
+        "died": "In or after 101 AC",
+        "issue": "At least 3 bastard sons"
+    },
+    "Saffron": {
+        "id": "Saffron",
+        "name": "Saffron",
+        "culture": "Valemen",
+        "issue": "Unborn bastard"
+    },
+    "Sailor%27s_Wife": {
+        "id": "Sailor%27s_Wife",
+        "name": "Sailor's Wife",
+        "allegiance": "Happy Port",
+        "culture": "Braavosi"
+    },
+    "Salladhor_Saan": {
+        "id": "Salladhor_Saan",
+        "name": "Salladhor Saan",
+        "alias": "Salla",
+        "title": [
+            "Prince of the Narrow Sea",
+            "Lord of Blackwater Bay"
+        ],
+        "allegiance": [
+            "Saan family",
+            "House Baratheon of Dragonstone",
+            "(formerly)"
+        ],
+        "culture": "Lysene",
+        "tv series": "Season 2 | Season 3 | Season 4"
+    },
+    "Sallei_Paege": {
+        "id": "Sallei_Paege",
+        "name": "Sallei Paege",
+        "allegiance": [
+            "House Paege",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Ser Jammos Frey",
+        "issue": [
+            "Walder Frey",
+            "Dickon Frey",
+            "Mathis Frey"
+        ]
+    },
+    "Sallor_the_Bald": {
+        "id": "Sallor_the_Bald",
+        "name": "Sallor the Bald",
+        "alias": "Sallor the Bald",
+        "allegiance": "Stormcrows",
+        "culture": "Qartheen",
+        "died": "In +/- 299 AC, at Yunkai"
+    },
+    "Salloreon": {
+        "id": "Salloreon",
+        "name": "Salloreon",
+        "allegiance": "Antler Men"
+    },
+    "Sam_Stoops": {
+        "id": "Sam_Stoops",
+        "name": "Sam Stoops",
+        "title": "Steward of Standfast",
+        "allegiance": "House Osgrey",
+        "culture": "Reach",
+        "spouse": "Unknown"
+    },
+    "Sam_Salt": {
+        "id": "Sam_Salt",
+        "name": "Sam Salt",
+        "title": "Lord of the Iron Islands (claimant)",
+        "allegiance": "House Hoare (claimed)",
+        "culture": "ironborn"
+    },
+    "Samantha_Stokeworth": {
+        "id": "Samantha_Stokeworth",
+        "name": "Samantha Stokeworth",
+        "alias": "Sam Stokeworth",
+        "allegiance": "House Stokeworth",
+        "culture": "Crownlands",
+        "died": "In 54 AC, at Dragonstone"
+    },
+    "Samantha_Tarly": {
+        "id": "Samantha_Tarly",
+        "name": "Samantha Tarly",
+        "alias": "Lady Sam",
+        "title": "Lady of Oldtown",
+        "allegiance": [
+            "House Tarly",
+            "House Hightower"
+        ],
+        "culture": "Reach",
+        "born": "In 112 AC or 113 AC",
+        "died": "In 143 AC or after",
+        "spouse": [
+            "1st: Lord",
+            "Ormund Hightower",
+            "2nd: Lord",
+            "Lyonel Hightower"
+        ],
+        "issue": "6 children"
+    },
+    "Samarro_Saan": {
+        "id": "Samarro_Saan",
+        "name": "Samarro Saan",
+        "alias": "The Last Valyrian",
+        "allegiance": [
+            "Saan family",
+            "Band of Nine"
+        ],
+        "culture": "Lysene"
+    },
+    "Samgood_of_Sour_Hill": {
+        "id": "Samgood_of_Sour_Hill",
+        "name": "Samgood of Sour Hill",
+        "alias": "Sour Sam",
+        "title": "Ser",
+        "allegiance": "Kingsguard",
+        "born": "In 14 BC",
+        "died": "In 59 AC, at King's Landing"
+    },
+    "Samwell_Blackwood": {
+        "id": "Samwell_Blackwood",
+        "name": "Samwell Blackwood",
+        "title": "Lord of Raventree Hall",
+        "allegiance": [
+            "House Blackwood",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "born": "In or before 106 AC",
+        "died": "In 129 AC, at the Burning Mill",
+        "spouse": "Unknown",
+        "issue": "Benjicot Blackwood"
+    },
+    "Samwell_Dayne": {
+        "id": "Samwell_Dayne",
+        "name": "Samwell Dayne",
+        "alias": "The Starfire",
+        "culture": "Dornishmen",
+        "title": [
+            "King of the Torrentine",
+            "Lord of Starfall"
+        ]
+    },
+    "Samwell_Rivers": {
+        "id": "Samwell_Rivers",
+        "name": "Samwell Rivers",
+        "title": "Ser",
+        "allegiance": "House Tully",
+        "culture": "Rivermen"
+    },
+    "Samwell_Spicer": {
+        "id": "Samwell_Spicer",
+        "name": "Samwell Spicer",
+        "title": "Ser",
+        "allegiance": "House Spicer",
+        "culture": "Westermen"
+    },
+    "Samwell_Stokeworth": {
+        "id": "Samwell_Stokeworth",
+        "name": "Samwell Stokeworth",
+        "title": "Ser",
+        "allegiance": "House Stokeworth",
+        "culture": "Crownlands"
+    },
+    "Samwell_Stone": {
+        "id": "Samwell_Stone",
+        "name": "Samwell Stone",
+        "alias": "Strong Sam Stone",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Runestone"
+        ],
+        "allegiance": "House Royce",
+        "culture": "Valemen"
+    },
+    "Samwell_Tarly_(lord)": {
+        "id": "Samwell_Tarly_(lord)",
+        "name": "Samwell Tarly (lord)",
+        "alias": "Savage Sam",
+        "title": "Lord of Horn Hill",
+        "allegiance": "House Tarly",
+        "culture": "Reach"
+    },
+    "Samwell_Tarly": {
+        "id": "Samwell_Tarly",
+        "name": "Samwell Tarly",
+        "alias": [
+            "Sam",
+            "Ser Piggy",
+            "Lady Piggy",
+            "Lord of Ham",
+            "Sam the Slayer",
+            "Black Sam"
+        ],
+        "title": "Novice",
+        "allegiance": [
+            "House Tarly",
+            "Night's Watch"
+        ],
+        "culture": "Reach",
+        "born": "In 283 AC, at Horn Hill",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Samwyle_Tarly": {
+        "id": "Samwyle_Tarly",
+        "name": "Samwyle Tarly",
+        "title": "Ser",
+        "allegiance": "House Tarly",
+        "culture": "Reach"
+    },
+    "Sandeman": {
+        "id": "Sandeman",
+        "name": "Sandeman",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Sandoq_the_Shadow": {
+        "id": "Sandoq_the_Shadow",
+        "name": "Sandoq the Shadow",
+        "alias": "Sandoq the Shadow",
+        "allegiance": [
+            "House Rogare",
+            "House Targaryen"
+        ]
+    },
+    "Sandor_Clegane": {
+        "id": "Sandor_Clegane",
+        "name": "Sandor Clegane",
+        "alias": [
+            "The",
+            "Hound",
+            "Dog"
+        ],
+        "allegiance": [
+            "House Clegane",
+            "House Lannister",
+            "(formerly)",
+            "Kingsguard",
+            "(formerly)"
+        ],
+        "culture": "Westermen",
+        "born": "In 270 AC or 271 AC",
+        "died": "In 300 AC (supposedly)",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 6 | Season 7 | Season 8"
+    },
+    "Sandor_Frey": {
+        "id": "Sandor_Frey",
+        "name": "Sandor Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 287 AC"
+    },
+    "Sansa_Stark": {
+        "id": "Sansa_Stark",
+        "name": "Sansa Stark",
+        "alias": [
+            "Little bird",
+            "Jonquil",
+            "Alayne Stone",
+            "Lady Lannister"
+        ],
+        "title": "Princess",
+        "allegiance": [
+            "House Stark",
+            "House Lannister",
+            "(through marriage)",
+            "House Arryn",
+            "(as Alayne Stone)",
+            "House Baelish",
+            "(as Alayne Stone)"
+        ],
+        "culture": "Northmen",
+        "born": "In 286 AC, at Winterfell",
+        "spouse": "Tyrion Lannister",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Sansa_Stark_(daughter_of_Rickon)": {
+        "id": "Sansa_Stark_(daughter_of_Rickon)",
+        "name": "Sansa Stark (daughter of Rickon)",
+        "title": "Lady of Winterfell",
+        "allegiance": "House Stark",
+        "born": "In 141 162 AC",
+        "spouse": "Lord Jonnel Stark"
+    },
+    "Sansara_Tarly": {
+        "id": "Sansara_Tarly",
+        "name": "Sansara Tarly",
+        "allegiance": "House Tarly",
+        "culture": "Reach"
+    },
+    "Sara_Snow": {
+        "id": "Sara_Snow",
+        "name": "Sara Snow",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "spouse": "Prince Jacaerys Velaryon (possibly)"
+    },
+    "Saranella": {
+        "id": "Saranella",
+        "name": "Saranella",
+        "title": "Septa",
+        "allegiance": "House Lannister"
+    },
+    "Sarella_Sand": {
+        "id": "Sarella_Sand",
+        "name": "Sarella Sand",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 280 AC or 281 AC"
+    },
+    "Sargon_Botley": {
+        "id": "Sargon_Botley",
+        "name": "Sargon Botley",
+        "allegiance": "House Botley",
+        "culture": "Ironborn",
+        "issue": "Wex Pyke"
+    },
+    "Sargoso_Saan": {
+        "id": "Sargoso_Saan",
+        "name": "Sargoso Saan",
+        "allegiance": "Saan family",
+        "culture": "Lysene"
+    },
+    "Sarra_Frey": {
+        "id": "Sarra_Frey",
+        "name": "Sarra Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 285 AC"
+    },
+    "Sarra_Stark": {
+        "id": "Sarra_Stark",
+        "name": "Sarra Stark",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 133 AC"
+    },
+    "Sarya_Whent": {
+        "id": "Sarya_Whent",
+        "name": "Sarya Whent",
+        "title": "Lady of the Crossing",
+        "allegiance": [
+            "House Whent",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Lord Walder Frey"
+    },
+    "Satin": {
+        "id": "Satin",
+        "name": "Satin",
+        "allegiance": "Night's Watch",
+        "culture": "Reach",
+        "born": "In 280 AC or 281 AC, at Oldtown"
+    },
+    "Sauron_Salt-Tongue": {
+        "id": "Sauron_Salt-Tongue",
+        "name": "Sauron Salt-Tongue",
+        "alias": "Sauron Salt-Tongue",
+        "title": "Priest of the Drowned God",
+        "culture": "Ironborn"
+    },
+    "Sawane_Botley": {
+        "id": "Sawane_Botley",
+        "name": "Sawane Botley",
+        "title": [
+            "Lord of Lordsport",
+            "Captain of the",
+            "Swiftfin"
+        ],
+        "allegiance": "House Botley",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Pyke",
+        "issue": [
+            "Harren Botley",
+            "Tristifer Botley",
+            "Symond Botley",
+            "Harlon Botley",
+            "Vickon Botley",
+            "Bennarion Botley"
+        ]
+    },
+    "Sawwood": {
+        "id": "Sawwood",
+        "name": "Sawwood",
+        "allegiance": "Night's Watch"
+    },
+    "Scar": {
+        "id": "Scar",
+        "name": "Scar",
+        "title": "Serjeant",
+        "allegiance": "Yezzan zo Qaggaz"
+    },
+    "Scarb": {
+        "id": "Scarb",
+        "name": "Scarb",
+        "died": "At Meereen"
+    },
+    "Scolera": {
+        "id": "Scolera",
+        "name": "Scolera",
+        "title": "Septa",
+        "allegiance": "Faith of the Seven"
+    },
+    "Scoro": {
+        "id": "Scoro",
+        "name": "Scoro",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Sebastion_Errol": {
+        "id": "Sebastion_Errol",
+        "name": "Sebastion Errol",
+        "title": "Lord of Haystack Hall",
+        "allegiance": "House Errol",
+        "culture": "Stormlands"
+    },
+    "Sebaston_Farman": {
+        "id": "Sebaston_Farman",
+        "name": "Sebaston Farman",
+        "title": "Lord of Fair Isle",
+        "allegiance": "House Farman",
+        "culture": "Westermen"
+    },
+    "Sedgekins": {
+        "id": "Sedgekins",
+        "name": "Sedgekins"
+    },
+    "Sefton_Staunton": {
+        "id": "Sefton_Staunton",
+        "name": "Sefton Staunton",
+        "title": "Septon",
+        "allegiance": [
+            "House Staunton",
+            "Faith of the Seven"
+        ],
+        "culture": "Crownlands"
+    },
+    "Selmond_Stackspear": {
+        "id": "Selmond_Stackspear",
+        "name": "Selmond Stackspear",
+        "title": "Lord",
+        "allegiance": "House Stackspear",
+        "culture": "Westermen",
+        "issue": [
+            "Steffon Stackspear",
+            "Alyn Stackspear"
+        ]
+    },
+    "Selwyn_Tarth": {
+        "id": "Selwyn_Tarth",
+        "name": "Selwyn Tarth",
+        "alias": "Selwyn of Tarth",
+        "title": [
+            "The",
+            "Evenstar",
+            "Lord of Evenfall",
+            "Lord of",
+            "Tarth"
+        ],
+        "allegiance": "House Tarth",
+        "culture": "Stormlander",
+        "born": "In 245 AC or 246 AC",
+        "issue": [
+            "Galladon Tarth",
+            "Arianne Tarth",
+            "Alysanne Tarth",
+            "Brienne Tarth"
+        ]
+    },
+    "Selyse_Florent": {
+        "id": "Selyse_Florent",
+        "name": "Selyse Florent",
+        "alias": "Selyse Baratheon",
+        "title": [
+            "Lady of",
+            "Dragonstone",
+            "Lady of",
+            "Storm's End",
+            "Queen",
+            "Light of the North"
+        ],
+        "allegiance": [
+            "House Florent",
+            "House Baratheon of Dragonstone"
+        ],
+        "spouse": "Stannis Baratheon",
+        "issue": "Shireen Baratheon",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5"
+    },
+    "Senaera": {
+        "id": "Senaera",
+        "name": "Senaera",
+        "alias": "Senaera She-Snake",
+        "culture": "Ghiscari"
+    },
+    "Senelle": {
+        "id": "Senelle",
+        "name": "Senelle",
+        "allegiance": "House Lannister",
+        "died": "In 300 AC, at the black cells of the Red Keep, in King's Landing"
+    },
+    "Ser_Stupid": {
+        "id": "Ser_Stupid",
+        "name": "Ser Stupid",
+        "alias": "Ser Stupid",
+        "title": "Ser",
+        "allegiance": "House Targaryen"
+    },
+    "Serala": {
+        "id": "Serala",
+        "name": "Serala",
+        "alias": "The Lace Serpent",
+        "title": "Lady of Duskendale",
+        "allegiance": "House Darklyn",
+        "culture": "Myrish",
+        "born": "In Myr",
+        "died": "In 277 AC, at Duskendale",
+        "spouse": "Lord Denys Darklyn"
+    },
+    "Serena_Stark": {
+        "id": "Serena_Stark",
+        "name": "Serena Stark",
+        "allegiance": [
+            "House Stark",
+            "House Umber"
+        ],
+        "culture": "Northmen",
+        "born": "In 140 161 AC",
+        "spouse": [
+            "Edric Stark",
+            "Jon Umber"
+        ],
+        "issue": [
+            "Cregard Stark",
+            "Torrhen Stark",
+            "Arrana Stark",
+            "Aregelle Stark"
+        ]
+    },
+    "Serenei_of_Lys": {
+        "id": "Serenei_of_Lys",
+        "name": "Serenei of Lys",
+        "alias": "Sweet Serenei",
+        "title": "Lady",
+        "culture": "Lyseni",
+        "born": "In or before 171 AC, at Lys",
+        "died": "In or between 178 AC and 184 AC",
+        "issue": "Shiera Seastar"
+    },
+    "Serra": {
+        "id": "Serra",
+        "name": "Serra",
+        "culture": "Lysene",
+        "died": "At Pentos",
+        "spouse": "Illyrio Mopatis"
+    },
+    "Serra_Frey": {
+        "id": "Serra_Frey",
+        "name": "Serra Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 285 AC"
+    },
+    "Serwyn_of_the_Mirror_Shield": {
+        "id": "Serwyn_of_the_Mirror_Shield",
+        "name": "Serwyn of the Mirror Shield",
+        "alias": "Serwyn of the Mirror Shield",
+        "title": "Ser (in songs and tales)",
+        "allegiance": [
+            "House Gardener",
+            "Kingsguard",
+            "(in songs and tales)"
+        ],
+        "culture": "First Men"
+    },
+    "Shadd": {
+        "id": "Shadd",
+        "name": "Shadd",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Shadrick": {
+        "id": "Shadrick",
+        "name": "Shadrich",
+        "alias": [
+            "Shadrich of the",
+            "Shady Glen",
+            "The Mad Mouse"
+        ],
+        "title": "Ser",
+        "allegiance": "House Baelish of Harrenhal"
+    },
+    "Shae": {
+        "id": "Shae",
+        "name": "Shae",
+        "born": "In 280 AC or 281 AC",
+        "died": "In 300 AC, at the Tower of the Hand, King's Landing",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4"
+    },
+    "Shaena_Targaryen": {
+        "id": "Shaena_Targaryen",
+        "name": "Shaena Targaryen",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "born": "In 267 AC, at King's Landing",
+        "died": "In 267 AC, at King's Landing"
+    },
+    "Shaera_Targaryen": {
+        "id": "Shaera_Targaryen",
+        "name": "Shaera Targaryen",
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 226 AC",
+        "died": "In or after 259 AC",
+        "spouse": "King Jaehaerys II Targaryen",
+        "issue": [
+            "Aerys II Targaryen",
+            "Rhaella Targaryen"
+        ]
+    },
+    "Shagga": {
+        "id": "Shagga",
+        "name": "Shagga",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans",
+        "tv series": "Season 1"
+    },
+    "Shagwell": {
+        "id": "Shagwell",
+        "name": "Shagwell",
+        "alias": "Shagwell the Fool",
+        "allegiance": "the Brave Companions",
+        "died": "In 300 AC, at near the Whispers"
+    },
+    "Sharako_Lohar": {
+        "id": "Sharako_Lohar",
+        "name": "Sharako Lohar",
+        "title": "Admiral",
+        "allegiance": "Kingdom of the Three Daughters",
+        "culture": "Lysene",
+        "born": "At Lys"
+    },
+    "Sharis_Footly": {
+        "id": "Sharis_Footly",
+        "name": "Sharis Footly",
+        "title": "Lady of Tumbleton",
+        "allegiance": "House Footly",
+        "spouse": "Lord Footly",
+        "issue": "1 son of disputed paternity"
+    },
+    "Sharna": {
+        "id": "Sharna",
+        "name": "Sharna",
+        "culture": "Rivermen",
+        "spouse": "Husband",
+        "issue": [
+            "2 sons",
+            "Boy",
+            "(adopted)"
+        ]
+    },
+    "Sharra_Arryn": {
+        "id": "Sharra_Arryn",
+        "name": "Sharra Arryn",
+        "alias": "The Flower of the Mountain",
+        "issue": [
+            "King/Lord",
+            "Ronnel Arryn",
+            "Jonos Arryn"
+        ],
+        "born": "37 BC",
+        "title": "Queen Regent"
+    },
+    "Sharra_the_Witch_Queen": {
+        "id": "Sharra_the_Witch_Queen",
+        "name": "Sharra the Witch Queen",
+        "alias": "Sharra the Witch Queen",
+        "title": "Queen"
+    },
+    "Shella": {
+        "id": "Shella",
+        "name": "Shella"
+    },
+    "Shella_Whent": {
+        "id": "Shella_Whent",
+        "name": "Shella Whent",
+        "title": "Lady of Harrenhal",
+        "allegiance": "House Whent",
+        "culture": "Rivermen",
+        "died": "In +/- 300 AC",
+        "spouse": "Lord Walter Whent",
+        "issue": [
+            "4 sons",
+            "1 daughter"
+        ]
+    },
+    "Shepherd": {
+        "id": "Shepherd",
+        "name": "Shepherd",
+        "alias": [
+            "The Shepherd",
+            "The Dead Shepherd"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows",
+            "(unconfirmed)"
+        ],
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Sherrit": {
+        "id": "Sherrit",
+        "name": "Sherrit",
+        "title": "King"
+    },
+    "Shiera_Blackwood": {
+        "id": "Shiera_Blackwood",
+        "name": "Shiera Blackwood",
+        "allegiance": [
+            "House Blackwood",
+            "House Durrandon"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Son of Arlan III Durrandon"
+    },
+    "Shiera_Crakehall": {
+        "id": "Shiera_Crakehall",
+        "name": "Shiera Crakehall",
+        "allegiance": [
+            "House Crakehall",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Ser Damion Lannister",
+        "issue": [
+            "Lucion Lannister",
+            "Lanna Lannister"
+        ]
+    },
+    "Shiera_Seastar": {
+        "id": "Shiera_Seastar",
+        "name": "Shiera Seastar",
+        "alias": "Star of the Sea",
+        "title": "Lady",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In or between 178 AC and 184 AC",
+        "died": "In or after 211 AC"
+    },
+    "Shierle_Swyft": {
+        "id": "Shierle_Swyft",
+        "name": "Shierle Swyft",
+        "allegiance": "House Swyft",
+        "culture": "Westermen",
+        "spouse": "Ser Melwyn Sarsfield"
+    },
+    "Shireen_Baratheon": {
+        "id": "Shireen_Baratheon",
+        "name": "Shireen Baratheon",
+        "title": "Princess",
+        "allegiance": "House Baratheon of Dragonstone",
+        "born": "In 289 AC, at Dragonstone",
+        "tv series": "Season 3 | Season 4 | Season 5"
+    },
+    "Shirei_Frey": {
+        "id": "Shirei_Frey",
+        "name": "Shirei Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 292 AC or 293 AC"
+    },
+    "Shitmouth": {
+        "id": "Shitmouth",
+        "name": "Shitmouth",
+        "allegiance": "House Clegane",
+        "culture": "Westermen",
+        "born": "At Westerlands"
+    },
+    "Shortear": {
+        "id": "Shortear",
+        "name": "Shortear",
+        "allegiance": "House Lannister",
+        "culture": "westermen"
+    },
+    "Shrike": {
+        "id": "Shrike",
+        "name": "Shrike",
+        "title": "Priest of the Drowned God",
+        "allegiance": "Drowned God",
+        "culture": "Ironborn"
+    },
+    "Shrouded_Lord": {
+        "id": "Shrouded_Lord",
+        "name": "Shrouded Lord",
+        "alias": [
+            "His Grey Grace",
+            "Prince of Sorrows",
+            "Garin"
+        ],
+        "allegiance": "Stone men"
+    },
+    "Shyra": {
+        "id": "Shyra",
+        "name": "Shyra",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Shyra_Errol": {
+        "id": "Shyra_Errol",
+        "name": "Shyra Errol",
+        "title": "Lady of Haystack Hall",
+        "allegiance": "House Errol",
+        "culture": "Stormlander",
+        "died": "In 299 AC"
+    },
+    "Sigfry_Stonetree": {
+        "id": "Sigfry_Stonetree",
+        "name": "Sigfry Stonetree",
+        "allegiance": "House Stonetree",
+        "culture": "ironborn"
+    },
+    "Sigfryd_Harlaw": {
+        "id": "Sigfryd_Harlaw",
+        "name": "Sigfryd Harlaw",
+        "alias": [
+            "Sigfryd Silverhair",
+            "Old Sigfryd"
+        ],
+        "title": "Master of Harlaw Hall",
+        "allegiance": "House Harlaw of Harlaw Hall",
+        "culture": "Ironborn"
+    },
+    "Sigorn": {
+        "id": "Sigorn",
+        "name": "Sigorn",
+        "title": "Magnar of Thenn",
+        "allegiance": [
+            "Thenns",
+            "House Thenn",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Free folk",
+        "born": "At Thenn",
+        "spouse": "Alys Karstark"
+    },
+    "Sigrin": {
+        "id": "Sigrin",
+        "name": "Sigrin",
+        "alias": "Sigrin the Shipwright",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Silvario_Pendaerys": {
+        "id": "Silvario_Pendaerys",
+        "name": "Silvario Pendaerys",
+        "title": "Magister",
+        "allegiance": "House Pendaerys",
+        "culture": "Lysene",
+        "died": "In 135 AC, at Lys, Temple of Trade"
+    },
+    "Simon_Dondarrion": {
+        "id": "Simon_Dondarrion",
+        "name": "Simon Dondarrion",
+        "title": [
+            "Ser",
+            "Lord of Blackhaven"
+        ],
+        "allegiance": "House Dondarrion",
+        "culture": "Marcher",
+        "born": "In or before 40 AC"
+    },
+    "Simon_Leygood": {
+        "id": "Simon_Leygood",
+        "name": "Simon Leygood",
+        "title": "Ser",
+        "allegiance": "House Leygood",
+        "culture": "Reach"
+    },
+    "Simon_Staunton": {
+        "id": "Simon_Staunton",
+        "name": "Simon Staunton",
+        "title": "Ser",
+        "allegiance": "House Staunton",
+        "culture": "Crownlands",
+        "spouse": "Lady Rohanne Webber",
+        "issue": "Daughter (possibly)[N 1]"
+    },
+    "Simon_Staunton_(squire)": {
+        "id": "Simon_Staunton_(squire)",
+        "name": "Simon Staunton (squire)",
+        "allegiance": "House Staunton",
+        "culture": "Crownlands",
+        "born": "In 64 AC"
+    },
+    "Simon_Strong": {
+        "id": "Simon_Strong",
+        "name": "Simon Strong",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Harrenhal"
+        ],
+        "allegiance": [
+            "House Strong",
+            "Greens"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Harrenhal"
+    },
+    "Simon_Toyne": {
+        "id": "Simon_Toyne",
+        "name": "Simon Toyne",
+        "allegiance": [
+            "House Toyne",
+            "Kingswood Brotherhood"
+        ],
+        "culture": "Stormlander",
+        "died": "In 281 AC, at the Kingswood"
+    },
+    "Skahaz_mo_Kandaq": {
+        "id": "Skahaz_mo_Kandaq",
+        "name": "Skahaz mo Kandaq",
+        "alias": [
+            "The Shavepate",
+            "Skahaz Shavepate"
+        ],
+        "title": "Commander of the Brazen Beasts (formerly)",
+        "allegiance": [
+            "House of Kandaq",
+            "House Targaryen",
+            "Shavepates",
+            "Brazen Beasts"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Meereen",
+        "spouse": "Unknown"
+    },
+    "Skinner": {
+        "id": "Skinner",
+        "name": "Skinner",
+        "allegiance": [
+            "House Bolton",
+            "Bastard's Boys"
+        ],
+        "culture": "Northmen"
+    },
+    "Skittrick": {
+        "id": "Skittrick",
+        "name": "Skittrick",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Sky_Blue_Su": {
+        "id": "Sky_Blue_Su",
+        "name": "Sky Blue Su"
+    },
+    "Skyte": {
+        "id": "Skyte",
+        "name": "Skyte",
+        "culture": "ironborn"
+    },
+    "Sloey": {
+        "id": "Sloey",
+        "name": "Sloey",
+        "culture": "Braavosi"
+    },
+    "Sly_(stableboy)": {
+        "id": "Sly_(stableboy)",
+        "name": "Sly (stableboy)",
+        "culture": "Reach",
+        "died": "In 130 AC, at Bitterbridge"
+    },
+    "Smike": {
+        "id": "Smike",
+        "name": "Smike",
+        "title": "Maester at Faircastle",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Farman"
+        ]
+    },
+    "Smiling_Knight": {
+        "id": "Smiling_Knight",
+        "name": "Smiling Knight",
+        "alias": "The Smiling Knight",
+        "allegiance": "Kingswood Brotherhood",
+        "died": "In 281 AC"
+    },
+    "Snatch": {
+        "id": "Snatch",
+        "name": "Snatch",
+        "title": "Serjeant",
+        "allegiance": "Second Sons"
+    },
+    "Softfoot": {
+        "id": "Softfoot",
+        "name": "Softfoot",
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at beyond the Wall"
+    },
+    "Sorcerer_lord": {
+        "id": "Sorcerer_lord",
+        "name": "Sorcerer lord",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Soren_Shieldbreaker": {
+        "id": "Soren_Shieldbreaker",
+        "name": "Soren Shieldbreaker",
+        "title": "Commander of Stonedoor",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Spare_Boot": {
+        "id": "Spare_Boot",
+        "name": "Spare Boot",
+        "allegiance": "Night's Watch"
+    },
+    "Spotted_Cat": {
+        "id": "Spotted_Cat",
+        "name": "Spotted Cat",
+        "culture": "Ghiscari"
+    },
+    "Squint": {
+        "id": "Squint",
+        "name": "Squint",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Squinter": {
+        "id": "Squinter",
+        "name": "Squinter",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Squire_Squishlips": {
+        "id": "Squire_Squishlips",
+        "name": "Squire Squishlips",
+        "alias": "Squire Squishlips",
+        "born": "In before 273 AC"
+    },
+    "Squirrel": {
+        "id": "Squirrel",
+        "name": "Squirrel",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "born": "At beyond the Wall",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Stafford_Lannister": {
+        "id": "Stafford_Lannister",
+        "name": "Stafford Lannister",
+        "alias": "Uncle Dolt",
+        "title": "Ser",
+        "allegiance": "House Lannister",
+        "culture": "westermen",
+        "born": "In or between 245 AC and 253 AC",
+        "died": "In 299 AC, at Oxcross",
+        "spouse": "Lady Myranda Lefford",
+        "issue": [
+            "Daven Lannister",
+            "Cerenna Lannister",
+            "Myrielle Lannister"
+        ]
+    },
+    "Stalwart_Shield": {
+        "id": "Stalwart_Shield",
+        "name": "Stalwart Shield",
+        "allegiance": "Unsullied",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Stannis_Baratheon": {
+        "id": "Stannis_Baratheon",
+        "name": "Stannis Baratheon",
+        "alias": [
+            "The King in the Narrow Sea",
+            "The King of the",
+            "Painted Table",
+            "The dark lord",
+            "The King of Dragonstone",
+            "The King at the Wall",
+            "Azor Ahai reborn/come again",
+            "The prince that was promised"
+        ],
+        "issue": "Shireen Baratheon",
+        "father": "Steffon Baratheon",
+        "mother": "Cassana Estermont",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5",
+        "born": "264 AC Storm's End",
+        "title": [
+            "Master of ships",
+            "(formerly)",
+            "Ser",
+            "Lord of Dragonstone",
+            "Lord of Storm's End",
+            "King of Westeros",
+            "(self-styled)",
+            "King of the Andals, the Rhoynar, and the First Men",
+            "(claimant)",
+            "Lord of the Seven Kingdoms",
+            "(claimant)",
+            "Protector of the Realm",
+            "(claimant)",
+            "Commander",
+            "of the",
+            "Nightfort"
+        ],
+        "spouse": "Selyse Florent"
+    },
+    "Stannis_Seaworth": {
+        "id": "Stannis_Seaworth",
+        "name": "Stannis Seaworth",
+        "allegiance": "House Seaworth",
+        "born": "In 289 AC or 290 AC"
+    },
+    "Stanton_Piper": {
+        "id": "Stanton_Piper",
+        "name": "Stanton Piper",
+        "title": "Lord of Pinkmaiden",
+        "allegiance": [
+            "House Piper",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Starved_man": {
+        "id": "Starved_man",
+        "name": "Starved man",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Steelskin": {
+        "id": "Steelskin",
+        "name": "Steelskin",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Steffar_Stammerer": {
+        "id": "Steffar_Stammerer",
+        "name": "Steffar Stammerer",
+        "alias": "Steffar Stammerer",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Steffarion_Sparr": {
+        "id": "Steffarion_Sparr",
+        "name": "Steffarion Sparr",
+        "allegiance": "House Sparr",
+        "culture": "ironborn"
+    },
+    "Steffon_Baratheon": {
+        "id": "Steffon_Baratheon",
+        "name": "Steffon Baratheon",
+        "title": [
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands"
+        ],
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 246 AC",
+        "died": "In 278 AC, at Shipbreaker Bay, near Storm's End",
+        "spouse": "Lady Cassana Estermont",
+        "issue": [
+            "Robert Baratheon",
+            "Stannis Baratheon",
+            "Renly Baratheon"
+        ]
+    },
+    "Steffon_Connington": {
+        "id": "Steffon_Connington",
+        "name": "Steffon Connington",
+        "title": "Ser",
+        "allegiance": "House Connington",
+        "culture": "Stormlander",
+        "born": "In or before 117 AC",
+        "died": "In 133 AC, at Dornish Marches",
+        "spouse": "Lady Elenda Baratheon"
+    },
+    "Steffon_Darklyn": {
+        "id": "Steffon_Darklyn",
+        "name": "Steffon Darklyn",
+        "title": [
+            "Ser",
+            "Lord Commander of the Queensguard"
+        ],
+        "allegiance": [
+            "House Darklyn",
+            "Kingsguard",
+            "Queensguard",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 129 AC, at Dragonstone"
+    },
+    "Steffon_Fossoway": {
+        "id": "Steffon_Fossoway",
+        "name": "Steffon Fossoway",
+        "title": "Ser",
+        "allegiance": "House Fossoway of Cider Hall",
+        "culture": "Reach",
+        "born": "At Cider Hall"
+    },
+    "Steffon_Frey": {
+        "id": "Steffon_Frey",
+        "name": "Steffon Frey",
+        "alias": "Steffon the Sweet",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between ~260 AC and 280 AC"
+    },
+    "Steffon_Hollard": {
+        "id": "Steffon_Hollard",
+        "name": "Steffon Hollard",
+        "title": "Ser",
+        "allegiance": "House Hollard",
+        "culture": "Crownlands",
+        "died": "In before 277 AC",
+        "issue": "Dontos Hollard"
+    },
+    "Steffon_Seaworth": {
+        "id": "Steffon_Seaworth",
+        "name": "Steffon Seaworth",
+        "allegiance": "House Seaworth",
+        "born": "In 293 AC"
+    },
+    "Steffon_Stackspear": {
+        "id": "Steffon_Stackspear",
+        "name": "Steffon Stackspear",
+        "title": "Ser",
+        "allegiance": "House Stackspear",
+        "culture": "Westermen"
+    },
+    "Steffon_Sunderland": {
+        "id": "Steffon_Sunderland",
+        "name": "Steffon Sunderland",
+        "title": "Lord of the Three Sisters",
+        "allegiance": "House Sunderland",
+        "culture": "Sistermen",
+        "issue": "2 sons"
+    },
+    "Steffon_Swyft": {
+        "id": "Steffon_Swyft",
+        "name": "Steffon Swyft",
+        "title": "Ser",
+        "allegiance": "House Swyft",
+        "culture": "Westermen",
+        "spouse": "Unknown",
+        "issue": "Joanna Swyft"
+    },
+    "Steffon_Varner": {
+        "id": "Steffon_Varner",
+        "name": "Steffon Varner",
+        "title": "Lord",
+        "allegiance": "House Varner"
+    },
+    "Stern_face": {
+        "id": "Stern_face",
+        "name": "Stern face",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Stevron_Frey": {
+        "id": "Stevron_Frey",
+        "name": "Stevron Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 233 AC or 234 AC, at the Twins",
+        "died": "In 299 AC, at Oxcross",
+        "spouse": [
+            "1st:",
+            "Corenna Swann",
+            "2nd:",
+            "Jeyne Lydden",
+            "3rd:",
+            "Marsella Waynwood"
+        ],
+        "issue": [
+            "Ryman Frey",
+            "Aegon Frey",
+            "Maegelle Frey",
+            "Walton Frey"
+        ],
+        "tv series": "Season 1"
+    },
+    "Stiv": {
+        "id": "Stiv",
+        "name": "Stiv",
+        "allegiance": "deserter from the Night's Watch",
+        "died": "In 298 AC, at the wolfswood",
+        "tv series": "Season 1"
+    },
+    "Stone_Thumbs": {
+        "id": "Stone_Thumbs",
+        "name": "Stone Thumbs",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 299 AC, at Castle Black"
+    },
+    "Stonehand": {
+        "id": "Stonehand",
+        "name": "Stonehand",
+        "culture": "ironborn"
+    },
+    "Stonesnake": {
+        "id": "Stonesnake",
+        "name": "Stonesnake",
+        "allegiance": "Night's Watch",
+        "born": "In or between 250 AC and 253 AC"
+    },
+    "Stormbreaker": {
+        "id": "Stormbreaker",
+        "name": "Stormbreaker",
+        "alias": "Stormbreaker",
+        "title": "Ser",
+        "allegiance": "House Baratheon",
+        "culture": "Stormlands"
+    },
+    "Stygg": {
+        "id": "Stygg",
+        "name": "Stygg",
+        "allegiance": "House Greyjoy"
+    },
+    "Styr": {
+        "id": "Styr",
+        "name": "Styr",
+        "title": "Magnar of Thenn",
+        "allegiance": "Thenn",
+        "culture": "Free folk",
+        "born": "At Thenn",
+        "died": "In 300 AC, at Castle Black",
+        "tv series": "Season 4"
+    },
+    "Sumner_Crakehall": {
+        "id": "Sumner_Crakehall",
+        "name": "Sumner Crakehall",
+        "title": [
+            "Ser",
+            "Lord of Crakehall"
+        ],
+        "allegiance": "House Crakehall",
+        "culture": "Westermen",
+        "died": "In or between 281 AC and 283 AC"
+    },
+    "Sure_Spear": {
+        "id": "Sure_Spear",
+        "name": "Sure Spear",
+        "title": "Captain of the Unsullied",
+        "allegiance": [
+            "The",
+            "Unsullied",
+            "House Targaryen"
+        ]
+    },
+    "Sunset_girl": {
+        "id": "Sunset_girl",
+        "name": "Sunset girl",
+        "culture": "Selhorys"
+    },
+    "Sweets": {
+        "id": "Sweets",
+        "name": "Sweets",
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Sybassion": {
+        "id": "Sybassion",
+        "name": "Blind Sybassion the Eater of Eyes",
+        "alias": "Blind Sybassion the Eater of Eyes",
+        "culture": "Qarth"
+    },
+    "Sybell_Spicer": {
+        "id": "Sybell_Spicer",
+        "name": "Sybell Spicer",
+        "title": "Lady of the Crag",
+        "allegiance": [
+            "House Spicer",
+            "House Westerling"
+        ],
+        "culture": "Westermen",
+        "spouse": "Lord Gawen Westerling",
+        "issue": [
+            "Raynald Westerling",
+            "Jeyne Westerling",
+            "Eleyna Westerling",
+            "Rollam Westerling"
+        ]
+    },
+    "Sybelle_Glover": {
+        "id": "Sybelle_Glover",
+        "name": "Sybelle Glover",
+        "alias": "Sybelle Locke",
+        "title": "Lady of Deepwood Motte",
+        "allegiance": [
+            "House Locke",
+            "House Glover"
+        ],
+        "culture": "Northmen",
+        "spouse": "Robett Glover",
+        "issue": [
+            "Gawen Glover",
+            "Erena Glover"
+        ]
+    },
+    "Sylas_Flatnose": {
+        "id": "Sylas_Flatnose",
+        "name": "Sylas Flatnose",
+        "title": "King of the Iron Islands",
+        "culture": "ironborn"
+    },
+    "Sylas_Sourmouth": {
+        "id": "Sylas_Sourmouth",
+        "name": "Sylas Sourmouth",
+        "alias": "Sylas Sourmouth",
+        "title": "Steward of Pyke",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 294 AC"
+    },
+    "Sylas_the_Grim": {
+        "id": "Sylas_the_Grim",
+        "name": "Sylas the Grim",
+        "alias": "Sylas the Grim",
+        "culture": "Free folk",
+        "died": "In 133 AC, at the Gift"
+    },
+    "Sylva_Santagar": {
+        "id": "Sylva_Santagar",
+        "name": "Sylva Santagar",
+        "alias": "Spotted Sylva",
+        "title": "Lady of Greenstone",
+        "allegiance": [
+            "House Santagar",
+            "House Estermont"
+        ],
+        "culture": "Dornishmen",
+        "born": "In 276 AC or 277 AC, at Spottswood",
+        "spouse": "Lord Eldon Estermont"
+    },
+    "Sylvenna_Sand": {
+        "id": "Sylvenna_Sand",
+        "name": "Sylvenna Sand",
+        "allegiance": [
+            "House of Kisses",
+            "Gaemon Palehair"
+        ],
+        "culture": "Dornishmen",
+        "died": "In 130 AC or 131 AC, at Red Keep, King's Landing"
+    },
+    "Sylwa_Paege": {
+        "id": "Sylwa_Paege",
+        "name": "Sylwa Paege",
+        "allegiance": [
+            "House Paege",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "born": "In or before 274 AC",
+        "spouse": "Ser Whalen Frey",
+        "issue": [
+            "Hoster Frey",
+            "Merianne Frey"
+        ]
+    },
+    "Symeon_Star-Eyes": {
+        "id": "Symeon_Star-Eyes",
+        "name": "Symeon Star-Eyes",
+        "title": "Ser"
+    },
+    "Symon_Hollard": {
+        "id": "Symon_Hollard",
+        "name": "Symon Hollard",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at the",
+            "Dun Fort"
+        ],
+        "allegiance": [
+            "House Hollard",
+            "House Darklyn"
+        ],
+        "culture": "Crownlands",
+        "died": "In 277 AC, at Duskendale"
+    },
+    "Symon_Santagar": {
+        "id": "Symon_Santagar",
+        "name": "Symon Santagar",
+        "title": [
+            "Ser",
+            "Knight of Spottswood"
+        ],
+        "allegiance": "House Santagar",
+        "culture": "Dornishmen",
+        "issue": "Sylva Santagar"
+    },
+    "Symon_Silver_Tongue": {
+        "id": "Symon_Silver_Tongue",
+        "name": "Symon Silver Tongue",
+        "alias": "Symon Silver Tongue",
+        "died": "In 299 AC, at King's Landing"
+    },
+    "Symon_Stripeback": {
+        "id": "Symon_Stripeback",
+        "name": "Symon Stripeback",
+        "title": "Commander of the Free Brothers",
+        "allegiance": [
+            "House Targaryen",
+            "Free Brothers"
+        ]
+    },
+    "Symond_Botley": {
+        "id": "Symond_Botley",
+        "name": "Symond Botley",
+        "allegiance": "House Botley",
+        "culture": "Ironborn"
+    },
+    "Symond_Crayne": {
+        "id": "Symond_Crayne",
+        "name": "Symond Crayne",
+        "title": "Ser",
+        "allegiance": [
+            "House Crayne",
+            "Kingsguard",
+            "Night's Watch"
+        ],
+        "culture": "Valemen"
+    },
+    "Symond_Frey": {
+        "id": "Symond_Frey",
+        "name": "Symond Frey",
+        "allegiance": "House Frey",
+        "born": "In or between 252 AC and 260 AC, at the Twins",
+        "died": "In 300 AC (suspected), at the north",
+        "spouse": "Betharios of Braavos",
+        "issue": [
+            "Alesander Frey",
+            "Alyx Frey",
+            "Bradamar Frey"
+        ]
+    },
+    "Symond_Staunton": {
+        "id": "Symond_Staunton",
+        "name": "Symond Staunton",
+        "title": [
+            "Lord of Rook's Rest",
+            "Master of laws"
+        ],
+        "allegiance": "House Staunton",
+        "culture": "Crownlands"
+    },
+    "Symond_Templeton": {
+        "id": "Symond_Templeton",
+        "name": "Symond Templeton",
+        "title": [
+            "Ser",
+            "Knight of Ninestars"
+        ],
+        "allegiance": [
+            "House Templeton",
+            "Lords Declarant"
+        ],
+        "culture": "Valemen"
+    },
+    "Syrio_Forel": {
+        "id": "Syrio_Forel",
+        "name": "Syrio Forel",
+        "title": [
+            "First Sword",
+            "to the",
+            "Sealord of Braavos",
+            "Water Dancer"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Braavosi",
+        "born": "At Braavos",
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Spotted_Tom": {
+        "id": "Spotted_Tom",
+        "name": "Spotted Tom",
+        "alias": "Spotted Tom the Butcher",
+        "allegiance": "Band of Nine",
+        "culture": "Westerosi"
+    },
+    "Steelshanks_Walton": {
+        "id": "Steelshanks_Walton",
+        "name": "Steelshanks Walton",
+        "alias": [
+            "Steelshanks Walton",
+            "Steelshanks"
+        ],
+        "title": "Captain of the guards at the Dreadfort",
+        "allegiance": "House Bolton",
+        "culture": "northmen",
+        "born": "At north",
+        "tv series": "Season 3"
+    }
+}

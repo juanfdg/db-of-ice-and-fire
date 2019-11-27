@@ -1,0 +1,2894 @@
+{
+    "Muttering_Bill": {
+        "id": "Muttering_Bill",
+        "name": "Muttering Bill",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at the haunted forest"
+    },
+    "Mace_Tyrell": {
+        "id": "Mace_Tyrell",
+        "name": "Mace Tyrell",
+        "alias": [
+            "Lord Oaf",
+            "The Fat Flower",
+            "Lord Puff Fish"
+        ],
+        "title": [
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South",
+            "Master of ships",
+            "(formerly)",
+            "Hand of the King"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "In ~256 AC",
+        "spouse": "Lady Alerie Hightower",
+        "issue": [
+            "Willas Tyrell",
+            "Garlan Tyrell",
+            "Loras Tyrell",
+            "Margaery Tyrell"
+        ],
+        "tv series": "Season 4 | Season 5 | Season 6"
+    },
+    "Mad_Axe": {
+        "id": "Mad_Axe",
+        "name": "Mad Axe",
+        "alias": "Mad Axe",
+        "allegiance": "Night's Watch"
+    },
+    "Mad_Huntsman": {
+        "id": "Mad_Huntsman",
+        "name": "Mad Huntsman",
+        "alias": "The Huntsman",
+        "title": "Ser",
+        "allegiance": "Brotherhood without banners",
+        "culture": "Rivermen",
+        "spouse": "Unknown"
+    },
+    "Maddy": {
+        "id": "Maddy",
+        "name": "Maddy",
+        "allegiance": "House Arryn"
+    },
+    "Maege_Mormont": {
+        "id": "Maege_Mormont",
+        "name": "Maege Mormont",
+        "alias": "The She-Bear",
+        "title": "Lady of Bear Island",
+        "allegiance": "House Mormont",
+        "culture": "Northmen",
+        "born": "In or between 239 AC and 257 AC",
+        "issue": [
+            "Dacey Mormont",
+            "Alysane Mormont",
+            "Lyra Mormont",
+            "Jorelle Mormont",
+            "Lyanna Mormont"
+        ],
+        "tv series": "Season 1"
+    },
+    "Maegelle_Frey": {
+        "id": "Maegelle_Frey",
+        "name": "Maegelle Frey",
+        "allegiance": [
+            "House Frey",
+            "House Vance"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between ~248 AC and 268 AC",
+        "spouse": "Ser Dafyn Vance",
+        "issue": [
+            "Marianne Vance",
+            "Walder Vance",
+            "Patrek Vance"
+        ]
+    },
+    "Maegelle_Targaryen": {
+        "id": "Maegelle_Targaryen",
+        "name": "Maegelle Targaryen",
+        "title": [
+            "Princess",
+            "Septa"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Faith of the Seven"
+        ],
+        "culture": "Crownlands",
+        "born": "In 62 AC",
+        "died": "In 96 AC"
+    },
+    "Maegon_Targaryen": {
+        "id": "Maegon_Targaryen",
+        "name": "Maegon Targaryen",
+        "title": "Lord of Dragonstone",
+        "allegiance": "House Targaryen",
+        "born": "At Dragonstone"
+    },
+    "Maegor_I_Targaryen": {
+        "id": "Maegor_I_Targaryen",
+        "name": "Maegor I Targaryen",
+        "alias": [
+            "Maegor the Cruel",
+            "The",
+            "Prince of Dragonstone",
+            "The Abomination on the Iron Throne"
+        ],
+        "issue": [
+            "3 stillborn children",
+            "Silver Denys",
+            "(allegedly)"
+        ],
+        "father": "Aegon I Targaryen",
+        "mother": "Visenya Targaryen",
+        "born": "12 AC Dragonstone",
+        "died": "48 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Hand of the King",
+            "Ser"
+        ],
+        "spouse": [
+            "Ceryse Hightower",
+            "Alys Harroway",
+            "Tyanna of the Tower",
+            "Elinor Costayne",
+            "Rhaena Targaryen",
+            "Jeyne Westerling"
+        ]
+    },
+    "Maegor_Targaryen_(son_of_Aerion)": {
+        "id": "Maegor_Targaryen_(son_of_Aerion)",
+        "name": "Maegor Targaryen (son of Aerion)",
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In 232 AC"
+    },
+    "Maegor_Towers": {
+        "id": "Maegor_Towers",
+        "name": "Maegor Towers",
+        "title": "Lord of Harrenhal",
+        "allegiance": "House Towers",
+        "culture": "Rivermen",
+        "born": "In 44 AC",
+        "died": "In 61 AC, at Harrenhal"
+    },
+    "Maekar_I_Targaryen": {
+        "id": "Maekar_I_Targaryen",
+        "name": "Maekar I Targaryen",
+        "alias": "The Anvil",
+        "spouse": "Dyanna Dayne",
+        "issue": [
+            "Daeron Targaryen",
+            "Aerion Targaryen",
+            "Aemon Targaryen",
+            "Daella Targaryen",
+            "Aegon V Targaryen",
+            "Rhae Targaryen"
+        ],
+        "father": "Daeron II Targaryen",
+        "mother": "Mariah Martell",
+        "born": "or between 174 AC and 178 AC King's Landing",
+        "died": "233 AC Starpike",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Prince of Summerhall",
+            "Prince of Dragonstone"
+        ]
+    },
+    "Maelor_Targaryen": {
+        "id": "Maelor_Targaryen",
+        "name": "Maelor Targaryen",
+        "title": "Prince",
+        "allegiance": [
+            "House Targaryen",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "born": "In 127 AC, at King's Landing",
+        "died": "In 130 AC, at Bitterbridge"
+    },
+    "Maelys_Blackfyre": {
+        "id": "Maelys_Blackfyre",
+        "name": "Maelys I Blackfyre",
+        "alias": "Maelys the Monstrous",
+        "title": [
+            "Captain-general",
+            "King of the Andals, the Rhoynar, and the First Men",
+            "(claimant)",
+            "Lord of the Seven Kingdoms",
+            "(claimant)",
+            "Protector of the Realm",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "House Blackfyre",
+            "Golden Company",
+            "Band of Nine"
+        ],
+        "culture": "Free Cities",
+        "died": "In 260 AC, at Stepstones"
+    },
+    "Maerie_the_Whore": {
+        "id": "Maerie_the_Whore",
+        "name": "Maerie the Whore",
+        "died": "In 299 AC, at Riverlands"
+    },
+    "Maezon_zo_Rhaezn": {
+        "id": "Maezon_zo_Rhaezn",
+        "name": "Maezon zo Rhaezn",
+        "alias": "Clanker Lord",
+        "allegiance": [
+            "Wise Masters",
+            "House of Rhaezn"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Mag_Mar_Tun_Doh_Weg": {
+        "id": "Mag_Mar_Tun_Doh_Weg",
+        "name": "Mag Mar Tun Doh Weg",
+        "alias": [
+            "Mag the Mighty",
+            "king of the giants"
+        ],
+        "born": "At beyond the Wall",
+        "died": "In 300 AC, at Castle Black",
+        "tv series": "Season 4"
+    },
+    "Maggy": {
+        "id": "Maggy",
+        "name": "Maggy the Frog",
+        "alias": "Maggy the Frog",
+        "allegiance": "House Spicer",
+        "culture": "Westermen",
+        "died": "In 276 AC or after",
+        "spouse": "Unknown spice trader",
+        "issue": [
+            "Son",
+            "Other child(ren)"
+        ],
+        "tv series": "Season 5"
+    },
+    "Mago": {
+        "id": "Mago",
+        "name": "Mago",
+        "title": "Bloodrider of Khal Jhaqo",
+        "culture": "Dothraki",
+        "tv series": "Season 1"
+    },
+    "Maia_Stokeworth": {
+        "id": "Maia_Stokeworth",
+        "name": "Maia Stokeworth",
+        "allegiance": "House Stokeworth"
+    },
+    "Maisie": {
+        "id": "Maisie",
+        "name": "Maisie",
+        "allegiance": "House Bolton",
+        "culture": "Northmen"
+    },
+    "Maladon_Moore": {
+        "id": "Maladon_Moore",
+        "name": "Maladon Moore",
+        "title": "Ser",
+        "allegiance": [
+            "House Moore",
+            "Kingsguard"
+        ],
+        "culture": "Valemen",
+        "died": "In 48 AC, at King's Landing"
+    },
+    "Malaquo_Maegyr": {
+        "id": "Malaquo_Maegyr",
+        "name": "Malaquo Maegyr",
+        "title": "Triarch of Volantis",
+        "allegiance": "Tiger",
+        "culture": "Volantene"
+    },
+    "Malazza": {
+        "id": "Malazza",
+        "name": "Malazza",
+        "alias": "Girl General",
+        "title": "Lady",
+        "allegiance": "Wise Masters",
+        "culture": "Ghiscari",
+        "born": "In either 283 AC or 284 AC, at Yunkai"
+    },
+    "Malcolm": {
+        "id": "Malcolm",
+        "name": "Malcolm",
+        "title": "Ser",
+        "culture": "Crownlands"
+    },
+    "Maldon_IV_Durrandon": {
+        "id": "Maldon_IV_Durrandon",
+        "name": "Maldon IV Durrandon",
+        "issue": "Durran XXIV Durrandon",
+        "title": "Storm King",
+        "spouse": "Andal wife"
+    },
+    "Maldon_Massey": {
+        "id": "Maldon_Massey",
+        "name": "Maldon Massey",
+        "title": "Lord of Stonedance",
+        "allegiance": "House Massey",
+        "culture": "First Men"
+    },
+    "Malegorn_of_Redpool": {
+        "id": "Malegorn_of_Redpool",
+        "name": "Malegorn of Redpool",
+        "alias": "Malegorn of Redpool",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "Queen's men"
+        ]
+    },
+    "Malentine_Velaryon": {
+        "id": "Malentine_Velaryon",
+        "name": "Malentine Velaryon",
+        "title": "Ser",
+        "allegiance": "House Velaryon",
+        "culture": "Crownlands",
+        "died": "In 132 AC, at Castle Driftmark"
+    },
+    "Mallador_Locke": {
+        "id": "Mallador_Locke",
+        "name": "Mallador Locke",
+        "alias": "Malador Locke",
+        "title": "Ser",
+        "allegiance": [
+            "House Locke",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "died": "In 299 AC, at beyond the Wall"
+    },
+    "Malleon": {
+        "id": "Malleon",
+        "name": "Malleon",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel"
+    },
+    "Malliard": {
+        "id": "Malliard",
+        "name": "Malliard",
+        "title": "Wisdom",
+        "allegiance": "Alchemists' Guild",
+        "culture": "Crownlands"
+    },
+    "Mallor": {
+        "id": "Mallor",
+        "name": "Mallor",
+        "title": "Ser"
+    },
+    "Mallor_the_Dornishman": {
+        "id": "Mallor_the_Dornishman",
+        "name": "Mallor the Dornishman",
+        "alias": "Mallor the Dornishman",
+        "allegiance": "House Lannister",
+        "culture": "Dornishmen",
+        "born": "At Dorne"
+    },
+    "Mallow": {
+        "id": "Mallow",
+        "name": "Mallow",
+        "title": "Septon",
+        "culture": "Andals"
+    },
+    "Malo_Jayn": {
+        "id": "Malo_Jayn",
+        "name": "Malo Jayn",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Malora_Hightower": {
+        "id": "Malora_Hightower",
+        "name": "Malora Hightower",
+        "alias": "The Mad Maid",
+        "allegiance": "House Hightower",
+        "culture": "Reach"
+    },
+    "Malthar_Xaq": {
+        "id": "Malthar_Xaq",
+        "name": "Malthar Xaq",
+        "alias": [
+            "Malthar the Windrider",
+            "Malthaar the Mapmaker"
+        ],
+        "title": "Prince of Koj",
+        "allegiance": "House Xaq"
+    },
+    "Malwyn_Frey": {
+        "id": "Malwyn_Frey",
+        "name": "Malwyn Frey",
+        "allegiance": "House Frey",
+        "born": "In 284 AC"
+    },
+    "Mancaster": {
+        "id": "Mancaster",
+        "name": "Mancaster",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Mance_Rayder": {
+        "id": "Mance_Rayder",
+        "name": "Mance Rayder",
+        "alias": [
+            "The Mance",
+            "Abel",
+            "The Unburnt King"
+        ],
+        "culture": "Free folk",
+        "spouse": "Dalla",
+        "issue": "Aemon Steelsong",
+        "tv series": "Season 3 | Season 4 | Season 5",
+        "born": "Unknown date beyond the Wall",
+        "title": "King-Beyond-the-Wall"
+    },
+    "Mandon_Moore": {
+        "id": "Mandon_Moore",
+        "name": "Mandon Moore",
+        "title": "Ser",
+        "allegiance": [
+            "House Moore",
+            "Kingsguard"
+        ],
+        "culture": "Valemen",
+        "died": "In 299 AC, at the Blackwater Rush",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Manfred_Dondarrion": {
+        "id": "Manfred_Dondarrion",
+        "name": "Manfred Dondarrion",
+        "title": "Ser",
+        "allegiance": "House Dondarrion"
+    },
+    "Manfred_Hightower_(Aegon%27s_Conquest)": {
+        "id": "Manfred_Hightower_(Aegon%27s_Conquest)",
+        "name": "Manfred Hightower (Aegon's Conquest)",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "House Tyrell",
+            "House Gardener",
+            "(formerly)"
+        ],
+        "culture": "Reach",
+        "born": "In or before 37 BC",
+        "died": "In 10 AC or 11 AC",
+        "spouse": "Unknown",
+        "issue": [
+            "Addam Hightower",
+            "Garmon Hightower",
+            "2 sons",
+            "Daughters"
+        ]
+    },
+    "Manfred_Hightower_(son_of_Addam)": {
+        "id": "Manfred_Hightower_(son_of_Addam)",
+        "name": "Manfred Hightower (son of Addam)",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or before 11 BC",
+        "died": "In 41 AC",
+        "spouse": "Unknown",
+        "issue": [
+            "Martyn Hightower",
+            "Ceryse Hightower",
+            "Morgan Hightower"
+        ]
+    },
+    "Manfred_Lothston": {
+        "id": "Manfred_Lothston",
+        "name": "Manfred Lothston",
+        "allegiance": "House Lothston",
+        "culture": "Rivermen"
+    },
+    "Manfred_Swann": {
+        "id": "Manfred_Swann",
+        "name": "Manfred Swann",
+        "title": "Ser",
+        "allegiance": "House Swann",
+        "culture": "Marcher"
+    },
+    "Manfrey_Martell": {
+        "id": "Manfrey_Martell",
+        "name": "Manfrey Martell",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "spouse": "Unknown"
+    },
+    "Manfryd_Lothston": {
+        "id": "Manfryd_Lothston",
+        "name": "Manfryd Lothston",
+        "alias": "Manfryd o' the Black Hood",
+        "allegiance": "House Lothston",
+        "culture": "Rivermen"
+    },
+    "Manfryd_Merlyn": {
+        "id": "Manfryd_Merlyn",
+        "name": "Manfryd Merlyn",
+        "title": "Captain of the Kite",
+        "allegiance": "House Merlyn",
+        "culture": "ironborn"
+    },
+    "Manfryd_Mooton": {
+        "id": "Manfryd_Mooton",
+        "name": "Manfryd Mooton",
+        "title": [
+            "Lord of Maidenpool",
+            "Lord Regent"
+        ],
+        "allegiance": [
+            "House Mooton",
+            "blacks",
+            "greens"
+        ],
+        "culture": "Rivermen",
+        "died": "In 134 AC, at King's Landing"
+    },
+    "Manfryd_Redwyne": {
+        "id": "Manfryd_Redwyne",
+        "name": "Manfryd Redwyne",
+        "title": [
+            "Lord of the Arbor",
+            "Master of ships",
+            "Lord admiral"
+        ],
+        "allegiance": "House Redwyne",
+        "culture": "Reach",
+        "died": "In 89 AC",
+        "issue": [
+            "Robert Redwyne",
+            "Rickard Redwyne",
+            "Ryam Redwyne"
+        ]
+    },
+    "Manfryd_Yew": {
+        "id": "Manfryd_Yew",
+        "name": "Manfryd Yew",
+        "title": "Ser",
+        "allegiance": "House Yew",
+        "culture": "Westermen"
+    },
+    "Manly_Stokeworth": {
+        "id": "Manly_Stokeworth",
+        "name": "Manly Stokeworth",
+        "title": "Commander of the City Watch",
+        "allegiance": [
+            "House Stokeworth",
+            "City Watch of King's Landing"
+        ],
+        "culture": "Crownlands",
+        "died": "In or in between 283 AC and 298 AC"
+    },
+    "Mara_Manderly": {
+        "id": "Mara_Manderly",
+        "name": "Mara Manderly",
+        "allegiance": [
+            "House Manderly",
+            "House Targaryen"
+        ],
+        "culture": "Northmen"
+    },
+    "Mara_Martell": {
+        "id": "Mara_Martell",
+        "name": "Mara Martell",
+        "title": [
+            "Princess of Dorne",
+            "Lady of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen"
+    },
+    "Marei": {
+        "id": "Marei",
+        "name": "Marei",
+        "allegiance": "Chataya's brothel",
+        "born": "In 280 AC or before",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5"
+    },
+    "Margaery_Tyrell": {
+        "id": "Margaery_Tyrell",
+        "name": "Margaery Tyrell",
+        "alias": [
+            "Little rose",
+            "Little queen",
+            "Maid Margaery"
+        ],
+        "title": [
+            "Queen Consort",
+            "Lady of",
+            "Storm's End"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "House Baratheon",
+            "House Baratheon of King's Landing"
+        ],
+        "culture": "Reach",
+        "born": "In 283 AC, at Highgarden",
+        "spouse": [
+            "1st: King",
+            "Renly Baratheon",
+            "2nd: King",
+            "Joffrey Baratheon",
+            "3rd: King",
+            "Tommen Baratheon"
+        ],
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Margaret_Karstark": {
+        "id": "Margaret_Karstark",
+        "name": "Margaret Karstark",
+        "allegiance": [
+            "House Karstark",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "spouse": "Bennard Stark",
+        "issue": [
+            "Benjen Stark",
+            "Brandon Stark",
+            "Elric Stark"
+        ]
+    },
+    "Margate": {
+        "id": "Margate",
+        "name": "Margate",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Marghaz_zo_Loraq": {
+        "id": "Marghaz_zo_Loraq",
+        "name": "Marghaz zo Loraq",
+        "title": "Commander of the Brazen Beasts",
+        "allegiance": [
+            "House of Loraq",
+            "Great Masters",
+            "Brazen Beasts"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Margot_Lannister": {
+        "id": "Margot_Lannister",
+        "name": "Margot Lannister",
+        "title": "Lady of Starpike",
+        "allegiance": [
+            "House Lannister",
+            "House Peake"
+        ],
+        "culture": "Westermen",
+        "spouse": "Lord Titus Peake"
+    },
+    "Mariah_Stark": {
+        "id": "Mariah_Stark",
+        "name": "Mariah Stark",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 136 AC"
+    },
+    "Marianne_Vance": {
+        "id": "Marianne_Vance",
+        "name": "Marianne Vance",
+        "allegiance": [
+            "House Vance",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between ~260 AC and 290 AC"
+    },
+    "Maric_Seaworth": {
+        "id": "Maric_Seaworth",
+        "name": "Maric Seaworth",
+        "title": "Oarmaster",
+        "allegiance": "House Seaworth",
+        "died": "In 299 AC, at Blackwater Rush"
+    },
+    "Marilda_of_Hull": {
+        "id": "Marilda_of_Hull",
+        "name": "Marilda of Hull",
+        "alias": "Mouse",
+        "allegiance": "House Velaryon",
+        "culture": "Crownlands",
+        "born": "In 97 AC, at Hull",
+        "issue": [
+            "Addam of Hull",
+            "Alyn of Hull"
+        ]
+    },
+    "Marillion": {
+        "id": "Marillion",
+        "name": "Marillion",
+        "born": "In 279 AC or 280 AC",
+        "died": "In 300 AC, at the Eyrie",
+        "tv series": "Season 1"
+    },
+    "Maris_(septa)": {
+        "id": "Maris_(septa)",
+        "name": "Maris (septa)",
+        "title": "Mother",
+        "allegiance": "Faith of the Seven"
+    },
+    "Maris_the_Maid": {
+        "id": "Maris_the_Maid",
+        "name": "Maris the Maid",
+        "alias": "The Most Fair",
+        "title": "Queen of the High Tower",
+        "culture": "Reach",
+        "spouse": "King Uthor of the High Tower",
+        "issue": [
+            "Urrigon Hightower",
+            "Peremore Hightower"
+        ]
+    },
+    "Maris_Baratheon": {
+        "id": "Maris_Baratheon",
+        "name": "Maris Baratheon",
+        "title": "Silent sister",
+        "allegiance": [
+            "House Baratheon",
+            "Faith of the Seven"
+        ],
+        "culture": "Stormlander",
+        "born": "In 104 117 AC"
+    },
+    "Marissa_Frey": {
+        "id": "Marissa_Frey",
+        "name": "Marissa Frey",
+        "allegiance": "House Frey",
+        "born": "In 286 AC"
+    },
+    "Mariya_Darry": {
+        "id": "Mariya_Darry",
+        "name": "Mariya Darry",
+        "allegiance": [
+            "House Darry",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Merrett Frey",
+        "issue": [
+            "Amerei Frey",
+            "Walda Frey",
+            "Marissa Frey",
+            "Walder Frey",
+            "Stillborn daughter",
+            "Daughter who died in infancy"
+        ]
+    },
+    "Mark_Mullendore": {
+        "id": "Mark_Mullendore",
+        "name": "Mark Mullendore",
+        "title": "Ser",
+        "allegiance": "House Mullendore",
+        "culture": "Reach"
+    },
+    "Mark_Ryswell": {
+        "id": "Mark_Ryswell",
+        "name": "Mark Ryswell",
+        "title": "Ser",
+        "allegiance": "House Ryswell",
+        "culture": "Northmen",
+        "died": "In 283 AC, at the tower of joy"
+    },
+    "Marla_Prester": {
+        "id": "Marla_Prester",
+        "name": "Marla Prester",
+        "allegiance": [
+            "House Prester",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "born": "In between 212 AC and 215 AC (roughly)",
+        "spouse": "Ser Jason Lannister",
+        "issue": [
+            "Joanna Lannister",
+            "Stafford Lannister",
+            "2 sons",
+            "2 daughters"
+        ]
+    },
+    "Marla_Sunderland": {
+        "id": "Marla_Sunderland",
+        "name": "Marla Sunderland",
+        "title": [
+            "Lady of the Three Sisters",
+            "Queen of the Three Sisters"
+        ],
+        "allegiance": [
+            "House Sunderland",
+            "Silent sisters"
+        ],
+        "culture": "Sistermen"
+    },
+    "Marlon_Manderly": {
+        "id": "Marlon_Manderly",
+        "name": "Marlon Manderly",
+        "title": [
+            "Ser",
+            "Commander of the garrison",
+            "at",
+            "White Harbor"
+        ],
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "At White Harbor"
+    },
+    "Marna_Locke": {
+        "id": "Marna_Locke",
+        "name": "Marna Locke",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Locke",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 236 AC",
+        "died": "In 230 AC or after",
+        "spouse": "Lord Edwyle Stark",
+        "issue": "Rickard Stark"
+    },
+    "Maron_Botley": {
+        "id": "Maron_Botley",
+        "name": "Maron Botley",
+        "alias": "Fishwhiskers",
+        "allegiance": "House Botley",
+        "culture": "ironborn",
+        "issue": "Three sons"
+    },
+    "Maron_Greyjoy": {
+        "id": "Maron_Greyjoy",
+        "name": "Maron Greyjoy",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "born": "In or between 269 AC and 275 AC",
+        "died": "In 289 AC, at Pyke"
+    },
+    "Maron_Martell": {
+        "id": "Maron_Martell",
+        "name": "Maron Martell",
+        "title": [
+            "Prince of Dorne",
+            "Lord of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "spouse": "Princess Daenerys Targaryen",
+        "issue": [
+            "Son",
+            "Other children"
+        ]
+    },
+    "Maron_Volmark": {
+        "id": "Maron_Volmark",
+        "name": "Maron Volmark",
+        "title": [
+            "Lord of Volmark",
+            "Lord of Greenshield"
+        ],
+        "allegiance": "House Volmark",
+        "culture": "ironborn",
+        "born": "In 283 AC or 284 AC"
+    },
+    "Marq_Ambrose": {
+        "id": "Marq_Ambrose",
+        "name": "Marq Ambrose",
+        "title": "Lord/Ser[N 1]",
+        "allegiance": [
+            "House Ambrose",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Marq_Farman": {
+        "id": "Marq_Farman",
+        "name": "Marq Farman",
+        "title": "Lord of Fair Isle",
+        "allegiance": "House Farman",
+        "culture": "Westermen",
+        "born": "In 14 BC",
+        "died": "In 50 AC, at Fair Isle",
+        "issue": [
+            "Franklyn Farman",
+            "Elissa Farman",
+            "Androw Farman"
+        ]
+    },
+    "Marq_Grafton": {
+        "id": "Marq_Grafton",
+        "name": "Marq Grafton",
+        "allegiance": "House Grafton",
+        "culture": "Valemen",
+        "died": "In 282 AC, at Gulltown"
+    },
+    "Marq_Piper": {
+        "id": "Marq_Piper",
+        "name": "Marq Piper",
+        "title": "Ser",
+        "allegiance": "House Piper",
+        "culture": "Rivermen",
+        "born": "At Pinkmaiden Castle"
+    },
+    "Marq_Merryweather": {
+        "id": "Marq_Merryweather",
+        "name": "Marq Merryweather",
+        "title": [
+            "Lord of Longtable",
+            "Lord",
+            "Regent"
+        ],
+        "allegiance": "House Merryweather",
+        "culture": "Reach"
+    },
+    "Marq_Mudd": {
+        "id": "Marq_Mudd",
+        "name": "Marq Mudd",
+        "alias": "The Mad Bard",
+        "title": "King of the Rivers and the Hills",
+        "allegiance": "House Mudd"
+    },
+    "Marq_Rankenfell": {
+        "id": "Marq_Rankenfell",
+        "name": "Marq Rankenfell",
+        "alias": "Mad Marq Rankenfell",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": "Night's Watch"
+    },
+    "Marqelo_Tagaros": {
+        "id": "Marqelo_Tagaros",
+        "name": "Marqelo Tagaros",
+        "title": "Triarch of Volantis",
+        "culture": "Volantene",
+        "died": "At Volantis"
+    },
+    "Marra_Rogare": {
+        "id": "Marra_Rogare",
+        "name": "Marra Rogare",
+        "allegiance": "House Rogare",
+        "culture": "Lyseni",
+        "born": "In or before 114 AC",
+        "died": "In or after 135 AC"
+    },
+    "Marrigo": {
+        "id": "Marrigo",
+        "name": "Marrigo",
+        "culture": "Ghiscari"
+    },
+    "Marro": {
+        "id": "Marro",
+        "name": "Marro",
+        "allegiance": "The Gate",
+        "culture": "Braavosi"
+    },
+    "Marselen": {
+        "id": "Marselen",
+        "name": "Marselen",
+        "title": "Commander of the Mother's Men",
+        "allegiance": [
+            "Unsullied",
+            "House Targaryen",
+            "Mother's Men"
+        ],
+        "culture": "Naathi"
+    },
+    "Marsella_Waynwood": {
+        "id": "Marsella_Waynwood",
+        "name": "Marsella Waynwood",
+        "allegiance": [
+            "House Waynwood",
+            "House Frey"
+        ],
+        "culture": "Valemen",
+        "spouse": "Ser Stevron Frey",
+        "issue": "Walton Frey"
+    },
+    "Marston_Waters": {
+        "id": "Marston_Waters",
+        "name": "Marston Waters",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "Kingsguard",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "died": "In 135 AC, at King's Landing"
+    },
+    "Martyn_Cassel": {
+        "id": "Martyn_Cassel",
+        "name": "Martyn Cassel",
+        "allegiance": "House Cassel",
+        "culture": "Northmen",
+        "born": "In or before 258 AC",
+        "died": "In 283 AC, at the tower of joy",
+        "issue": [
+            "Jory Cassel",
+            "3 sons"
+        ]
+    },
+    "Martyn_Hightower": {
+        "id": "Martyn_Hightower",
+        "name": "Martyn Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or before 27 AC",
+        "died": "In or between 41 AC and 48 AC"
+    },
+    "Martyn_Hightower_(son_of_Ormund)": {
+        "id": "Martyn_Hightower_(son_of_Ormund)",
+        "name": "Martyn Hightower (son of Ormund)",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or between 116 AC and 126 AC"
+    },
+    "Martyn_Lannister": {
+        "id": "Martyn_Lannister",
+        "name": "Martyn Lannister",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In or between 285 AC and 287 AC",
+        "tv series": "Season 3"
+    },
+    "Martyn_Mullendore": {
+        "id": "Martyn_Mullendore",
+        "name": "Martyn Mullendore",
+        "title": "Lord of Uplands",
+        "allegiance": "House Mullendore",
+        "culture": "Reach"
+    },
+    "Martyn_Rivers": {
+        "id": "Martyn_Rivers",
+        "name": "Martyn Rivers",
+        "allegiance": "House Frey",
+        "culture": "Rivermen"
+    },
+    "Martyn_Tyrell": {
+        "id": "Martyn_Tyrell",
+        "name": "Martyn Tyrell",
+        "title": [
+            "Lord of Highgarden",
+            "Master of coin"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "spouse": "Lady Florence Fossoway"
+    },
+    "Marwyn": {
+        "id": "Marwyn",
+        "name": "Marwyn",
+        "alias": [
+            "Marwyn the Mage",
+            "The Mage",
+            "The mastiff"
+        ],
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Marwyn_Belmore": {
+        "id": "Marwyn_Belmore",
+        "name": "Marwyn Belmore",
+        "alias": "Ser Ding-Dong",
+        "title": [
+            "Ser",
+            "Captain of the guards",
+            "at the",
+            "Eyrie",
+            "(formerly)",
+            "Captain of the guards at the",
+            "Gates of the Moon"
+        ],
+        "allegiance": [
+            "House Belmore",
+            "House Arryn",
+            "House Royce of the Gates of the Moon"
+        ],
+        "culture": "Valemen"
+    },
+    "Mary_Mertyns": {
+        "id": "Mary_Mertyns",
+        "name": "Mary Mertyns",
+        "title": "Dowager Lady of Mistwood",
+        "allegiance": "House Mertyns",
+        "culture": "stormlands",
+        "issue": "Sons"
+    },
+    "Marya_Seaworth": {
+        "id": "Marya_Seaworth",
+        "name": "Marya Seaworth",
+        "allegiance": "House Seaworth",
+        "spouse": "Ser Davos Seaworth",
+        "issue": [
+            "Dale Seaworth",
+            "Allard Seaworth",
+            "Matthos Seaworth",
+            "Maric Seaworth",
+            "Devan Seaworth",
+            "Stannis Seaworth",
+            "Steffon Seaworth"
+        ]
+    },
+    "Maryam": {
+        "id": "Maryam",
+        "name": "Maryam",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "died": "In 54 AC, at Dragonstone"
+    },
+    "Masha_Heddle": {
+        "id": "Masha_Heddle",
+        "name": "Masha Heddle",
+        "allegiance": "House Heddle",
+        "died": "In 298 AC, at crossroads inn",
+        "tv series": "Season 1"
+    },
+    "Maslyn": {
+        "id": "Maslyn",
+        "name": "Maslyn",
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at Fist of the First Men"
+    },
+    "Matarys_Targaryen": {
+        "id": "Matarys_Targaryen",
+        "name": "Matarys Targaryen",
+        "alias": "The Even Younger Prince",
+        "title": "Prince",
+        "allegiance": "House Targaryen",
+        "born": "In 184 AC or later",
+        "died": "In 209 AC, at King's Landing"
+    },
+    "Mathis": {
+        "id": "Mathis",
+        "name": "Mathis",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Mathis_Frey": {
+        "id": "Mathis_Frey",
+        "name": "Mathis Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 294 AC"
+    },
+    "Mathis_Rowan": {
+        "id": "Mathis_Rowan",
+        "name": "Mathis Rowan",
+        "title": "Lord of Goldengrove",
+        "allegiance": "House Rowan",
+        "culture": "Reach",
+        "spouse": "Lady Bethany Redwyne",
+        "issue": [
+            "2 children",
+            "1 daughter"
+        ]
+    },
+    "Mathos_II_Arryn": {
+        "id": "Mathos_II_Arryn",
+        "name": "Mathos II Arryn",
+        "culture": "Andal",
+        "issue": "Sons",
+        "title": "King of Mountain and Vale"
+    },
+    "Mathos_Mallarawan": {
+        "id": "Mathos_Mallarawan",
+        "name": "Mathos Mallarawan",
+        "allegiance": "Pureborn",
+        "culture": "Qartheen",
+        "spouse": "Unnamed wife"
+    },
+    "Matrice": {
+        "id": "Matrice",
+        "name": "Matrice",
+        "allegiance": "House Baratheon of Dragonstone"
+    },
+    "Matt": {
+        "id": "Matt",
+        "name": "Matt",
+        "alias": "Little Matt",
+        "died": "At the Riverlands"
+    },
+    "Matteno_Orthys": {
+        "id": "Matteno_Orthys",
+        "name": "Matteno Orthys",
+        "culture": "Lysene",
+        "died": "In 135 AC, at Lys"
+    },
+    "Matthar": {
+        "id": "Matthar",
+        "name": "Matthar",
+        "alias": "Ser Loon",
+        "allegiance": "Night's Watch",
+        "tv series": "Season 1"
+    },
+    "Matthar_(archmaester)": {
+        "id": "Matthar_(archmaester)",
+        "name": "Matthar (archmaester)",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Mattheus": {
+        "id": "Mattheus",
+        "name": "Mattheus",
+        "title": "Septon",
+        "allegiance": "Faith of the Seven",
+        "culture": "Reach"
+    },
+    "Matthew_Mullendore": {
+        "id": "Matthew_Mullendore",
+        "name": "Matthew Mullendore",
+        "title": "Ser",
+        "allegiance": "House Mullendore",
+        "culture": "Reach"
+    },
+    "Matthos_Seaworth": {
+        "id": "Matthos_Seaworth",
+        "name": "Matthos Seaworth",
+        "allegiance": "House Seaworth",
+        "died": "In 299 AC, at Blackwater Rush",
+        "tv series": "Season 2"
+    },
+    "Matthos_Tyrell": {
+        "id": "Matthos_Tyrell",
+        "name": "Matthos Tyrell",
+        "title": [
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "died": "In 101 129 AC"
+    },
+    "Mawney": {
+        "id": "Mawney",
+        "name": "Mawney",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at beyond the Wall"
+    },
+    "Maynard": {
+        "id": "Maynard",
+        "name": "Maynard",
+        "title": "Ser"
+    },
+    "Maynard_Holt": {
+        "id": "Maynard_Holt",
+        "name": "Maynard Holt",
+        "title": [
+            "Ser",
+            "Captain of",
+            "Talon"
+        ],
+        "allegiance": [
+            "House Holt",
+            "Night's Watch"
+        ]
+    },
+    "Maynard_Plumm": {
+        "id": "Maynard_Plumm",
+        "name": "Maynard Plumm",
+        "title": "Ser",
+        "allegiance": "House Plumm"
+    },
+    "Mazdhan_zo_Loraq": {
+        "id": "Mazdhan_zo_Loraq",
+        "name": "Mazdhan zo Loraq",
+        "alias": "The Magnificent",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Mazor_Alexi": {
+        "id": "Mazor_Alexi",
+        "name": "Mazor Alexi",
+        "title": "High King of Sarnor",
+        "allegiance": "Kingdom of Sarnor",
+        "culture": "Sarnori",
+        "died": "In Century of Blood, at the Field of Crows"
+    },
+    "Mebble": {
+        "id": "Mebble",
+        "name": "Mebble",
+        "alias": "Pinkeye",
+        "title": "Understeward"
+    },
+    "Medgar_Tully": {
+        "id": "Medgar_Tully",
+        "name": "Medgar Tully",
+        "title": [
+            "Lord of Riverrun",
+            "Lord Paramount of the Trident"
+        ],
+        "allegiance": "House Tully",
+        "culture": "Rivermen",
+        "born": "In or before 190 AC",
+        "died": "In 209 211 AC"
+    },
+    "Medger_Cerwyn": {
+        "id": "Medger_Cerwyn",
+        "name": "Medger Cerwyn",
+        "title": "Lord of Cerwyn",
+        "allegiance": "House Cerwyn",
+        "culture": "Northmen",
+        "born": "At Cerwyn",
+        "died": "In 299 AC, at Harrenhal",
+        "issue": [
+            "Jonelle Cerwyn",
+            "Cley Cerwyn"
+        ],
+        "tv series": "Season 5"
+    },
+    "Medrick": {
+        "id": "Medrick",
+        "name": "Medrick",
+        "title": "Maester at Hornwood",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Hornwood"
+        ]
+    },
+    "Medrick_Manderly": {
+        "id": "Medrick_Manderly",
+        "name": "Medrick Manderly",
+        "title": [
+            "Ser",
+            "Lord of White Harbor",
+            "Warden of the White Knife",
+            "Shield of the Faith",
+            "Defender of the Dispossessed",
+            "Lord Marshal of the Mander",
+            "Knight of the",
+            "Order of the Green Hand"
+        ],
+        "allegiance": [
+            "House Manderly",
+            "Blacks"
+        ],
+        "culture": "Northmen",
+        "died": "In 132 AC, at White Harbor"
+    },
+    "Medwick_Tyrell": {
+        "id": "Medwick_Tyrell",
+        "name": "Medwick Tyrell",
+        "title": "Maester",
+        "allegiance": [
+            "House Tyrell",
+            "The",
+            "Citadel"
+        ],
+        "culture": "Reach"
+    },
+    "Meera_Reed": {
+        "id": "Meera_Reed",
+        "name": "Meera Reed",
+        "allegiance": "House Reed",
+        "culture": "crannogmen",
+        "born": "In 283 AC, at Greywater Watch",
+        "tv series": "Season 3 | Season 4 | Season 6 | Season 7"
+    },
+    "Meg": {
+        "id": "Meg",
+        "name": "Meg",
+        "alias": "Swampy Meg",
+        "allegiance": "Brotherhood Without Banners"
+    },
+    "Megette": {
+        "id": "Megette",
+        "name": "Megette",
+        "alias": "Merry Meg",
+        "culture": "Rivermen",
+        "born": "In or before 142 AC",
+        "died": "In 159 AC, at Fairmarket",
+        "spouse": "Unknown smith",
+        "issue": [
+            "Alysanne",
+            "Lily",
+            "Willow",
+            "Rosey"
+        ]
+    },
+    "Megga_Tyrell": {
+        "id": "Megga_Tyrell",
+        "name": "Megga Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "In 286 AC (roughly)"
+    },
+    "Meha": {
+        "id": "Meha",
+        "name": "Meha",
+        "culture": "Free folk"
+    },
+    "Meizo_Mahr": {
+        "id": "Meizo_Mahr",
+        "name": "Meizo Mahr"
+    },
+    "Mela": {
+        "id": "Mela",
+        "name": "Mela",
+        "allegiance": "House Arryn"
+    },
+    "Melantha_Blackwood": {
+        "id": "Melantha_Blackwood",
+        "name": "Melantha Blackwood",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Blackwood",
+            "House Stark"
+        ],
+        "spouse": "Lord Willam Stark",
+        "issue": [
+            "Jocelyn Stark",
+            "Edwyle Stark"
+        ]
+    },
+    "Melaquin": {
+        "id": "Melaquin",
+        "name": "Melaquin",
+        "title": "Maester at Summerhall",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ]
+    },
+    "Melara_Crane": {
+        "id": "Melara_Crane",
+        "name": "Melara Crane",
+        "title": "Lady of Brightwater Keep",
+        "allegiance": [
+            "House Crane",
+            "House Florent"
+        ],
+        "spouse": "Lord Alester Florent",
+        "issue": [
+            "Alekyne Florent",
+            "Melessa Florent",
+            "Rhea Florent"
+        ]
+    },
+    "Melara_Hetherspoon": {
+        "id": "Melara_Hetherspoon",
+        "name": "Melara Hetherspoon",
+        "allegiance": "House Hetherspoon",
+        "culture": "Westermen",
+        "born": "In 264 AC or 265 AC",
+        "died": "In 276 AC"
+    },
+    "Meldred_Merlyn": {
+        "id": "Meldred_Merlyn",
+        "name": "Meldred Merlyn",
+        "alias": "The Merlyn",
+        "title": "Lord of Pebbleton",
+        "allegiance": "House Merlyn",
+        "culture": "ironborn"
+    },
+    "Melesa_Crakehall": {
+        "id": "Melesa_Crakehall",
+        "name": "Melesa Crakehall",
+        "allegiance": [
+            "House Crakehall",
+            "House Frey of Riverrun"
+        ],
+        "culture": "Westermen",
+        "spouse": "Ser Lyonel Frey"
+    },
+    "Melessa_Florent": {
+        "id": "Melessa_Florent",
+        "name": "Melessa Florent",
+        "title": "Lady of Horn Hill",
+        "allegiance": [
+            "House Florent",
+            "House Tarly"
+        ],
+        "culture": "Reach",
+        "spouse": "Lord Randyll Tarly",
+        "issue": [
+            "Samwell Tarly",
+            "Talla Tarly",
+            "2 daughters",
+            "Dickon Tarly"
+        ],
+        "tv series": "Season 6"
+    },
+    "Meliana": {
+        "id": "Meliana",
+        "name": "Meliana",
+        "alias": "Lady Meliana"
+    },
+    "Melicent": {
+        "id": "Melicent",
+        "name": "Melicent",
+        "title": "Septa"
+    },
+    "Melisandre": {
+        "id": "Melisandre",
+        "name": "Melisandre",
+        "alias": [
+            "The red woman",
+            "Red witch",
+            "The king's red shadow",
+            "Lady Red",
+            "Melony"
+        ],
+        "allegiance": "Faith of R'hllor",
+        "culture": "Asshai",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Melissa_Blackwood": {
+        "id": "Melissa_Blackwood",
+        "name": "Melissa Blackwood",
+        "alias": "Missy",
+        "title": "Lady",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "born": "In or between 156 AC and 160 AC",
+        "issue": [
+            "Mya Rivers",
+            "Gwenys Rivers",
+            "Brynden Rivers"
+        ]
+    },
+    "Mellara_Rivers": {
+        "id": "Mellara_Rivers",
+        "name": "Mellara Rivers",
+        "allegiance": "House Frey",
+        "culture": "Rivermen"
+    },
+    "Mellario": {
+        "id": "Mellario",
+        "name": "Mellario",
+        "alias": "Mellario of Norvos",
+        "title": [
+            "Lady",
+            "Princess Consort of Dorne",
+            "(formerly)"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Norvoshi",
+        "born": "In or between 248 AC and 263 AC, at Norvos",
+        "spouse": "Prince Doran Martell",
+        "issue": [
+            "Arianne Martell",
+            "Quentyn Martell",
+            "Trystane Martell"
+        ]
+    },
+    "Mellei": {
+        "id": "Mellei",
+        "name": "Mellei",
+        "allegiance": "House Martell"
+    },
+    "Mellos": {
+        "id": "Mellos",
+        "name": "Mellos",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel",
+        "died": "In 127 AC, at King's Landing"
+    },
+    "Melly": {
+        "id": "Melly",
+        "name": "Melly",
+        "allegiance": "Brotherhood without banners"
+    },
+    "Melony_Piper": {
+        "id": "Melony_Piper",
+        "name": "Melony Piper",
+        "allegiance": "House Piper",
+        "culture": "Rivermen",
+        "died": "In 43 AC, at the Gods Eye"
+    },
+    "Melwyn_Sarsfield": {
+        "id": "Melwyn_Sarsfield",
+        "name": "Melwyn Sarsfield",
+        "title": "Ser",
+        "allegiance": "House Sarsfield",
+        "culture": "Westermen",
+        "spouse": "Shierle Swyft"
+    },
+    "Melwys_Rivers": {
+        "id": "Melwys_Rivers",
+        "name": "Melwys Rivers",
+        "title": "Maester at Rosby",
+        "allegiance": [
+            "House Frey",
+            "The",
+            "Citadel",
+            "House Rosby"
+        ],
+        "culture": "Rivermen"
+    },
+    "Mengo": {
+        "id": "Mengo",
+        "name": "Mengo",
+        "title": "Khal",
+        "culture": "Dothraki",
+        "issue": "Moro"
+    },
+    "Mengo_Quen": {
+        "id": "Mengo_Quen",
+        "name": "Mengo Quen",
+        "alias": "The Glittering God",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Meralyn": {
+        "id": "Meralyn",
+        "name": "Meralyn",
+        "alias": "Merry",
+        "allegiance": "Happy Port",
+        "culture": "Braavosi"
+    },
+    "Meredyth_Crane": {
+        "id": "Meredyth_Crane",
+        "name": "Meredyth Crane",
+        "alias": "Merry",
+        "allegiance": "House Crane",
+        "culture": "Reach",
+        "born": "At Red Lake"
+    },
+    "Meredyth_Darklyn": {
+        "id": "Meredyth_Darklyn",
+        "name": "Meredyth Darklyn",
+        "title": "Lady of Duskendale",
+        "allegiance": [
+            "House Darklyn",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "spouse": "Lord Gunthor Darklyn"
+    },
+    "Meria_Martell": {
+        "id": "Meria_Martell",
+        "name": "Meria Martell",
+        "alias": "Yellow Toad of Dorne",
+        "issue": "Nymor Martell",
+        "born": "or around 82 BC (roughly)",
+        "died": "13 AC",
+        "title": [
+            "Princess of Dorne",
+            "Lady of Sunspear"
+        ]
+    },
+    "Merianne_Frey": {
+        "id": "Merianne_Frey",
+        "name": "Merianne Frey",
+        "alias": [
+            "Merry",
+            "Noisy"
+        ],
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 288 AC"
+    },
+    "Meribald": {
+        "id": "Meribald",
+        "name": "Meribald",
+        "title": "Septon",
+        "allegiance": "Faith of the Seven",
+        "culture": "Rivermen",
+        "born": "In 247 AC or 248 AC, at the riverlands",
+        "tv series": "Season 6"
+    },
+    "Merion": {
+        "id": "Merion",
+        "name": "Merion",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel",
+        "born": "In 192 AC or 193 AC",
+        "died": "In 259 AC, at the Roseroad"
+    },
+    "Meris": {
+        "id": "Meris",
+        "name": "Meris",
+        "alias": "Pretty Meris",
+        "allegiance": "Windblown",
+        "culture": "Westeros"
+    },
+    "Merle_I_Gardener": {
+        "id": "Merle_I_Gardener",
+        "name": "Merle I Gardener",
+        "alias": "Merle the Meek",
+        "issue": "Gwayne V Gardener",
+        "father": "Garth IX Gardener",
+        "title": "King of the Reach"
+    },
+    "Merling_Queen": {
+        "id": "Merling_Queen",
+        "name": "Merling Queen",
+        "alias": "The Merling Queen",
+        "culture": "Braavosi"
+    },
+    "Merlon_Crakehall": {
+        "id": "Merlon_Crakehall",
+        "name": "Merlon Crakehall",
+        "title": "Ser",
+        "allegiance": "House Crakehall",
+        "culture": "Westermen"
+    },
+    "Mern_II_Gardener": {
+        "id": "Mern_II_Gardener",
+        "name": "Mern II Gardener",
+        "alias": "Mern the Mason",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Mern_III_Gardener": {
+        "id": "Mern_III_Gardener",
+        "name": "Mern III Gardener",
+        "alias": "Mern the Madling",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Mern_VI_Gardener": {
+        "id": "Mern_VI_Gardener",
+        "name": "Mern VI Gardener",
+        "issue": [
+            "Garth XI Gardener",
+            "Daughters"
+        ],
+        "title": "King of the Reach"
+    },
+    "Mern_IX_Gardener": {
+        "id": "Mern_IX_Gardener",
+        "name": "Mern IX Gardener",
+        "issue": [
+            "Prince",
+            "Edmund Gardener",
+            "Prince",
+            "Gawen Gardener",
+            "2 unnamed sons"
+        ],
+        "died": "2 BC the Field of Fire",
+        "title": [
+            "King of the Reach",
+            "Lord of Highgarden"
+        ]
+    },
+    "Mero": {
+        "id": "Mero",
+        "name": "Mero",
+        "alias": [
+            "The Titan's Bastard",
+            "Mero of Braavos"
+        ],
+        "title": "Commander of the Second Sons",
+        "allegiance": "Second Sons",
+        "culture": "Braavosi",
+        "died": "In 299 AC, at Meereen",
+        "tv series": "Season 3"
+    },
+    "Merrel": {
+        "id": "Merrel",
+        "name": "Merrel",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "Queen's men"
+        ]
+    },
+    "Merrell_the_Bold": {
+        "id": "Merrell_the_Bold",
+        "name": "Merrell the Bold",
+        "alias": "Merrell the Bold",
+        "title": "Ser",
+        "allegiance": "Blacks",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Merrell_Bullock": {
+        "id": "Merrell_Bullock",
+        "name": "Merrell Bullock",
+        "title": [
+            "Ser",
+            "Commander of the garrison",
+            "at",
+            "Dragonstone"
+        ],
+        "allegiance": [
+            "House Bullock",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "born": "In or before 20 AC",
+        "issue": [
+            "Alyn Bullock",
+            "Howard Bullock"
+        ]
+    },
+    "Merrell_Florent": {
+        "id": "Merrell_Florent",
+        "name": "Merrell Florent",
+        "allegiance": "House Florent",
+        "culture": "Reach"
+    },
+    "Merrett_Frey": {
+        "id": "Merrett_Frey",
+        "name": "Merrett Frey",
+        "alias": "Merrett Muttonhead",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 262 AC",
+        "died": "In 300 AC, at Near Oldstones",
+        "spouse": "Mariya Darry",
+        "issue": [
+            "Amerei Frey",
+            "Walda Frey",
+            "Marissa Frey",
+            "Walder Frey",
+            "Stillborn daughter",
+            "Daughter who died in infancy"
+        ]
+    },
+    "Merriman": {
+        "id": "Merriman",
+        "name": "Merriman",
+        "culture": "Riverlands",
+        "died": "In 299 AC or before",
+        "spouse": "Merriman's widow"
+    },
+    "Merriman%27s_widow": {
+        "id": "Merriman%27s_widow",
+        "name": "Merriman's widow",
+        "culture": "Riverlands",
+        "died": "In 298 AC or 299 AC",
+        "spouse": "Merriman"
+    },
+    "Merrit": {
+        "id": "Merrit",
+        "name": "Merrit",
+        "alias": "Merrit o' Moontown",
+        "allegiance": "Brotherhood without banners"
+    },
+    "Mervyn_Flowers": {
+        "id": "Mervyn_Flowers",
+        "name": "Mervyn Flowers",
+        "title": "Ser",
+        "allegiance": [
+            "House Peake",
+            "Kingsguard"
+        ],
+        "culture": "Reach",
+        "born": "At the Reach",
+        "died": "In 135 AC, at King's Landing"
+    },
+    "Meryn_Trant": {
+        "id": "Meryn_Trant",
+        "name": "Meryn Trant",
+        "title": "Ser",
+        "allegiance": [
+            "House Trant",
+            "Kingsguard"
+        ],
+        "culture": "Stormlander",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5"
+    },
+    "Meryn_III_Gardener": {
+        "id": "Meryn_III_Gardener",
+        "name": "Meryn III Gardener",
+        "title": "King of the Reach"
+    },
+    "Meryn_Peake": {
+        "id": "Meryn_Peake",
+        "name": "Meryn Peake",
+        "alias": "Meryn the Scribe",
+        "title": "Lord of Starpike",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Methyso": {
+        "id": "Methyso",
+        "name": "Methyso",
+        "culture": "Volantene"
+    },
+    "Mezzara_Merreq": {
+        "id": "Mezzara_Merreq",
+        "name": "Mezzara Merreq",
+        "title": "Cupbearer",
+        "allegiance": "House of Merreq",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Michael_Mertyns": {
+        "id": "Michael_Mertyns",
+        "name": "Michael Mertyns",
+        "alias": "The White Owl",
+        "title": "Ser",
+        "allegiance": [
+            "House Mertyns",
+            "Kingsguard"
+        ],
+        "culture": "Stormlander"
+    },
+    "Michael_Miller": {
+        "id": "Michael_Miller",
+        "name": "Michael Miller",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Michael_Crowell": {
+        "id": "Michael_Crowell",
+        "name": "Michael Crowell",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Michael_Manwoody": {
+        "id": "Michael_Manwoody",
+        "name": "Michael Manwoody",
+        "title": "Ser",
+        "allegiance": [
+            "House Manwoody",
+            "House Martell",
+            "House Targaryen"
+        ],
+        "culture": "Dornishmen",
+        "spouse": "Princess Elaena Targaryen"
+    },
+    "Mikken": {
+        "id": "Mikken",
+        "name": "Mikken",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 299 AC, at Winterfell",
+        "tv series": "Season 1"
+    },
+    "Miklaz": {
+        "id": "Miklaz",
+        "name": "Miklaz",
+        "title": "Cupbearer",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Miller%27s_wife": {
+        "id": "Miller%27s_wife",
+        "name": "Miller's wife",
+        "allegiance": "House Bolton",
+        "culture": "Northmen",
+        "born": "At the North",
+        "spouse": "Miller of Weeping Water",
+        "issue": "Ramsay Snow"
+    },
+    "Miller%27s_wife_from_Acorn_Water": {
+        "id": "Miller%27s_wife_from_Acorn_Water",
+        "name": "Miller's wife from Acorn Water",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "At the North",
+        "died": "In 299 AC, at Acorn Water",
+        "spouse": "Miller of Acorn Water",
+        "issue": "2 young sons"
+    },
+    "Mina_Tyrell": {
+        "id": "Mina_Tyrell",
+        "name": "Mina Tyrell",
+        "title": "Lady of the Arbor",
+        "allegiance": [
+            "House Tyrell",
+            "House Redwyne"
+        ],
+        "culture": "Reach",
+        "spouse": "Lord Paxter Redwyne",
+        "issue": [
+            "Horas Redwyne",
+            "Hobber Redwyne",
+            "Desmera Redwyne"
+        ]
+    },
+    "Minisa_Whent": {
+        "id": "Minisa_Whent",
+        "name": "Minisa Tully",
+        "alias": "Minisa Whent",
+        "title": "Lady of Riverrun",
+        "allegiance": [
+            "House Whent",
+            "House Tully"
+        ],
+        "culture": "Rivermen",
+        "born": "In or before 250 AC, at Harrenhal",
+        "died": "In or between 268 AC and 278 AC, at Riverrun",
+        "spouse": "Lord Hoster Tully",
+        "issue": [
+            "Two sons",
+            "Catelyn Tully",
+            "Lysa Tully",
+            "Edmure Tully",
+            "Son"
+        ]
+    },
+    "Mirri_Maz_Duur": {
+        "id": "Mirri_Maz_Duur",
+        "name": "Mirri Maz Duur",
+        "title": [
+            "Godswife",
+            "Maegi"
+        ],
+        "culture": "Lhazareen",
+        "born": "In 257 AC, 258 AC or 259 AC, at Essos. Either in Lhazar, or in an unnamed Lhazareen settlement of the Dothraki sea.",
+        "died": "In 299 AC, at the red waste",
+        "tv series": "Season 1"
+    },
+    "Missandei": {
+        "id": "Missandei",
+        "name": "Missandei",
+        "allegiance": "House Targaryen",
+        "culture": "Naathi",
+        "born": "In 288 AC or 289 AC, at Naath",
+        "tv series": "Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Moelle": {
+        "id": "Moelle",
+        "name": "Moelle",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ]
+    },
+    "Mohor": {
+        "id": "Mohor",
+        "name": "Mohor",
+        "allegiance": "House Bracken",
+        "died": "In 298 AC, at the Mountains of the Moon"
+    },
+    "Mollander": {
+        "id": "Mollander",
+        "name": "Mollander",
+        "alias": "Hopfrog"
+    },
+    "Mollono_Yos_Dob": {
+        "id": "Mollono_Yos_Dob",
+        "name": "Mollono Yos Dob",
+        "title": "Commander of the Stalwart Shields",
+        "allegiance": [
+            "House Targaryen",
+            "Stalwart Shields"
+        ],
+        "died": "In 300 AC, at Meereen"
+    },
+    "Mollos": {
+        "id": "Mollos",
+        "name": "Mollos",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Monford_Velaryon": {
+        "id": "Monford_Velaryon",
+        "name": "Monford Velaryon",
+        "title": [
+            "Lord of the Tides",
+            "Master of Driftmark"
+        ],
+        "allegiance": "House Velaryon",
+        "culture": "crownlands",
+        "died": "In 299 AC, at Blackwater Rush",
+        "issue": "Monterys Velaryon"
+    },
+    "Monfryd_I_Durrandon": {
+        "id": "Monfryd_I_Durrandon",
+        "name": "Monfryd I Durrandon",
+        "alias": "Monfryd the Mighty",
+        "issue": "Durran XI Durrandon",
+        "father": "Durran X Durrandon",
+        "title": "Storm King"
+    },
+    "Monfryd_V_Durrandon": {
+        "id": "Monfryd_V_Durrandon",
+        "name": "Monfryd V Durrandon",
+        "culture": "First Men",
+        "father": "Qarlton III Durrandon",
+        "title": "Storm King"
+    },
+    "Monster": {
+        "id": "Monster",
+        "name": "Monster",
+        "alias": [
+            "little monster",
+            "Monster",
+            "the monster",
+            "the abomination"
+        ],
+        "culture": "Free folk",
+        "born": "In 299 AC, at Craster's Keep"
+    },
+    "Monterys_Velaryon": {
+        "id": "Monterys_Velaryon",
+        "name": "Monterys Velaryon",
+        "title": [
+            "Lord of the Tides",
+            "Master of Driftmark"
+        ],
+        "allegiance": "House Velaryon",
+        "culture": "crownlands",
+        "born": "In 293 AC"
+    },
+    "Moon_(septon)": {
+        "id": "Moon_(septon)",
+        "name": "Moon (septon)",
+        "alias": "Poorest Fellow",
+        "title": [
+            "Septon",
+            "High Septon",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows"
+        ],
+        "culture": "Westerosi",
+        "died": "In 48 AC, at outside Oldtown"
+    },
+    "Moon_Boy": {
+        "id": "Moon_Boy",
+        "name": "Moon Boy",
+        "allegiance": "House Baratheon of King's Landing"
+    },
+    "Moonshadow": {
+        "id": "Moonshadow",
+        "name": "Moonshadow",
+        "alias": "The Moonshadow",
+        "culture": "Braavosi"
+    },
+    "Moqorro": {
+        "id": "Moqorro",
+        "name": "Moqorro",
+        "alias": "Black Flame",
+        "title": "Slave of R'hllor",
+        "allegiance": "R'hllor",
+        "born": "At Volantis"
+    },
+    "Mord": {
+        "id": "Mord",
+        "name": "Mord",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "tv series": "Season 1"
+    },
+    "Mordane": {
+        "id": "Mordane",
+        "name": "Mordane",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Stark"
+        ],
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Morden_II_Durrandon": {
+        "id": "Morden_II_Durrandon",
+        "name": "Morden II Durrandon",
+        "title": "Storm King"
+    },
+    "Moredo_Prestayn": {
+        "id": "Moredo_Prestayn",
+        "name": "Moredo Prestayn",
+        "title": "Tradesman-Captain",
+        "allegiance": "House Prestayn",
+        "culture": "Braavosi"
+    },
+    "Moredo_Rogare": {
+        "id": "Moredo_Rogare",
+        "name": "Moredo Rogare",
+        "title": "Lord",
+        "allegiance": "House Rogare",
+        "culture": "Lysene"
+    },
+    "Moreo_Dagareon": {
+        "id": "Moreo_Dagareon",
+        "name": "Moreo Dagareon",
+        "title": "Gonfaloniere",
+        "culture": "Lysene",
+        "died": "In 135 AC, at Lys"
+    },
+    "Moreo_Tumitis": {
+        "id": "Moreo_Tumitis",
+        "name": "Moreo Tumitis",
+        "born": "In 268 AC or before"
+    },
+    "Morgan": {
+        "id": "Morgan",
+        "name": "Morgan",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "Queen's men"
+        ]
+    },
+    "Morgan_Dunstable": {
+        "id": "Morgan_Dunstable",
+        "name": "Morgan Dunstable",
+        "title": "Ser"
+    },
+    "Morgan_Hightower": {
+        "id": "Morgan_Hightower",
+        "name": "Morgan Hightower",
+        "title": [
+            "Ser",
+            "Commander of the",
+            "Warrior's Sons"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "culture": "Reach",
+        "born": "In or before 28 AC",
+        "died": "In 43 AC or 44 AC, at on the road to Honeyholt"
+    },
+    "Morgan_Liddle": {
+        "id": "Morgan_Liddle",
+        "name": "Morgan Liddle",
+        "alias": "Middle Liddle",
+        "allegiance": "House Liddle",
+        "culture": "Northern mountain clans"
+    },
+    "Morgan_Martell": {
+        "id": "Morgan_Martell",
+        "name": "Morgan Martell",
+        "title": "Lord of the Sandship",
+        "allegiance": "House Martell",
+        "culture": "Andal"
+    },
+    "Morgan_Wylde": {
+        "id": "Morgan_Wylde",
+        "name": "Morgan Wylde",
+        "title": "Lord of the Rain House",
+        "allegiance": "House Wylde",
+        "issue": [
+            "Son",
+            "Daughter",
+            "Coryanne Wylde"
+        ]
+    },
+    "Morgarth": {
+        "id": "Morgarth",
+        "name": "Morgarth the Merry",
+        "alias": "Morgarth the Merry",
+        "title": "Ser",
+        "allegiance": "House Baelish"
+    },
+    "Morghaz_zo_Zherzyn": {
+        "id": "Morghaz_zo_Zherzyn",
+        "name": "Morghaz zo Zherzyn",
+        "alias": [
+            "The Drunken Conqueror",
+            "Morghar zo Zherzyn"
+        ],
+        "allegiance": [
+            "House of Zherzyn",
+            "Wise Masters"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Morgil_Hastwyck": {
+        "id": "Morgil_Hastwyck",
+        "name": "Morgil Hastwyck",
+        "alias": "Morghil Hastwyck",
+        "title": "Ser",
+        "allegiance": "House Hastwyck",
+        "culture": "Reach",
+        "died": "In 172 183 AC"
+    },
+    "Morgo": {
+        "id": "Morgo",
+        "name": "Morgo",
+        "allegiance": "Yezzan zo Qaggaz"
+    },
+    "Morgon_Banefort": {
+        "id": "Morgon_Banefort",
+        "name": "Morgon Banefort",
+        "culture": "First Men",
+        "title": "Hooded King"
+    },
+    "Moriah_Qorgyle": {
+        "id": "Moriah_Qorgyle",
+        "name": "Moriah Qorgyle",
+        "allegiance": "House Qorgyle",
+        "culture": "Dornishmen",
+        "born": "In 103 133 AC"
+    },
+    "Moribald_Chester": {
+        "id": "Moribald_Chester",
+        "name": "Moribald Chester",
+        "title": "Lord of Greenshield",
+        "allegiance": "House Chester",
+        "culture": "Reach",
+        "died": "In 300 AC, at Greenshield"
+    },
+    "Morion_Martell": {
+        "id": "Morion_Martell",
+        "name": "Morion Martell",
+        "title": [
+            "Prince of Dorne",
+            "Lord of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "died": "In 83 AC, at Cape Wrath"
+    },
+    "Morna_White_Mask": {
+        "id": "Morna_White_Mask",
+        "name": "Morna",
+        "title": "Commander of Queensgate",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Moro": {
+        "id": "Moro",
+        "name": "Moro",
+        "title": "Khal",
+        "culture": "Dothraki",
+        "issue": "Rhogoro"
+    },
+    "Moro_(Century_of_Blood)": {
+        "id": "Moro_(Century_of_Blood)",
+        "name": "Moro (Century of Blood)",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Morosh_the_Myrman": {
+        "id": "Morosh_the_Myrman",
+        "name": "Morosh (admiral)",
+        "culture": "Myrmen"
+    },
+    "Morra": {
+        "id": "Morra",
+        "name": "Morra",
+        "allegiance": "House Martell"
+    },
+    "Morrec": {
+        "id": "Morrec",
+        "name": "Morrec",
+        "allegiance": "House Lannister",
+        "died": "In 298 AC, at Mountains of the Moon"
+    },
+    "Morros_Slynt": {
+        "id": "Morros_Slynt",
+        "name": "Morros Slynt",
+        "title": "Lord",
+        "allegiance": "House Slynt",
+        "culture": "Crownlands"
+    },
+    "Mors_Manwoody": {
+        "id": "Mors_Manwoody",
+        "name": "Mors Manwoody",
+        "allegiance": "House Manwoody",
+        "culture": "Dornishmen"
+    },
+    "Mors_Martell": {
+        "id": "Mors_Martell",
+        "name": "Mors Martell",
+        "title": [
+            "Lord of the Sandship",
+            "Lord of Sunspear",
+            "Prince of Dorne"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "died": "At the Boneway",
+        "spouse": "Nymeria",
+        "issue": "4 daughters"
+    },
+    "Mors_II_Martell": {
+        "id": "Mors_II_Martell",
+        "name": "Mors II Martell",
+        "title": [
+            "Prince of Dorne",
+            "Lord of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen"
+    },
+    "Mors_Martell_(brother_of_Doran)": {
+        "id": "Mors_Martell_(brother_of_Doran)",
+        "name": "Mors Martell (brother of Doran)",
+        "title": "Prince",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In or betwwen 248 AC and 257 AC",
+        "died": "In or between 248 AC and 258 AC"
+    },
+    "Mors_Umber": {
+        "id": "Mors_Umber",
+        "name": "Mors Umber",
+        "alias": "Mors Crowfood",
+        "title": "Castellan of Last Hearth",
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "born": "In 235 AC or before, at Last Hearth",
+        "spouse": "Unknown",
+        "issue": [
+            "Sons",
+            "Daughter"
+        ]
+    },
+    "Mortimer_Boggs": {
+        "id": "Mortimer_Boggs",
+        "name": "Mortimer Boggs",
+        "title": "Ser",
+        "allegiance": "House Boggs",
+        "culture": "Crownlands"
+    },
+    "Morton_Caron": {
+        "id": "Morton_Caron",
+        "name": "Morton Caron",
+        "title": [
+            "Lord of the Marches",
+            "Lord of",
+            "Nightsong"
+        ],
+        "allegiance": "House Caron",
+        "culture": "Marcher"
+    },
+    "Morton_Waynwood": {
+        "id": "Morton_Waynwood",
+        "name": "Morton Waynwood",
+        "title": "Ser",
+        "allegiance": "House Waynwood",
+        "culture": "Valemen",
+        "issue": "Roland Waynwood"
+    },
+    "Morya_Frey": {
+        "id": "Morya_Frey",
+        "name": "Morya Frey",
+        "title": "Lady",
+        "allegiance": [
+            "House Frey",
+            "House Brax"
+        ],
+        "culture": "Rivermen",
+        "born": "In 268 AC or 269 AC",
+        "spouse": "Ser Flement Brax",
+        "issue": [
+            "Robert Brax",
+            "Walder Brax",
+            "Jon Brax"
+        ]
+    },
+    "Moryn_Tyrell": {
+        "id": "Moryn_Tyrell",
+        "name": "Moryn Tyrell",
+        "title": [
+            "Ser",
+            "Lord Commander of the",
+            "City Watch of Oldtown"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "City Watch of Oldtown"
+        ],
+        "culture": "Reach",
+        "spouse": "Unknown",
+        "issue": [
+            "Luthor Tyrell",
+            "Leo Tyrell"
+        ]
+    },
+    "Moslander_of_Yore": {
+        "id": "Moslander_of_Yore",
+        "name": "Moslander of Yore",
+        "title": "Ser or Lord",
+        "allegiance": "Blacks"
+    },
+    "Mossador": {
+        "id": "Mossador",
+        "name": "Mossador",
+        "allegiance": [
+            "The",
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "culture": "Naathi",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Mother_Mole": {
+        "id": "Mother_Mole",
+        "name": "Mother Mole",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Motho": {
+        "id": "Motho",
+        "name": "Motho",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Mudge_(brotherhood)": {
+        "id": "Mudge_(brotherhood)",
+        "name": "Mudge (brotherhood)",
+        "allegiance": "Brotherhood without banners"
+    },
+    "Mudge_(miller)": {
+        "id": "Mudge_(miller)",
+        "name": "Mudge (miller)",
+        "died": "At Donnelwood"
+    },
+    "Mudge_(swineherd)": {
+        "id": "Mudge_(swineherd)",
+        "name": "Mudge (swineherd)",
+        "allegiance": "House Osgrey"
+    },
+    "Mullin": {
+        "id": "Mullin",
+        "name": "Mullin",
+        "title": "Maester at the Shadow Tower",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "Night's Watch"
+        ]
+    },
+    "Mully": {
+        "id": "Mully",
+        "name": "Mully",
+        "allegiance": "Night's Watch"
+    },
+    "Munciter": {
+        "id": "Munciter",
+        "name": "Munciter",
+        "title": "Wisdom",
+        "allegiance": "Alchemists' Guild",
+        "culture": "Crownlands"
+    },
+    "Munda": {
+        "id": "Munda",
+        "name": "Munda",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "spouse": "Longspear Ryk"
+    },
+    "Munkun": {
+        "id": "Munkun",
+        "name": "Munkun",
+        "title": [
+            "Grand Maester",
+            "Regent",
+            "Hand of the King"
+        ],
+        "allegiance": "The Citadel"
+    },
+    "Murch": {
+        "id": "Murch",
+        "name": "Murch"
+    },
+    "Murch_(Winterfell)": {
+        "id": "Murch_(Winterfell)",
+        "name": "Murch (Winterfell)",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Murenmure": {
+        "id": "Murenmure",
+        "name": "Murenmure",
+        "title": "Maester at Hammerhorn",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Goodbrother"
+        ]
+    },
+    "Murmison": {
+        "id": "Murmison",
+        "name": "Murmison",
+        "title": [
+            "Septon",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "died": "In 41 AC, at King's Landing"
+    },
+    "Mushroom": {
+        "id": "Mushroom",
+        "name": "Mushroom",
+        "title": "Court fool",
+        "allegiance": [
+            "House Targaryen",
+            "House Manderly"
+        ],
+        "culture": "Crownlands",
+        "born": "In or before 103 AC",
+        "died": "In or after 157 AC"
+    },
+    "Mya_Rivers": {
+        "id": "Mya_Rivers",
+        "name": "Mya Rivers",
+        "born": "In 172 AC or 173 AC"
+    },
+    "Mya_Stone": {
+        "id": "Mya_Stone",
+        "name": "Mya Stone",
+        "allegiance": "House Royce of the Gates of the Moon",
+        "culture": "Valemen",
+        "born": "In 279 AC or 280 AC, at The Vale of Arryn"
+    },
+    "Mycah": {
+        "id": "Mycah",
+        "name": "Mycah",
+        "culture": "Westeros",
+        "born": "In 285 AC",
+        "died": "In 298 AC, at Riverlands, near the Ruby Ford.",
+        "tv series": "Season 1"
+    },
+    "Mychel_Redfort": {
+        "id": "Mychel_Redfort",
+        "name": "Mychel Redfort",
+        "title": "Ser",
+        "allegiance": "House Redfort",
+        "culture": "Valemen",
+        "spouse": "Ysilla Royce"
+    },
+    "Mylenda_Caron": {
+        "id": "Mylenda_Caron",
+        "name": "Mylenda Caron",
+        "allegiance": [
+            "House Caron",
+            "House Frey"
+        ],
+        "culture": "Stormlander",
+        "born": "In or between 258 and 265 AC",
+        "spouse": "Petyr Frey",
+        "issue": "Perra Frey"
+    },
+    "Myles": {
+        "id": "Myles",
+        "name": "Myles",
+        "title": "Maester at Sunspear",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Martell"
+        ]
+    },
+    "Myles_(squire)": {
+        "id": "Myles_(squire)",
+        "name": "Myles (squire)",
+        "allegiance": "House Tully",
+        "died": "In 299 AC, at Riverrun"
+    },
+    "Myles_Greenfield": {
+        "id": "Myles_Greenfield",
+        "name": "Myles Greenfield",
+        "title": "Ser",
+        "allegiance": "House Greenfield",
+        "culture": "Westermen"
+    },
+    "Myles_Hightower": {
+        "id": "Myles_Hightower",
+        "name": "Myles Hightower",
+        "title": "Ser",
+        "allegiance": "House Hightower",
+        "culture": "Reach"
+    },
+    "Myles_Manwoody": {
+        "id": "Myles_Manwoody",
+        "name": "Myles Manwoody",
+        "title": "Ser",
+        "allegiance": "House Manwoody",
+        "culture": "Dornishmen"
+    },
+    "Myles_Mooton": {
+        "id": "Myles_Mooton",
+        "name": "Myles Mooton",
+        "title": "Ser",
+        "allegiance": "House Mooton",
+        "culture": "Rivermen",
+        "died": "In 283 AC, at Stoney Sept"
+    },
+    "Myles_Smallwood": {
+        "id": "Myles_Smallwood",
+        "name": "Myles Smallwood",
+        "title": [
+            "Ser",
+            "Lord of Acorn Hall",
+            "Hand of the King"
+        ],
+        "allegiance": "House Smallwood",
+        "culture": "Rivermen"
+    },
+    "Myles_Toyne": {
+        "id": "Myles_Toyne",
+        "name": "Myles Toyne",
+        "alias": "Blackheart",
+        "title": [
+            "Ser",
+            "Captain-general"
+        ],
+        "allegiance": [
+            "House Toyne",
+            "Golden Company"
+        ],
+        "died": "In 296 AC"
+    },
+    "Myranda_Lefford": {
+        "id": "Myranda_Lefford",
+        "name": "Myranda Lefford",
+        "title": "Lady",
+        "allegiance": [
+            "House Lefford",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Ser Stafford Lannister",
+        "issue": [
+            "Daven Lannister",
+            "Cerenna Lannister",
+            "Myrielle Lannister"
+        ]
+    },
+    "Myranda_Royce": {
+        "id": "Myranda_Royce",
+        "name": "Myranda Royce",
+        "alias": "Randa",
+        "allegiance": "House Royce of the Gates of the Moon",
+        "culture": "Valemen",
+        "born": "In 279 AC (roughly)",
+        "spouse": "Unknown"
+    },
+    "Myrcella_Baratheon": {
+        "id": "Myrcella_Baratheon",
+        "name": "Myrcella Baratheon",
+        "title": "Princess",
+        "allegiance": "House Baratheon of King's Landing",
+        "culture": "Crownlands",
+        "born": "In 290 AC, at King's Landing",
+        "tv series": "Season 1 | Season 2 | Season 5"
+    },
+    "Myria_Jordayne": {
+        "id": "Myria_Jordayne",
+        "name": "Myria Jordayne",
+        "allegiance": "House Jordayne",
+        "culture": "Dornishmen"
+    },
+    "Myriah_Martell": {
+        "id": "Myriah_Martell",
+        "name": "Myriah Martell",
+        "alias": "Mariah Martell",
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Martell",
+            "House Targaryen"
+        ],
+        "culture": "Dornishmen",
+        "spouse": "King Daeron II Targaryen",
+        "issue": [
+            "Baelor Targaryen",
+            "Aerys I Targaryen",
+            "Rhaegel Targaryen",
+            "Maekar I Targaryen"
+        ]
+    },
+    "Myriame_Manderly": {
+        "id": "Myriame_Manderly",
+        "name": "Myriame Manderly",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Manderly",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "spouse": "Lord Rodwell Stark"
+    },
+    "Myrielle_Lannister": {
+        "id": "Myrielle_Lannister",
+        "name": "Myrielle Lannister",
+        "allegiance": "House Lannister",
+        "culture": "Westermen"
+    },
+    "Myrielle_Peake": {
+        "id": "Myrielle_Peake",
+        "name": "Myrielle Peake",
+        "alias": "Lady Turnips",
+        "allegiance": "House Peake",
+        "culture": "Reach",
+        "born": "In 119 AC"
+    },
+    "Myrio_Myrakis": {
+        "id": "Myrio_Myrakis",
+        "name": "Myrio Myrakis",
+        "allegiance": "Windblown",
+        "born": "At Pentos"
+    },
+    "Myrmadora_Haen": {
+        "id": "Myrmadora_Haen",
+        "name": "Myrmadora Haen",
+        "allegiance": "House Haen",
+        "culture": "Lyseni",
+        "born": "In 103 133 AC",
+        "died": "In 135 AC, at Lys"
+    },
+    "Myrmello": {
+        "id": "Myrmello",
+        "name": "Myrmello",
+        "culture": "Braavosi"
+    },
+    "Myros": {
+        "id": "Myros",
+        "name": "Myros",
+        "alias": "Myres",
+        "title": "Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Myrtle": {
+        "id": "Myrtle",
+        "name": "Myrtle",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Mysaria": {
+        "id": "Mysaria",
+        "name": "Mysaria",
+        "alias": [
+            "Misery, the White Worm",
+            "Lady Misery",
+            "Lady Mysaria"
+        ],
+        "title": "Mistress of whisperers (unofficial)",
+        "allegiance": "Blacks",
+        "culture": "Lysene",
+        "born": "At Lys",
+        "died": "In 130 AC, at King's Landing"
+    }
+}

@@ -1,0 +1,2134 @@
+{
+    "Jacaerys_Velaryon": {
+        "id": "Jacaerys_Velaryon",
+        "name": "Jacaerys Velaryon",
+        "alias": "Jace",
+        "title": "Prince of Dragonstone",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 114 AC",
+        "died": "In 130 AC, at the Gullet",
+        "spouse": "Sara Snow (possibly)"
+    },
+    "Jace": {
+        "id": "Jace",
+        "name": "Jacaerys Velaryon",
+        "alias": "Jace",
+        "title": "Prince of Dragonstone",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 114 AC",
+        "died": "In 130 AC, at the Gullet",
+        "spouse": "Sara Snow (possibly)"
+    },
+    "Jacelyn_Bywater": {
+        "id": "Jacelyn_Bywater",
+        "name": "Jacelyn Bywater",
+        "alias": "Ironhand",
+        "title": [
+            "Ser",
+            "Captain of the",
+            "Mud Gate",
+            "Commander of the City Watch",
+            "Lord"
+        ],
+        "allegiance": [
+            "House Bywater",
+            "City Watch of King's Landing",
+            "Tyrion Lannister"
+        ],
+        "culture": "Crownlands",
+        "died": "In 299 AC, at King's Landing"
+    },
+    "Jack-Be-Lucky": {
+        "id": "Jack-Be-Lucky",
+        "name": "Jack-Be-Lucky",
+        "alias": "Jack-Be-Lucky",
+        "allegiance": "brotherhood without banners"
+    },
+    "Jack_Bulwer": {
+        "id": "Jack_Bulwer",
+        "name": "Jack Bulwer",
+        "alias": "Black Jack Bulwer",
+        "title": "First Ranger",
+        "allegiance": [
+            "House Bulwer",
+            "Night's Watch"
+        ],
+        "culture": "Reach",
+        "died": "In 300 AC, at beyond the Wall"
+    },
+    "Jack_Musgood": {
+        "id": "Jack_Musgood",
+        "name": "Jack Musgood",
+        "alias": [
+            "Jolly Jack",
+            "Sleepy Jack"
+        ],
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Musgood",
+            "Night's Watch"
+        ],
+        "culture": "Stormlander",
+        "died": "In 226 239 AC"
+    },
+    "Jacks": {
+        "id": "Jacks",
+        "name": "Jacks",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Jade_Emperor": {
+        "id": "Jade_Emperor",
+        "name": "Jade Emperor",
+        "alias": "Jade Emperor",
+        "culture": "Great Empire of the Dawn",
+        "title": [
+            "God-Emperor",
+            "Jade Emperor"
+        ]
+    },
+    "Jaehaera_Targaryen": {
+        "id": "Jaehaera_Targaryen",
+        "name": "Jaehaera Targaryen",
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "born": "In 123 AC",
+        "died": "In 133 AC, at King's Landing",
+        "spouse": "King Aegon III Targaryen"
+    },
+    "Jaehaerys_I_Targaryen": {
+        "id": "Jaehaerys_I_Targaryen",
+        "name": "Jaehaerys I Targaryen",
+        "alias": [
+            "The Conciliator",
+            "The Wise",
+            "The Old King"
+        ],
+        "issue": [
+            "Aegon Targaryen",
+            "Daenerys Targaryen",
+            "Aemon Targaryen",
+            "Baelon Targaryen",
+            "Alyssa Targaryen",
+            "Maegelle Targaryen",
+            "Vaegon Targaryen",
+            "Daella Targaryen",
+            "Saera Targaryen",
+            "Viserra Targaryen",
+            "Gaemon Targaryen",
+            "Valerion Targaryen",
+            "Gael Targaryen"
+        ],
+        "father": "Aenys I Targaryen",
+        "mother": "Alyssa Velaryon",
+        "born": "34 AC King's Landing",
+        "died": "103 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm"
+        ],
+        "spouse": "Alysanne Targaryen"
+    },
+    "Jaehaerys_Targaryen_(son_of_Aegon_II)": {
+        "id": "Jaehaerys_Targaryen_(son_of_Aegon_II)",
+        "name": "Jaehaerys Targaryen (son of Aegon II)",
+        "title": "Prince",
+        "allegiance": [
+            "House Targaryen",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "born": "In 123 AC",
+        "died": "In 129 AC, at the Tower of the Hand, King's Landing"
+    },
+    "Jaehaerys_II_Targaryen": {
+        "id": "Jaehaerys_II_Targaryen",
+        "name": "Jaehaerys II Targaryen",
+        "issue": [
+            "Aerys II Targaryen",
+            "Rhaella Targaryen"
+        ],
+        "father": "Aegon V Targaryen",
+        "mother": "Betha Blackwood",
+        "born": "225 AC King's Landing",
+        "died": "262 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Prince of Dragonstone"
+        ],
+        "spouse": "Shaera Targaryen"
+    },
+    "Jaehaerys_Targaryen_(son_of_Aerys_II)": {
+        "id": "Jaehaerys_Targaryen_(son_of_Aerys_II)",
+        "name": "Jaehaerys Targaryen (son of Aerys II)",
+        "title": "Prince",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 274 AC",
+        "died": "In 274 AC"
+    },
+    "Jaenara_Belaerys": {
+        "id": "Jaenara_Belaerys",
+        "name": "Jaenara Belaerys",
+        "allegiance": "House Belaerys",
+        "culture": "Valyrian"
+    },
+    "Jafer_Flowers": {
+        "id": "Jafer_Flowers",
+        "name": "Jafer Flowers",
+        "allegiance": "Night's Watch",
+        "culture": "Reach",
+        "died": "In 298 AC, at the haunted forest",
+        "tv series": "Season 1"
+    },
+    "Jaggot": {
+        "id": "Jaggot",
+        "name": "Jaggot",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans"
+    },
+    "Jaime_Corbray": {
+        "id": "Jaime_Corbray",
+        "name": "Jaime Corbray",
+        "title": "Ser",
+        "allegiance": "House Corbray",
+        "culture": "Andal"
+    },
+    "Jaime_Frey": {
+        "id": "Jaime_Frey",
+        "name": "Jaime Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 299 AC or 300 AC"
+    },
+    "Jaime_Lannister": {
+        "id": "Jaime_Lannister",
+        "name": "Jaime Lannister",
+        "alias": [
+            "Kingslayer",
+            "The Lion of Lannister",
+            "The Young Lion",
+            "Cripple",
+            "The golden man"
+        ],
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard",
+            "Warden of the East",
+            "(formerly)"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "Kingsguard"
+        ],
+        "culture": "Westermen",
+        "born": "In 266 AC, at Casterly Rock",
+        "issue": [
+            "Joffrey Baratheon",
+            "(bastard)",
+            "Myrcella Baratheon",
+            "(bastard)",
+            "Tommen Baratheon",
+            "(bastard)"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Jalabhar_Xho": {
+        "id": "Jalabhar_Xho",
+        "name": "Jalabhar Xho",
+        "title": "Prince of the Red Flower Vale",
+        "allegiance": [
+            "House Xho",
+            "House Baratheon of King's Landing"
+        ],
+        "culture": "Summer Islander",
+        "born": "At the Summer Isles"
+    },
+    "Jammos_Frey": {
+        "id": "Jammos_Frey",
+        "name": "Jammos Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "born": "In 266 AC or 267 AC",
+        "spouse": "Sallei Paege",
+        "issue": [
+            "Walder Frey",
+            "Dickon Frey",
+            "Mathis Frey"
+        ]
+    },
+    "Janei_Lannister": {
+        "id": "Janei_Lannister",
+        "name": "Janei Lannister",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 296 AC or 297 AC"
+    },
+    "Janna_Tyrell": {
+        "id": "Janna_Tyrell",
+        "name": "Janna Fossoway",
+        "title": "Lady",
+        "allegiance": [
+            "House Tyrell",
+            "House Fossoway of New Barrel"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Jon Fossoway"
+    },
+    "Janos_Slynt": {
+        "id": "Janos_Slynt",
+        "name": "Janos Slynt",
+        "title": [
+            "Captain of the",
+            "Iron Gate",
+            "(formerly)",
+            "Commander of the City Watch",
+            "Lord of Harrenhal"
+        ],
+        "allegiance": [
+            "City Watch of King's Landing",
+            "House Slynt",
+            "Night's Watch"
+        ],
+        "culture": "Crownlands",
+        "born": "In or between 260 AC and 278 AC, at King's Landing",
+        "died": "In 300 AC, at Castle Black",
+        "issue": [
+            "Morros Slynt",
+            "Jothos Slynt",
+            "Danos Slynt",
+            "Daughter"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 4 | Season 5"
+    },
+    "Janyce_Hunter": {
+        "id": "Janyce_Hunter",
+        "name": "Janyce Hunter",
+        "allegiance": [
+            "House Hunter",
+            "House Frey"
+        ],
+        "spouse": "Edwyn Frey",
+        "issue": "Walda Frey"
+    },
+    "Jaqen_H%27ghar": {
+        "id": "Jaqen_H%27ghar",
+        "name": "Jaqen H'ghar",
+        "alias": "Lorath",
+        "allegiance": "Faceless Men",
+        "tv series": "Season 1 | Season 2 | Season 5 | Season 6"
+    },
+    "Jar_Han": {
+        "id": "Jar_Han",
+        "name": "Jar Han",
+        "culture": "Yi Ti",
+        "father": "Jar Har",
+        "title": "God-Emperor"
+    },
+    "Jar_Har": {
+        "id": "Jar_Har",
+        "name": "Jar Har",
+        "culture": "Yi Ti",
+        "issue": [
+            "Jar Joq",
+            "Jar Han"
+        ],
+        "title": "God-Emperor"
+    },
+    "Jar_Joq": {
+        "id": "Jar_Joq",
+        "name": "Jar Joq",
+        "culture": "Yi Ti",
+        "father": "Jar Har",
+        "title": "God-Emperor"
+    },
+    "Jared_Frey": {
+        "id": "Jared_Frey",
+        "name": "Jared Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "At 248 AC or 249 AC",
+        "died": "In 300 AC (suspected), at the north",
+        "spouse": "Alys Frey",
+        "issue": [
+            "Tytos Frey",
+            "Kyra Frey"
+        ]
+    },
+    "Jaremy_Rykker": {
+        "id": "Jaremy_Rykker",
+        "name": "Jaremy Rykker",
+        "title": [
+            "Ser",
+            "First Ranger",
+            "(acting)"
+        ],
+        "allegiance": [
+            "House Rykker",
+            "Night's Watch"
+        ],
+        "culture": "crownlands",
+        "died": "In 298 AC, at Castle Black",
+        "tv series": "Season 1"
+    },
+    "Jarl": {
+        "id": "Jarl",
+        "name": "Jarl",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 299 AC, at the Wall"
+    },
+    "Jarman_Buckwell": {
+        "id": "Jarman_Buckwell",
+        "name": "Jarman Buckwell",
+        "title": "Ser",
+        "allegiance": [
+            "House Buckwell",
+            "Night's Watch"
+        ],
+        "culture": "Crownlands",
+        "died": "In 300 AC (supposedly)"
+    },
+    "Jason_Hightower": {
+        "id": "Jason_Hightower",
+        "name": "Jason Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach"
+    },
+    "Jason_Mallister": {
+        "id": "Jason_Mallister",
+        "name": "Jason Mallister",
+        "title": [
+            "Lord of Seagard",
+            "Ser"
+        ],
+        "allegiance": "House Mallister",
+        "culture": "Rivermen",
+        "born": "At Seagard",
+        "issue": "Patrek Mallister"
+    },
+    "Jason_Lannister": {
+        "id": "Jason_Lannister",
+        "name": "Jason Lannister",
+        "title": [
+            "Ser",
+            "Lord of Casterly Rock",
+            "Shield of Lannisport",
+            "Warden of the West"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "Greens"
+        ],
+        "culture": "Westermen",
+        "born": "In or between 89 AC and 97 AC",
+        "died": "In 130 AC, at the Red Fork",
+        "spouse": "Lady Johanna Lannister",
+        "issue": [
+            "Cerelle Lannister",
+            "Tyshara Lannister",
+            "3 daughters",
+            "Loreon Lannister",
+            "Baseborn daughters"
+        ]
+    },
+    "Jason_Lannister_(son_of_Gerold)": {
+        "id": "Jason_Lannister_(son_of_Gerold)",
+        "name": "Jason Lannister (son of Gerold)",
+        "title": "Ser",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 229 AC",
+        "died": "In 260 AC, at Bloodstone",
+        "spouse": [
+            "1st:",
+            "Alys Stackspear",
+            "2nd:",
+            "Marla Prester"
+        ],
+        "issue": [
+            "Lynora Hill",
+            "Damon Lannister",
+            "Joanna Lannister",
+            "Stafford Lannister",
+            "2 trueborn sons",
+            "2 trueborn daughters"
+        ]
+    },
+    "Jasper_Arryn": {
+        "id": "Jasper_Arryn",
+        "name": "Jasper Arryn",
+        "title": [
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East"
+        ],
+        "allegiance": "House Arryn",
+        "spouse": "Unknown",
+        "issue": [
+            "Jon Arryn",
+            "Alys Arryn",
+            "Ronnel Arryn"
+        ]
+    },
+    "Jasper_Redfort": {
+        "id": "Jasper_Redfort",
+        "name": "Jasper Redfort",
+        "title": "Ser",
+        "allegiance": "House Redfort",
+        "culture": "Valemen"
+    },
+    "Jasper_Waynwood": {
+        "id": "Jasper_Waynwood",
+        "name": "Jasper Waynwood",
+        "allegiance": "House Waynwood",
+        "culture": "Valemen"
+    },
+    "Jasper_Wylde": {
+        "id": "Jasper_Wylde",
+        "name": "Jasper Wylde",
+        "alias": "Ironrod",
+        "title": [
+            "Lord of the",
+            "Rain House",
+            "Master of laws"
+        ],
+        "allegiance": [
+            "House Wylde",
+            "Greens"
+        ],
+        "culture": "Stormlands",
+        "died": "In 130 AC, at King's Landing",
+        "spouse": "4 wives",
+        "issue": "29 children"
+    },
+    "Jate": {
+        "id": "Jate",
+        "name": "Jate",
+        "died": "In 300 AC, at Riverlands"
+    },
+    "Jate_Blackberry": {
+        "id": "Jate_Blackberry",
+        "name": "Jate Blackberry",
+        "title": "Captain of Dragonstone's gate",
+        "allegiance": [
+            "House Blackberry",
+            "House Baratheon of Dragonstone"
+        ]
+    },
+    "Jax": {
+        "id": "Jax",
+        "name": "Jax",
+        "allegiance": "Night's Watch",
+        "culture": "Free folk",
+        "born": "In 259 AC or before",
+        "issue": "Sons"
+    },
+    "Jayde": {
+        "id": "Jayde",
+        "name": "Jayde",
+        "allegiance": "Chataya's brothel"
+    },
+    "Jayne_Bracken": {
+        "id": "Jayne_Bracken",
+        "name": "Jayne Bracken",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen"
+    },
+    "Jayne_Ladybright": {
+        "id": "Jayne_Ladybright",
+        "name": "Jayne Ladybright",
+        "allegiance": "House Ladybright",
+        "culture": "Dornish"
+    },
+    "Jeffory_Mallister": {
+        "id": "Jeffory_Mallister",
+        "name": "Jeffory Mallister",
+        "allegiance": "House Mallister",
+        "culture": "Rivermen",
+        "died": "In 282 AC, at King's Landing"
+    },
+    "Jeffory_Norcross": {
+        "id": "Jeffory_Norcross",
+        "name": "Jeffory Norcross",
+        "alias": "Neveryield",
+        "title": "Ser",
+        "allegiance": [
+            "House Norcross",
+            "Kingsguard"
+        ],
+        "culture": "Reach"
+    },
+    "Jellicoe": {
+        "id": "Jellicoe",
+        "name": "Jellicoe",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Jena_Dondarrion": {
+        "id": "Jena_Dondarrion",
+        "name": "Jena Dondarrion",
+        "allegiance": [
+            "House Dondarrion",
+            "House Targaryen"
+        ],
+        "culture": "marcher",
+        "spouse": "Prince Baelor Targaryen",
+        "issue": [
+            "Valarr Targaryen",
+            "Matarys Targaryen"
+        ]
+    },
+    "Jennelyn_Fowler": {
+        "id": "Jennelyn_Fowler",
+        "name": "Jennelyn Fowler",
+        "allegiance": "House Fowler",
+        "culture": "Dornishmen"
+    },
+    "Jennis_Templeton": {
+        "id": "Jennis_Templeton",
+        "name": "Jennis Templeton",
+        "title": "Lady of Uplands",
+        "allegiance": [
+            "House Templeton",
+            "House Mullendore"
+        ],
+        "culture": "Valemen",
+        "spouse": "Lord Mullendore"
+    },
+    "Jenny_of_Oldstones": {
+        "id": "Jenny_of_Oldstones",
+        "name": "Jenny of Oldstones",
+        "alias": "Lady Jenny",
+        "culture": "Rivermen",
+        "spouse": "Prince Duncan Targaryen"
+    },
+    "Jeor_Mormont": {
+        "id": "Jeor_Mormont",
+        "name": "Jeor Mormont",
+        "alias": "The Old Bear",
+        "title": [
+            "Lord of Bear Island",
+            "(abdicated)",
+            "Lord Commander of the Night's Watch"
+        ],
+        "allegiance": [
+            "House Mormont",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "born": "In 230 AC",
+        "died": "In 299 AC, at Craster's Keep",
+        "issue": "Jorah Mormont",
+        "tv series": "Season 1 | Season 2 | Season 3"
+    },
+    "Jeremy_Hightower": {
+        "id": "Jeremy_Hightower",
+        "name": "Jeremy Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "spouse": "Unknown",
+        "issue": "Jason Hightower"
+    },
+    "Jeremy_Norridge": {
+        "id": "Jeremy_Norridge",
+        "name": "Jeremy Norridge",
+        "title": "Ser",
+        "allegiance": "House Norridge",
+        "culture": "Reach",
+        "died": "In 251 AC"
+    },
+    "Jeren": {
+        "id": "Jeren",
+        "name": "Jeren",
+        "allegiance": "Night's Watch"
+    },
+    "Jessamyn_Manderly": {
+        "id": "Jessamyn_Manderly",
+        "name": "Jessamyn Manderly",
+        "allegiance": "House Manderly",
+        "culture": "Northmen"
+    },
+    "Jessamyn_Redfort": {
+        "id": "Jessamyn_Redfort",
+        "name": "Jessamyn Redfort",
+        "allegiance": "House Redfort",
+        "culture": "Valemen"
+    },
+    "Jeyne_Arryn": {
+        "id": "Jeyne_Arryn",
+        "name": "Jeyne Arryn",
+        "alias": "The Maiden of the Vale",
+        "title": [
+            "Lady of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East",
+            "Lady Regent"
+        ],
+        "allegiance": [
+            "House Arryn",
+            "Blacks"
+        ],
+        "culture": "Valemen",
+        "born": "In 94 AC",
+        "died": "In 134 AC, at Gulltown"
+    },
+    "Jeyne_Beesbury": {
+        "id": "Jeyne_Beesbury",
+        "name": "Jeyne Beesbury",
+        "allegiance": [
+            "House Beesbury",
+            "House Frey"
+        ],
+        "culture": "Reach",
+        "died": "In late 299 AC or early 300 AC",
+        "spouse": "Rhaegar Frey",
+        "issue": [
+            "Robert Frey",
+            "Walda Frey",
+            "Jonos Frey"
+        ]
+    },
+    "Jeyne_Darry": {
+        "id": "Jeyne_Darry",
+        "name": "Jeyne Darry",
+        "allegiance": [
+            "House Darry",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Ser Cleos Frey",
+        "issue": [
+            "Tywin Frey",
+            "Willem Frey"
+        ]
+    },
+    "Jeyne_Farman": {
+        "id": "Jeyne_Farman",
+        "name": "Jeyne Farman",
+        "allegiance": [
+            "House Farman",
+            "House Clifton"
+        ],
+        "culture": "Westermen",
+        "spouse": "Ser Gareth Clifton",
+        "issue": "12 children"
+    },
+    "Jeyne_Fossoway": {
+        "id": "Jeyne_Fossoway",
+        "name": "Jeyne Fossoway",
+        "allegiance": "House Fossoway of New Barrel",
+        "culture": "Reach",
+        "spouse": "Ser Gunthor Hightower"
+    },
+    "Jeyne_Fowler": {
+        "id": "Jeyne_Fowler",
+        "name": "Jeyne Fowler",
+        "allegiance": "House Fowler",
+        "culture": "Dornishmen"
+    },
+    "Jeyne_Goodbrook": {
+        "id": "Jeyne_Goodbrook",
+        "name": "Jeyne Goodbrook",
+        "allegiance": "House Goodbrook",
+        "culture": "Rivermen",
+        "born": "In 293 AC"
+    },
+    "Jeyne_Harroway": {
+        "id": "Jeyne_Harroway",
+        "name": "Jeyne Harroway",
+        "title": "Lady",
+        "allegiance": "House Harroway",
+        "culture": "Rivermen",
+        "died": "In 44 AC, at King's Landing"
+    },
+    "Jeyne_Heddle": {
+        "id": "Jeyne_Heddle",
+        "name": "Jeyne Heddle",
+        "alias": "Long Jeyne",
+        "allegiance": [
+            "House Heddle",
+            "Brotherhood without banners"
+        ],
+        "born": "In 281 AC or 282 AC"
+    },
+    "Jeyne_Lothston": {
+        "id": "Jeyne_Lothston",
+        "name": "Jeyne Lothston",
+        "title": "Lady",
+        "allegiance": "House Lothston",
+        "culture": "Rivermen",
+        "born": "In 164 AC"
+    },
+    "Jeyne_Lydden": {
+        "id": "Jeyne_Lydden",
+        "name": "Jeyne Lydden",
+        "allegiance": [
+            "House Lydden",
+            "House Frey"
+        ],
+        "culture": "Westermen",
+        "died": "In or after 249 AC",
+        "spouse": "Ser Stevron Frey",
+        "issue": [
+            "Aegon Frey",
+            "Maegelle Frey"
+        ]
+    },
+    "Jeyne_Manderly": {
+        "id": "Jeyne_Manderly",
+        "name": "Jeyne Manderly",
+        "allegiance": [
+            "House Manderly",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "spouse": "Rickon Stark",
+        "issue": [
+            "Serena Stark",
+            "Sansa Stark"
+        ]
+    },
+    "Jeyne_Marbrand": {
+        "id": "Jeyne_Marbrand",
+        "name": "Jeyne Marbrand",
+        "title": "Lady of Casterly Rock",
+        "allegiance": [
+            "House Marbrand",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "died": "In 255 AC",
+        "spouse": "Lord Tytos Lannister",
+        "issue": [
+            "Tywin Lannister",
+            "Kevan Lannister",
+            "Genna Lannister",
+            "Tygett Lannister",
+            "Gerion Lannister"
+        ]
+    },
+    "Jeyne_Merryweather": {
+        "id": "Jeyne_Merryweather",
+        "name": "Jeyne Merryweather",
+        "allegiance": "House Merryweather",
+        "culture": "Reach",
+        "born": "In 103 133 AC"
+    },
+    "Jeyne_Mooton": {
+        "id": "Jeyne_Mooton",
+        "name": "Jeyne Mooton",
+        "allegiance": "House Mooton",
+        "culture": "Rivermen",
+        "born": "In 103 133 AC"
+    },
+    "Jeyne_Poole": {
+        "id": "Jeyne_Poole",
+        "name": "Jeyne Poole",
+        "alias": "Arya Stark",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Poole",
+            "House Stark",
+            "House Bolton",
+            "(through marriage)"
+        ],
+        "culture": "Northmen",
+        "born": "In 286 AC or 287 AC, at Winterfell",
+        "spouse": "Ramsay Bolton",
+        "tv series": "Season 1"
+    },
+    "Jeyne_Poore": {
+        "id": "Jeyne_Poore",
+        "name": "Jeyne Poore",
+        "alias": "Poxy Jeyne Poore",
+        "allegiance": "Poor Fellows",
+        "culture": "Stormlander",
+        "died": "In late 45 AC or early 46 AC, at a field beside the Wendwater"
+    },
+    "Jeyne_Rivers": {
+        "id": "Jeyne_Rivers",
+        "name": "Jeyne Rivers",
+        "allegiance": "House Frey",
+        "culture": "Rivermen"
+    },
+    "Jeyne_Royce": {
+        "id": "Jeyne_Royce",
+        "name": "Jeyne Royce",
+        "title": "Lady of the Eyrie",
+        "allegiance": [
+            "House Royce",
+            "House Arryn"
+        ],
+        "culture": "Valemen",
+        "spouse": "Lord Jon Arryn",
+        "issue": "Stillborn daughter"
+    },
+    "Jeyne_Rowan": {
+        "id": "Jeyne_Rowan",
+        "name": "Jeyne Rowan",
+        "title": "Lady of Horn Hill",
+        "allegiance": [
+            "House Rowan",
+            "House Tarly"
+        ],
+        "culture": "Reach",
+        "born": "In or before 100 AC",
+        "spouse": "Lord Donald Tarly",
+        "issue": [
+            "Samantha Tarly",
+            "Sansara Tarly"
+        ]
+    },
+    "Jeyne_Swann": {
+        "id": "Jeyne_Swann",
+        "name": "Jeyne Swann",
+        "allegiance": "House Swann"
+    },
+    "Jeyne_Waters": {
+        "id": "Jeyne_Waters",
+        "name": "Jeyne Waters",
+        "culture": "Crownlands",
+        "born": "In or between 171 AC and 176 AC"
+    },
+    "Jeyne_Westerling_(wife_of_Maegor_I)": {
+        "id": "Jeyne_Westerling_(wife_of_Maegor_I)",
+        "name": "Jeyne Westerling (wife of Maegor I)",
+        "alias": "Black Bride",
+        "title": [
+            "Lady of",
+            "Tarbeck Hall",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Westerling",
+            "House Tarbeck",
+            "House Targaryen"
+        ],
+        "culture": "Westermen",
+        "born": "In 27 AC or before",
+        "died": "In 47 AC or 48 AC",
+        "spouse": [
+            "1st: Lord",
+            "Alyn Tarbeck",
+            "2nd: King",
+            "Maegor I Targaryen"
+        ],
+        "issue": [
+            "Son",
+            "Stillborn child"
+        ]
+    },
+    "Jeyne_Westerling": {
+        "id": "Jeyne_Westerling",
+        "name": "Jeyne Westerling",
+        "title": "Queen",
+        "allegiance": [
+            "House Westerling",
+            "House Stark"
+        ],
+        "culture": "Westermen",
+        "born": "In 283 AC, at the Crag",
+        "spouse": "King Robb Stark"
+    },
+    "Jez": {
+        "id": "Jez",
+        "name": "Jez"
+    },
+    "Jezhene": {
+        "id": "Jezhene",
+        "name": "Jezhene",
+        "alias": "Jhezane",
+        "title": "Cupbearer",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Jhaqo": {
+        "id": "Jhaqo",
+        "name": "Jhaqo",
+        "title": [
+            "Khal",
+            "Ko",
+            "(formerly)"
+        ],
+        "allegiance": "Khal Drogo (formerly)",
+        "culture": "Dothraki",
+        "tv series": "Season 6"
+    },
+    "Jhiqui": {
+        "id": "Jhiqui",
+        "name": "Jhiqui",
+        "allegiance": "House Targaryen",
+        "culture": "Dothraki",
+        "born": "In 284 AC",
+        "tv series": "Season 1"
+    },
+    "Jhogo": {
+        "id": "Jhogo",
+        "name": "Jhogo",
+        "title": [
+            "Ko",
+            "Bloodrider"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Queensguard"
+        ],
+        "culture": "Dothraki",
+        "born": "In or between 281 AC and 283 AC, at Dothraki sea"
+    },
+    "Jirelle_Mooton": {
+        "id": "Jirelle_Mooton",
+        "name": "Jirelle Mooton",
+        "title": "Lady of Maidenpool",
+        "allegiance": "House Mooton",
+        "culture": "Rivermen",
+        "died": "In 59 AC or 60 AC"
+    },
+    "Joanna_Lannister": {
+        "id": "Joanna_Lannister",
+        "name": "Joanna Lannister",
+        "title": "Lady of Casterly Rock",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In or between 244 AC and 252 AC, at Casterly Rock",
+        "died": "In 273 AC",
+        "spouse": "Lord Tywin Lannister",
+        "issue": [
+            "Cersei Lannister",
+            "Jaime Lannister",
+            "Tyrion Lannister"
+        ]
+    },
+    "Joanna_Swyft": {
+        "id": "Joanna_Swyft",
+        "name": "Joanna Swyft",
+        "allegiance": "House Swyft",
+        "culture": "Westermen"
+    },
+    "Jocasta_Lannister": {
+        "id": "Jocasta_Lannister",
+        "name": "Jocasta Lannister",
+        "alias": "Jocasta Tarbeck",
+        "title": "Lady of Casterly Rock",
+        "allegiance": [
+            "House Tarbeck",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Lord Lyman Lannister",
+        "issue": "Sons"
+    },
+    "Jocelyn_Baratheon": {
+        "id": "Jocelyn_Baratheon",
+        "name": "Jocelyn Baratheon",
+        "title": "Lady",
+        "allegiance": [
+            "House Baratheon",
+            "House Targaryen"
+        ],
+        "culture": "Stormlander",
+        "born": "In 54 AC, at Storm's End",
+        "died": "In or after 92 AC",
+        "spouse": "Prince Aemon Targaryen",
+        "issue": "Rhaenys Targaryen"
+    },
+    "Jocelyn_Penrose": {
+        "id": "Jocelyn_Penrose",
+        "name": "Jocelyn Penrose",
+        "allegiance": "House Penrose",
+        "culture": "Stormlander",
+        "born": "In or between 186 AC and ~199 AC"
+    },
+    "Jocelyn_Stark": {
+        "id": "Jocelyn_Stark",
+        "name": "Jocelyn Stark",
+        "allegiance": [
+            "House Stark",
+            "House Royce of the Gates of the Moon"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 227 AC",
+        "spouse": "Benedict Royce",
+        "issue": "3 daughters"
+    },
+    "Jocelyn_Swyft": {
+        "id": "Jocelyn_Swyft",
+        "name": "Jocelyn Swyft",
+        "allegiance": [
+            "House Swyft",
+            "House Lannister"
+        ],
+        "culture": "Westermen"
+    },
+    "Jodge": {
+        "id": "Jodge",
+        "name": "Jodge",
+        "allegiance": "House Lannister"
+    },
+    "Joffrey_Arryn": {
+        "id": "Joffrey_Arryn",
+        "name": "Joffrey Arryn",
+        "title": [
+            "Ser",
+            "Knight of the Gate",
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East"
+        ],
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In or before 109 AC"
+    },
+    "Joffrey_Baratheon": {
+        "id": "Joffrey_Baratheon",
+        "name": "Joffrey Baratheon",
+        "alias": [
+            "Joffrey the Illborn",
+            "The Young Usurper",
+            "Aerys the Third",
+            "Joffrey-called-Baratheon",
+            "Joff"
+        ],
+        "father": [
+            "Robert I Baratheon",
+            "Jaime Lannister",
+            "(biological)"
+        ],
+        "mother": "Cersei Lannister",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4",
+        "born": "286 AC King's Landing",
+        "died": "300 AC Red Keep, King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Lord of Storm's End",
+            "(claimant)"
+        ],
+        "spouse": "Margaery Tyrell"
+    },
+    "Joffrey_Caswell": {
+        "id": "Joffrey_Caswell",
+        "name": "Joffrey Caswell",
+        "title": [
+            "Lord of Bitterbridge",
+            "Defender of the Fords"
+        ],
+        "allegiance": "House Caswell",
+        "culture": "Reach",
+        "born": "In 191 AC or 192 AC"
+    },
+    "Joffrey_Dayne": {
+        "id": "Joffrey_Dayne",
+        "name": "Joffrey Dayne",
+        "title": "Ser",
+        "allegiance": "House Dayne",
+        "culture": "Dornishmen"
+    },
+    "Joffrey_Doggett": {
+        "id": "Joffrey_Doggett",
+        "name": "Joffrey Doggett",
+        "alias": "The Red Dog of the Hills",
+        "title": [
+            "Ser",
+            "Grand Captain",
+            "of the",
+            "Warrior's Sons"
+        ],
+        "allegiance": [
+            "House Doggett",
+            "Faith of the Seven",
+            "Warrior's Sons",
+            "Kingsguard"
+        ],
+        "culture": "Westermen",
+        "born": "In or before 28 AC",
+        "died": "In or after 59 AC"
+    },
+    "Joffrey_Lannister": {
+        "id": "Joffrey_Lannister",
+        "name": "Joffrey Lannister",
+        "culture": "Andal",
+        "title": [
+            "Ser",
+            "King of the Rock"
+        ],
+        "spouse": "Only daughter of Gerold III Lannister"
+    },
+    "Joffrey_Lonmouth": {
+        "id": "Joffrey_Lonmouth",
+        "name": "Joffrey Lonmouth",
+        "alias": "The Knight of Kisses",
+        "title": "Ser",
+        "allegiance": "House Lonmouth",
+        "culture": "Stormlands",
+        "born": "In 99 AC or before",
+        "died": "In 114 AC, at King's Landing"
+    },
+    "Joffrey_Staunton": {
+        "id": "Joffrey_Staunton",
+        "name": "Joffrey Staunton",
+        "title": "Ser",
+        "allegiance": [
+            "House Staunton",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands"
+    },
+    "Joffrey_Velaryon": {
+        "id": "Joffrey_Velaryon",
+        "name": "Joffrey Velaryon",
+        "alias": "Joff",
+        "title": "Prince of Dragonstone",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 117 AC, at Dragonstone",
+        "died": "In 130 AC, at Flea Bottom"
+    },
+    "Johanna_Swann": {
+        "id": "Johanna_Swann",
+        "name": "Johanna Swann",
+        "alias": "The Black Swan",
+        "allegiance": "House Swann"
+    },
+    "Johanna_Lannister": {
+        "id": "Johanna_Lannister",
+        "name": "Johanna Lannister",
+        "title": "Lady of Casterly Rock",
+        "allegiance": [
+            "House Westerling",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "born": "At the Crag",
+        "spouse": "Lord Jason Lannister",
+        "issue": [
+            "Cerelle Lannister",
+            "Tyshara Lannister",
+            "3 daughters",
+            "Loreon Lannister"
+        ]
+    },
+    "John_the_Oak": {
+        "id": "John_the_Oak",
+        "name": "John the Oak",
+        "alias": "The First Knight",
+        "allegiance": "House Oakheart",
+        "culture": "Reach"
+    },
+    "John_II_Gardener": {
+        "id": "John_II_Gardener",
+        "name": "John II Gardener",
+        "alias": "John the Tall",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Jojen_Reed": {
+        "id": "Jojen_Reed",
+        "name": "Jojen Reed",
+        "alias": [
+            "Little grandfather",
+            "The little grandfather",
+            "The frogboy"
+        ],
+        "allegiance": "House Reed",
+        "culture": "Crannogmen",
+        "born": "In 286 AC, at Greywater Watch",
+        "tv series": "Season 3 | Season 4"
+    },
+    "Jokin": {
+        "id": "Jokin",
+        "name": "Jokin",
+        "title": "Commander of the Stormcrows's archers",
+        "allegiance": "Stormcrows"
+    },
+    "Jommo": {
+        "id": "Jommo",
+        "name": "Jommo",
+        "title": "Khal",
+        "culture": "Dothraki",
+        "spouse": "4 wives"
+    },
+    "Jommy": {
+        "id": "Jommy",
+        "name": "Jommy",
+        "allegiance": "House Baratheon"
+    },
+    "Jon_Arryn": {
+        "id": "Jon_Arryn",
+        "name": "Jon Arryn",
+        "title": [
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East",
+            "Hand of the King",
+            "Keeper of the Gates of the Moon",
+            "Ser"
+        ],
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In or between 218 AC and 220 AC (roughly), at the Eyrie",
+        "died": "In 298 AC, at King's Landing",
+        "spouse": [
+            "1st: Lady",
+            "Jeyne Royce",
+            "2nd: Lady",
+            "Rowena Arryn",
+            "3rd: Lady",
+            "Lysa Tully"
+        ],
+        "issue": [
+            "Stillborn daughter",
+            "2 stillborn children",
+            "Robert Arryn"
+        ],
+        "tv series": "Season 1"
+    },
+    "Jon_Bettley": {
+        "id": "Jon_Bettley",
+        "name": "Jon Bettley",
+        "alias": "Beardless Jon",
+        "title": "Ser",
+        "allegiance": "House Bettley",
+        "culture": "Westermen",
+        "spouse": "Unknown"
+    },
+    "Jon_Brax": {
+        "id": "Jon_Brax",
+        "name": "Jon Brax",
+        "allegiance": "House Brax",
+        "culture": "Westermen",
+        "born": "In 296 AC"
+    },
+    "Jon_Brightstone": {
+        "id": "Jon_Brightstone",
+        "name": "Jon Brightstone",
+        "culture": "First Men",
+        "title": "King of the Fingers"
+    },
+    "Jon_Bulwer": {
+        "id": "Jon_Bulwer",
+        "name": "Jon Bulwer",
+        "title": "Lord of Blackcrown",
+        "allegiance": "House Bulwer",
+        "culture": "Reach",
+        "born": "In or before 278 AC",
+        "died": "In 290 299 AC",
+        "spouse": "Lady Victaria Tyrell",
+        "issue": [
+            "Alysanne Bulwer",
+            "Son",
+            "(possibly)"
+        ]
+    },
+    "Jon_Cafferen": {
+        "id": "Jon_Cafferen",
+        "name": "Jon Cafferen",
+        "title": "Ser",
+        "allegiance": "House Cafferen",
+        "culture": "Stormlands",
+        "spouse": "Alys Oakheart"
+    },
+    "Jon_Connington": {
+        "id": "Jon_Connington",
+        "name": "Jon Connington",
+        "alias": [
+            "Griff",
+            "The dancing griffins Hand"
+        ],
+        "title": [
+            "Ser",
+            "Lord of Griffin's Roost",
+            "Hand of the King",
+            "Hand of the True King"
+        ],
+        "allegiance": [
+            "House Connington",
+            "House Targaryen",
+            "Golden Company"
+        ],
+        "culture": "Stormlander",
+        "born": "In 260 AC or 261 AC, at Griffin's Roost"
+    },
+    "Jon_Cupps": {
+        "id": "Jon_Cupps",
+        "name": "Jon Cupps",
+        "title": "Ser",
+        "allegiance": "House Cupps",
+        "spouse": "Leyla Hightower"
+    },
+    "Jon_Florent": {
+        "id": "Jon_Florent",
+        "name": "Jon Florent",
+        "title": "Ser",
+        "allegiance": "House Florent"
+    },
+    "Jon_Fossoway": {
+        "id": "Jon_Fossoway",
+        "name": "Jon Fossoway",
+        "title": "Ser",
+        "allegiance": "House Fossoway of New Barrel",
+        "culture": "Reach",
+        "spouse": "Janna Tyrell"
+    },
+    "Jon_Heddle": {
+        "id": "Jon_Heddle",
+        "name": "Jon Heddle",
+        "alias": "Long Jon",
+        "title": "Ser",
+        "allegiance": "House Heddle",
+        "culture": "Riverlands"
+    },
+    "Jon_Hightower": {
+        "id": "Jon_Hightower",
+        "name": "Jon Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Hand of the King",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach"
+    },
+    "Jon_Hogg": {
+        "id": "Jon_Hogg",
+        "name": "Jon Hogg",
+        "alias": [
+            "Big Jon Hogg",
+            "Blind Jon Hogg"
+        ],
+        "allegiance": [
+            "House Hogg",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands"
+    },
+    "Jon_Hollard": {
+        "id": "Jon_Hollard",
+        "name": "Jon Hollard",
+        "title": [
+            "Ser",
+            "Steward of the",
+            "Dun Fort"
+        ],
+        "allegiance": [
+            "House Hollard",
+            "House Darklyn"
+        ],
+        "culture": "Crownlands",
+        "died": "In 277 AC, at Duskendale",
+        "spouse": "Denys Darklyn's sister",
+        "issue": "Son"
+    },
+    "Jon_Lothston": {
+        "id": "Jon_Lothston",
+        "name": "Jon Lothston",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Jon_Lychester": {
+        "id": "Jon_Lychester",
+        "name": "Jon Lychester",
+        "title": [
+            "Lord",
+            "of",
+            "Castle Lychester",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Lychester",
+            "Faith Militant"
+        ],
+        "culture": "Rivermen"
+    },
+    "Jon_Lynderly": {
+        "id": "Jon_Lynderly",
+        "name": "Jon Lynderly",
+        "title": "Lord of the Snakewood",
+        "allegiance": "House Lynderly",
+        "culture": "Valemen",
+        "issue": "Terrance Lynderly",
+        "tv series": "Season 1"
+    },
+    "Jon_Mertyns": {
+        "id": "Jon_Mertyns",
+        "name": "Jon Mertyns",
+        "title": "Lord of Mistwood",
+        "allegiance": "House Mertyns"
+    },
+    "Jon_Mooton": {
+        "id": "Jon_Mooton",
+        "name": "Jon Mooton",
+        "title": "Lord of Maidenpool",
+        "allegiance": [
+            "House Mooton",
+            "House Targaryen"
+        ],
+        "culture": "Rivermen"
+    },
+    "Jon_Myre": {
+        "id": "Jon_Myre",
+        "name": "Jon Myre",
+        "alias": "Pinchface Jon",
+        "title": "Captain",
+        "allegiance": "House Myre",
+        "culture": "ironborn"
+    },
+    "Jon_O%27Nutten": {
+        "id": "Jon_O%27Nutten",
+        "name": "Jon O' Nutten",
+        "alias": "Jon O' Nutten",
+        "allegiance": "brotherhood without banners",
+        "born": "At Nutten"
+    },
+    "Jon_Penny": {
+        "id": "Jon_Penny",
+        "name": "Jon Penny"
+    },
+    "Jon_Penrose": {
+        "id": "Jon_Penrose",
+        "name": "Jon Penrose",
+        "title": "Ser",
+        "allegiance": "House Penrose"
+    },
+    "Jon_Piper": {
+        "id": "Jon_Piper",
+        "name": "Jon Piper",
+        "title": "Lord of Pinkmaiden",
+        "allegiance": "House Piper",
+        "culture": "Rivermen",
+        "died": "In 43 AC, at the Gods Eye"
+    },
+    "Jon_Pox": {
+        "id": "Jon_Pox",
+        "name": "Jon Pox",
+        "culture": "Rivermen",
+        "died": "In 260 AC, at Stepstones"
+    },
+    "Jon_Redfort": {
+        "id": "Jon_Redfort",
+        "name": "Jon Redfort",
+        "title": "Ser",
+        "allegiance": "House Redfort",
+        "culture": "Valemen"
+    },
+    "Jon_Rosby": {
+        "id": "Jon_Rosby",
+        "name": "Jon Rosby",
+        "title": [
+            "Lord of Rosby",
+            "Castellan of Sunspear",
+            "Warden of the Sands"
+        ],
+        "allegiance": "House Rosby",
+        "culture": "Crownlands",
+        "died": "In 5 AC, at Sunspear"
+    },
+    "Jon_Roxton": {
+        "id": "Jon_Roxton",
+        "name": "Jon Roxton",
+        "alias": [
+            "Bold Jon Roxton",
+            "Bold John Roxton",
+            "Jon Roxton the Bold"
+        ],
+        "title": [
+            "Ser",
+            "Lord"
+        ],
+        "allegiance": [
+            "House Roxton",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Tumbleton",
+        "issue": "Son (disputed)"
+    },
+    "Jon_Snow": {
+        "id": "Jon_Snow",
+        "name": "Jon Snow",
+        "alias": [
+            "Lord Snow",
+            "Ser Alliser's Bane",
+            "The Snow of Winterfell",
+            "The crow-come-over",
+            "The Bastard of Winterfell",
+            "Lord Crow",
+            "The Black Bastard of the Wall"
+        ],
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Stark",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "born": "In 283 AC",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Jon_Stark": {
+        "id": "Jon_Stark",
+        "name": "Jon Stark",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "issue": "Rickard Stark"
+    },
+    "Jon_Tollett": {
+        "id": "Jon_Tollett",
+        "name": "Jon Tollett",
+        "title": "Ser",
+        "allegiance": [
+            "House Tollett",
+            "Kingsguard",
+            "Night's Watch"
+        ],
+        "culture": "Valemen"
+    },
+    "Jon_Umber_(Greatjon)": {
+        "id": "Jon_Umber_(Greatjon)",
+        "name": "Jon Umber",
+        "alias": [
+            "The Greatjon",
+            "Greatjon Umber"
+        ],
+        "title": "Lord of the Last Hearth",
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "born": "At the Last Hearth",
+        "spouse": "Unknown",
+        "issue": [
+            "Smalljon Umber",
+            "Son(s)",
+            "Daughters"
+        ],
+        "tv series": "Season 1"
+    },
+    "Jon_Umber_(Smalljon)": {
+        "id": "Jon_Umber_(Smalljon)",
+        "name": "Jon Umber (son of Jon)",
+        "alias": [
+            "The Smalljon",
+            "Smalljon Umber"
+        ],
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "died": "In 299 AC, at the Twins",
+        "tv series": "Season 6"
+    },
+    "Jon_Umber_(husband_of_Serena)": {
+        "id": "Jon_Umber_(husband_of_Serena)",
+        "name": "Jon Umber (husband of Serena)",
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "spouse": "Serena Stark"
+    },
+    "Jon_Vance": {
+        "id": "Jon_Vance",
+        "name": "Jon Vance",
+        "title": "Maester",
+        "allegiance": [
+            "House Vance of Atranta",
+            "The",
+            "Citadel"
+        ],
+        "culture": "Rivermen"
+    },
+    "Jon_Waters": {
+        "id": "Jon_Waters",
+        "name": "Jon Waters",
+        "title": "Ser",
+        "culture": "Crownlands",
+        "born": "In or between 171 AC and 176 AC",
+        "issue": "Son"
+    },
+    "Jon_Wylde": {
+        "id": "Jon_Wylde",
+        "name": "Jon Wylde",
+        "title": "Ser",
+        "allegiance": "House Wylde",
+        "spouse": "Elyana Vypren",
+        "issue": "Rickard Wylde"
+    },
+    "Jonah_Mooton": {
+        "id": "Jonah_Mooton",
+        "name": "Jonah Mooton",
+        "title": "Lord of Maidenpool",
+        "allegiance": "House Mooton",
+        "culture": "Rivermen",
+        "spouse": "Lady Perianne Moore"
+    },
+    "Jonelle_Cerwyn": {
+        "id": "Jonelle_Cerwyn",
+        "name": "Jonelle Cerwyn",
+        "title": "Lady of Cerwyn",
+        "allegiance": "House Cerwyn",
+        "culture": "Northmen",
+        "born": "In 267 AC, at Cerwyn"
+    },
+    "Jonnel_Stark": {
+        "id": "Jonnel_Stark",
+        "name": "Jonnel Stark",
+        "alias": "One-Eye",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 136 AC",
+        "died": "In 157 209 AC",
+        "spouse": [
+            "Lady",
+            "Robyn Ryswell",
+            "Lady",
+            "Sansa Stark"
+        ]
+    },
+    "Jonos_Arryn": {
+        "id": "Jonos_Arryn",
+        "name": "Jonos Arryn",
+        "alias": "Jonos the Kinslayer",
+        "title": [
+            "Prince",
+            "(pre-Conquest)",
+            "King of Mountain and Vale",
+            "(claimant)"
+        ],
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "died": "In 37 AC, at the Eyrie"
+    },
+    "Jonos_Bracken": {
+        "id": "Jonos_Bracken",
+        "name": "Jonos Bracken",
+        "title": "Lord of Stone Hedge",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen",
+        "born": "At Stone Hedge",
+        "issue": [
+            "Harry Rivers",
+            "(disputed)",
+            "Barbara Bracken",
+            "Jayne Bracken",
+            "Catelyn Bracken",
+            "Bess Bracken",
+            "Alysanne Bracken"
+        ],
+        "tv series": "Season 1"
+    },
+    "Jonos_Frey": {
+        "id": "Jonos_Frey",
+        "name": "Jonos Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 291 AC"
+    },
+    "Jonos_Stark": {
+        "id": "Jonos_Stark",
+        "name": "Jonos Stark",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Jonothor_Darry": {
+        "id": "Jonothor_Darry",
+        "name": "Jonothor Darry",
+        "alias": "Jon Darry",
+        "title": "Ser",
+        "allegiance": [
+            "House Darry",
+            "Kingsguard"
+        ],
+        "culture": "Rivermen",
+        "died": "In 283 AC, at the Trident"
+    },
+    "Jonquil": {
+        "id": "Jonquil",
+        "name": "Jonquil",
+        "culture": "Rivermen"
+    },
+    "Jonquil_Darke": {
+        "id": "Jonquil_Darke",
+        "name": "Jonquil Darke",
+        "alias": [
+            "The Serpent in Scarlet",
+            "The Scarlet Shadow"
+        ],
+        "allegiance": [
+            "House Darke",
+            "House Darklyn",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands"
+    },
+    "Jorah_Mallister": {
+        "id": "Jorah_Mallister",
+        "name": "Jorah Mallister",
+        "title": "Lord of Seagard",
+        "allegiance": "House Mallister",
+        "culture": "Rivermen",
+        "died": "In 131 AC, at the Kingsroad"
+    },
+    "Jorah_Mormont": {
+        "id": "Jorah_Mormont",
+        "name": "Jorah Mormont",
+        "alias": [
+            "The exile knight",
+            "Jorah the Andal",
+            "Ser Bezoar"
+        ],
+        "title": [
+            "Ser",
+            "Lord of Bear Island",
+            "(stripped)",
+            "Lord Commander of the Queensguard",
+            "(dismissed)"
+        ],
+        "allegiance": [
+            "House Mormont",
+            "House Targaryen",
+            "Queensguard",
+            "(formerly)",
+            "Second Sons"
+        ],
+        "culture": "Northmen",
+        "born": "In 254 AC (roughly)",
+        "spouse": [
+            "1st: Unnamed",
+            "Glover",
+            "2nd:",
+            "Lynesse Hightower"
+        ],
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Jorah_Stark": {
+        "id": "Jorah_Stark",
+        "name": "Jorah Stark",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Joramun": {
+        "id": "Joramun",
+        "name": "Joramun",
+        "title": "King-Beyond-the-Wall",
+        "culture": "Free folk"
+    },
+    "Jordan_Towers": {
+        "id": "Jordan_Towers",
+        "name": "Jordan Towers",
+        "title": "Lord of Harrenhal",
+        "allegiance": "House Towers",
+        "culture": "Rivermen",
+        "died": "In 53 AC",
+        "issue": [
+            "Maegor Towers",
+            "Older sons"
+        ]
+    },
+    "Jorelle_Mormont": {
+        "id": "Jorelle_Mormont",
+        "name": "Jorelle Mormont",
+        "alias": "Jory",
+        "allegiance": "House Mormont",
+        "culture": "Northmen",
+        "born": "In or between 278 AC and 289 AC"
+    },
+    "Jorgen": {
+        "id": "Jorgen",
+        "name": "Jorgen",
+        "allegiance": "House Webber",
+        "culture": "Reach"
+    },
+    "Jorgen_Velaryon": {
+        "id": "Jorgen_Velaryon",
+        "name": "Jorgen Velaryon",
+        "allegiance": "House Velaryon",
+        "culture": "Crownlands"
+    },
+    "Jorl_the_Whale": {
+        "id": "Jorl_the_Whale",
+        "name": "Jorl the Whale",
+        "alias": "Jorl the Whale",
+        "born": "In Age of Heroes"
+    },
+    "Joron_I_Blacktyde": {
+        "id": "Joron_I_Blacktyde",
+        "name": "Joron I Blacktyde",
+        "alias": "Maidensbane",
+        "culture": "ironborn",
+        "title": "High King of the Iron Islands"
+    },
+    "Jorquen": {
+        "id": "Jorquen",
+        "name": "Jorquen",
+        "title": "Septon",
+        "allegiance": [
+            "Night's Watch",
+            "Faith of the Seven"
+        ]
+    },
+    "Jory_Cassel": {
+        "id": "Jory_Cassel",
+        "name": "Jory Cassel",
+        "title": "Captain of the guards",
+        "allegiance": [
+            "House Cassel",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "In 273 AC or before, at Winterfell",
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Joseran": {
+        "id": "Joseran",
+        "name": "Joseran",
+        "title": "Maester at Blacktyde Castle",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Blacktyde"
+        ]
+    },
+    "Joseth": {
+        "id": "Joseth",
+        "name": "Joseth",
+        "allegiance": "House Stark"
+    },
+    "Joseth_(maester)": {
+        "id": "Joseth_(maester)",
+        "name": "Joseth (maester)",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Joseth_Mallister": {
+        "id": "Joseth_Mallister",
+        "name": "Joseth Mallister",
+        "title": "Ser",
+        "allegiance": "House Mallister",
+        "culture": "Rivermen"
+    },
+    "Joseth_Smallwood": {
+        "id": "Joseth_Smallwood",
+        "name": "Joseth Smallwood",
+        "title": "Lord of Acorn Hall",
+        "allegiance": [
+            "House Smallwood",
+            "Blacks"
+        ],
+        "culture": "Rivermen"
+    },
+    "Josmyn_Peckledon": {
+        "id": "Josmyn_Peckledon",
+        "name": "Josmyn Peckledon",
+        "alias": "Peck",
+        "allegiance": "House Peckledon",
+        "culture": "Westermen",
+        "born": "In 284 AC or 285 AC"
+    },
+    "Joss": {
+        "id": "Joss",
+        "name": "Joss",
+        "culture": "Rivermen",
+        "tv series": "Season 1"
+    },
+    "Joss_Hood": {
+        "id": "Joss_Hood",
+        "name": "Joss Hood",
+        "title": "Ser",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen"
+    },
+    "Joss_Stilwood": {
+        "id": "Joss_Stilwood",
+        "name": "Joss Stilwood",
+        "allegiance": "House Clegane",
+        "tv series": "Season 1"
+    },
+    "Joss_the_Gloom": {
+        "id": "Joss_the_Gloom",
+        "name": "Joss the Gloom",
+        "alias": "Joss the Gloom",
+        "culture": "Braavosi"
+    },
+    "Josua_Massey": {
+        "id": "Josua_Massey",
+        "name": "Josua Massey",
+        "alias": [
+            "The Softspear",
+            "Josua Softspear"
+        ],
+        "issue": [
+            "A son",
+            "A daughter"
+        ],
+        "title": "King"
+    },
+    "Josua_Willum": {
+        "id": "Josua_Willum",
+        "name": "Josua Willum",
+        "allegiance": "House Willum"
+    },
+    "Joth_Quickbow": {
+        "id": "Joth_Quickbow",
+        "name": "Joth Quickbow",
+        "died": "At the riverlands"
+    },
+    "Jothos_Slynt": {
+        "id": "Jothos_Slynt",
+        "name": "Jothos Slynt",
+        "allegiance": "House Slynt",
+        "culture": "Crownlands"
+    },
+    "Joy_Hill": {
+        "id": "Joy_Hill",
+        "name": "Joy Hill",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 288 AC"
+    },
+    "Joy_Penrose": {
+        "id": "Joy_Penrose",
+        "name": "Joy Penrose",
+        "allegiance": "House Penrose",
+        "culture": "Stormlander",
+        "born": "In or between 187 AC and ~200 AC"
+    },
+    "Joyeuse_Erenford": {
+        "id": "Joyeuse_Erenford",
+        "name": "Joyeuse Erenford",
+        "title": "Lady of the Crossing",
+        "allegiance": [
+            "House Erenford",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "born": "In 282 AC or 283 AC",
+        "spouse": "Lord Walder Frey",
+        "issue": "Unborn child",
+        "tv series": "Season 1 | Season 3"
+    },
+    "Julian_Wormwood": {
+        "id": "Julian_Wormwood",
+        "name": "Julian Wormwood",
+        "title": "Ser",
+        "allegiance": [
+            "House Wormwood",
+            "Greens"
+        ]
+    },
+    "Jurne": {
+        "id": "Jurne",
+        "name": "Jurne",
+        "title": "Maester at Storm's End",
+        "allegiance": [
+            "The Citadel",
+            "House Baratheon"
+        ]
+    },
+    "Justin_Massey": {
+        "id": "Justin_Massey",
+        "name": "Justin Massey",
+        "alias": "the smiler",
+        "title": "Ser",
+        "allegiance": [
+            "House Massey",
+            "House Baratheon of Dragonstone"
+        ]
+    },
+    "Justin_Massey_(Milk-Eye)": {
+        "id": "Justin_Massey_(Milk-Eye)",
+        "name": "Justin Massey (Milk-Eye)",
+        "alias": "Justin Milk-Eye",
+        "title": "King"
+    },
+    "Jyana": {
+        "id": "Jyana",
+        "name": "Jyana",
+        "title": "Lady of Greywater Watch",
+        "allegiance": "House Reed",
+        "culture": "Crannogmen",
+        "spouse": "Lord Howland Reed",
+        "issue": [
+            "Meera Reed",
+            "Jojen Reed"
+        ]
+    },
+    "Jyanna_Frey": {
+        "id": "Jyanna_Frey",
+        "name": "Jyanna Frey",
+        "allegiance": "House Frey",
+        "spouse": "Ser Benfrey Frey",
+        "issue": [
+            "Della Frey",
+            "Osmund Frey"
+        ]
+    },
+    "Jyck": {
+        "id": "Jyck",
+        "name": "Jyck",
+        "allegiance": "House Lannister",
+        "died": "In 298 AC, at Mountains of the Moon"
+    },
+    "Jynessa_Blackmont": {
+        "id": "Jynessa_Blackmont",
+        "name": "Jynessa Blackmont",
+        "allegiance": "House Blackmont",
+        "culture": "Dornishmen"
+    },
+    "Jyzene": {
+        "id": "Jyzene",
+        "name": "Jyzene"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "Zachery_Frey": {
+        "id": "Zachery_Frey",
+        "name": "Zachery Frey",
+        "allegiance": "House Frey",
+        "born": "In 287 AC"
+    },
+    "Zahrina": {
+        "id": "Zahrina",
+        "name": "Zahrina",
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Zarabelo": {
+        "id": "Zarabelo",
+        "name": "Zarabelo",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Zeggo": {
+        "id": "Zeggo",
+        "name": "Zeggo",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Zei": {
+        "id": "Zei",
+        "name": "Zei",
+        "culture": "Northmen"
+    },
+    "Zekko": {
+        "id": "Zekko",
+        "name": "Zekko",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Zhako": {
+        "id": "Zhako",
+        "name": "Zhako",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Zharaq_zo_Loraq": {
+        "id": "Zharaq_zo_Loraq",
+        "name": "Zharaq zo Loraq",
+        "alias": "The Liberator",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Zhea": {
+        "id": "Zhea",
+        "name": "Zhea",
+        "alias": [
+            "Zhea the Barren",
+            "Zhea Zorseface",
+            "Zhea the Cruel"
+        ],
+        "title": "Jhattar",
+        "culture": "Jogos Nhai"
+    },
+    "Zhoe_Blanetree": {
+        "id": "Zhoe_Blanetree",
+        "name": "Zhoe Blanetree",
+        "allegiance": "House Blanetree",
+        "spouse": "Ser Tytos Frey",
+        "issue": [
+            "Zia Frey",
+            "Zachery Frey"
+        ]
+    },
+    "Zia_Frey": {
+        "id": "Zia_Frey",
+        "name": "Zia Frey",
+        "allegiance": "House Frey",
+        "born": "In 285 AC"
+    },
+    "Zollo": {
+        "id": "Zollo",
+        "name": "Zollo",
+        "alias": "Zollo the Fat",
+        "allegiance": "Brave Companions",
+        "culture": "Dothraki"
+    }
+}

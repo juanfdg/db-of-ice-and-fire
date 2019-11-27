@@ -1,0 +1,1023 @@
+{
+    "House_Stark": {
+        "id": "House_Stark",
+        "name": "House Stark",
+        "coat of arms": [
+            "A running grey direwolf, on an ice-white field",
+            "(Argent, a direwolf courant cendr e)"
+        ],
+        "words": "Winter is Coming",
+        "seat": "Winterfell (formerly)",
+        "lord": "Unknown; Bran Stark (de jure)",
+        "region": [
+            "The",
+            "North",
+            "Riverlands",
+            "(formerly)"
+        ],
+        "title": [
+            "King in the North/King of Winter",
+            "(formerly)",
+            "Lord of Winterfell",
+            "(formerly)",
+            "Warden of the North",
+            "(formerly)",
+            "King of the Trident",
+            "(formerly)"
+        ],
+        "heir": "Rickon Stark (de jure)",
+        "overlord": [
+            "House Baratheon of King's Landing",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ],
+        "cadet branch": [
+            "House Greystark",
+            "House Karstark"
+        ],
+        "ancestral weapon": "Ice (destroyed)",
+        "founder": "Bran the Builder",
+        "founded": "Age of Heroes"
+    },
+    "House_Ashwood": {
+        "id": "House_Ashwood",
+        "name": "House Ashwood",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Bole": {
+        "id": "House_Bole",
+        "name": "House Bole",
+        "seat": "in the wolfswood",
+        "region": "North",
+        "overlord": "House Glover"
+    },
+    "House_Bolton": {
+        "id": "House_Bolton",
+        "name": "House Bolton",
+        "coat of arms": [
+            "A red flayed man on pink strewn with red drops",
+            "(Rose goutt e-de-sang, a flayed man gules)"
+        ],
+        "words": "Our Blades are Sharp",
+        "seat": "The Dreadfort",
+        "lord": "Roose Bolton",
+        "region": "The north",
+        "title": [
+            "Red King",
+            "(Age of Heroes)",
+            "Lord of the Dreadfort",
+            "Warden of the North"
+        ],
+        "heir": "Ramsay Bolton",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of King's Landing",
+            "(ADWD)"
+        ],
+        "cadet branch": "House Bolton of Winterfell",
+        "founded": "Age of Heroes"
+    },
+    "House_Branch": {
+        "id": "House_Branch",
+        "name": "House Branch",
+        "seat": "in the wolfswood",
+        "region": "North",
+        "overlord": "House Glover"
+    },
+    "House_Cassel": {
+        "id": "House_Cassel",
+        "name": "House Cassel",
+        "coat of arms": [
+            "Ten white wolves' heads, 4-3-2-1, on grey with a black border",
+            "(Cendr e, ten wolves' heads 4-3-2-1 argent within a bordure sable)"
+        ],
+        "lord": "Beth Cassel",
+        "region": "The north",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Cerwyn": {
+        "id": "House_Cerwyn",
+        "name": "House Cerwyn",
+        "coat of arms": [
+            "A black battle-axe on silver",
+            "(Argent, a battle-axe sable)"
+        ],
+        "words": "Honed and Ready",
+        "seat": "Castle Cerwyn",
+        "lord": "Jonelle Cerwyn",
+        "region": "North",
+        "title": "Lord of Cerwyn",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Condon": {
+        "id": "House_Condon",
+        "name": "House Condon",
+        "coat of arms": [
+            "An eagle's head between crossed tridents, red on white",
+            "(Argent, between two tridents saltirwise an eagle's head gules)"
+        ],
+        "region": "North",
+        "overlord": "House Cerwyn"
+    },
+    "House_Dustin": {
+        "id": "House_Dustin",
+        "name": "House Dustin",
+        "coat of arms": [
+            "Two rusted longaxes with black shafts crossed, a black crown between their points, on yellow",
+            "(Or, between two longaxes saltirewise rusted proper shafted sable a crown of the last)"
+        ],
+        "seat": "Barrow Hall",
+        "lord": "Lady Barbrey Dustin",
+        "region": "The north",
+        "title": "Lord of Barrowton",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Flint_of_Flint%27s_Finger": {
+        "id": "House_Flint_of_Flint%27s_Finger",
+        "name": "House Flint of Flint's Finger",
+        "coat of arms": [
+            "A grey stone hand upon a white inverted pall on paly black and grey",
+            "(Paly sable and cendr e on a pall inverted argent a hand couped of the second)"
+        ],
+        "seat": "Flint's Finger",
+        "lord": "possibly Robin Flint",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Flint_of_Widow%27s_Watch": {
+        "id": "House_Flint_of_Widow%27s_Watch",
+        "name": "House Flint of Widow's Watch",
+        "coat of arms": [
+            "A blue field strewn with whitecaps, on a yellow chief with crested line a pair of blue eyes",
+            "(Azure sem  of whitecaps argent, on a chief wavy crested or two eyes of the second irised of the first and pupiled sable)"
+        ],
+        "words": "Ever Vigilant",
+        "seat": "Widow's Watch",
+        "lord": "Lady Lyessa Flint",
+        "region": "The North",
+        "title": "Lord of Widow's Watch",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ],
+        "cadet branch": [
+            "House Flint of Flint's Finger",
+            "House Flint of the mountains"
+        ]
+    },
+    "House_Forrester": {
+        "id": "House_Forrester",
+        "name": "House Forrester",
+        "region": "North",
+        "overlord": "House Glover"
+    },
+    "House_Glenmore": {
+        "id": "House_Glenmore",
+        "name": "House Glenmore (Telltale)",
+        "seat": "Rillwater Crossing",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Holt_(north)": {
+        "id": "House_Holt_(north)",
+        "name": "House Holt (north)",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Hornwood": {
+        "id": "House_Hornwood",
+        "name": "House Hornwood",
+        "coat of arms": [
+            "A brown bullmoose with black antlers on orange",
+            "(Tenn , a bullmoose brun\u00e2tre attired sable)"
+        ],
+        "words": "Righteous in Wrath",
+        "seat": "None (formerly Hornwood)",
+        "region": "The North",
+        "title": "Lord of the Hornwood",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Ironsmith": {
+        "id": "House_Ironsmith",
+        "name": "House Ironsmith",
+        "coat of arms": [
+            "A black sword upright between four black horseshoes on gold, a grey-green border",
+            "(Or, between four horseshoes a sword erect sable all within a bordure vert-cendr e)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Karstark": {
+        "id": "House_Karstark",
+        "name": "House Karstark",
+        "coat of arms": [
+            "A white sunburst on black",
+            "(Sable, a sunburst argent)"
+        ],
+        "words": "The Sun of Winter",
+        "seat": "Karhold",
+        "lord": "Harrion Karstark",
+        "region": "North",
+        "title": "Lord of Karhold",
+        "heir": "Alys Karstark",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ],
+        "founder": "Karlon Stark",
+        "founded": [
+            "\"a thousand years ago\"",
+            "(Possibly around ~700 BC)",
+            "[N 1]"
+        ]
+    },
+    "House_Lake_(north)": {
+        "id": "House_Lake_(north)",
+        "name": "House Lake (north)",
+        "coat of arms": [
+            "Seven pommes, 2-2-2-1, green on brown",
+            "(Brun\u00e2tre, seven pommes 2-2-2-1)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Lightfoot": {
+        "id": "House_Lightfoot",
+        "name": "House Lightfoot",
+        "coat of arms": [
+            "A line of white footprints in bend sinister, on dark brown",
+            "(Brun\u00e2tre, a trail of footprints bendwise sinister argent)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Locke": {
+        "id": "House_Locke",
+        "name": "House Locke",
+        "coat of arms": [
+            "Two bronze keys crossed on an white pale on purple",
+            "(Purpure, on a pale argent two keys saltirewise bronze)"
+        ],
+        "seat": "Oldcastle",
+        "lord": "Lord Ondrew Locke",
+        "region": "North",
+        "title": [
+            "King (formerly)",
+            "Lord of Oldcastle"
+        ],
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Long": {
+        "id": "House_Long",
+        "name": "House Long",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Manderly": {
+        "id": "House_Manderly",
+        "name": "House Manderly",
+        "coat of arms": [
+            "A white merman with dark green hair, beard and tail, carrying a black trident, over a blue-green field",
+            "(Aquamarine, a merman argent crined, bearded and queued vert, carrying a trident sable)"
+        ],
+        "seat": [
+            "New Castle",
+            "in",
+            "White Harbor",
+            "Wolf's Den",
+            "(formerly)",
+            "Dunstonbury",
+            "(formerly)"
+        ],
+        "lord": "Wyman Manderly",
+        "region": [
+            "The",
+            "North",
+            "The",
+            "Reach",
+            "(formerly)"
+        ],
+        "title": [
+            "Lord of White Harbor",
+            "Warden of the White Knife",
+            "Shield of the Faith",
+            "Defender of the Dispossessed",
+            "Lord Marshal of the Mander",
+            "Knight",
+            "of the",
+            "Order of the Green Hand",
+            "Lord of Dunstonbury",
+            "(formerly)"
+        ],
+        "heir": "Ser Wylis Manderly",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Marsh": {
+        "id": "House_Marsh",
+        "name": "House Marsh",
+        "coat of arms": [
+            "10 frogs, 4-3-2-1, green on yellow",
+            "(Or, ten frogs 4-3-2-1 vert)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Mollen": {
+        "id": "House_Mollen",
+        "name": "House Mollen",
+        "coat of arms": [
+            "A pine tree covered with snow in a pale green pile, on white",
+            "(White, upon a pile vert a snowy pine tree proper)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Mormont": {
+        "id": "House_Mormont",
+        "name": "House Mormont",
+        "coat of arms": [
+            "A black bear in a green wood",
+            "(wood vert, a bear sable)"
+        ],
+        "words": "Here We Stand",
+        "seat": "Mormont Keep",
+        "lord": "Maege Mormont",
+        "region": "North",
+        "title": "Lord of Bear Island",
+        "heir": "Alysane Mormont",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ],
+        "ancestral weapon": "Longclaw (formerly; now gifted to Jon Snow)"
+    },
+    "House_Moss": {
+        "id": "House_Moss",
+        "name": "House Moss",
+        "coat of arms": [
+            "A bend orange on vairy grey and green",
+            "(Vairy cendr e and vert, a bend tenn )"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Overton": {
+        "id": "House_Overton",
+        "name": "House Overton",
+        "coat of arms": [
+            "Checked silver and gold fess on black",
+            "(Sable, a fess chequy argent and Or)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Poole": {
+        "id": "House_Poole",
+        "name": "House Poole",
+        "coat of arms": [
+            "A blue plate on white, with a grey tressure",
+            "(Argent, a hurt within a tressure cendr e)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Reed": {
+        "id": "House_Reed",
+        "name": "House Reed",
+        "coat of arms": [
+            "A black lizard-lion on grey-green",
+            "(Vert-cendr e, a lizard-lion sable)"
+        ],
+        "seat": "Greywater Watch",
+        "lord": "Howland Reed",
+        "region": "North",
+        "title": [
+            "Lord of Greywater Watch",
+            "Marsh King",
+            "(possibly)"
+        ],
+        "heir": "Jojen Reed",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Ryswell": {
+        "id": "House_Ryswell",
+        "name": "House Ryswell",
+        "coat of arms": [
+            "A black horse's head, eyes and mane red, on bronze within a black engrailed border",
+            "(Bronze, a horse's head sable orbed and maned gules within a bordure engrailed sable)"
+        ],
+        "lord": "Rodrik Ryswell",
+        "region": "The North",
+        "title": "Lord of the Rills",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Slate": {
+        "id": "House_Slate",
+        "name": "House Slate",
+        "coat of arms": [
+            "Pale grey, a double tressure white",
+            "(Cendr e, a double tressure argent)"
+        ],
+        "seat": "Blackpool",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Stout": {
+        "id": "House_Stout",
+        "name": "House Stout",
+        "coat of arms": [
+            "Chevronny russet and gold",
+            "(Chevronny brun\u00e2tre and or)"
+        ],
+        "seat": "Goldgrass",
+        "lord": "Harwood Stout",
+        "region": "North",
+        "title": "Lord of Goldgrass",
+        "overlord": "House Dustin",
+        "founded": "Before the Andal Invasion"
+    },
+    "House_Umber": {
+        "id": "House_Umber",
+        "name": "House Umber",
+        "coat of arms": [
+            "A roaring giant, brown-haired and wearing a skin, with broken silver chains, on flame-red",
+            "(Gules, a giant roaring brun\u00e2tre habited with a skin proper wearing chains broken argent)"
+        ],
+        "seat": "Last Hearth",
+        "lord": "Jon \"Greatjon\" Umber",
+        "region": "The north",
+        "title": "Lord of the Last Hearth",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ],
+        "founded": "Before the Andal Invasion"
+    },
+    "House_Waterman": {
+        "id": "House_Waterman",
+        "name": "House Waterman",
+        "coat of arms": [
+            "Brown crossed oars on white, between a pair of blue flaunches",
+            "(Argent, between two flaunches azure as many oars saltirewise brun\u00e2tre)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Wells_(north)": {
+        "id": "House_Wells_(north)",
+        "name": "House Wells (north)",
+        "coat of arms": [
+            "Five black roundels on grey over green and white lozengy",
+            "(Per fess cendr e and lozengy argent and vert, in chief five pellets)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Whitehill": {
+        "id": "House_Whitehill",
+        "name": "House Whitehill",
+        "coat of arms": [
+            "A white pile inverted on indigo, an arch of 4-pointed stars above",
+            "(Purpure, above a pile inverted mullets of four points in fess enarched argent)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Woods": {
+        "id": "House_Woods",
+        "name": "House Woods",
+        "seat": "in the wolfswood",
+        "region": "North",
+        "overlord": "House Glover"
+    },
+    "House_Woolfield": {
+        "id": "House_Woolfield",
+        "name": "House Woolfield",
+        "coat of arms": [
+            "Three woolsacks, white on purple, a white border",
+            "(Purpure, three woolsacks within a bordure argent)"
+        ],
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Glover": {
+        "id": "House_Glover",
+        "name": "House Glover",
+        "coat of arms": [
+            "A silver fist on scarlet",
+            "(Gules, a gauntlet argent)"
+        ],
+        "seat": "Deepwood Motte",
+        "lord": "Galbart Glover",
+        "region": "The North",
+        "title": "Master of Deepwood Motte[N 1]",
+        "heir": "Robett Glover",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Tallhart": {
+        "id": "House_Tallhart",
+        "name": "House Tallhart",
+        "coat of arms": [
+            "Three sentinel trees, green on brown",
+            "(Brun\u00e2tre, three sentinel trees vert)"
+        ],
+        "words": "Proud and Free",
+        "seat": "Torrhen's Square",
+        "lord": "Eddara Tallhart",
+        "region": "The North",
+        "title": "Master of Torrhen's Square[N 1]",
+        "heir": "Brandon Tallhart",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Blackmyre": {
+        "id": "House_Blackmyre",
+        "name": "House Blackmyre",
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Boggs_(north)": {
+        "id": "House_Boggs_(north)",
+        "name": "House Boggs (north)",
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Cray": {
+        "id": "House_Cray",
+        "name": "House Cray",
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Fenn": {
+        "id": "House_Fenn",
+        "name": "House Fenn",
+        "coat of arms": [
+            "Three black water lilies on pale violet",
+            "(Purpure, three water lilies sable)"
+        ],
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Greengood": {
+        "id": "House_Greengood",
+        "name": "House Greengood",
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Peat": {
+        "id": "House_Peat",
+        "name": "House Peat",
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Quagg": {
+        "id": "House_Quagg",
+        "name": "House Quagg",
+        "seat": "in the Neck",
+        "region": "North",
+        "overlord": "House Reed"
+    },
+    "House_Burley": {
+        "id": "House_Burley",
+        "name": "House Burley",
+        "coat of arms": [
+            "A white knife in a blue pile on white",
+            "(Argent, on a pile azure a knife of the field)"
+        ],
+        "seat": "In the northern mountains",
+        "region": "The North",
+        "title": [
+            "The Burley",
+            "Lord Burley"
+        ],
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Flint_of_the_mountains": {
+        "id": "House_Flint_of_the_mountains",
+        "name": "House Flint of the mountains",
+        "seat": "In the northern mountains",
+        "lord": "Torghen Flint",
+        "region": "The North",
+        "title": [
+            "The Flint",
+            "Lord Flint"
+        ],
+        "heir": "Donnel Flint",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ],
+        "cadet branch": [
+            "House Flint of Widow's Watch",
+            "House Flint of Flint's Finger"
+        ]
+    },
+    "House_Harclay": {
+        "id": "House_Harclay",
+        "name": "House Harclay",
+        "coat of arms": [
+            "Three blue moons, waxing, full and waning, on a white bend, on blue",
+            "(Azure, on a bend argent a hurt between an increscent and decrescent of the first)"
+        ],
+        "seat": "North of the wolfswood in the northern mountains",
+        "region": "The North",
+        "title": [
+            "The Harclay",
+            "Lord Harclay"
+        ],
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone"
+        ]
+    },
+    "House_Knott": {
+        "id": "House_Knott",
+        "name": "House Knott",
+        "coat of arms": "A brown fret on white (Argent, a fret brun\u00e2tre)",
+        "seat": "North of the wolfswood in the northern mountains",
+        "region": "The North",
+        "title": [
+            "The Knott",
+            "Lord Knott"
+        ],
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Liddle": {
+        "id": "House_Liddle",
+        "name": "House Liddle",
+        "coat of arms": [
+            "Per pale white and green, a fir tree line between, three brown pinecones on the white",
+            "(Per pale sapin  argent and vert, in dexter three pinecones brun\u00e2tre)"
+        ],
+        "seat": "In the northern mountains",
+        "lord": "Torren Liddle",
+        "region": "The North",
+        "title": [
+            "The Liddle",
+            "Lord Liddle"
+        ],
+        "heir": "Morgan Liddle",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Norrey": {
+        "id": "House_Norrey",
+        "name": "House Norrey",
+        "coat of arms": [
+            "Six green thistles, 3-2-1, on yellow",
+            "(Or, six thistles 3-2-1 vert)"
+        ],
+        "seat": "In the northern mountains",
+        "lord": "Brandon Norrey",
+        "region": "The North",
+        "title": [
+            "The Norrey",
+            "Lord Norrey"
+        ],
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ]
+    },
+    "House_Wull": {
+        "id": "House_Wull",
+        "name": "House Wull",
+        "coat of arms": [
+            "Three wooden buckets, brown on blue, with a border of grey and white checks",
+            "(Azure, three wooden buckets brun\u00e2tre within a bordure chequy cendr e and argent)"
+        ],
+        "seat": "West of the Northern mountains along the Bay of Ice",
+        "lord": "Hugo Wull",
+        "region": "The North",
+        "title": [
+            "The Wull",
+            "Lord Wull"
+        ],
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Baratheon of Dragonstone",
+            "(ADWD)"
+        ],
+        "founded": "Before the Andal Invasion"
+    },
+    "House_Crowl": {
+        "id": "House_Crowl",
+        "name": "House Crowl",
+        "coat of arms": [
+            "Ply flame and black",
+            "(Pily gules and sable)"
+        ],
+        "seat": "Deepdown",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Magnar": {
+        "id": "House_Magnar",
+        "name": "House Magnar",
+        "coat of arms": [
+            "A green lobster on white, holding a black harpoon in its claws",
+            "(Argent, a lobster vert holding a harpoon sable)"
+        ],
+        "seat": "Kingshouse",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Stane": {
+        "id": "House_Stane",
+        "name": "House Stane",
+        "coat of arms": [
+            "A driftwood tree, bare and brown, on pale green",
+            "(Vert, a driftwood tree blasted brun\u00e2tre)"
+        ],
+        "seat": "Driftwood Hall",
+        "region": "North",
+        "overlord": [
+            "House Stark",
+            "(AGOT)",
+            "House Bolton",
+            "(ADWD)"
+        ]
+    },
+    "House_Blackwood": {
+        "id": "House_Blackwood",
+        "name": "House Blackwood",
+        "coat of arms": [
+            "A flock of ravens surrounding a black shield charged with a dead weirwood, on a scarlet field",
+            "(Gules, on an escutcheon sable a dead weirwood tree proper, all within an orle of ravens volant sable)"
+        ],
+        "seat": "Raventree Hall",
+        "lord": "Tytos Blackwood",
+        "region": [
+            "Riverlands",
+            "The",
+            "North",
+            "(formerly)"
+        ],
+        "title": [
+            "Lord of Raventree Hall",
+            "River king",
+            "(formerly)"
+        ],
+        "heir": "Brynden Blackwood",
+        "overlord": [
+            "House Tully",
+            "(AGOT)",
+            "House Baelish",
+            "(ADWD)"
+        ],
+        "cadet branch": "House Justman",
+        "founded": "Age of Heroes"
+    },
+    "House_Amber": {
+        "id": "House_Amber",
+        "name": "House Amber",
+        "lord": "Extinct",
+        "region": "North"
+    },
+    "House_Greenwood": {
+        "id": "House_Greenwood",
+        "name": "House Greenwood",
+        "lord": "Extinct",
+        "region": "North"
+    },
+    "House_Fisher_of_the_Stony_Shore": {
+        "id": "House_Fisher_of_the_Stony_Shore",
+        "name": "House Fisher of the Stony Shore",
+        "seat": "Stony Shore",
+        "lord": "possibly extinct",
+        "region": "north",
+        "overlord": "House Stark"
+    },
+    "House_Flint_of_Breakstone_Hill": {
+        "id": "House_Flint_of_Breakstone_Hill",
+        "name": "House Flint of Breakstone Hill",
+        "seat": "Breakstone Hill",
+        "lord": "Possibly extinct",
+        "region": "North",
+        "overlord": "House Stark"
+    },
+    "House_Frost": {
+        "id": "House_Frost",
+        "name": "House Frost",
+        "lord": "Extinct",
+        "region": "North"
+    },
+    "House_Greystark": {
+        "id": "House_Greystark",
+        "name": "House Greystark",
+        "seat": "Wolf's Den",
+        "lord": "Extinct",
+        "region": "North",
+        "overlord": "House Stark"
+    },
+    "House_Ryder": {
+        "id": "House_Ryder",
+        "name": "House Ryder",
+        "seat": "Rills",
+        "lord": "Possibly extinct",
+        "region": "North",
+        "overlord": "House Stark"
+    },
+    "House_Towers_(north)": {
+        "id": "House_Towers_(north)",
+        "name": "House Towers (north)",
+        "lord": "Extinct",
+        "region": "North"
+    },
+    "House_Woodfoot": {
+        "id": "House_Woodfoot",
+        "name": "House Woodfoot",
+        "seat": "Bear Island",
+        "lord": "extinct",
+        "region": "north",
+        "overlord": "House Stark"
+    }
+}

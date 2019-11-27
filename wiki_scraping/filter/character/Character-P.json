@@ -1,0 +1,840 @@
+{
+    "Penny_Jenny": {
+        "id": "Penny_Jenny",
+        "name": "Penny Jenny",
+        "alias": [
+            "Penny Jenny",
+            "Redgrass Jenny"
+        ],
+        "died": "In 196 212 AC, at King's Landing"
+    },
+    "Paezhar_zo_Myraq": {
+        "id": "Paezhar_zo_Myraq",
+        "name": "Paezhar zo Myraq",
+        "alias": "The Little Pigeon",
+        "allegiance": [
+            "House of Myraq",
+            "Wise Masters"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Palla": {
+        "id": "Palla",
+        "name": "Palla",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Parmen_Crane": {
+        "id": "Parmen_Crane",
+        "name": "Parmen Crane",
+        "alias": "Parmen the Purple",
+        "title": "Ser",
+        "allegiance": [
+            "House Crane",
+            "Rainbow Guard",
+            "(formerly)"
+        ],
+        "culture": "Reach",
+        "born": "At Red Lake"
+    },
+    "Parquello_Vaelaros": {
+        "id": "Parquello_Vaelaros",
+        "name": "Parquello Vaelaros",
+        "culture": "Volantene"
+    },
+    "Pascal_Dabell": {
+        "id": "Pascal_Dabell",
+        "name": "Pascal Dabell",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Patchface": {
+        "id": "Patchface",
+        "name": "Patchface",
+        "alias": "Patches",
+        "allegiance": "House Baratheon of Dragonstone"
+    },
+    "Pate_(novice)": {
+        "id": "Pate_(novice)",
+        "name": "Pate (novice)",
+        "alias": "Cressen",
+        "title": "Novice",
+        "allegiance": "The Citadel",
+        "culture": "Westermen",
+        "born": "In 281 AC or 282 AC, at westerlands",
+        "died": "In 300 AC, at Oldtown"
+    },
+    "Pate_the_Woodcock": {
+        "id": "Pate_the_Woodcock",
+        "name": "Pate the Woodcock",
+        "title": "Ser",
+        "allegiance": "Kingsguard"
+    },
+    "Pate_of_Longleaf": {
+        "id": "Pate_of_Longleaf",
+        "name": "Pate of Longleaf",
+        "alias": "Longleaf the Lionslayer",
+        "title": "Ser",
+        "allegiance": "Blacks",
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Pate_(Night%27s_Watch)": {
+        "id": "Pate_(Night%27s_Watch)",
+        "name": "Pate (Night's Watch)",
+        "alias": "Spotted Pate",
+        "allegiance": "Night's Watch"
+    },
+    "Pate_(Ranger)": {
+        "id": "Pate_(Ranger)",
+        "name": "Pate (Ranger)",
+        "allegiance": "Night's Watch"
+    },
+    "Pate_of_Fairmarket": {
+        "id": "Pate_of_Fairmarket",
+        "name": "Pate of Fairmarket",
+        "alias": "Pate of Fairmarket",
+        "title": [
+            "Ser",
+            "River king",
+            "/",
+            "King of the Trident"
+        ],
+        "culture": "Rivermen"
+    },
+    "Pate_the_Plowman": {
+        "id": "Pate_the_Plowman",
+        "name": "Pate the Plowman",
+        "alias": "Pate the Plowman",
+        "allegiance": "House Moreland",
+        "culture": "First Men"
+    },
+    "Pate_(Standfast)": {
+        "id": "Pate_(Standfast)",
+        "name": "Pate (Standfast)",
+        "allegiance": "House Osgrey",
+        "culture": "Reach",
+        "born": "In or between 161 AC and 181 AC"
+    },
+    "Pate_of_the_Blue_Fork": {
+        "id": "Pate_of_the_Blue_Fork",
+        "name": "Pate of the Blue Fork",
+        "alias": [
+            "Pate of the Blue Fork",
+            "Pate of Sevenstreams"
+        ],
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "died": "In 299 AC, at the riverlands",
+        "spouse": "Amerei Frey"
+    },
+    "Pate_(Pinchbottom)": {
+        "id": "Pate_(Pinchbottom)",
+        "name": "Pinchbottom Pate",
+        "died": "In 209 AC, at Little Dosk"
+    },
+    "Pate_(Old)": {
+        "id": "Pate_(Old)",
+        "name": "Pate (Old)",
+        "alias": "Old Pate",
+        "died": "At Riverlands"
+    },
+    "Pate_(Mory)": {
+        "id": "Pate_(Mory)",
+        "name": "Pate of Mory",
+        "died": "At Riverlands"
+    },
+    "Pate_(Lancewood)": {
+        "id": "Pate_(Lancewood)",
+        "name": "Pate of Lancewood",
+        "died": "At Riverlands"
+    },
+    "Pate_(Shermer%27s_Grove)": {
+        "id": "Pate_(Shermer%27s_Grove)",
+        "name": "Pate of Shermer's Grove",
+        "died": "At Riverlands"
+    },
+    "Pate_(whipping_boy)": {
+        "id": "Pate_(whipping_boy)",
+        "name": "Pate (whipping boy)",
+        "allegiance": "House Baratheon of King's Landing",
+        "born": "In 291 AC or 292 AC"
+    },
+    "Pate_(orphan)": {
+        "id": "Pate_(orphan)",
+        "name": "Pate (orphan)"
+    },
+    "Pater": {
+        "id": "Pater",
+        "name": "Pater",
+        "alias": "Pater",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "born": "In 54 BC",
+        "died": "In 44 AC, at Oldtown"
+    },
+    "Patrek_Mallister": {
+        "id": "Patrek_Mallister",
+        "name": "Patrek Mallister",
+        "allegiance": "House Mallister",
+        "culture": "Rivermen",
+        "born": "At Seagard"
+    },
+    "Patrek_of_King%27s_Mountain": {
+        "id": "Patrek_of_King%27s_Mountain",
+        "name": "Patrek of King's Mountain",
+        "alias": "Patrek of King's Mountain",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ],
+        "died": "In 300 AC, at Castle Black"
+    },
+    "Patrek_Vance": {
+        "id": "Patrek_Vance",
+        "name": "Patrek Vance",
+        "allegiance": "House Vance",
+        "born": "In or between ~262 AC and 294 AC"
+    },
+    "Paxter_Redwyne": {
+        "id": "Paxter_Redwyne",
+        "name": "Paxter Redwyne",
+        "title": [
+            "Lord of the Arbor",
+            "Grand admiral",
+            "Lord admiral",
+            "Master of ships"
+        ],
+        "allegiance": "House Redwyne",
+        "culture": "Reach",
+        "spouse": "Lady Mina Tyrell",
+        "issue": [
+            "Horas Redwyne",
+            "Hobber Redwyne",
+            "Desmera Redwyne"
+        ]
+    },
+    "Patrice_Hightower": {
+        "id": "Patrice_Hightower",
+        "name": "Patrice Hightower",
+        "title": "Lady",
+        "allegiance": "House Hightower",
+        "culture": "Reach"
+    },
+    "Patricia_Redwyne": {
+        "id": "Patricia_Redwyne",
+        "name": "Patricia Redwyne",
+        "allegiance": "House Redwyne",
+        "culture": "Reach",
+        "born": "In 103 133 AC"
+    },
+    "Pearl_Emperor": {
+        "id": "Pearl_Emperor",
+        "name": "Pearl Emperor",
+        "alias": "Pearl Emperor",
+        "culture": "Great Empire of the Dawn",
+        "father": "The God-on-Earth",
+        "title": [
+            "God-Emperor",
+            "Pearl Emperor"
+        ]
+    },
+    "Pearse_Caron": {
+        "id": "Pearse_Caron",
+        "name": "Pearse Caron",
+        "title": [
+            "Ser",
+            "Lord of",
+            "Nightsong",
+            "Lord of the Marches"
+        ],
+        "allegiance": "House Caron",
+        "culture": "Marcher"
+    },
+    "Penny": {
+        "id": "Penny",
+        "name": "Penny",
+        "alias": "Lady Imp",
+        "allegiance": "Second Sons",
+        "born": "In 281 AC, 282 AC or 283 AC"
+    },
+    "Perceon_III_Gardener": {
+        "id": "Perceon_III_Gardener",
+        "name": "Perceon III Gardener",
+        "issue": "Gwayne Gardener",
+        "title": "King of the Reach"
+    },
+    "Peremore_Hightower": {
+        "id": "Peremore_Hightower",
+        "name": "Peremore Hightower",
+        "alias": "Peremore the Twisted",
+        "title": "Prince",
+        "allegiance": "House Hightower"
+    },
+    "Pereno_Pendaerys": {
+        "id": "Pereno_Pendaerys",
+        "name": "Pereno Pendaerys",
+        "allegiance": "House Pendaerys",
+        "culture": "Lysene",
+        "died": "In 135 AC, at Lys"
+    },
+    "Perestan": {
+        "id": "Perestan",
+        "name": "Perestan",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Perfumed_Hero": {
+        "id": "Perfumed_Hero",
+        "name": "Perfumed Hero",
+        "alias": "The Perfumed Hero",
+        "allegiance": "Wise Masters",
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Perianne_Moore": {
+        "id": "Perianne_Moore",
+        "name": "Perianne Moore",
+        "alias": "Pretty Peri",
+        "title": "Lady of Maidenpool",
+        "allegiance": [
+            "House Moore",
+            "House Mooton"
+        ],
+        "culture": "Valemen",
+        "born": "In 67 AC",
+        "spouse": "Lord Jonah Mooton"
+    },
+    "Perkin_Follard": {
+        "id": "Perkin_Follard",
+        "name": "Perkin Follard",
+        "title": "Ser",
+        "allegiance": [
+            "House Follard",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ]
+    },
+    "Perkin_the_Flea": {
+        "id": "Perkin_the_Flea",
+        "name": "Perkin the Flea",
+        "alias": "Perkin the Flea",
+        "title": [
+            "Ser",
+            "Commander of the City Watch"
+        ],
+        "allegiance": [
+            "King",
+            "Trystane Truefyre",
+            "Greens",
+            "City Watch of King's Landing",
+            "Night's Watch"
+        ]
+    },
+    "Perra_Frey": {
+        "id": "Perra_Frey",
+        "name": "Perra Frey",
+        "allegiance": "House Frey",
+        "born": "In 294 AC"
+    },
+    "Perra_Royce": {
+        "id": "Perra_Royce",
+        "name": "Perra Royce",
+        "title": "Lady of the Crossing",
+        "allegiance": [
+            "House Royce",
+            "House Frey"
+        ],
+        "culture": "Valemen",
+        "born": "In 221 AC or before",
+        "died": "In or between 241 AC and 249 AC",
+        "spouse": "Lord Walder Frey",
+        "issue": [
+            "Stevron Frey",
+            "Emmon Frey",
+            "Aenys Frey",
+            "Perriane Frey"
+        ]
+    },
+    "Perriane_Frey": {
+        "id": "Perriane_Frey",
+        "name": "Perriane Frey",
+        "allegiance": [
+            "House Frey",
+            "House Haigh"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 238 AC and 249 AC",
+        "spouse": "Ser Leslyn Haigh",
+        "issue": [
+            "Harys Haigh",
+            "Donnel Haigh",
+            "Alyn Haigh"
+        ]
+    },
+    "Perros_Blackmont": {
+        "id": "Perros_Blackmont",
+        "name": "Perros Blackmont",
+        "allegiance": "House Blackmont",
+        "culture": "Dornishmen"
+    },
+    "Perwyn_Frey": {
+        "id": "Perwyn_Frey",
+        "name": "Perwyn Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "rivermen",
+        "born": "In or between 269 AC and 278 AC, at Twins"
+    },
+    "Perwyn_Osgrey": {
+        "id": "Perwyn_Osgrey",
+        "name": "Perwyn Osgrey",
+        "alias": "Perwyn the Proud",
+        "title": "Lord of Coldmoat",
+        "allegiance": "House Osgrey",
+        "culture": "Reach"
+    },
+    "Peter_Plumm": {
+        "id": "Peter_Plumm",
+        "name": "Peter Plumm",
+        "title": "Ser",
+        "allegiance": "House Plumm",
+        "culture": "Westermen"
+    },
+    "Petyr_Baelish": {
+        "id": "Petyr_Baelish",
+        "name": "Petyr Baelish",
+        "alias": [
+            "Littlefinger",
+            "Lord Littlefinger"
+        ],
+        "title": [
+            "Master of coin",
+            "(formerly)",
+            "Lord Paramount of the Trident",
+            "Lord of Harrenhal",
+            "Lord Protector of the Eyrie and the Vale of Arryn"
+        ],
+        "allegiance": [
+            "House Baelish",
+            "of the",
+            "Fingers",
+            "House Baelish",
+            "of",
+            "Harrenhal"
+        ],
+        "culture": "Valemen",
+        "born": "In 268 AC, at the Fingers",
+        "spouse": "Lady Lysa Arryn",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7"
+    },
+    "Petyr_Frey": {
+        "id": "Petyr_Frey",
+        "name": "Petyr Frey",
+        "alias": "Petyr Pimple",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 281 AC or 282 AC, at Twins",
+        "died": "In 300 AC, at Oldstones",
+        "spouse": "Mylenda Caron",
+        "issue": "Perra Frey"
+    },
+    "Petyr_Mallister": {
+        "id": "Petyr_Mallister",
+        "name": "Petyr Mallister",
+        "title": [
+            "Lord of Seagard",
+            "River king",
+            "/",
+            "King of the Trident"
+        ],
+        "allegiance": "House Mallister",
+        "culture": "Rivermen"
+    },
+    "Petyr_Piper": {
+        "id": "Petyr_Piper",
+        "name": "Petyr Piper",
+        "title": "Lord of Pinkmaiden",
+        "allegiance": [
+            "House Piper",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Acorn Hall"
+    },
+    "Petyr_Plumm": {
+        "id": "Petyr_Plumm",
+        "name": "Petyr Plumm",
+        "title": "Ser",
+        "allegiance": "House Plumm",
+        "culture": "Westermen"
+    },
+    "Phario_Forel": {
+        "id": "Phario_Forel",
+        "name": "Phario Forel",
+        "culture": "Braavosi"
+    },
+    "Philip_Foote": {
+        "id": "Philip_Foote",
+        "name": "Philip Foote",
+        "title": [
+            "Ser",
+            "Lord of Nightsong",
+            "Lord of the Marches"
+        ],
+        "allegiance": [
+            "House Foote",
+            "House Foote of Nightsong"
+        ],
+        "culture": "Westermen"
+    },
+    "Philip_Plumm": {
+        "id": "Philip_Plumm",
+        "name": "Philip Plumm",
+        "title": "Lord",
+        "allegiance": "House Plumm",
+        "culture": "westermen",
+        "issue": [
+            "Dennis Plumm",
+            "Peter Plumm",
+            "Harwyn Plumm"
+        ]
+    },
+    "Pia": {
+        "id": "Pia",
+        "name": "Pia",
+        "alias": "Pretty Pia",
+        "allegiance": "House Whent",
+        "culture": "Rivermen",
+        "born": "In before 281 AC[N 1], at Harrenhal"
+    },
+    "Pilman": {
+        "id": "Pilman",
+        "name": "Pilman",
+        "alias": "Pilman of Lannisport",
+        "title": "Captain",
+        "culture": "Westermen"
+    },
+    "Pimply_squire": {
+        "id": "Pimply_squire",
+        "name": "Pimply squire",
+        "alias": [
+            "The pimply squire",
+            "That Sarsfield boy"
+        ],
+        "allegiance": [
+            "House Sarsfield",
+            "House Clegane"
+        ],
+        "culture": "Westermen",
+        "died": "In 300 AC, at the inn at the crossroads"
+    },
+    "Pious_dwarf": {
+        "id": "Pious_dwarf",
+        "name": "Pious dwarf",
+        "title": "Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Sparrows"
+        ],
+        "culture": "Westerosi"
+    },
+    "Pisswater_prince": {
+        "id": "Pisswater_prince",
+        "name": "Pisswater prince",
+        "alias": "\"Aegon Targaryen\"",
+        "allegiance": "House Targaryen",
+        "born": "In c. 282 AC, at King's Landing",
+        "died": "In 283 AC, at King's Landing"
+    },
+    "Plague_face": {
+        "id": "Plague_face",
+        "name": "Plague face",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Plummer": {
+        "id": "Plummer",
+        "name": "Plummer",
+        "title": "Steward of Ashford",
+        "allegiance": "House Ashford",
+        "culture": "Reach"
+    },
+    "Podrick_Payne": {
+        "id": "Podrick_Payne",
+        "name": "Podrick Payne",
+        "alias": "Pod",
+        "allegiance": [
+            "House Payne",
+            "Tyrion Lannister",
+            "Brienne Tarth"
+        ],
+        "culture": "Westermen",
+        "born": "In 286 AC or 287 AC",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Poetess": {
+        "id": "Poetess",
+        "name": "Poetess",
+        "alias": "The Poetess",
+        "culture": "Braavosi"
+    },
+    "Pol": {
+        "id": "Pol",
+        "name": "Pol",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Pol_Qo": {
+        "id": "Pol_Qo",
+        "name": "Pol Qo",
+        "alias": "Hammer of the Jogos Nhai",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Pollitor": {
+        "id": "Pollitor",
+        "name": "Pollitor",
+        "title": "Wisdom",
+        "allegiance": "Alchemists' Guild",
+        "culture": "Crownlands"
+    },
+    "Polliver": {
+        "id": "Polliver",
+        "name": "Polliver",
+        "alias": "Polly",
+        "title": "Castellan of Harrenhal",
+        "allegiance": "House Clegane",
+        "died": "In 300 AC, at the inn at the crossroads",
+        "tv series": "Season 2 | Season 4"
+    },
+    "Pono": {
+        "id": "Pono",
+        "name": "Pono",
+        "title": [
+            "Khal",
+            "Ko",
+            "(formerly)"
+        ],
+        "culture": "Dothraki"
+    },
+    "Porridge": {
+        "id": "Porridge",
+        "name": "Porridge",
+        "alias": "Porridge",
+        "allegiance": "House Baratheon of Dragonstone"
+    },
+    "Porther": {
+        "id": "Porther",
+        "name": "Porther",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Portifer_Woodwright": {
+        "id": "Portifer_Woodwright",
+        "name": "Portifer Woodwright",
+        "title": "Ser",
+        "allegiance": "House Woodwright",
+        "culture": "Reach"
+    },
+    "Poul_Pemford": {
+        "id": "Poul_Pemford",
+        "name": "Poul Pemford",
+        "allegiance": [
+            "House Pemford",
+            "House Tully"
+        ],
+        "died": "In 299 AC, at Riverrun"
+    },
+    "Poxy_Tym": {
+        "id": "Poxy_Tym",
+        "name": "Poxy Tym",
+        "alias": "Poxy Tym",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Praed": {
+        "id": "Praed",
+        "name": "Praed",
+        "died": "In 299 AC, at the Crownlands"
+    },
+    "Prendahl_na_Ghezn": {
+        "id": "Prendahl_na_Ghezn",
+        "name": "Prendahl na Ghezn",
+        "allegiance": "Stormcrows",
+        "culture": "Ghiscari",
+        "died": "In 299 AC, at Yunkai",
+        "tv series": "Season 3"
+    },
+    "Prendos": {
+        "id": "Prendos",
+        "name": "Prendos"
+    },
+    "Prentys_Tully": {
+        "id": "Prentys_Tully",
+        "name": "Prentys Tully",
+        "title": [
+            "Lord of Riverrun",
+            "Lord Paramount of the Trident",
+            "Master of laws",
+            "Lord justiciar"
+        ],
+        "allegiance": "House Tully",
+        "culture": "Rivermen",
+        "died": "In 59 AC, at Riverrun",
+        "spouse": "Lady Lucinda Broome"
+    },
+    "Preston_Greenfield": {
+        "id": "Preston_Greenfield",
+        "name": "Preston Greenfield",
+        "title": "Ser",
+        "allegiance": [
+            "House Greenfield",
+            "Kingsguard"
+        ],
+        "culture": "Westermen",
+        "died": "In 299 AC, at King's Landing",
+        "tv series": "Season 1 | Season 4 | Season 5 | Season 7 | Season 8"
+    },
+    "Princess_of_Dorne_(unnamed)": {
+        "id": "Princess_of_Dorne_(unnamed)",
+        "name": "Princess of Dorne (unnamed)",
+        "title": [
+            "Princess of Dorne",
+            "Lady of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "died": "In or between 279 AC and 280 AC[N 1]",
+        "issue": [
+            "Doran Martell",
+            "Mors Martell",
+            "Olyvar Martell",
+            "Elia Martell",
+            "Oberyn Martell"
+        ]
+    },
+    "Priscella_Hogg": {
+        "id": "Priscella_Hogg",
+        "name": "Priscella Hogg",
+        "allegiance": [
+            "House Hogg",
+            "Faith of the Seven"
+        ],
+        "culture": "Crownlands"
+    },
+    "Prudence_Celtigar": {
+        "id": "Prudence_Celtigar",
+        "name": "Prudence Celtigar",
+        "title": "Lady of Gulltown",
+        "allegiance": [
+            "House Celtigar",
+            "House Grafton"
+        ],
+        "culture": "Crownlands",
+        "born": "In 34 AC or 35 AC",
+        "spouse": "Lord Grafton"
+    },
+    "Prunella_Celtigar": {
+        "id": "Prunella_Celtigar",
+        "name": "Prunella Celtigar",
+        "title": "Lady of Starpike, Dunstonbury, and Whitegrove",
+        "allegiance": [
+            "House Celtigar",
+            "House Peake"
+        ],
+        "culture": "Crownlands",
+        "born": "In 34 AC or 35 AC",
+        "spouse": "Lord Uther Peake"
+    },
+    "Puckens": {
+        "id": "Puckens",
+        "name": "Puckens",
+        "allegiance": "House Lannister"
+    },
+    "Pudding": {
+        "id": "Pudding",
+        "name": "Pudding"
+    },
+    "Puddingfoot": {
+        "id": "Puddingfoot",
+        "name": "Puddingfoot",
+        "allegiance": "Brotherhood without banners"
+    },
+    "Pyat_Pree": {
+        "id": "Pyat_Pree",
+        "name": "Pyat Pree",
+        "title": "Warlock",
+        "allegiance": "The Undying Ones",
+        "tv series": "Season 2"
+    },
+    "Pycelle": {
+        "id": "Pycelle",
+        "name": "Pycelle",
+        "title": "Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "(by oath)",
+            "House Lannister",
+            "(de facto)"
+        ],
+        "born": "In 216 AC",
+        "died": "In 300 AC, at the Red Keep, King's Landing",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Pycelle%27s_serving_girl": {
+        "id": "Pycelle%27s_serving_girl",
+        "name": "Pycelle's serving girl"
+    },
+    "Pyg": {
+        "id": "Pyg",
+        "name": "Pyg",
+        "allegiance": "Brave Companions",
+        "died": "In 300 AC, at Whispers"
+    },
+    "Pykewood_Peake": {
+        "id": "Pykewood_Peake",
+        "name": "Pykewood Peake",
+        "allegiance": "Golden Company"
+    },
+    "Pylos": {
+        "id": "Pylos",
+        "name": "Pylos",
+        "title": "Maester at Dragonstone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Baratheon of Dragonstone"
+        ],
+        "born": "In 273 AC or 274 AC"
+    },
+    "Pynto": {
+        "id": "Pynto",
+        "name": "Pynto",
+        "culture": "Braavosi"
+    },
+    "Pypar": {
+        "id": "Pypar",
+        "name": "Pypar",
+        "alias": [
+            "Pyp",
+            "Monkey",
+            "Mummer's Monkey"
+        ],
+        "allegiance": "Night's Watch",
+        "tv series": "Season 1 | Season 3 | Season 4"
+    },
+    "Pytho_Malanon": {
+        "id": "Pytho_Malanon",
+        "name": "Pytho Malanon"
+    }
+}

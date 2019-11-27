@@ -1,0 +1,2331 @@
+{
+    "Bael_the_Bard": {
+        "id": "Bael_the_Bard",
+        "name": "Bael the Bard",
+        "alias": [
+            "Bael the Bard",
+            "Sygerrik of Skagos"
+        ],
+        "title": "King-Beyond-the-Wall",
+        "culture": "Free folk"
+    },
+    "Baelish_(hedge_knight)": {
+        "id": "Baelish_(hedge_knight)",
+        "name": "Baelish (hedge knight)",
+        "title": "Ser",
+        "allegiance": "House Baelish",
+        "culture": "Westeros",
+        "issue": "Lord Baelish"
+    },
+    "Baelish_(lord)": {
+        "id": "Baelish_(lord)",
+        "name": "Baelish (lord)",
+        "title": "Lord",
+        "allegiance": [
+            "House Baelish",
+            "House Arryn"
+        ],
+        "culture": "Westeros",
+        "spouse": "Lady Alayne",
+        "issue": "Petyr Baelish"
+    },
+    "Baelish_(sellsword)": {
+        "id": "Baelish_(sellsword)",
+        "name": "Baelish (sellsword)",
+        "allegiance": "House Corbray",
+        "culture": "Braavosi",
+        "issue": "Ser Baelish"
+    },
+    "Baela_Targaryen": {
+        "id": "Baela_Targaryen",
+        "name": "Baela Targaryen",
+        "alias": "Baela Velaryon",
+        "title": [
+            "Lady",
+            "Princess",
+            "Lady of",
+            "Driftmark"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "House Velaryon",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 116 AC, at Pentos",
+        "spouse": "Lord Alyn Velaryon",
+        "issue": "Laena Velaryon"
+    },
+    "Baelon_Targaryen_(son_of_Aerys)": {
+        "id": "Baelon_Targaryen_(son_of_Aerys)",
+        "name": "Baelon Targaryen (son of Aerys)",
+        "title": "Lord of Dragonstone",
+        "allegiance": "House Targaryen",
+        "born": "At Dragonstone"
+    },
+    "Baelon_Targaryen_(son_of_Viserys_I)": {
+        "id": "Baelon_Targaryen_(son_of_Viserys_I)",
+        "name": "Baelon Targaryen (son of Viserys I)",
+        "alias": "Heir for a Day",
+        "title": "Prince",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 105 AC, at King's Landing",
+        "died": "In 105 AC, at King's Landing"
+    },
+    "Baelor_Blacktyde": {
+        "id": "Baelor_Blacktyde",
+        "name": "Baelor Blacktyde",
+        "title": [
+            "Lord of Blacktyde",
+            "Captain of the",
+            "Nightflyer"
+        ],
+        "allegiance": "House Blacktyde",
+        "culture": "Ironborn",
+        "died": "In 300 AC, at Old Wyk"
+    },
+    "Baelor_Hightower": {
+        "id": "Baelor_Hightower",
+        "name": "Baelor Hightower",
+        "alias": [
+            "Baelor Brightsmile",
+            "Baelor Breakwind"
+        ],
+        "title": "Ser",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "At Oldtown",
+        "spouse": "Rhonda Rowan"
+    },
+    "Baelor_I_Targaryen": {
+        "id": "Baelor_I_Targaryen",
+        "name": "Baelor I Targaryen",
+        "alias": [
+            "Baelor the Beloved",
+            "Baelor the Blessed",
+            "Baelor the Befuddled"
+        ],
+        "issue": "None",
+        "father": "Aegon III Targaryen",
+        "mother": "Daenaera Velaryon",
+        "born": "144 AC King's Landing",
+        "died": "171 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Septon"
+        ],
+        "spouse": "Daena Targaryen"
+    },
+    "Baelor_Targaryen_(son_of_Daeron_II)": {
+        "id": "Baelor_Targaryen_(son_of_Daeron_II)",
+        "name": "Baelor Targaryen (son of Daeron II)",
+        "alias": [
+            "Baelor Breakspear",
+            "The Hammer"
+        ],
+        "title": [
+            "Prince of Dragonstone",
+            "Protector of the Realm",
+            "Hand of the King"
+        ],
+        "allegiance": "House Targaryen",
+        "born": "In 170 AC",
+        "died": "In 209 AC, at Ashford",
+        "spouse": "Jena Dondarrion",
+        "issue": [
+            "Valarr Targaryen",
+            "Matarys Targaryen"
+        ]
+    },
+    "Black_Balaq": {
+        "id": "Black_Balaq",
+        "name": "Black Balaq",
+        "title": "Commander of the Golden Company's archers",
+        "allegiance": "Golden Company",
+        "culture": "Summer Islander"
+    },
+    "Balder": {
+        "id": "Balder",
+        "name": "Balder",
+        "title": "Maester at Eastwatch-by-the-Sea",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "Night's Watch"
+        ]
+    },
+    "Baldric_I_Durrandon": {
+        "id": "Baldric_I_Durrandon",
+        "name": "Baldric I Durrandon",
+        "alias": "Baldric the Cunning",
+        "culture": "First Men",
+        "title": "Storm King"
+    },
+    "Baldrick": {
+        "id": "Baldrick",
+        "name": "Baldrick",
+        "title": "Septon",
+        "allegiance": "Faith of the Seven"
+    },
+    "Balerion_Otherys": {
+        "id": "Balerion_Otherys",
+        "name": "Balerion Otherys",
+        "born": "In or between 163 AC and 172 AC"
+    },
+    "Ballabar": {
+        "id": "Ballabar",
+        "name": "Ballabar",
+        "title": "Maester at the Arbor",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Redwyne"
+        ]
+    },
+    "Balman_Byrch": {
+        "id": "Balman_Byrch",
+        "name": "Balman Byrch",
+        "title": "Ser",
+        "allegiance": [
+            "House Byrch",
+            "House Stokeworth"
+        ],
+        "culture": "Crownlands",
+        "died": "In 300 AC, at Stokeworth",
+        "spouse": "Lady Falyse Stokeworth"
+    },
+    "Balon_Blackskin": {
+        "id": "Balon_Blackskin",
+        "name": "Balon Blackskin"
+    },
+    "Balon_Botley": {
+        "id": "Balon_Botley",
+        "name": "Balon Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn"
+    },
+    "Balon_Greyjoy": {
+        "id": "Balon_Greyjoy",
+        "name": "Balon Greyjoy",
+        "alias": [
+            "Balon the Brave",
+            "Balon the Blessed",
+            "Balon the Twice Crowned",
+            "Balon the Widowmaker",
+            "The wet king",
+            "The kraken king",
+            "The iron king"
+        ],
+        "issue": [
+            "Rodrik Greyjoy",
+            "Maron Greyjoy",
+            "Asha Greyjoy",
+            "Theon Greyjoy"
+        ],
+        "father": "Quellon Greyjoy",
+        "tv series": "Season 2 | Season 3 | Season 6",
+        "born": "or between 255 AC and 261 AC",
+        "died": "299 AC Pyke",
+        "title": [
+            "Lord of the Iron Islands",
+            "King of the Iron Islands",
+            "King of the Isles and the North",
+            "King of Salt and Rock",
+            "Son of the Sea Wind",
+            "Lord Reaper of Pyke",
+            "The Greyjoy",
+            "Captain of the",
+            "Great Kraken"
+        ],
+        "spouse": "Alannys Harlaw"
+    },
+    "Balon_V_Greyjoy": {
+        "id": "Balon_V_Greyjoy",
+        "name": "Balon V Greyjoy",
+        "alias": "Coldwind",
+        "culture": "ironborn",
+        "title": "High King of the Iron Islands"
+    },
+    "Balon_Swann": {
+        "id": "Balon_Swann",
+        "name": "Balon Swann",
+        "title": "Ser",
+        "allegiance": [
+            "House Swann",
+            "Kingsguard"
+        ],
+        "culture": "Marcher",
+        "born": "At Stonehelm"
+    },
+    "Balon_Tawney": {
+        "id": "Balon_Tawney",
+        "name": "Balon Tawney",
+        "title": "Lord",
+        "allegiance": "House Tawney",
+        "culture": "ironborn"
+    },
+    "Bambarro_Bazanne": {
+        "id": "Bambarro_Bazanne",
+        "name": "Bambarro Bazanne",
+        "title": "Magister",
+        "culture": "Lysene",
+        "died": "In 132 AC, at Disputed Lands"
+    },
+    "Bandy": {
+        "id": "Bandy",
+        "name": "Bandy",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Bannen": {
+        "id": "Bannen",
+        "name": "Bannen",
+        "allegiance": "Night's Watch",
+        "culture": "Northmen",
+        "born": "At or near White Harbor",
+        "died": "In 299 AC, at Craster's Keep"
+    },
+    "Barba_Bolton": {
+        "id": "Barba_Bolton",
+        "name": "Barba Bolton",
+        "allegiance": "House Bolton",
+        "culture": "Northmen",
+        "born": "In 103 133 AC"
+    },
+    "Barba_Bracken": {
+        "id": "Barba_Bracken",
+        "name": "Barba Bracken",
+        "title": "Lady",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen",
+        "born": "In 155 AC",
+        "issue": "Aegor Rivers"
+    },
+    "Barbara_Bracken": {
+        "id": "Barbara_Bracken",
+        "name": "Barbara Bracken",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen"
+    },
+    "Barbrey_Dustin": {
+        "id": "Barbrey_Dustin",
+        "name": "Barbrey Dustin",
+        "title": "Lady of Barrowton",
+        "allegiance": [
+            "House Ryswell",
+            "House Dustin"
+        ],
+        "culture": "Northmen",
+        "born": "At Rills",
+        "spouse": "Lord Willam Dustin"
+    },
+    "Barneby": {
+        "id": "Barneby",
+        "name": "Barneby",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Barquen_Peake": {
+        "id": "Barquen_Peake",
+        "name": "Barquen Peake",
+        "alias": "Barquen the Besieger",
+        "title": "Ser",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Barra": {
+        "id": "Barra",
+        "name": "Barra",
+        "born": "In 298 AC, at King's Landing",
+        "died": "In 299 AC, at King's Landing",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Barre": {
+        "id": "Barre",
+        "name": "Barre",
+        "title": "Septon"
+    },
+    "Barris_Hightower": {
+        "id": "Barris_Hightower",
+        "name": "Barris Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach"
+    },
+    "Barristan_Selmy": {
+        "id": "Barristan_Selmy",
+        "name": "Barristan Selmy",
+        "alias": [
+            "Barristan the Bold",
+            "Barristan the Old",
+            "Arstan Whitebeard",
+            "Ser Grandfather",
+            "Old Ser",
+            "Lord Hand"
+        ],
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard",
+            "(former)",
+            "Hand of the Queen"
+        ],
+        "allegiance": [
+            "House Selmy",
+            "House Baratheon",
+            "(formerly)",
+            "Kingsguard",
+            "(formerly)",
+            "House Targaryen",
+            "Queensguard"
+        ],
+        "culture": "Marcher",
+        "born": "In 236 AC or 237 AC",
+        "tv series": "Season 1 | Season 3 | Season 4 | Season 5"
+    },
+    "Barron_Durrandon": {
+        "id": "Barron_Durrandon",
+        "name": "Barron Durrandon",
+        "alias": "Barron the Beautiful",
+        "father": "Durran XI Durrandon",
+        "title": "Storm King"
+    },
+    "Barsena_Blackhair": {
+        "id": "Barsena_Blackhair",
+        "name": "Barsena",
+        "alias": "Barsena Blackhair",
+        "culture": "Ghiscari",
+        "born": "In 270 AC (roughly)",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Barth": {
+        "id": "Barth",
+        "name": "Barth",
+        "title": [
+            "Septon",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "died": "In 98 AC[N 1], at Red Keep"
+    },
+    "Barth_(brewer)": {
+        "id": "Barth_(brewer)",
+        "name": "Barth (brewer)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "spouse": "Unknown"
+    },
+    "Barthogan_Stark": {
+        "id": "Barthogan_Stark",
+        "name": "Barthogan Stark",
+        "alias": "Barth Blacksword",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 139 AC",
+        "died": "In 184 209 AC"
+    },
+    "Bartimos_Celtigar": {
+        "id": "Bartimos_Celtigar",
+        "name": "Bartimos Celtigar",
+        "title": [
+            "Lord of Claw Isle",
+            "Master of coin",
+            "Lord treasurer"
+        ],
+        "allegiance": [
+            "House Celtigar",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 130 AC, at King's Landing",
+        "issue": "Clement Celtigar"
+    },
+    "Bartimus": {
+        "id": "Bartimus",
+        "name": "Bartimus",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of the",
+            "Wolf's Den"
+        ],
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "At White Harbor"
+    },
+    "Bass": {
+        "id": "Bass",
+        "name": "Bass",
+        "allegiance": "Night's Watch"
+    },
+    "Bastard_of_Blackhaven": {
+        "id": "Bastard_of_Blackhaven",
+        "name": "Bastard of Blackhaven",
+        "alias": "Bastard of Blackhaven",
+        "allegiance": "House Dondarrion",
+        "culture": "Marcher",
+        "died": "In 2 BC, at south of Bronzegate"
+    },
+    "Bastard_of_Harrenhal": {
+        "id": "Bastard_of_Harrenhal",
+        "name": "Bastard of Harrenhal",
+        "alias": "The Bastard of Harrenhal",
+        "allegiance": "House Lothston",
+        "culture": "Rivermen"
+    },
+    "Bastard%27s_bastard": {
+        "id": "Bastard%27s_bastard",
+        "name": "Bastard's bastard",
+        "alias": "the boy"
+    },
+    "Bathi_Ma_Lo": {
+        "id": "Bathi_Ma_Lo",
+        "name": "Bathi Ma Lo",
+        "title": "Empress",
+        "allegiance": "Scarlet emperors",
+        "culture": "YiTish"
+    },
+    "Bayard_Norcross": {
+        "id": "Bayard_Norcross",
+        "name": "Bayard Norcross",
+        "title": "Ser",
+        "allegiance": "House Norcross",
+        "culture": "Reach"
+    },
+    "Bean": {
+        "id": "Bean",
+        "name": "Bean"
+    },
+    "Beans": {
+        "id": "Beans",
+        "name": "Beans",
+        "alias": "Beans",
+        "allegiance": "Windblown",
+        "culture": "Myrish",
+        "born": "At Myr"
+    },
+    "Beastmaster": {
+        "id": "Beastmaster",
+        "name": "Beastmaster",
+        "alias": "The Beastmaster",
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Beatrice_Butterwell": {
+        "id": "Beatrice_Butterwell",
+        "name": "Beatrice Butterwell",
+        "allegiance": "House Butterwell",
+        "culture": "Rivermen"
+    },
+    "Bearded_Ben": {
+        "id": "Bearded_Ben",
+        "name": "Bearded Ben",
+        "allegiance": "Night's Watch"
+    },
+    "Beardless_Dick": {
+        "id": "Beardless_Dick",
+        "name": "Beardless Dick",
+        "allegiance": "Brotherhood Without Banners"
+    },
+    "Becca": {
+        "id": "Becca",
+        "name": "Becca",
+        "allegiance": "House Arryn"
+    },
+    "Becca_the_Baker": {
+        "id": "Becca_the_Baker",
+        "name": "Becca (baker)",
+        "alias": "Becca the Baker",
+        "died": "At Riverlands"
+    },
+    "Beck": {
+        "id": "Beck",
+        "name": "Beck",
+        "title": "Goodman",
+        "born": "In 299 AC",
+        "died": "At Donnelwood"
+    },
+    "Bedwyck": {
+        "id": "Bedwyck",
+        "name": "Bedwyck",
+        "alias": "Giant",
+        "title": "Commander of Icemark",
+        "allegiance": "Night's Watch"
+    },
+    "Belandra": {
+        "id": "Belandra",
+        "name": "Belandra",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen"
+    },
+    "Belaquo_Bonebreaker": {
+        "id": "Belaquo_Bonebreaker",
+        "name": "Belaquo",
+        "alias": "Belaquo Bonebreaker",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Beldecar": {
+        "id": "Beldecar",
+        "name": "Beldecar"
+    },
+    "Beldon": {
+        "id": "Beldon",
+        "name": "Beldon",
+        "title": "Maester at Casterly Rock",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Lannister"
+        ]
+    },
+    "Belicho": {
+        "id": "Belicho",
+        "name": "Belicho",
+        "title": "Triarch of Volantis",
+        "allegiance": "Tiger",
+        "culture": "Volantene"
+    },
+    "Belicho_Staegone": {
+        "id": "Belicho_Staegone",
+        "name": "Belicho Staegone",
+        "culture": "Volantene"
+    },
+    "Belis": {
+        "id": "Belis",
+        "name": "Belis",
+        "title": "Wisdom",
+        "allegiance": "Alchemists' Guild",
+        "culture": "Crownlands",
+        "died": "At King's Landing"
+    },
+    "Bella": {
+        "id": "Bella",
+        "name": "Bella",
+        "allegiance": "Peach",
+        "culture": "Rivermen",
+        "born": "In 283 AC, at Stoney Sept"
+    },
+    "Bellegere_Otherys": {
+        "id": "Bellegere_Otherys",
+        "name": "Bellegere Otherys",
+        "alias": "the Black Pearl of Braavos",
+        "title": "Captain of Widow Wind",
+        "culture": "Braavosi",
+        "issue": [
+            "Bellenora Otherys",
+            "Narha Otherys",
+            "Balerion Otherys"
+        ]
+    },
+    "Bellegere_Otherys_(Courtesan)": {
+        "id": "Bellegere_Otherys_(Courtesan)",
+        "name": "Bellegere Otherys (courtesan)",
+        "alias": [
+            "Black Pearl of Braavos",
+            "Brown Pearl"
+        ],
+        "culture": "Braavosi"
+    },
+    "Bellena_Hawick": {
+        "id": "Bellena_Hawick",
+        "name": "Bellena Hawick",
+        "allegiance": [
+            "House Hawick",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Ser Hosteen Frey",
+        "issue": "Arwood Frey"
+    },
+    "Bello": {
+        "id": "Bello",
+        "name": "Bello"
+    },
+    "Bellenora_Otherys": {
+        "id": "Bellenora_Otherys",
+        "name": "Bellenora Otherys",
+        "alias": "Black Pearl of Braavos",
+        "born": "In or between 161 AC and 170 AC",
+        "issue": "Daughter"
+    },
+    "Bellonara_Otherys": {
+        "id": "Bellonara_Otherys",
+        "name": "Bellonara Otherys",
+        "alias": "Black Pearl of Braavos",
+        "culture": "Braavosi",
+        "issue": "Bellegere Otherys"
+    },
+    "Belthasar_Bolton": {
+        "id": "Belthasar_Bolton",
+        "name": "Belthasar Bolton",
+        "allegiance": "House Bolton",
+        "culture": "Northmen"
+    },
+    "Belwas": {
+        "id": "Belwas",
+        "name": "Belwas",
+        "alias": [
+            "Strong Belwas",
+            "Belwas the Strong"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Queensguard",
+            "Ruling council of Meereen"
+        ],
+        "culture": "Meereenese"
+    },
+    "Ben": {
+        "id": "Ben",
+        "name": "Ben",
+        "alias": "Ben Big Mouth",
+        "born": "In 293 AC or 294 AC, at the riverlands"
+    },
+    "Ben_(Big_Belly)": {
+        "id": "Ben_(Big_Belly)",
+        "name": "Big Belly Ben",
+        "alias": "Big Belly Ben",
+        "allegiance": "Kingswood Brotherhood"
+    },
+    "Ben_Beesbury": {
+        "id": "Ben_Beesbury",
+        "name": "Ben Beesbury",
+        "alias": "Blind Ben",
+        "title": "Lord of Honeyholt",
+        "allegiance": "House Beesbury",
+        "culture": "Reach",
+        "born": "In or between 210 AC and 217 AC",
+        "died": "In 290 297 AC"
+    },
+    "Ben_Blackthumb": {
+        "id": "Ben_Blackthumb",
+        "name": "Ben Blackthumb",
+        "alias": "Blackthumb",
+        "allegiance": [
+            "House Whent",
+            "House Lannister"
+        ]
+    },
+    "Ben_Bones": {
+        "id": "Ben_Bones",
+        "name": "Ben Bones",
+        "alias": "Ben Bones",
+        "allegiance": "House Bolton"
+    },
+    "Ben_Bushy": {
+        "id": "Ben_Bushy",
+        "name": "Ben Bushy",
+        "alias": "Big Ben",
+        "title": "Ser",
+        "allegiance": "House Bushy",
+        "died": "In 299 AC, at the Blackwater Rush"
+    },
+    "Ben_Buttercakes": {
+        "id": "Ben_Buttercakes",
+        "name": "Ben Buttercakes",
+        "culture": "Reach",
+        "died": "In 130 AC, at Hogs Head, Bitterbridge"
+    },
+    "Ben_Coldwater": {
+        "id": "Ben_Coldwater",
+        "name": "Ben Coldwater",
+        "title": "Ser",
+        "allegiance": "House Coldwater",
+        "culture": "Valemen"
+    },
+    "Ben_Plumm": {
+        "id": "Ben_Plumm",
+        "name": "Ben Plumm",
+        "alias": "Brown Ben Plumm",
+        "title": [
+            "Captain of the",
+            "Second Sons",
+            "(formerly)",
+            "Commander of the",
+            "Second Sons"
+        ],
+        "allegiance": [
+            "House of Pahl",
+            "(formerly)",
+            "Second Sons"
+        ]
+    },
+    "Bendamure": {
+        "id": "Bendamure",
+        "name": "Bendamure",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Benedar_Belmore": {
+        "id": "Benedar_Belmore",
+        "name": "Benedar Belmore",
+        "title": "Lord of Strongsong",
+        "allegiance": [
+            "House Belmore",
+            "Lords Declarant"
+        ]
+    },
+    "Benedict": {
+        "id": "Benedict",
+        "name": "Benedict",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Benedict_Blackmont": {
+        "id": "Benedict_Blackmont",
+        "name": "Benedict Blackmont",
+        "culture": "Dornishmen",
+        "title": "King"
+    },
+    "Benedict_Broom": {
+        "id": "Benedict_Broom",
+        "name": "Benedict Broom",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Casterly Rock"
+        ],
+        "allegiance": [
+            "House Broom",
+            "House Lannister"
+        ],
+        "culture": "Westermen"
+    },
+    "Benedict_I_Justman": {
+        "id": "Benedict_I_Justman",
+        "name": "Benedict I Justman",
+        "alias": [
+            "Benedict Rivers",
+            "Benedict the Bold",
+            "Benedict the Just"
+        ],
+        "culture": "rivermen",
+        "issue": "Benedict II Justman",
+        "title": [
+            "Ser",
+            "King of the Trident"
+        ]
+    },
+    "Benedict_II_Justman": {
+        "id": "Benedict_II_Justman",
+        "name": "Benedict II Justman",
+        "culture": "Rivermen",
+        "title": "King of the Trident"
+    },
+    "Benedict_Royce": {
+        "id": "Benedict_Royce",
+        "name": "Benedict Royce",
+        "allegiance": "House Royce of the Gates of the Moon",
+        "spouse": "Jocelyn Stark",
+        "issue": "3 daughters"
+    },
+    "Benerro": {
+        "id": "Benerro",
+        "name": "Benerro",
+        "title": [
+            "High Priest of the",
+            "Red Temple of Volantis",
+            "Flame of Truth",
+            "Light of Wisdom",
+            "First Servant of the Lord of Light",
+            "Slave of R'hllor"
+        ],
+        "allegiance": "R'hllor"
+    },
+    "Benethon_Scales": {
+        "id": "Benethon_Scales",
+        "name": "Benethon Scales",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "Queen's men"
+        ]
+    },
+    "Benfred_Tallhart": {
+        "id": "Benfred_Tallhart",
+        "name": "Benfred Tallhart",
+        "allegiance": "House Tallhart",
+        "culture": "Northmen",
+        "born": "In or between 279 AC and 289 AC",
+        "died": "In 299 AC, at Stony Shore"
+    },
+    "Benfrey_Frey": {
+        "id": "Benfrey_Frey",
+        "name": "Benfrey Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "born": "In or between 271 AC and 279 AC",
+        "died": "In 299 AC, at the Twins",
+        "spouse": "Jyanna Frey",
+        "issue": [
+            "Della Frey",
+            "Osmund Frey"
+        ]
+    },
+    "Benifer": {
+        "id": "Benifer",
+        "name": "Benifer",
+        "title": "Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": "In 59 AC, at King's Landing"
+    },
+    "Benjamin_Avery": {
+        "id": "Benjamin_Avery",
+        "name": "Benjamin Avery",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Benjen_Stark": {
+        "id": "Benjen_Stark",
+        "name": "Benjen Stark",
+        "alias": [
+            "Uncle Benjen",
+            "Ben Stark",
+            "The young pup"
+        ],
+        "title": "First Ranger",
+        "allegiance": [
+            "House Stark",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "born": "In 267 AC or later, at Winterfell",
+        "tv series": "Season 1 | Season 6 | Season 7"
+    },
+    "Benjen_Stark_(Bitter)": {
+        "id": "Benjen_Stark_(Bitter)",
+        "name": "Benjen Stark (Bitter)",
+        "alias": "Benjen the Bitter",
+        "culture": "Northmen",
+        "title": "King in the North"
+    },
+    "Benjen_Stark_(Sweet)": {
+        "id": "Benjen_Stark_(Sweet)",
+        "name": "Benjen Stark (Sweet)",
+        "alias": "Benjen the Sweet",
+        "culture": "Northmen",
+        "title": "King in the North"
+    },
+    "Benjen_Stark_(lord)": {
+        "id": "Benjen_Stark_(lord)",
+        "name": "Benjen Stark (lord)",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or before 84 AC",
+        "died": "In 101 121 AC",
+        "spouse": "Lady Lysa Locke",
+        "issue": [
+            "Rickon Stark",
+            "Bennard Stark"
+        ]
+    },
+    "Benjen_Stark_(son_of_Artos)": {
+        "id": "Benjen_Stark_(son_of_Artos)",
+        "name": "Benjen Stark (son of Artos)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "issue": "Children"
+    },
+    "Benjen_Stark_(son_of_Bennard)": {
+        "id": "Benjen_Stark_(son_of_Bennard)",
+        "name": "Benjen Stark (son of Bennard)",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Benjicot": {
+        "id": "Benjicot",
+        "name": "Benjicot"
+    },
+    "Benjicot_Branch": {
+        "id": "Benjicot_Branch",
+        "name": "Benjicot Branch",
+        "allegiance": "House Branch",
+        "culture": "Northmen"
+    },
+    "Benjicot_Blackwood": {
+        "id": "Benjicot_Blackwood",
+        "name": "Benjicot Blackwood",
+        "alias": "Bloody Ben Blackwood",
+        "title": "Lord of Raventree Hall",
+        "allegiance": [
+            "House Blackwood",
+            "Blacks",
+            "Lads"
+        ],
+        "culture": "Rivermen",
+        "born": "In 118 AC"
+    },
+    "Bennard_Brune": {
+        "id": "Bennard_Brune",
+        "name": "Bennard Brune",
+        "title": [
+            "Ser",
+            "Knight of Brownhollow"
+        ],
+        "allegiance": "House Brune of Brownhollow",
+        "culture": "Crownlands"
+    },
+    "Bennard_Stark": {
+        "id": "Bennard_Stark",
+        "name": "Bennard Stark",
+        "title": "Regent",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or before 105 AC",
+        "died": "In or after 126 AC",
+        "spouse": "Lady Margaret Karstark",
+        "issue": [
+            "Benjen Stark",
+            "Brandon Stark",
+            "Elric Stark"
+        ]
+    },
+    "Bennarion_Botley": {
+        "id": "Bennarion_Botley",
+        "name": "Bennarion Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn"
+    },
+    "Bennet": {
+        "id": "Bennet",
+        "name": "Bennet",
+        "title": "Septon",
+        "culture": "Rivermen",
+        "died": "In 300 AC, at Saltpans"
+    },
+    "Bennifer_Blackwood": {
+        "id": "Bennifer_Blackwood",
+        "name": "Bennifer Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen"
+    },
+    "Bennis": {
+        "id": "Bennis",
+        "name": "Bennis of the Brown Shield",
+        "alias": [
+            "Bennis of the Brown Shield",
+            "Bennis Brownstench",
+            "The brown knight"
+        ],
+        "title": "Ser",
+        "allegiance": "House Osgrey"
+    },
+    "Benton_Glover": {
+        "id": "Benton_Glover",
+        "name": "Benton Glover",
+        "title": "First Ranger",
+        "allegiance": [
+            "House Glover",
+            "Night's Watch"
+        ],
+        "culture": "Northmen"
+    },
+    "Beony_Beesbury": {
+        "id": "Beony_Beesbury",
+        "name": "Beony Beesbury",
+        "allegiance": [
+            "House Beesbury",
+            "House Frey"
+        ],
+        "spouse": "Ser Raymund Frey",
+        "issue": [
+            "Robert Frey",
+            "Malwyn Frey",
+            "Serra Frey",
+            "Sarra Frey",
+            "Cersei Frey",
+            "Jaime Frey",
+            "Tywin Frey"
+        ]
+    },
+    "Beqqo": {
+        "id": "Beqqo",
+        "name": "Beqqo",
+        "culture": "Braavosi"
+    },
+    "Beren_Tallhart": {
+        "id": "Beren_Tallhart",
+        "name": "Beren Tallhart",
+        "allegiance": "House Tallhart",
+        "culture": "Northmen",
+        "born": "In 289 AC"
+    },
+    "Berena_Hornwood": {
+        "id": "Berena_Hornwood",
+        "name": "Berena Hornwood",
+        "allegiance": [
+            "House Hornwood",
+            "House Tallhart"
+        ],
+        "culture": "Northmen",
+        "spouse": "Leobald Tallhart",
+        "issue": [
+            "Brandon Tallhart",
+            "Beren Tallhart"
+        ]
+    },
+    "Berena_Stark": {
+        "id": "Berena_Stark",
+        "name": "Berena Stark",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Beric_Dondarrion": {
+        "id": "Beric_Dondarrion",
+        "name": "Beric Dondarrion",
+        "alias": [
+            "Lord Derik",
+            "Wisp o' the wood",
+            "The lightning lord",
+            "The scarecrow knight",
+            "The Lord of Corpses"
+        ],
+        "title": [
+            "Lord of Blackhaven",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Dondarrion",
+            "Brotherhood without banners"
+        ],
+        "culture": "Marcher",
+        "born": "In 276 AC or 277 AC, at Blackhaven",
+        "died": "In 299 AC (his seventh and final death), at the riverlands",
+        "tv series": "Season 1 | Season 3 | Season 6 | Season 7 | Season 8"
+    },
+    "Bernard": {
+        "id": "Bernard",
+        "name": "Bernard",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Peake",
+            "House Targaryen"
+        ]
+    },
+    "Black_Bernarr": {
+        "id": "Black_Bernarr",
+        "name": "Black Bernarr",
+        "allegiance": "Night's Watch"
+    },
+    "Brown_Bernarr": {
+        "id": "Brown_Bernarr",
+        "name": "Brown Bernarr",
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at Fist of the First Men"
+    },
+    "Bernarr_Brune": {
+        "id": "Bernarr_Brune",
+        "name": "Bernarr Brune",
+        "title": "Ser",
+        "allegiance": [
+            "House Brune",
+            "House Stokeworth"
+        ],
+        "culture": "Crownlands",
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Bernarr_II_Justman": {
+        "id": "Bernarr_II_Justman",
+        "name": "Bernarr II Justman",
+        "culture": "Rivermen",
+        "issue": "three sons slain by Qhored Hoare",
+        "title": "King of the Trident"
+    },
+    "Beron_(serjeant)": {
+        "id": "Beron_(serjeant)",
+        "name": "Beron (serjeant)",
+        "title": "Serjeant",
+        "allegiance": "House Dustin"
+    },
+    "Beron_Stark": {
+        "id": "Beron_Stark",
+        "name": "Beron Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 153 AC",
+        "died": "In 212 226 AC",
+        "spouse": "Lady Lorra Royce",
+        "issue": [
+            "Donnor Stark",
+            "Willam Stark",
+            "Artos Stark",
+            "Berena Stark",
+            "Alysanne Stark",
+            "Errold Stark",
+            "Rodrik Stark"
+        ]
+    },
+    "Beron_Blacktyde": {
+        "id": "Beron_Blacktyde",
+        "name": "Beron Blacktyde",
+        "alias": [
+            "Blind Beron Blacktyde",
+            "Blind Ben Blacktyde"
+        ],
+        "title": "Priest of the Drowned God",
+        "allegiance": "House Blacktyde",
+        "culture": "Ironborn"
+    },
+    "Bertram_Beesbury": {
+        "id": "Bertram_Beesbury",
+        "name": "Bertram Beesbury",
+        "title": "Ser",
+        "allegiance": "House Beesbury",
+        "culture": "Reach"
+    },
+    "Bertrand_Tyrell": {
+        "id": "Bertrand_Tyrell",
+        "name": "Bertrand Tyrell",
+        "title": [
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "died": "In 59 AC, at near Highgarden",
+        "issue": [
+            "Martyn Tyrell",
+            "Bastard sons"
+        ]
+    },
+    "Bess_Bracken": {
+        "id": "Bess_Bracken",
+        "name": "Bess Bracken",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen"
+    },
+    "Bessa": {
+        "id": "Bessa",
+        "name": "Bessa",
+        "died": "At Hag's Mire"
+    },
+    "Bessa_(Winterfell)": {
+        "id": "Bessa_(Winterfell)",
+        "name": "Bessa (Winterfell)",
+        "culture": "Northmen"
+    },
+    "Bessaro_Reyaan": {
+        "id": "Bessaro_Reyaan",
+        "name": "Bessaro Reyaan",
+        "title": "Keyholder",
+        "allegiance": [
+            "House Reyaan",
+            "Iron Bank"
+        ],
+        "culture": "Braavosi"
+    },
+    "Beth_Cassel": {
+        "id": "Beth_Cassel",
+        "name": "Beth Cassel",
+        "allegiance": "House Cassel",
+        "culture": "Northmen",
+        "born": "In about 289 AC, at Winterfell"
+    },
+    "Betha_Blackwood": {
+        "id": "Betha_Blackwood",
+        "name": "Betha Blackwood",
+        "alias": "Black Betha",
+        "title": [
+            "Lady",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Blackwood",
+            "House Targaryen"
+        ],
+        "culture": "Rivermen",
+        "born": "In 201 AC",
+        "died": "In or after 239 AC",
+        "spouse": "King Aegon V Targaryen",
+        "issue": [
+            "Duncan Targaryen",
+            "Jaehaerys II Targaryen",
+            "Shaera Targaryen",
+            "Daeron Targaryen",
+            "Rhaelle Targaryen"
+        ]
+    },
+    "Blushing_Bethany": {
+        "id": "Blushing_Bethany",
+        "name": "Blushing Bethany",
+        "alias": "Blushing Bethany",
+        "culture": "Braavosi"
+    },
+    "Bethany_Blackwood": {
+        "id": "Bethany_Blackwood",
+        "name": "Bethany Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "born": "In 291 AC or 292 AC, at Raventree Hall"
+    },
+    "Bethany_Bolton": {
+        "id": "Bethany_Bolton",
+        "name": "Bethany Bolton",
+        "alias": "Bethany Ryswell",
+        "title": "Lady of the Dreadfort",
+        "allegiance": [
+            "House Bolton",
+            "House Ryswell"
+        ],
+        "culture": "Northmen",
+        "died": "At the Dreadfort",
+        "spouse": "Lord Roose Bolton",
+        "issue": [
+            "Sons who died in the cradle",
+            "Domeric Bolton"
+        ]
+    },
+    "Bethany_Bracken": {
+        "id": "Bethany_Bracken",
+        "name": "Bethany Bracken",
+        "title": "Lady",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen",
+        "born": "In 156 AC or later",
+        "died": "In 178 AC"
+    },
+    "Bethany_Fair-Fingers": {
+        "id": "Bethany_Fair-Fingers",
+        "name": "Bethany Fair-Fingers",
+        "alias": "Bethany Fair-Fingers",
+        "culture": "Westerosi"
+    },
+    "Bethany_Hightower": {
+        "id": "Bethany_Hightower",
+        "name": "Bethany Hightower",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or before 127 AC"
+    },
+    "Bethany_Redwyne": {
+        "id": "Bethany_Redwyne",
+        "name": "Bethany Redwyne",
+        "title": "Lady of Goldengrove",
+        "allegiance": [
+            "House Redwyne",
+            "House Rowan"
+        ],
+        "culture": "Reach",
+        "spouse": "Lord Mathis Rowan",
+        "issue": [
+            "2 children",
+            "1 daughter"
+        ]
+    },
+    "Bethany_Rosby": {
+        "id": "Bethany_Rosby",
+        "name": "Bethany Rosby",
+        "title": "Lady of the Crossing",
+        "allegiance": [
+            "House Rosby",
+            "House Frey"
+        ],
+        "culture": "Crownlands",
+        "born": "In 266 AC or before",
+        "died": "In or between 282 AC and 284 AC",
+        "spouse": "Lord Walder Frey",
+        "issue": [
+            "Perwyn Frey",
+            "Benfrey Frey",
+            "Willamen Frey",
+            "Olyvar Frey",
+            "Roslin Frey"
+        ]
+    },
+    "Betharios_of_Braavos": {
+        "id": "Betharios_of_Braavos",
+        "name": "Betharios of Braavos",
+        "alias": "Betharios of Braavos",
+        "allegiance": "House Frey",
+        "spouse": "Symond Frey",
+        "issue": [
+            "Alesander Frey",
+            "Alyx Frey",
+            "Bradamar Frey"
+        ]
+    },
+    "Bhakaz_zo_Loraq": {
+        "id": "Bhakaz_zo_Loraq",
+        "name": "Bhakaz zo Loraq",
+        "title": "Cupbearer",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Bharbo": {
+        "id": "Bharbo",
+        "name": "Bharbo",
+        "title": "Khal",
+        "culture": "Dothraki",
+        "issue": "Drogo"
+    },
+    "Big_Boil": {
+        "id": "Big_Boil",
+        "name": "Big Boil",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Billy_Burley": {
+        "id": "Billy_Burley",
+        "name": "Billy Burley",
+        "allegiance": [
+            "House Burley",
+            "(possibly)",
+            "House Blackwood",
+            "Blacks"
+        ]
+    },
+    "Biter": {
+        "id": "Biter",
+        "name": "Biter",
+        "allegiance": "Brave Companions",
+        "died": "In 300 AC, at the inn at the crossroads",
+        "tv series": "Season 1 | Season 2 | Season 4"
+    },
+    "Black_Fist": {
+        "id": "Black_Fist",
+        "name": "Black Fist",
+        "allegiance": [
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "died": "In 300 AC, at Meereen"
+    },
+    "Blackshield": {
+        "id": "Blackshield",
+        "name": "Blackshield",
+        "alias": [
+            "Blackshield",
+            "The Bastard of Uplands"
+        ],
+        "title": "Ser",
+        "allegiance": "House Mullendore",
+        "culture": "Reach",
+        "born": "At Uplands"
+    },
+    "Blane": {
+        "id": "Blane",
+        "name": "Blane",
+        "allegiance": "Night's Watch"
+    },
+    "Blind_Lord": {
+        "id": "Blind_Lord",
+        "name": "Blind Lord",
+        "alias": "Blind Lord",
+        "title": "Lord",
+        "allegiance": "House Flint of Flint's Finger (possibly)",
+        "culture": "Northmen"
+    },
+    "Blood_(the_butcher)": {
+        "id": "Blood_(the_butcher)",
+        "name": "Blood (the butcher)",
+        "alias": "\"Blood\"",
+        "title": "Serjeant",
+        "allegiance": [
+            "City Watch of King's Landing",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 130 AC, at Red Keep, King's Landing"
+    },
+    "Bloodbeard": {
+        "id": "Bloodbeard",
+        "name": "Bloodbeard",
+        "title": "Commander of the Company of the Cat",
+        "allegiance": "Company of the Cat"
+    },
+    "Bloodstone_Emperor": {
+        "id": "Bloodstone_Emperor",
+        "name": "Bloodstone Emperor",
+        "culture": "Great Empire of the Dawn",
+        "father": "The Opal Emperor",
+        "title": [
+            "God-Emperor",
+            "Bloodstone Emperor"
+        ]
+    },
+    "Bluetooth": {
+        "id": "Bluetooth",
+        "name": "Bluetooth",
+        "title": "Captain",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Bobono": {
+        "id": "Bobono",
+        "name": "Bobono",
+        "allegiance": "The Gate"
+    },
+    "Bodger": {
+        "id": "Bodger",
+        "name": "Bodger",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Bokkoko": {
+        "id": "Bokkoko",
+        "name": "Bokkoko",
+        "allegiance": "Second Sons"
+    },
+    "Bonifer_Hasty": {
+        "id": "Bonifer_Hasty",
+        "name": "Bonifer Hasty",
+        "alias": [
+            "Bonifer the Good",
+            "Baelor Butthole"
+        ],
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Harrenhal"
+        ],
+        "allegiance": [
+            "House Hasty",
+            "Holy Hundred"
+        ],
+        "culture": "Stormlander"
+    },
+    "Books": {
+        "id": "Books",
+        "name": "Books",
+        "allegiance": "Windblown",
+        "born": "At Volantis"
+    },
+    "Borcas": {
+        "id": "Borcas",
+        "name": "Borcas",
+        "allegiance": "Night's Watch"
+    },
+    "Boremund_Baratheon": {
+        "id": "Boremund_Baratheon",
+        "name": "Boremund Baratheon",
+        "title": [
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands"
+        ],
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 52 AC",
+        "died": "In or between 101 AC and 129 AC",
+        "spouse": "Unknown",
+        "issue": "Borros Baratheon"
+    },
+    "Boremund_Harlaw": {
+        "id": "Boremund_Harlaw",
+        "name": "Boremund Harlaw",
+        "alias": "Boremund the Blue",
+        "title": "Master of Harridan Hill",
+        "allegiance": "House Harlaw of Harridan Hill",
+        "culture": "ironborn",
+        "issue": "3 sons"
+    },
+    "Boros_Blount": {
+        "id": "Boros_Blount",
+        "name": "Boros Blount",
+        "alias": "Boros the Belly",
+        "title": "Ser",
+        "allegiance": [
+            "House Blount",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Borroq": {
+        "id": "Borroq",
+        "name": "Borroq",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Borros_Baratheon": {
+        "id": "Borros_Baratheon",
+        "name": "Borros Baratheon",
+        "title": [
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands"
+        ],
+        "allegiance": [
+            "House Baratheon",
+            "Greens"
+        ],
+        "culture": "Stormlander",
+        "born": "In or between 64 AC and 103 AC",
+        "died": "In 131 AC, at the kingsroad",
+        "spouse": "Lady Elenda Caron",
+        "issue": [
+            "Cassandra Baratheon",
+            "Maris Baratheon",
+            "Ellyn Baratheon",
+            "Floris Baratheon",
+            "Olyver Baratheon"
+        ]
+    },
+    "Bors": {
+        "id": "Bors",
+        "name": "Bors",
+        "allegiance": "House Martell"
+    },
+    "Bors_the_Breaker": {
+        "id": "Bors_the_Breaker",
+        "name": "Bors the Breaker",
+        "allegiance": "House Bulwer",
+        "culture": "Reach"
+    },
+    "Borys_Baratheon": {
+        "id": "Borys_Baratheon",
+        "name": "Borys Baratheon",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon",
+            "Vulture King"
+        ],
+        "culture": "Stormlander",
+        "born": "In or between 18 AC and 23 AC",
+        "died": "In 61 AC, at the Red Mountains of Dorne"
+    },
+    "Bowen_Marsh": {
+        "id": "Bowen_Marsh",
+        "name": "Bowen Marsh",
+        "alias": "Old Pomegranate",
+        "title": [
+            "Lord Steward",
+            "/First Steward",
+            "Castellan",
+            "of",
+            "Castle Black"
+        ],
+        "allegiance": [
+            "House Marsh",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "tv series": "Season 5 | Season 6"
+    },
+    "Boy": {
+        "id": "Boy",
+        "name": "Boy",
+        "culture": "Rivermen",
+        "born": "In 282 AC, 283 AC, or 284 AC"
+    },
+    "Braavosi_daggerman": {
+        "id": "Braavosi_daggerman",
+        "name": "Braavosi daggerman",
+        "culture": "Braavosi"
+    },
+    "Bradamar_Frey": {
+        "id": "Bradamar_Frey",
+        "name": "Bradamar Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 289 AC"
+    },
+    "Bramm_of_Blackhull": {
+        "id": "Bramm_of_Blackhull",
+        "name": "Bramm of Blackhull",
+        "alias": "Bramm of Blackhull",
+        "title": "Ser"
+    },
+    "Branda_Stark": {
+        "id": "Branda_Stark",
+        "name": "Branda Stark",
+        "allegiance": [
+            "House Stark",
+            "House Rogers"
+        ],
+        "culture": "Northmen",
+        "spouse": "Harrold Rogers"
+    },
+    "Brandon_of_the_Bloody_Blade": {
+        "id": "Brandon_of_the_Bloody_Blade",
+        "name": "Brandon of the Bloody Blade",
+        "culture": "Reach",
+        "issue": "Bran the Builder (allegedly)"
+    },
+    "Brandon_Norrey": {
+        "id": "Brandon_Norrey",
+        "name": "Brandon Norrey",
+        "title": [
+            "The Norrey",
+            "Lord",
+            "Norrey"
+        ],
+        "allegiance": "House Norrey",
+        "culture": "Northern mountain clans",
+        "issue": "Brandon Norrey"
+    },
+    "Brandon_Norrey_(son_of_Brandon)": {
+        "id": "Brandon_Norrey_(son_of_Brandon)",
+        "name": "Brandon Norrey (son of Brandon)",
+        "alias": "Brandon the Younger",
+        "allegiance": "House Norrey",
+        "culture": "Northern mountain clans"
+    },
+    "Brandon_Snow": {
+        "id": "Brandon_Snow",
+        "name": "Brandon Snow",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Brandon_Stark_(Builder)": {
+        "id": "Brandon_Stark_(Builder)",
+        "name": "Brandon Stark (Builder)",
+        "alias": "Bran the Builder",
+        "title": "King of Winter",
+        "allegiance": "House Stark",
+        "culture": "First Men",
+        "issue": "Brandon Stark"
+    },
+    "Brandon_Stark_(son_of_Bran_the_Builder)": {
+        "id": "Brandon_Stark_(son_of_Bran_the_Builder)",
+        "name": "Brandon Stark (son of Bran the Builder)",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Brandon_Stark_(Breaker)": {
+        "id": "Brandon_Stark_(Breaker)",
+        "name": "Brandon Stark (Breaker)",
+        "alias": "Brandon the Breaker",
+        "culture": "Northmen",
+        "title": "King of Winter"
+    },
+    "Brandon_Stark_(Shipwright)": {
+        "id": "Brandon_Stark_(Shipwright)",
+        "name": "Brandon Stark (Shipwright)",
+        "alias": "Brandon the Shipwright",
+        "culture": "Northmen",
+        "issue": "Brandon Stark",
+        "title": "King in the North"
+    },
+    "Brandon_Stark_(Burner)": {
+        "id": "Brandon_Stark_(Burner)",
+        "name": "Brandon Stark (Burner)",
+        "alias": "Brandon the Burner",
+        "culture": "northmen",
+        "father": "Brandon Stark",
+        "title": "King in the North"
+    },
+    "Brandon_Stark_(Ice_Eyes)": {
+        "id": "Brandon_Stark_(Ice_Eyes)",
+        "name": "Brandon Stark (Ice Eyes)",
+        "alias": "Ice Eyes",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Brandon_Stark_(Bad)": {
+        "id": "Brandon_Stark_(Bad)",
+        "name": "Brandon Stark (Bad)",
+        "alias": "Brandon the Bad",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Brandon_IX_Stark": {
+        "id": "Brandon_IX_Stark",
+        "name": "Brandon IX Stark",
+        "culture": "Northmen",
+        "title": "King in the North"
+    },
+    "Brandon_Stark_(the_daughterless)": {
+        "id": "Brandon_Stark_(the_daughterless)",
+        "name": "Brandon Stark (the Daughterless)",
+        "alias": "Brandon the Daughterless",
+        "title": "Lord of Winterfell",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "issue": "A daughter"
+    },
+    "Brandon_Stark_(father_of_Walton)": {
+        "id": "Brandon_Stark_(father_of_Walton)",
+        "name": "Brandon Stark (father of Walton)",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 49 AC, at Winterfell",
+        "spouse": "Unknown",
+        "issue": [
+            "Walton Stark",
+            "Alaric Stark"
+        ]
+    },
+    "Brandon_Stark_(son_of_Bennard)": {
+        "id": "Brandon_Stark_(son_of_Bennard)",
+        "name": "Brandon Stark (son of Bennard)",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Brandon_Stark_(son_of_Cregan)": {
+        "id": "Brandon_Stark_(son_of_Cregan)",
+        "name": "Brandon Stark (son of Cregan)",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 140 AC",
+        "died": "In 184 212 AC",
+        "spouse": "Lady Alys Karstark",
+        "issue": [
+            "Rodwell Stark",
+            "Beron Stark",
+            "Arsa Stark",
+            "Lonnel Snow"
+        ]
+    },
+    "Brandon_Stark_(son_of_Willam)": {
+        "id": "Brandon_Stark_(son_of_Willam)",
+        "name": "Brandon Stark (son of Willam)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or before 226 AC, at Winterfell",
+        "died": "In or before 229 AC, at Winterfell"
+    },
+    "Brandon_Stark_(son_of_Artos)": {
+        "id": "Brandon_Stark_(son_of_Artos)",
+        "name": "Brandon Stark (son of Artos)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "issue": "Children"
+    },
+    "Brandon_Stark": {
+        "id": "Brandon_Stark",
+        "name": "Brandon Stark",
+        "alias": "The Wild Wolf",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 262 AC, at Winterfell",
+        "died": "In 282 AC, at King's Landing",
+        "issue": "Bastards[N 1]"
+    },
+    "Bran_Stark": {
+        "id": "Bran_Stark",
+        "name": "Bran Stark",
+        "alias": [
+            "Bran",
+            "Bran the Broken",
+            "The winged wolf"
+        ],
+        "title": "Prince of Winterfell",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 290 AC, at Winterfell",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 6 | Season 7 | Season 8"
+    },
+    "Brandon_Tallhart": {
+        "id": "Brandon_Tallhart",
+        "name": "Brandon Tallhart",
+        "allegiance": "House Tallhart",
+        "culture": "Northmen",
+        "born": "In 284 AC or 285 AC"
+    },
+    "Branston_Cuy": {
+        "id": "Branston_Cuy",
+        "name": "Branston Cuy",
+        "title": "Lord of Sunflower Hall",
+        "allegiance": "House Cuy",
+        "culture": "Reach"
+    },
+    "Braxton_Beesbury": {
+        "id": "Braxton_Beesbury",
+        "name": "Braxton Beesbury",
+        "alias": [
+            "Stinger",
+            "Stinger Beesbury"
+        ],
+        "title": "Ser",
+        "allegiance": "House Beesbury",
+        "culture": "Reach",
+        "born": "In 63 AC",
+        "died": "In 84 AC, at King's Landing",
+        "issue": [
+            "Bastard in the Reach",
+            "Bastard in King's Landing"
+        ]
+    },
+    "Brea": {
+        "id": "Brea",
+        "name": "Brea",
+        "culture": "Braavosi"
+    },
+    "Brella": {
+        "id": "Brella",
+        "name": "Brella",
+        "allegiance": [
+            "House Baratheon",
+            "(formerly)",
+            "House Lannister",
+            "(formerly)"
+        ]
+    },
+    "Brendel_Byrne": {
+        "id": "Brendel_Byrne",
+        "name": "Brendel Byrne",
+        "title": [
+            "Ser",
+            "Serjeant"
+        ],
+        "allegiance": "Golden Company"
+    },
+    "Brenett": {
+        "id": "Brenett",
+        "name": "Brenett",
+        "title": "Maester at the Twins",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Frey"
+        ]
+    },
+    "Briar": {
+        "id": "Briar",
+        "name": "Briar",
+        "culture": "Free folk"
+    },
+    "Brienne_Tarth": {
+        "id": "Brienne_Tarth",
+        "name": "Brienne Tarth",
+        "alias": [
+            "Brienne of Tarth",
+            "Brienne the Beauty",
+            "Brienne the Blue",
+            "Wench",
+            "The Maid of Tarth"
+        ],
+        "allegiance": [
+            "House Tarth",
+            "House Baratheon",
+            "of",
+            "Storm's End",
+            "(formerly)",
+            "Rainbow Guard",
+            "(formerly)",
+            "House Stark",
+            "House Tully",
+            "Brotherhood without banners"
+        ],
+        "culture": "Stormlander",
+        "born": "In 280 AC, at Evenfall Hall",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Briony": {
+        "id": "Briony",
+        "name": "Briony",
+        "culture": "Westermen",
+        "issue": "Joy Hill"
+    },
+    "Brogg": {
+        "id": "Brogg",
+        "name": "Brogg",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Bronn": {
+        "id": "Bronn",
+        "name": "Bronn",
+        "alias": [
+            "Ser Bronn of the",
+            "Blackwater",
+            "Lord Stokeworth"
+        ],
+        "title": [
+            "Captain of the guards",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "House Lannister guards",
+            "City Watch of King's Landing",
+            "House Stokeworth"
+        ],
+        "born": "In or between 264 AC and 268 AC",
+        "spouse": "Lady Lollys Stokeworth",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Brude": {
+        "id": "Brude",
+        "name": "Brude",
+        "title": "Archmaester",
+        "allegiance": "The Citadel",
+        "born": "At the shadow city of Sunspear"
+    },
+    "Brus_Buckler": {
+        "id": "Brus_Buckler",
+        "name": "Brus Buckler",
+        "title": "Ser",
+        "allegiance": [
+            "House Buckler",
+            "Queen's men",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Stormlands"
+    },
+    "Brusco": {
+        "id": "Brusco",
+        "name": "Brusco",
+        "alias": "Big Brusco",
+        "culture": "Braavosi",
+        "issue": [
+            "Brea",
+            "Talea",
+            "Sons"
+        ]
+    },
+    "Brute": {
+        "id": "Brute",
+        "name": "Brute"
+    },
+    "Bryan_Frey": {
+        "id": "Bryan_Frey",
+        "name": "Bryan Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 281 AC and 291 AC"
+    },
+    "Bryan_Fossoway": {
+        "id": "Bryan_Fossoway",
+        "name": "Bryan Fossoway",
+        "title": "Ser",
+        "allegiance": "House Fossoway of Cider Hall",
+        "culture": "Reach",
+        "died": "In 299 AC, at Blackwater Rush"
+    },
+    "Bryan_of_Oldtown": {
+        "id": "Bryan_of_Oldtown",
+        "name": "Bryan of Oldtown",
+        "culture": "Reach",
+        "born": "At Oldtown"
+    },
+    "Bryce_Caron": {
+        "id": "Bryce_Caron",
+        "name": "Bryce Caron",
+        "alias": "Bryce the Orange",
+        "title": [
+            "Lord of",
+            "Nightsong",
+            "Lord of the Marches"
+        ],
+        "allegiance": [
+            "House Caron",
+            "Rainbow Guard",
+            "(former)",
+            "House Baratheon of Dragonstone"
+        ],
+        "born": "In or before 276 AC",
+        "died": "In 299 AC, at the Blackwater Rush"
+    },
+    "Bryen": {
+        "id": "Bryen",
+        "name": "Bryen",
+        "title": "Captain of the guards",
+        "allegiance": "House Baelish",
+        "culture": "Valemen",
+        "born": "In or before 220 AC"
+    },
+    "Bryen_Caron": {
+        "id": "Bryen_Caron",
+        "name": "Bryen Caron",
+        "title": [
+            "Lord of the Marches",
+            "Lord of",
+            "Nightsong"
+        ],
+        "allegiance": "House Caron",
+        "died": "In 289 AC or 290 AC",
+        "issue": [
+            "Rolland Storm",
+            "Bryce Caron",
+            "Son",
+            "Daughters"
+        ]
+    },
+    "Bryen_Farring": {
+        "id": "Bryen_Farring",
+        "name": "Bryen Farring",
+        "allegiance": "House Farring",
+        "culture": "Crownlands",
+        "died": "In 300 AC, at the wolfswood"
+    },
+    "Bryndemere_Tarth": {
+        "id": "Bryndemere_Tarth",
+        "name": "Bryndemere Tarth",
+        "title": [
+            "The",
+            "Evenstar",
+            "Lord of Evenfall",
+            "Lord of",
+            "Tarth"
+        ],
+        "allegiance": "House Tarth",
+        "culture": "stormlander"
+    },
+    "Brynden_Blackwood": {
+        "id": "Brynden_Blackwood",
+        "name": "Brynden Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen"
+    },
+    "Brynden_Rivers": {
+        "id": "Brynden_Rivers",
+        "name": "Brynden Rivers",
+        "alias": [
+            "Lord Bloodraven",
+            "The white worm",
+            "The last",
+            "greenseer",
+            "The",
+            "three-eyed crow",
+            "Lord Rivers"
+        ],
+        "title": [
+            "Ser",
+            "Master of whisperers",
+            "Hand of the King",
+            "Lord Commander of the Night's Watch"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Night's Watch"
+        ],
+        "culture": "Valyrian",
+        "born": "In 175 AC, at King's Landing",
+        "died": "In 252 AC (presumed), at beyond the Wall"
+    },
+    "Brynden_Tully": {
+        "id": "Brynden_Tully",
+        "name": "Brynden Tully",
+        "alias": [
+            "Brynden the Blackfish",
+            "Brynden Blackfish",
+            "Blackfish"
+        ],
+        "title": [
+            "Ser",
+            "Warden of the Southern Marches",
+            "Knight of the Gate",
+            "(formerly)",
+            "Castellan",
+            "of",
+            "Riverrun",
+            "(formerly)"
+        ],
+        "allegiance": [
+            "House Tully",
+            "House Stark",
+            "House Arryn",
+            "(formerly)"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 243 AC and 245 AC, at Riverrun",
+        "tv series": "Season 3 | Season 4 | Season 6"
+    },
+    "Bryndon_Hightower": {
+        "id": "Bryndon_Hightower",
+        "name": "Bryndon Hightower",
+        "title": "Ser",
+        "allegiance": [
+            "House Hightower",
+            "Greens"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Bu_Gai": {
+        "id": "Bu_Gai",
+        "name": "Bu Gai",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Buford_Bulwer": {
+        "id": "Buford_Bulwer",
+        "name": "Buford Bulwer",
+        "alias": "The Old Ox",
+        "title": "Ser",
+        "allegiance": "House Bulwer",
+        "culture": "Reach",
+        "born": "In or before 152 AC"
+    },
+    "Bump": {
+        "id": "Bump",
+        "name": "Bump",
+        "culture": "Free folk"
+    },
+    "Burning_Knight": {
+        "id": "Burning_Knight",
+        "name": "Burning Knight",
+        "culture": "Crownlands",
+        "died": "In 130 AC, at Dragonpit"
+    },
+    "Burton_Crakehall": {
+        "id": "Burton_Crakehall",
+        "name": "Burton Crakehall",
+        "title": "Ser",
+        "allegiance": "House Crakehall",
+        "culture": "Westermen",
+        "died": "In 299 AC, at the Riverlands"
+    },
+    "Burton_Humble": {
+        "id": "Burton_Humble",
+        "name": "Burton Humble",
+        "allegiance": "House Humble",
+        "culture": "ironborn"
+    },
+    "Butterbumps": {
+        "id": "Butterbumps",
+        "name": "Butterbumps",
+        "alias": "Butterbumps",
+        "allegiance": "House Tyrell"
+    },
+    "Butts": {
+        "id": "Butts",
+        "name": "Butts",
+        "culture": "Free folk"
+    },
+    "Buu": {
+        "id": "Buu",
+        "name": "Buu"
+    },
+    "Byam_Flint": {
+        "id": "Byam_Flint",
+        "name": "Byam Flint",
+        "title": "Ser",
+        "allegiance": [
+            "House Flint",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "died": "In 299 AC, at Craster's Keep"
+    },
+    "Byan_Votyris": {
+        "id": "Byan_Votyris",
+        "name": "Byan Votyris",
+        "title": "Captain",
+        "culture": "Norvoshi"
+    },
+    "Byren_Flowers": {
+        "id": "Byren_Flowers",
+        "name": "Byren Flowers",
+        "alias": "Black Byren Flowers",
+        "title": "Ser"
+    },
+    "Byron_Swann": {
+        "id": "Byron_Swann",
+        "name": "Byron Swann",
+        "title": "Ser",
+        "allegiance": [
+            "House Swann",
+            "Greens"
+        ],
+        "culture": "Marcher",
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Byron_the_Beautiful": {
+        "id": "Byron_the_Beautiful",
+        "name": "Byron the Beautiful",
+        "alias": "Byron the Beautiful",
+        "title": "Ser",
+        "allegiance": "House Baelish"
+    },
+    "Bywin_Strong": {
+        "id": "Bywin_Strong",
+        "name": "Bywin Strong",
+        "title": [
+            "Ser",
+            "Lord of Harrenhal"
+        ],
+        "allegiance": "House Strong",
+        "culture": "Rivermen"
+    },
+    "Blind_Doss": {
+        "id": "Blind_Doss",
+        "name": "Blind Doss",
+        "alias": "Blind Doss",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Black_Gerrold": {
+        "id": "Black_Gerrold",
+        "name": "Black Gerrold",
+        "allegiance": "Windblown"
+    },
+    "Black_Jack_Bulwer": {
+        "id": "Black_Jack_Bulwer",
+        "name": "Jack Bulwer",
+        "alias": "Black Jack Bulwer",
+        "title": "First Ranger",
+        "allegiance": [
+            "House Bulwer",
+            "Night's Watch"
+        ],
+        "culture": "Reach",
+        "died": "In 300 AC, at beyond the Wall"
+    },
+    "Black_Lorren": {
+        "id": "Black_Lorren",
+        "name": "Black Lorren",
+        "alias": "Black Lorren",
+        "title": "Castellan of Winterfell",
+        "allegiance": "House Greyjoy",
+        "culture": "Ironborn",
+        "died": "In 299 AC, at Winterfell",
+        "tv series": "Season 2"
+    },
+    "Black_Maris": {
+        "id": "Black_Maris",
+        "name": "Black Maris",
+        "culture": "Free folk"
+    },
+    "Black_Trombo": {
+        "id": "Black_Trombo",
+        "name": "Black Trombo",
+        "allegiance": [
+            "House Vance of Wayfarer's Rest",
+            "blacks"
+        ],
+        "born": "At Myr"
+    },
+    "Blue_Bard": {
+        "id": "Blue_Bard",
+        "name": "Blue Bard",
+        "alias": "Blue Bard",
+        "allegiance": "House Tyrell"
+    }
+}

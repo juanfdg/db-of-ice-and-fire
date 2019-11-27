@@ -1,0 +1,552 @@
+{
+    "House_Arryn": {
+        "id": "House_Arryn",
+        "name": "House Arryn",
+        "coat of arms": [
+            "A sky-blue falcon soaring against a white moon, on a sky-blue field",
+            "(",
+            "Bleu celeste, upon a plate a falcon rousant of the field",
+            ")"
+        ],
+        "words": "As High as Honor",
+        "seat": [
+            "The",
+            "Eyrie",
+            "(summer)",
+            "Gates of the Moon",
+            "(winter)"
+        ],
+        "lord": "Robert Arryn",
+        "region": "The Vale of Arryn",
+        "title": [
+            "King of Mountain and Vale",
+            "(formerly)",
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East"
+        ],
+        "heir": "Ser Harrold Hardyng",
+        "overlord": "House Baratheon of King's Landing",
+        "cadet branch": "House Arryn of Gulltown",
+        "founder": "Ser Artys Arryn",
+        "founded": "Coming of the Andals"
+    },
+    "House_Baelish": {
+        "id": "House_Baelish",
+        "name": "House Baelish",
+        "coat of arms": [
+            "A grey stone head with fiery eyes, on a light green field",
+            "(",
+            "Vert, a stone head cendr e, orbed gules",
+            ")"
+        ],
+        "seat": "unnamed tower",
+        "lord": "Petyr Baelish",
+        "region": "the Vale",
+        "overlord": "House Arryn",
+        "cadet branch": "House Baelish of Harrenhal",
+        "founder": "A Braavosi sellsword"
+    },
+    "House_Belmore": {
+        "id": "House_Belmore",
+        "name": "House Belmore",
+        "coat of arms": [
+            "Six silver bells, 3, 2, 1, on a purple field",
+            "(",
+            "Purpure, six bells, 3, 2, 1, argent",
+            ")"
+        ],
+        "seat": "Strongsong",
+        "lord": "Lord Benedar Belmore",
+        "region": "The Vale",
+        "title": "Lord of Strongsong",
+        "overlord": "House Arryn"
+    },
+    "House_Breakstone": {
+        "id": "House_Breakstone",
+        "name": "House Breakstone",
+        "coat of arms": "A red sledge",
+        "region": "Vale"
+    },
+    "House_Coldwater": {
+        "id": "House_Coldwater",
+        "name": "House Coldwater",
+        "coat of arms": [
+            "A blue pall with white borders, on a red field",
+            "(",
+            "Gules, a pall azure, fimbriated argent",
+            ")"
+        ],
+        "seat": "Coldwater Burn",
+        "lord": "Royce Coldwater",
+        "region": "The Vale",
+        "title": "Lord of Coldwater Burn",
+        "overlord": "House Royce"
+    },
+    "House_Corbray": {
+        "id": "House_Corbray",
+        "name": "House Corbray",
+        "coat of arms": [
+            "Three black ravens in flight, holding three red hearts, on a white field",
+            "(",
+            "Argent, three ravens volant sable, each clutching in their claws a heart gules",
+            ")"
+        ],
+        "seat": "Heart's Home",
+        "lord": "Lyonel Corbray",
+        "region": "The Vale of Arryn",
+        "title": [
+            "Lord of the Five Fingers",
+            "(formerly)",
+            "King of the Fingers",
+            "(formerly)",
+            "Lord of Heart's Home"
+        ],
+        "heir": "Ser Lyn Corbray",
+        "overlord": "House Arryn",
+        "ancestral weapon": "Lady Forlorn",
+        "founder": "Ser Corwyn Corbray",
+        "founded": "Coming of the Andals"
+    },
+    "House_Crayne": {
+        "id": "House_Crayne",
+        "name": "House Crayne",
+        "coat of arms": "unknown",
+        "lord": "unknown",
+        "region": "Vale of Arryn",
+        "overlord": "House Arryn"
+    },
+    "House_Donnerly": {
+        "id": "House_Donnerly",
+        "name": "House Donnerly",
+        "region": "Vale of Arryn",
+        "overlord": "House Arryn"
+    },
+    "House_Donniger": {
+        "id": "House_Donniger",
+        "name": "House Donniger",
+        "coat of arms": [
+            "A red sun rising from a grey-green sea, against a yellow sky",
+            "(",
+            "Per fesse wavy or and vert-cendr e, a demi-sun-in-splendour issuant from the line of division gules",
+            ")"
+        ],
+        "region": "Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Dutton": {
+        "id": "House_Dutton",
+        "name": "House Dutton",
+        "coat of arms": "unknown",
+        "lord": "unknown",
+        "region": "Vale of Arryn",
+        "overlord": "House Arryn"
+    },
+    "House_Egen": {
+        "id": "House_Egen",
+        "name": "House Egen",
+        "coat of arms": [
+            "A yellow sun, white crescent moon, and silver star on a blue chief, above a white field",
+            "(",
+            "Argent, on a chief azure a moon increscent of the first between a sun-in-splendour or and a mullet of the first",
+            ")"
+        ],
+        "words": "By Day or Night",
+        "region": "the Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Elesham": {
+        "id": "House_Elesham",
+        "name": "House Elesham",
+        "coat of arms": [
+            "A black star between an inverted stone-coloured double-pile, on a pink field",
+            "(Rose, between two piles inverted cendr e a mullet sable)"
+        ],
+        "seat": "the Paps",
+        "region": "Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Grafton": {
+        "id": "House_Grafton",
+        "name": "House Grafton",
+        "coat of arms": [
+            "A yellow tower, burning, on a black pile, on a flame-red field",
+            "(",
+            "Gules, on a pile sable a tower or with flames issuant from the battlements proper",
+            ")"
+        ],
+        "seat": "Gulltown",
+        "lord": "Gerold Grafton",
+        "region": "Vale of Arryn",
+        "title": "Lord of Gulltown",
+        "overlord": "House Arryn",
+        "founder": "Ser Gerold Grafton",
+        "founded": "Coming of the Andals"
+    },
+    "House_Hardyng": {
+        "id": "House_Hardyng",
+        "name": "House Hardyng",
+        "coat of arms": [
+            "A field of red and white diamonds",
+            "(",
+            "Lozengy argent and gules",
+            ")"
+        ],
+        "region": "The Vale",
+        "overlord": "House Waynwood"
+    },
+    "House_Hersy": {
+        "id": "House_Hersy",
+        "name": "House Hersy",
+        "coat of arms": [
+            "A white winged chalice, on a pink field",
+            "(Rose, a winged chalice displayed argent)"
+        ],
+        "seat": "Newkeep",
+        "region": "the Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Hunter": {
+        "id": "House_Hunter",
+        "name": "House Hunter",
+        "coat of arms": [
+            "Five silver arrows, fanned, on brown",
+            "(Brun\u00e2tre, a sheaf of five arrows, points to chief, argent)"
+        ],
+        "seat": "Longbow Hall",
+        "lord": "Gilwood Hunter",
+        "region": "The Vale",
+        "title": "Lord of Longbow Hall",
+        "heir": "Ser Eustace Hunter",
+        "overlord": "House Arryn"
+    },
+    "House_Lipps": {
+        "id": "House_Lipps",
+        "name": "House Lipps",
+        "coat of arms": [
+            "Two large pink lips, on a dark blue field",
+            "(",
+            "Azure, a pair of lips carnation",
+            ")"
+        ],
+        "region": "Vale of Arryn",
+        "overlord": "House Arryn"
+    },
+    "House_Lynderly": {
+        "id": "House_Lynderly",
+        "name": "House Lynderly",
+        "coat of arms": [
+            "A black field strewn with green vipers",
+            "(",
+            "Sable, sem  of snakes vert",
+            ")"
+        ],
+        "seat": "Snakewood",
+        "lord": "Lord Jon Lynderly",
+        "region": "The Vale",
+        "title": "Lord of the Snakewood",
+        "heir": "Terrance Lynderly",
+        "overlord": "House Arryn"
+    },
+    "House_Melcolm": {
+        "id": "House_Melcolm",
+        "name": "House Melcolm",
+        "coat of arms": [
+            "A rusty anchor, on a turquoise field, beneath yellow chief with three blue plates",
+            "(Aquamarine, an anchor rusted proper, on a chief or three hurts)"
+        ],
+        "seat": "Old Anchor",
+        "region": "Vale of Arryn",
+        "overlord": "House Arryn"
+    },
+    "House_Moore": {
+        "id": "House_Moore",
+        "name": "House Moore",
+        "coat of arms": [
+            "Three bronze spearheads, on a white field, within a bronze embattled border",
+            "(Argent, three spearheads within a bordure embattled bronze)"
+        ],
+        "region": "Vale of Arryn",
+        "overlord": "House Arryn"
+    },
+    "House_Pryor": {
+        "id": "House_Pryor",
+        "name": "House Pryor",
+        "coat of arms": [
+            "A partial eclipse, black moon over yellow sun, on a dusty pink field",
+            "(Rose, a sun-in-splendour or partially surmounted by a moon in her complement sable)"
+        ],
+        "seat": "Pebble",
+        "region": "Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Redfort": {
+        "id": "House_Redfort",
+        "name": "House Redfort",
+        "coat of arms": [
+            "A red castle, on a white field, within a red embattled border",
+            "(",
+            "Argent, a castle within a bordure embattled gules",
+            ")"
+        ],
+        "words": "As Strong as Stone",
+        "seat": "Redfort",
+        "lord": "Horton Redfort",
+        "region": "Vale of Arryn",
+        "title": "Lord of Redfort",
+        "heir": "Ser Jasper Redfort",
+        "overlord": "House Arryn",
+        "founded": "Age of Heroes"
+    },
+    "House_Royce": {
+        "id": "House_Royce",
+        "name": "House Royce",
+        "coat of arms": [
+            "Black iron studs on a bronze field, bordered with runes",
+            "(Bronze pellet , an orle of ancient runes sable)"
+        ],
+        "words": "We Remember",
+        "seat": "Runestone",
+        "lord": "Yohn Royce",
+        "region": "The Vale",
+        "title": [
+            "High King of the Vale, the Fingers and the Mountains of the Moon",
+            "(formerly)",
+            "Bronze King",
+            "(formerly)",
+            "Lord of Runestone"
+        ],
+        "heir": "Ser Andar Royce",
+        "overlord": "House Arryn",
+        "cadet branch": "Royce of the Gates of the Moon",
+        "ancestral weapon": "Lamentation (lost)",
+        "founded": "Dawn Age"
+    },
+    "House_Ruthermont": {
+        "id": "House_Ruthermont",
+        "name": "House Ruthermont",
+        "coat of arms": [
+            "Five black starfish on a gold pale, on a field of pean",
+            "(Pean, on a pale or five starfish sable)"
+        ],
+        "region": "Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Tollett": {
+        "id": "House_Tollett",
+        "name": "House Tollett",
+        "coat of arms": [
+            "Pily grey and black",
+            "(",
+            "Pily cendr e and sable",
+            ")"
+        ],
+        "words": "When All is Darkest",
+        "seat": "The Grey Glen",
+        "lord": "Uthor Tollett",
+        "region": "The Vale",
+        "title": "Lord of the Grey Glen",
+        "overlord": "House Royce",
+        "founded": "Andal Invasion"
+    },
+    "House_Upcliff": {
+        "id": "House_Upcliff",
+        "name": "House Upcliff",
+        "coat of arms": [
+            "A cresting sea-green wave, on a black field",
+            "(",
+            "Sable, a wave cresting vert",
+            ")"
+        ],
+        "seat": "Witch Isle",
+        "region": "Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Waynwood": {
+        "id": "House_Waynwood",
+        "name": "House Waynwood",
+        "coat of arms": [
+            "A broken black wheel, on a green field",
+            "(",
+            "Vert, a wheel broken sable",
+            ")"
+        ],
+        "seat": "Ironoaks",
+        "lord": "Anya Waynwood",
+        "region": "The Vale",
+        "title": "Lord of Ironoaks",
+        "heir": "Ser Morton Waynwood",
+        "overlord": "House Arryn"
+    },
+    "House_Wydman": {
+        "id": "House_Wydman",
+        "name": "House Wydman",
+        "coat of arms": [
+            "Five splintered lances, 3, 2, striped blue and white with blue pennons, on a yellow field, beneath a white chief bearing a red castle, a green viper, a black broken wheel, a purple unicorn and a yellow lion",
+            "(",
+            "Or, five broken lances, 3, 2, striped azure and argent, pennons of the second, on a chief of the third, a wheel broken sable between, on the dexter, a castle gules and snake vert, and, on the sinister, a unicorn rampant purpure and lion rampant of the field",
+            ")"
+        ],
+        "words": "Right Conquers Might",
+        "region": "Vale",
+        "overlord": "House Arryn"
+    },
+    "House_Shett_of_Gull_Tower": {
+        "id": "House_Shett_of_Gull_Tower",
+        "name": "House Shett of Gull Tower",
+        "coat of arms": [
+            "Three golden wings, bendwise, on a checkered white and black field",
+            "(",
+            "Chequy argent and sable, in bend three dexter wings elevated bendwise or",
+            ")"
+        ],
+        "seat": "Gull Tower",
+        "lord": "Ser Damon Shett",
+        "region": "Vale of Arryn",
+        "title": "The Knight of Gull Tower",
+        "overlord": "House Royce"
+    },
+    "House_Shett_of_Gulltown": {
+        "id": "House_Shett_of_Gulltown",
+        "name": "House Shett of Gulltown",
+        "coat of arms": [
+            "Nine white seagulls on a field of brown",
+            "(Brun\u00e2tre, nine seagulls argent)"
+        ],
+        "seat": "Gulltown",
+        "region": "Vale",
+        "overlord": "House Grafton"
+    },
+    "House_Templeton": {
+        "id": "House_Templeton",
+        "name": "House Templeton",
+        "coat of arms": [
+            "Nine stars, one of seven points and eight of six points, on a gold saltire, on a black field",
+            "(",
+            "Sable, on a saltire or, nine mullets of the field, that in fesse-point of seven points, all others of six points",
+            ")"
+        ],
+        "seat": "Ninestars",
+        "lord": "Ser Symond Templeton",
+        "region": "The Vale of Arryn",
+        "title": "The Knight of Ninestars",
+        "overlord": "House Arryn",
+        "founded": "Coming of the Andals"
+    },
+    "House_Waxley": {
+        "id": "House_Waxley",
+        "name": "House Waxley",
+        "coat of arms": [
+            "Six candles, white with red flames, within silver candle holders, on a grey field within a black border",
+            "(Cendr e, six candles white in holders argent inflamed gules, within a bordure sable)"
+        ],
+        "words": "Light in Darkness",
+        "seat": "Wickenden",
+        "lord": "Ser Edmund Waxley",
+        "region": "Vale of Arryn",
+        "title": "The Knight of Wickenden",
+        "overlord": "House Arryn"
+    },
+    "House_Woodhull": {
+        "id": "House_Woodhull",
+        "name": "House Woodhull",
+        "coat of arms": "unknown",
+        "lord": "unknown",
+        "region": "Vale of Arryn",
+        "overlord": "House Elesham"
+    },
+    "House_Borrell": {
+        "id": "House_Borrell",
+        "name": "House Borrell",
+        "coat of arms": [
+            "A white spider crab, on a grey-green field",
+            "(",
+            "Vert-cendr e, a spider crab argent",
+            ")"
+        ],
+        "seat": "Breakwater in Sisterton",
+        "lord": "Godric Borrell",
+        "region": "Three Sisters, Vale of Arryn",
+        "title": [
+            "Lord of Sweetsister",
+            "Keeper of the Night Lamp",
+            "Shield of Sisterton",
+            "Master of Breakwater Castle"
+        ],
+        "overlord": "House Sunderland"
+    },
+    "House_Longthorpe": {
+        "id": "House_Longthorpe",
+        "name": "House Longthorpe",
+        "seat": "Longsister",
+        "lord": "Rolland Longthorpe",
+        "region": "Vale of Arryn",
+        "overlord": "House Sunderland"
+    },
+    "House_Sunderland": {
+        "id": "House_Sunderland",
+        "name": "House Sunderland",
+        "coat of arms": [
+            "Three women's heads, white with black hair, on a barry wavy blue and green field",
+            "(",
+            "Barry wavy azure and vert, three women's heads argents, crined sable",
+            ")"
+        ],
+        "seat": "Sisterton",
+        "lord": "Triston Sunderland",
+        "region": "Vale of Arryn",
+        "title": "Lord of the Three Sisters",
+        "overlord": "House Arryn"
+    },
+    "House_Torrent": {
+        "id": "House_Torrent",
+        "name": "House Torrent",
+        "seat": "Littlesister",
+        "lord": "Alesandor Torrent",
+        "region": "Three Sisters, Vale of Arryn",
+        "title": "Lord of Littlesister",
+        "overlord": "House Sunderland"
+    },
+    "House_Arryn_of_Gulltown": {
+        "id": "House_Arryn_of_Gulltown",
+        "name": "House Arryn of Gulltown",
+        "coat of arms": [
+            "A sky-blue falcon soaring against a white moon, on a sky-blue field",
+            "(",
+            "Bleu celeste, upon a plate a falcon rousant of the field",
+            ")"
+        ],
+        "seat": "Gulltown",
+        "region": "the Vale",
+        "overlord": "House Arryn",
+        "founded": "Reign of Jaehaerys I Targaryen"
+    },
+    "House_Royce_of_the_Gates_of_the_Moon": {
+        "id": "House_Royce_of_the_Gates_of_the_Moon",
+        "name": "House Royce of the Gates of the Moon",
+        "coat of arms": [
+            "A black portcullis over a white crescent moon, on a purple field, bordered with runes on bronze",
+            "(Purpure, a moon increscent argent surmounted by a portcullis sable, all within a bordure bronze charged with ancient runes of the third)"
+        ],
+        "seat": "Gates of the Moon",
+        "lord": "Nestor Royce",
+        "region": "Vale",
+        "title": "Lord of the Gates of the Moon",
+        "heir": "Ser Albar Royce",
+        "overlord": "House Arryn"
+    },
+    "House_Shell_(Vale)": {
+        "id": "House_Shell_(Vale)",
+        "name": "House Shell (Vale)",
+        "region": "the Vale",
+        "title": "King of the Fingers",
+        "died out": "Andal invasion"
+    },
+    "House_Brightstone": {
+        "id": "House_Brightstone",
+        "name": "House Brightstone",
+        "region": "the Vale",
+        "title": "King of the Fingers",
+        "died out": "Andal invasion"
+    }
+}

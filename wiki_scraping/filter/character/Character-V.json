@@ -1,0 +1,577 @@
+{
+    "Vaegon_Targaryen": {
+        "id": "Vaegon_Targaryen",
+        "name": "Vaegon Targaryen",
+        "alias": [
+            "the Dragonless",
+            "Vaegon the Dragonless"
+        ],
+        "title": [
+            "Prince",
+            "Archmaester"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "The Citadel"
+        ],
+        "culture": "crownlands",
+        "born": "In 63 AC",
+        "died": "In or after 101 AC"
+    },
+    "Vaella_Targaryen_(daughter_of_Aenys_I)": {
+        "id": "Vaella_Targaryen_(daughter_of_Aenys_I)",
+        "name": "Vaella Targaryen (daughter of Aenys I)",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlander",
+        "born": "In 39 AC",
+        "died": "In 39 AC"
+    },
+    "Vaella_Targaryen_(daughter_of_Daeron)": {
+        "id": "Vaella_Targaryen_(daughter_of_Daeron)",
+        "name": "Vaella Targaryen (daughter of Daeron)",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In 222 AC"
+    },
+    "Vaellyn": {
+        "id": "Vaellyn",
+        "name": "Vaellyn",
+        "alias": "Vinegar Vaellyn",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Vaemond_Velaryon": {
+        "id": "Vaemond_Velaryon",
+        "name": "Vaemond Velaryon",
+        "title": "Ser",
+        "allegiance": "House Velaryon",
+        "culture": "crownlands",
+        "died": "In 126 AC",
+        "issue": [
+            "Daemion Velaryon",
+            "Daeron Velaryon"
+        ]
+    },
+    "Vaggoro": {
+        "id": "Vaggoro",
+        "name": "Vaggoro"
+    },
+    "Val": {
+        "id": "Val",
+        "name": "Val",
+        "alias": [
+            "The wildling princess",
+            "Lady Val"
+        ],
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "spouse": "Jarl (possibly)"
+    },
+    "Valaena_Velaryon": {
+        "id": "Valaena_Velaryon",
+        "name": "Valaena Velaryon",
+        "title": "Lady of Dragonstone",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen"
+        ],
+        "died": "In or after 26BC",
+        "spouse": "Aerion Targaryen",
+        "issue": [
+            "Visenya Targaryen",
+            "Aegon I Targaryen",
+            "Rhaenys Targaryen"
+        ]
+    },
+    "Valarr_Targaryen": {
+        "id": "Valarr_Targaryen",
+        "name": "Valarr Targaryen",
+        "alias": "The Young Prince",
+        "title": [
+            "Prince",
+            "Hand of the King",
+            "(possibly)",
+            "[N 1]"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In or between 183 AC and 193 AC",
+        "died": "In 209 AC, at King's Landing",
+        "spouse": "Kiera of Tyrosh",
+        "issue": "Stillborn sons"
+    },
+    "Valena_Toland": {
+        "id": "Valena_Toland",
+        "name": "Valena Toland",
+        "title": "Lady",
+        "allegiance": "House Toland",
+        "culture": "Dornish"
+    },
+    "Valerion_Targaryen": {
+        "id": "Valerion_Targaryen",
+        "name": "Valerion Targaryen",
+        "title": "Prince",
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In 77 AC",
+        "died": "At 78 AC"
+    },
+    "Vanyon": {
+        "id": "Vanyon",
+        "name": "Vanyon",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Varamyr": {
+        "id": "Varamyr",
+        "name": "Varamyr",
+        "alias": [
+            "Varamyr Sixskins",
+            "Haggon",
+            "Lump",
+            "Varamyr Threeskins"
+        ],
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "born": "At a village beyond the Wall",
+        "died": "In 300 AC, at a village beyond the Wall"
+    },
+    "Vardis_Egen": {
+        "id": "Vardis_Egen",
+        "name": "Vardis Egen",
+        "title": [
+            "Ser",
+            "Captain of the guards"
+        ],
+        "allegiance": [
+            "House Egen",
+            "House Arryn"
+        ],
+        "culture": "Valemen",
+        "born": "In or between 249 AC and 253 AC",
+        "died": "In 298 AC, at the Eyrie",
+        "spouse": "Unknown",
+        "issue": "Son",
+        "tv series": "Season 1"
+    },
+    "Vargo_Hoat": {
+        "id": "Vargo_Hoat",
+        "name": "Vargo Hoat",
+        "alias": [
+            "The Qohorik",
+            "The Crippler",
+            "The goat",
+            "The goat-helm",
+            "The Goat of Harrenhal",
+            "The Goat"
+        ],
+        "title": [
+            "Commander of the",
+            "Brave Companions",
+            "Lord of Harrenhal"
+        ],
+        "allegiance": "Brave Companions",
+        "culture": "Qohorik",
+        "born": "At Qohor",
+        "died": "In 300 AC, at Harrenhal"
+    },
+    "Varly": {
+        "id": "Varly",
+        "name": "Varly",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Varys": {
+        "id": "Varys",
+        "name": "Varys",
+        "alias": [
+            "Lord Varys",
+            "The King's Spider",
+            "The eunuch",
+            "The Spider",
+            "Rugen",
+            "Lord Eunuch"
+        ],
+        "title": [
+            "Master of whisperers",
+            "Lord",
+            "Undergaoler",
+            "(as",
+            "Rugen",
+            ")"
+        ],
+        "born": "At Lys",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Vayon_Poole": {
+        "id": "Vayon_Poole",
+        "name": "Vayon Poole",
+        "title": "Steward of Winterfell",
+        "allegiance": [
+            "House Poole",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 274 AC",
+        "died": "In 298 AC, at Red Keep, King's Landing",
+        "issue": "Jeyne Poole",
+        "tv series": "Season 1"
+    },
+    "Veiled_Lady": {
+        "id": "Veiled_Lady",
+        "name": "Veiled Lady",
+        "alias": "The Veiled Lady",
+        "culture": "Braavosi"
+    },
+    "Veron_Greyjoy": {
+        "id": "Veron_Greyjoy",
+        "name": "Veron Greyjoy",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Vhalaso": {
+        "id": "Vhalaso",
+        "name": "Vhalaso",
+        "alias": "Vhalaso the Munificent",
+        "title": "Triarch of Volantis",
+        "culture": "Volantis"
+    },
+    "Vickon_Botley": {
+        "id": "Vickon_Botley",
+        "name": "Vickon Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn"
+    },
+    "Vickon_Greyjoy": {
+        "id": "Vickon_Greyjoy",
+        "name": "Vickon Greyjoy",
+        "title": [
+            "Lord of the Iron Islands",
+            "Lord Reaper of Pyke"
+        ],
+        "allegiance": "House Greyjoy",
+        "culture": "Ironborn",
+        "died": "In 33 AC",
+        "issue": "Goren Greyjoy"
+    },
+    "Victaria_Tyrell": {
+        "id": "Victaria_Tyrell",
+        "name": "Victaria Tyrell",
+        "title": "Dowager Lady of Blackcrown",
+        "allegiance": [
+            "House Tyrell",
+            "House Bulwer"
+        ],
+        "culture": "Reach",
+        "born": "In or before 278 AC",
+        "spouse": "Jon Bulwer",
+        "issue": "Alysanne Bulwer"
+    },
+    "Victarion_Greyjoy": {
+        "id": "Victarion_Greyjoy",
+        "name": "Victarion Greyjoy",
+        "alias": "The Iron Captain",
+        "title": [
+            "Lord Captain of the Iron Fleet",
+            "Master of the",
+            "Iron Victory"
+        ],
+        "allegiance": "House Greyjoy",
+        "culture": "Ironborn",
+        "born": "In or between 257 AC and 269 AC, at Pyke",
+        "spouse": [
+            "1st: Unknwon",
+            "2nd: Unknown",
+            "3rd:",
+            "Unnamed",
+            "(",
+            "salt wife",
+            ")"
+        ],
+        "issue": "Stillborn daughter"
+    },
+    "Victarion_Greyjoy%27s_third_wife": {
+        "id": "Victarion_Greyjoy%27s_third_wife",
+        "name": "Victarion Greyjoy's third wife",
+        "title": "Salt wife",
+        "allegiance": "House Greyjoy",
+        "died": "In 297 AC",
+        "spouse": "Victarion Greyjoy"
+    },
+    "Victor_the_Valiant": {
+        "id": "Victor_the_Valiant",
+        "name": "Victor the Valiant",
+        "title": "Ser",
+        "allegiance": [
+            "House Royce",
+            "Kingsguard"
+        ],
+        "died": "In 59 AC, at King's Landing"
+    },
+    "Victor_Risley": {
+        "id": "Victor_Risley",
+        "name": "Victor Risley",
+        "title": [
+            "Ser",
+            "Knight of Risley Glade",
+            "King's Justice"
+        ],
+        "allegiance": [
+            "House Risley",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "died": "In 135 AC, at King's Landing"
+    },
+    "Victor_Tyrell": {
+        "id": "Victor_Tyrell",
+        "name": "Victor Tyrell",
+        "title": "Ser",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "In or before 260 AC",
+        "died": "In or before 281 AC",
+        "spouse": "Unknown",
+        "issue": [
+            "Victaria Tyrell",
+            "Leo Tyrell"
+        ]
+    },
+    "Victor_Velaryon": {
+        "id": "Victor_Velaryon",
+        "name": "Victor Velaryon",
+        "allegiance": "House Velaryon",
+        "culture": "Crownlands"
+    },
+    "Violante": {
+        "id": "Violante",
+        "name": "Violante",
+        "title": "Septa",
+        "allegiance": "Faith of the Seven"
+    },
+    "Violet": {
+        "id": "Violet",
+        "name": "Violet"
+    },
+    "Visenya_Targaryen": {
+        "id": "Visenya_Targaryen",
+        "name": "Visenya Targaryen",
+        "title": [
+            "Queen",
+            "Dowager Queen"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 28 BC or 29 BC, at Dragonstone",
+        "died": "In 44 AC, at Dragonstone",
+        "spouse": "King Aegon I Targaryen",
+        "issue": "Maegor I Targaryen"
+    },
+    "Visenya_Targaryen_(daughter_of_Rhaenyra)": {
+        "id": "Visenya_Targaryen_(daughter_of_Rhaenyra)",
+        "name": "Visenya Targaryen (daughter of Rhaenyra)",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "born": "In 129 AC, at Dragonstone",
+        "died": "In 129 AC, at Dragonstone"
+    },
+    "Viserra_Targaryen": {
+        "id": "Viserra_Targaryen",
+        "name": "Viserra Targaryen",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 71 AC",
+        "died": "In 87 AC, at King's Landing"
+    },
+    "Viserys_Plumm": {
+        "id": "Viserys_Plumm",
+        "name": "Viserys Plumm",
+        "title": "Lord",
+        "allegiance": "House Plumm",
+        "born": "In 176 AC or 177 AC"
+    },
+    "Viserys_Targaryen": {
+        "id": "Viserys_Targaryen",
+        "name": "Viserys Targaryen",
+        "alias": [
+            "The Beggar King",
+            "Khal Rhae Mhar",
+            "(Sorefoot King)",
+            "Khal Rhaggat",
+            "(Cart King)"
+        ],
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "(claimant)",
+            "Lord of the Seven Kingdoms",
+            "(claimant)",
+            "Protector of the Realm",
+            "(claimant)",
+            "Prince of Dragonstone"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Free Cities",
+        "born": "In 276 AC, at King's Landing",
+        "died": "In 298 AC, at Vaes Dothrak",
+        "tv series": "Season 1"
+    },
+    "Viserys_I_Targaryen": {
+        "id": "Viserys_I_Targaryen",
+        "name": "Viserys I Targaryen",
+        "alias": "The Young King",
+        "issue": [
+            "Rhaenyra Targaryen",
+            "Unknown son",
+            "Baelon Targaryen",
+            "Aegon II Targaryen",
+            "Helaena Targaryen",
+            "Aemond Targaryen",
+            "Daeron Targaryen",
+            "Trystane Truefyre",
+            "(allegedly)"
+        ],
+        "father": "Baelon Targaryen",
+        "mother": "Alyssa Targaryen",
+        "born": "77 AC King's Landing",
+        "died": "129 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Prince of Dragonstone"
+        ],
+        "spouse": [
+            "1st:",
+            "Aemma Arryn",
+            "2nd:",
+            "Alicent Hightower"
+        ]
+    },
+    "Viserys_II_Targaryen": {
+        "id": "Viserys_II_Targaryen",
+        "name": "Viserys II Targaryen",
+        "spouse": "Larra Rogare",
+        "issue": [
+            "Aegon IV Targaryen",
+            "Aemon Targaryen",
+            "Naerys Targaryen"
+        ],
+        "father": "Daemon Targaryen",
+        "mother": "Rhaenyra Targaryen",
+        "born": "122 AC Dragonstone",
+        "died": "172 AC King's Landing",
+        "title": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Lord of the Seven Kingdoms",
+            "Protector of the Realm",
+            "Hand of the King"
+        ]
+    },
+    "Viserys_Targaryen_(son_of_Aenys_I)": {
+        "id": "Viserys_Targaryen_(son_of_Aenys_I)",
+        "name": "Viserys Targaryen (son of Aenys I)",
+        "title": "Prince",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 29 AC",
+        "died": "In 44 AC, at King's Landing"
+    },
+    "Vogarro": {
+        "id": "Vogarro",
+        "name": "Vogarro",
+        "title": "Triarch of Volantis",
+        "allegiance": "Elephant",
+        "culture": "Volantene",
+        "died": "In 268 AC, at Volantis",
+        "spouse": "Widow of the waterfront"
+    },
+    "Vorian_Dayne": {
+        "id": "Vorian_Dayne",
+        "name": "Vorian Dayne",
+        "alias": "Sword of the Evening",
+        "culture": "Dornishmen",
+        "title": [
+            "King of the Torrentine",
+            "Ser"
+        ]
+    },
+    "Vorian_Vypren": {
+        "id": "Vorian_Vypren",
+        "name": "Vorian Vypren",
+        "allegiance": "House Vypren",
+        "culture": "Andal"
+    },
+    "Vortimer_Crane": {
+        "id": "Vortimer_Crane",
+        "name": "Vortimer Crane",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Highgarden"
+        ],
+        "allegiance": [
+            "House Crane",
+            "House Tyrell"
+        ],
+        "culture": "Reach"
+    },
+    "Vulture_King_(Aenys_I)": {
+        "id": "Vulture_King_(Aenys_I)",
+        "name": "Vulture King (Aenys I)",
+        "culture": "Dornishmen",
+        "died": "In 37 AC"
+    },
+    "Vulture_King_(Jaehaerys_I)": {
+        "id": "Vulture_King_(Jaehaerys_I)",
+        "name": "Vulture King (Jaehaerys I)",
+        "alias": [
+            "The gopher",
+            "The Vulture"
+        ],
+        "died": "In 61 AC, at the Red Mountains of Dorne"
+    },
+    "Vulture_King_(Aegon_II)": {
+        "id": "Vulture_King_(Aegon_II)",
+        "name": "Vulture King (Aegon II)",
+        "culture": "Dornishmen"
+    },
+    "Vulture_King_(Daeron_II)": {
+        "id": "Vulture_King_(Daeron_II)",
+        "name": "Vulture King (Daeron II)",
+        "title": "Vulture King",
+        "culture": "Dornishmen",
+        "died": "In 206 AC"
+    },
+    "Vylarr": {
+        "id": "Vylarr",
+        "name": "Vylarr",
+        "title": "Captain of the guards",
+        "allegiance": "House Lannister",
+        "culture": "Westermen"
+    },
+    "Vyman": {
+        "id": "Vyman",
+        "name": "Vyman",
+        "title": "Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Tully",
+            "(formerly)",
+            "House Frey of Riverrun"
+        ]
+    },
+    "Vyron": {
+        "id": "Vyron",
+        "name": "Vyron",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    }
+}

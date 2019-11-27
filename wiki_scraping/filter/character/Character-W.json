@@ -1,0 +1,1218 @@
+{
+    "Waif": {
+        "id": "Waif",
+        "name": "Waif",
+        "alias": "The waif",
+        "allegiance": "Faceless Men",
+        "culture": "Braavos",
+        "born": "In 263 AC or 264 AC",
+        "tv series": "Season 5 | Season 6"
+    },
+    "Walda_Frey_(daughter_of_Edwyn)": {
+        "id": "Walda_Frey_(daughter_of_Edwyn)",
+        "name": "Walda Frey (daughter of Edwyn)",
+        "allegiance": "House Frey",
+        "born": "In 290 AC or 291 AC"
+    },
+    "Walda_Frey_(daughter_of_Lothar)": {
+        "id": "Walda_Frey_(daughter_of_Lothar)",
+        "name": "Walda Frey (daughter of Lothar)",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 294 AC or 295 AC"
+    },
+    "Walda_Frey_(daughter_of_Walton)": {
+        "id": "Walda_Frey_(daughter_of_Walton)",
+        "name": "Walda Frey (daughter of Walton)",
+        "alias": "Fair Walda",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 280 AC or 281 AC"
+    },
+    "Walda_Frey_(daughter_of_Merrett)": {
+        "id": "Walda_Frey_(daughter_of_Merrett)",
+        "name": "Walda Frey (daughter of Merrett)",
+        "alias": [
+            "Fat Walda",
+            "Walda Bolton"
+        ],
+        "title": "Lady of the Dreadfort",
+        "allegiance": [
+            "House Frey",
+            "House Bolton"
+        ],
+        "culture": "Rivermen",
+        "born": "In 283 AC or 284 AC",
+        "spouse": "Lord Roose Bolton",
+        "issue": "Unborn child",
+        "tv series": "Season 4 | Season 5"
+    },
+    "Walda_Frey_(daughter_of_Rhaegar)": {
+        "id": "Walda_Frey_(daughter_of_Rhaegar)",
+        "name": "Walda Frey (daughter of Rhaegar)",
+        "alias": "White Walda",
+        "allegiance": "House Frey",
+        "born": "In 288 AC or 289 AC"
+    },
+    "Walda_Rivers": {
+        "id": "Walda_Rivers",
+        "name": "Walda Rivers",
+        "allegiance": "House Frey",
+        "born": "In 294 AC or 295 AC"
+    },
+    "Walda_Rivers_(daughter_of_Aemon)": {
+        "id": "Walda_Rivers_(daughter_of_Aemon)",
+        "name": "Walda Rivers (daughter of Aemon)",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 295 AC"
+    },
+    "Walder_Brax": {
+        "id": "Walder_Brax",
+        "name": "Walder Brax",
+        "allegiance": "House Brax",
+        "culture": "Westermen",
+        "born": "In 293 AC"
+    },
+    "Walder_Frey_(son_of_Jammos)": {
+        "id": "Walder_Frey_(son_of_Jammos)",
+        "name": "Walder Frey (son of Jammos)",
+        "alias": "Big Walder",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 291 AC"
+    },
+    "Walder_Frey_(son_of_Ryman)": {
+        "id": "Walder_Frey_(son_of_Ryman)",
+        "name": "Walder Frey (son of Ryman)",
+        "alias": "Black Walder",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 258 AC and 280 AC",
+        "tv series": "Season 3 | Season 6"
+    },
+    "Walder_Frey_(son_of_Merrett)": {
+        "id": "Walder_Frey_(son_of_Merrett)",
+        "name": "Walder Frey (son of Merrett)",
+        "alias": "Little Walder",
+        "allegiance": [
+            "House Frey",
+            "House Stark",
+            "(formerly)",
+            "House Bolton"
+        ],
+        "culture": "Rivermen",
+        "born": "In 291 AC, at the Twins",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Walder_Frey_(son_of_Emmon)": {
+        "id": "Walder_Frey_(son_of_Emmon)",
+        "name": "Walder Frey (son of Emmon)",
+        "alias": "Red Walder",
+        "allegiance": [
+            "House Frey of Riverrun",
+            "House Lannister"
+        ],
+        "culture": "Rivermen",
+        "born": "In 285 AC"
+    },
+    "Walder_Frey": {
+        "id": "Walder_Frey",
+        "name": "Walder Frey",
+        "alias": [
+            "The Late Lord Frey",
+            "Old Frey"
+        ],
+        "title": "Lord of the Crossing",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 208 AC, at the Twins",
+        "spouse": [
+            "1st:",
+            "Perra Royce",
+            "2nd:",
+            "Cyrenna Swann",
+            "3rd:",
+            "Amarei Crakehall",
+            "4th:",
+            "Alyssa Blackwood",
+            "5th:",
+            "Sarya Whent",
+            "6th:",
+            "Bethany Rosby",
+            "7th:",
+            "Annara Farring",
+            "8th:",
+            "Joyeuse Erenford"
+        ],
+        "issue": [
+            "Trueborn:",
+            "Stevron Frey",
+            "Emmon Frey",
+            "Aenys Frey",
+            "Perriane Frey",
+            "Jared Frey",
+            "Luceon Frey",
+            "Hosteen Frey",
+            "Lythene Frey",
+            "Symond Frey",
+            "Danwell Frey",
+            "Merrett Frey",
+            "Geremy Frey",
+            "Raymund Frey",
+            "Lothar Frey",
+            "Jammos Frey",
+            "Whalen Frey",
+            "Morya Frey",
+            "Tyta Frey",
+            "Perwyn Frey",
+            "Willamen Frey",
+            "Olyvar Frey",
+            "Roslin Frey",
+            "Arwyn Frey",
+            "Wendel Frey",
+            "Colmar Frey",
+            "Waltyr Frey",
+            "Elmar Frey",
+            "Shirei Frey",
+            "Baseborn:",
+            "Walder Rivers",
+            "Melwys Rivers",
+            "Jeyne Rivers",
+            "Martyn Rivers",
+            "Ryger Rivers",
+            "Ronel Rivers",
+            "Mellara Rivers",
+            "Other bastards"
+        ],
+        "tv series": "Season 1 | Season 3 | Season 6 | Season 7"
+    },
+    "Walder_Goodbrook": {
+        "id": "Walder_Goodbrook",
+        "name": "Walder Goodbrook",
+        "allegiance": "House Goodbrook",
+        "culture": "Rivermen",
+        "born": "In 290 AC"
+    },
+    "Walder_Haigh": {
+        "id": "Walder_Haigh",
+        "name": "Walder Haigh",
+        "allegiance": "House Haigh",
+        "culture": "Rivermen",
+        "born": "In 294 AC or 295 AC"
+    },
+    "Walder_Rivers": {
+        "id": "Walder_Rivers",
+        "name": "Walder Rivers",
+        "alias": "Bastard Walder",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "spouse": "Lady Charlton",
+        "issue": [
+            "Aemon Rivers",
+            "Walda Rivers"
+        ],
+        "tv series": "Season 3 | Season 6"
+    },
+    "Walder_Stackspear": {
+        "id": "Walder_Stackspear",
+        "name": "Walder Stackspear",
+        "title": "Ser",
+        "allegiance": "House Stackspear",
+        "culture": "Westermen"
+    },
+    "Walder_Vance": {
+        "id": "Walder_Vance",
+        "name": "Walder Vance",
+        "allegiance": "House Vance",
+        "born": "In or between ~261 AC and 291 AC"
+    },
+    "Walder_of_Woodmere": {
+        "id": "Walder_of_Woodmere",
+        "name": "Walder of Woodmere",
+        "title": "Ser"
+    },
+    "Walderan_Tarbeck": {
+        "id": "Walderan_Tarbeck",
+        "name": "Walderan Tarbeck",
+        "title": "Lord of Tarbeck Hall",
+        "allegiance": "House Tarbeck",
+        "culture": "Westermen",
+        "born": "In 184 AC",
+        "died": "In 261 AC, at near Tarbeck Hall",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown",
+            "3rd: Lady",
+            "Ellyn Reyne"
+        ],
+        "issue": [
+            "Sons",
+            "Rohanne Tarbeck",
+            "Cyrelle Tarbeck",
+            "Tion Tarbeck"
+        ]
+    },
+    "Waldon_Wynch": {
+        "id": "Waldon_Wynch",
+        "name": "Waldon Wynch",
+        "title": "Lord of Iron Holt",
+        "allegiance": "House Wynch",
+        "culture": "ironborn"
+    },
+    "Walgram": {
+        "id": "Walgram",
+        "name": "Walgram",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Walgrave": {
+        "id": "Walgrave",
+        "name": "Walgrave",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Wallace_Massey": {
+        "id": "Wallace_Massey",
+        "name": "Wallace Massey",
+        "allegiance": [
+            "House Massey",
+            "Night's Watch"
+        ],
+        "culture": "Crownlands"
+    },
+    "Wallace_Waynwood": {
+        "id": "Wallace_Waynwood",
+        "name": "Wallace Waynwood",
+        "title": "Ser",
+        "allegiance": "House Waynwood",
+        "born": "In or between 278 AC and 283 AC"
+    },
+    "Wallen": {
+        "id": "Wallen",
+        "name": "Wallen",
+        "allegiance": "deserter from the Night's Watch",
+        "died": "In 298 AC, at the wolfswood",
+        "tv series": "Season 1"
+    },
+    "Walter_Brownhill": {
+        "id": "Walter_Brownhill",
+        "name": "Walter Brownhill",
+        "title": "Ser",
+        "allegiance": "House Brownhill",
+        "culture": "Stormlander",
+        "spouse": "4th: Lady Cassandra Baratheon",
+        "issue": "16 children"
+    },
+    "Walter_Whent": {
+        "id": "Walter_Whent",
+        "name": "Walter Whent",
+        "alias": "Old Lord Whent",
+        "title": "Lord of Harrenhal",
+        "allegiance": "House Whent",
+        "culture": "Rivermen",
+        "spouse": "Lady Shella Whent",
+        "issue": [
+            "4 sons",
+            "1 daughter"
+        ]
+    },
+    "Walter_Wyl": {
+        "id": "Walter_Wyl",
+        "name": "Walter Wyl",
+        "allegiance": "House Wyl",
+        "culture": "Dornish"
+    },
+    "Walton_Frey": {
+        "id": "Walton_Frey",
+        "name": "Walton Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between roughly 248 AC and 268 AC",
+        "spouse": "Deana Hardyng",
+        "issue": [
+            "Steffon Frey",
+            "Walda Frey",
+            "Bryan Frey"
+        ]
+    },
+    "Walton_Stark": {
+        "id": "Walton_Stark",
+        "name": "Walton Stark",
+        "alias": "Walton the Moon King",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Walton_Stark_(son_of_Brandon)": {
+        "id": "Walton_Stark_(son_of_Brandon)",
+        "name": "Walton Stark (son of Brandon)",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 50 AC, at Haunted forest"
+    },
+    "Walton_Towers": {
+        "id": "Walton_Towers",
+        "name": "Walton Towers",
+        "title": [
+            "Ser",
+            "Lord of Harrenhal"
+        ],
+        "allegiance": "House Towers",
+        "culture": "Rivermen",
+        "died": "In 44 AC",
+        "issue": [
+            "Jordan Towers",
+            "Other sons"
+        ]
+    },
+    "Waltyr_Frey": {
+        "id": "Waltyr_Frey",
+        "name": "Waltyr Frey",
+        "alias": "Tyr",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 289 AC"
+    },
+    "Walys_Flowers": {
+        "id": "Walys_Flowers",
+        "name": "Walys Flowers",
+        "alias": "Walys",
+        "title": "Maester at Winterfell",
+        "allegiance": [
+            "House Hightower",
+            "The",
+            "Citadel",
+            "House Stark"
+        ],
+        "culture": "Reach",
+        "died": "In or before 283 AC"
+    },
+    "Walys_Mooton": {
+        "id": "Walys_Mooton",
+        "name": "Walys Mooton",
+        "title": "Lord of Maidenpool",
+        "allegiance": [
+            "House Mooton",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Rook's Rest"
+    },
+    "Ward_of_Gyles_Rosby": {
+        "id": "Ward_of_Gyles_Rosby",
+        "name": "Ward of Gyles Rosby",
+        "allegiance": "House Rosby",
+        "culture": "Crownlands"
+    },
+    "Warren": {
+        "id": "Warren",
+        "name": "Holy Refuge"
+    },
+    "Warrick_Manderly": {
+        "id": "Warrick_Manderly",
+        "name": "Warrick Manderly",
+        "title": "Ser",
+        "allegiance": "House Manderly",
+        "culture": "Northmen"
+    },
+    "Warryn_Beesbury": {
+        "id": "Warryn_Beesbury",
+        "name": "Warryn Beesbury",
+        "title": "Lord of Honeyholt",
+        "allegiance": "House Beesbury",
+        "culture": "Reach"
+    },
+    "Wat_(Whitesmile)": {
+        "id": "Wat_(Whitesmile)",
+        "name": "Whitesmile Wat",
+        "alias": "Whitesmile Wat",
+        "allegiance": "House Lannister"
+    },
+    "Wat_(Night%27s_Watch)": {
+        "id": "Wat_(Night%27s_Watch)",
+        "name": "Wat (Night's Watch)",
+        "allegiance": "Night's Watch"
+    },
+    "Wat_(Barleycorn)": {
+        "id": "Wat_(Barleycorn)",
+        "name": "Wat Barleycorn",
+        "alias": "Wat Barleycorn",
+        "allegiance": "House Osgrey"
+    },
+    "Wat_(Wet)": {
+        "id": "Wat_(Wet)",
+        "name": "Wet Wat",
+        "alias": "Wet Wat",
+        "allegiance": "House Osgrey"
+    },
+    "Wat_(Standfast)": {
+        "id": "Wat_(Standfast)",
+        "name": "Wat (Standfast)",
+        "allegiance": "House Osgrey"
+    },
+    "Wat_(orphan)": {
+        "id": "Wat_(orphan)",
+        "name": "Wat (orphan)"
+    },
+    "Wat_(sailor)": {
+        "id": "Wat_(sailor)",
+        "name": "Wat (sailor)"
+    },
+    "Wat_the_Hewer": {
+        "id": "Wat_the_Hewer",
+        "name": "Wat the Hewer",
+        "alias": "Wat the Hewer",
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows"
+        ]
+    },
+    "Wat_the_Tanner": {
+        "id": "Wat_the_Tanner",
+        "name": "Wat the Tanner",
+        "culture": "Crownlands"
+    },
+    "Wate": {
+        "id": "Wate",
+        "name": "Wate",
+        "allegiance": "House Targaryen"
+    },
+    "Watkyn": {
+        "id": "Watkyn",
+        "name": "Watkyn",
+        "allegiance": "Golden Company"
+    },
+    "Watt_of_Long_Lake": {
+        "id": "Watt_of_Long_Lake",
+        "name": "Watt of Long Lake",
+        "alias": "Watt of Long Lake",
+        "allegiance": "Night's Watch",
+        "culture": "Northmen",
+        "died": "In 299 AC, at Bridge of Skulls"
+    },
+    "Watty": {
+        "id": "Watty",
+        "name": "Watty",
+        "alias": "Watty the Miller",
+        "allegiance": "Brotherhood without banners"
+    },
+    "Waymar_Royce": {
+        "id": "Waymar_Royce",
+        "name": "Waymar Royce",
+        "title": "Ser",
+        "allegiance": [
+            "House Royce",
+            "Night's Watch"
+        ],
+        "culture": "Valemen",
+        "born": "In 278 AC or 279 AC, at Runestone",
+        "died": "In 297 AC, at the haunted forest, beyond the Wall",
+        "tv series": "Season 1"
+    },
+    "Wayn_(guard)": {
+        "id": "Wayn_(guard)",
+        "name": "Wayn (guard)",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Weasel": {
+        "id": "Weasel",
+        "name": "Weasel",
+        "born": "In 296 AC or 297 AC"
+    },
+    "Webber": {
+        "id": "Webber",
+        "name": "Webber",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Weeper": {
+        "id": "Weeper",
+        "name": "Weeper",
+        "alias": "The Weeping Man",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Weese": {
+        "id": "Weese",
+        "name": "Weese",
+        "title": "Understeward",
+        "allegiance": [
+            "House Whent",
+            "House Lannister"
+        ],
+        "died": "In 299 AC, at Harrenhal",
+        "tv series": "Season 2"
+    },
+    "Wenda": {
+        "id": "Wenda",
+        "name": "Wenda the White Fawn",
+        "alias": "Wenda the White Fawn",
+        "allegiance": "Kingswood Brotherhood"
+    },
+    "Wendamyr": {
+        "id": "Wendamyr",
+        "name": "Wendamyr",
+        "title": "Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Greyjoy"
+        ]
+    },
+    "Wendel_Frey": {
+        "id": "Wendel_Frey",
+        "name": "Wendel Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 286 AC"
+    },
+    "Wendel_Manderly": {
+        "id": "Wendel_Manderly",
+        "name": "Wendel Manderly",
+        "title": "Ser",
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "In or between 253 AC and 264 AC, at White Harbor",
+        "died": "In 299 AC, at the Twins",
+        "tv series": "Season 3"
+    },
+    "Wendell_Webber": {
+        "id": "Wendell_Webber",
+        "name": "Wendell Webber",
+        "title": "Ser",
+        "allegiance": "House Webber",
+        "culture": "Reach",
+        "spouse": "Lord Rowan's sister",
+        "issue": [
+            "Sons",
+            "Daughters"
+        ]
+    },
+    "Wendello_Qar_Deeth": {
+        "id": "Wendello_Qar_Deeth",
+        "name": "Wendello Qar Deeth",
+        "allegiance": "Pureborn",
+        "culture": "Qartheen"
+    },
+    "Wendeyne": {
+        "id": "Wendeyne",
+        "name": "Wendeyne",
+        "allegiance": "The Gate"
+    },
+    "Werlag": {
+        "id": "Werlag",
+        "name": "Werlag",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Wex_Pyke": {
+        "id": "Wex_Pyke",
+        "name": "Wex Pyke",
+        "allegiance": [
+            "House Botley",
+            "House Greyjoy"
+        ],
+        "culture": "ironborn",
+        "born": "In 286 AC"
+    },
+    "Whale_That_Walks": {
+        "id": "Whale_That_Walks",
+        "name": "Whale That Walks",
+        "alias": "The Whale That Walks",
+        "born": "In before 273 AC"
+    },
+    "Whalen_Frey": {
+        "id": "Whalen_Frey",
+        "name": "Whalen Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 267 AC or 268 AC",
+        "spouse": "Sylwa Paege",
+        "issue": [
+            "Hoster Frey",
+            "Merianne Frey"
+        ]
+    },
+    "Wick_Wittlestick": {
+        "id": "Wick_Wittlestick",
+        "name": "Wick Wittlestick",
+        "allegiance": "Night's Watch"
+    },
+    "Widow_of_the_waterfront": {
+        "id": "Widow_of_the_waterfront",
+        "name": "Widow of the waterfront",
+        "alias": "Vogarro's whore",
+        "culture": "Volantene",
+        "spouse": "Vogarro"
+    },
+    "Widower": {
+        "id": "Widower",
+        "name": "Widower",
+        "title": "Second-in-command of the Stormcrows",
+        "allegiance": "Stormcrows"
+    },
+    "Wilbert": {
+        "id": "Wilbert",
+        "name": "Wilbert",
+        "title": "Ser",
+        "culture": "Rivermen",
+        "died": "In 298 AC",
+        "issue": "Sons"
+    },
+    "Wilbert_Osgrey": {
+        "id": "Wilbert_Osgrey",
+        "name": "Wilbert Osgrey",
+        "alias": "The Little Lion",
+        "title": "Ser",
+        "allegiance": "House Osgrey",
+        "culture": "Reach"
+    },
+    "Will": {
+        "id": "Will",
+        "name": "Will",
+        "allegiance": "Night's Watch",
+        "culture": "Rivermen",
+        "died": "In 297 AC, at haunted forest",
+        "tv series": "Season 1"
+    },
+    "Will_(orphan)": {
+        "id": "Will_(orphan)",
+        "name": "Will (orphan)"
+    },
+    "Will_(squire)": {
+        "id": "Will_(squire)",
+        "name": "Will (squire)"
+    },
+    "Will_(Standfast)": {
+        "id": "Will_(Standfast)",
+        "name": "Will (Standfast)",
+        "allegiance": "House Osgrey",
+        "culture": "Reach"
+    },
+    "Will_(Treb)": {
+        "id": "Will_(Treb)",
+        "name": "Treb",
+        "alias": "Treb",
+        "allegiance": "House Osgrey"
+    },
+    "Will_the_Stork": {
+        "id": "Will_the_Stork",
+        "name": "Will the Stork",
+        "alias": "Will the Stork",
+        "title": "Ser",
+        "died": "In 299 AC, at Blackwater Rush"
+    },
+    "Will_of_the_Woods": {
+        "id": "Will_of_the_Woods",
+        "name": "Will of the Woods",
+        "title": "Will of the Woods",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Will_Cole": {
+        "id": "Will_Cole",
+        "name": "Will Cole",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Will_Humble": {
+        "id": "Will_Humble",
+        "name": "Will Humble",
+        "title": "Captain",
+        "allegiance": "House Humble",
+        "culture": "ironborn"
+    },
+    "Will_Short": {
+        "id": "Will_Short",
+        "name": "Will Short",
+        "culture": "Northmen"
+    },
+    "Willam": {
+        "id": "Willam",
+        "name": "Willam",
+        "culture": "Rivermen",
+        "died": "In 260 AC, at Stepstones"
+    },
+    "Willam_Dustin": {
+        "id": "Willam_Dustin",
+        "name": "Willam Dustin",
+        "title": "Lord of Barrowton",
+        "allegiance": "House Dustin",
+        "culture": "Northmen",
+        "died": "In 283 AC, at the tower of joy",
+        "spouse": "Lady Barbrey Ryswell"
+    },
+    "Willam_Foxglove": {
+        "id": "Willam_Foxglove",
+        "name": "Willam Foxglove",
+        "alias": "Will Foxglove",
+        "title": "Ser",
+        "allegiance": "House Baratheon of Dragonstone"
+    },
+    "Willam_Royce": {
+        "id": "Willam_Royce",
+        "name": "Willam Royce",
+        "alias": "Willum Royce",
+        "title": "Ser",
+        "allegiance": [
+            "House Royce",
+            "Blacks"
+        ],
+        "culture": "Valemen",
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Willam_Stackspear": {
+        "id": "Willam_Stackspear",
+        "name": "Willam Stackspear",
+        "title": [
+            "Lord",
+            "Lord Regent"
+        ],
+        "allegiance": "House Stackspear",
+        "culture": "Westermen"
+    },
+    "Willam_Stafford": {
+        "id": "Willam_Stafford",
+        "name": "Willam Stafford",
+        "alias": [
+            "The Drunken Knight",
+            "The Keg o' Ale"
+        ],
+        "title": "Ser"
+    },
+    "Willam_Stark": {
+        "id": "Willam_Stark",
+        "name": "Willam Stark",
+        "title": [
+            "Lord of",
+            "Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "At Winterfell",
+        "died": "In 226 AC, at Long Lake",
+        "spouse": [
+            "Lady",
+            "Melantha Blackwood",
+            "Lady",
+            "Lyanne Glover"
+        ],
+        "issue": [
+            "Brandon Stark",
+            "Jocelyn Stark",
+            "Edwyle Stark"
+        ]
+    },
+    "Willam_the_Wanderer": {
+        "id": "Willam_the_Wanderer",
+        "name": "Willam the Wanderer",
+        "alias": "Willam the Wanderer",
+        "title": "Ser",
+        "allegiance": [
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Willam_the_Wasp": {
+        "id": "Willam_the_Wasp",
+        "name": "Willam the Wasp",
+        "title": "Ser",
+        "allegiance": [
+            "House Smallwood",
+            "Kingsguard"
+        ],
+        "died": "In 56 AC, at the Velvet Hills of Andalos"
+    },
+    "Willam_Wells": {
+        "id": "Willam_Wells",
+        "name": "Willam Wells",
+        "title": "Ser",
+        "allegiance": "House Wells",
+        "culture": "Dornishmen",
+        "died": "In 300 AC, at Disputed Lands"
+    },
+    "Willam_Whistler": {
+        "id": "Willam_Whistler",
+        "name": "Willam Whistler",
+        "title": "Ser",
+        "allegiance": "Prince Aegon Targaryen",
+        "died": "In 43 AC, at Gods Eye"
+    },
+    "Willam_Wythers": {
+        "id": "Willam_Wythers",
+        "name": "Willam Wythers",
+        "title": [
+            "Ser",
+            "Captain of the guards"
+        ],
+        "allegiance": [
+            "House Wythers",
+            "House Tyrell"
+        ],
+        "culture": "Reach"
+    },
+    "Willamen_Frey": {
+        "id": "Willamen_Frey",
+        "name": "Willamen Frey",
+        "alias": "Willamen",
+        "title": "Maester at Longbow Hall",
+        "allegiance": [
+            "House Frey",
+            "The",
+            "Citadel",
+            "House Hunter"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 272 AC and 280 AC"
+    },
+    "Willas_Tyrell": {
+        "id": "Willas_Tyrell",
+        "name": "Willas Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "In or between 270 AC and 276 AC"
+    },
+    "Willem_Darry": {
+        "id": "Willem_Darry",
+        "name": "Willem Darry",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at the",
+            "Red Keep"
+        ],
+        "allegiance": [
+            "House Darry",
+            "House Targaryen"
+        ],
+        "culture": "Rivermen",
+        "died": "In 289 AC or 290 AC (roughly), at Braavos"
+    },
+    "Willem_Frey": {
+        "id": "Willem_Frey",
+        "name": "Willem Frey",
+        "allegiance": [
+            "House Frey",
+            "House Frey of Riverrun"
+        ],
+        "born": "In 289 AC or 290 AC"
+    },
+    "Willem_Lannister": {
+        "id": "Willem_Lannister",
+        "name": "Willem Lannister",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In or between 285 AC and 287 AC",
+        "died": "In 299 AC, at Riverrun"
+    },
+    "Willem_Wylde": {
+        "id": "Willem_Wylde",
+        "name": "Willem Wylde",
+        "title": "Ser",
+        "allegiance": [
+            "House Wylde",
+            "Kingsguard"
+        ],
+        "culture": "Stormlander"
+    },
+    "William_Mooton": {
+        "id": "William_Mooton",
+        "name": "William Mooton",
+        "title": "Lord of Maidenpool",
+        "allegiance": "House Mooton",
+        "culture": "Rivermen",
+        "issue": [
+            "Eleanor Mooton",
+            "Sons",
+            "Daughter(s)"
+        ]
+    },
+    "William_Tortoll": {
+        "id": "William_Tortoll",
+        "name": "William Tortoll",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Willifer": {
+        "id": "Willifer",
+        "name": "Willifer",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Willis_Fell": {
+        "id": "Willis_Fell",
+        "name": "Willis Fell",
+        "alias": "False knight",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Fell",
+            "Kingsguard",
+            "Greens"
+        ],
+        "culture": "Stormlander",
+        "died": "In 133 AC, at King's Landing"
+    },
+    "Willis_Wode": {
+        "id": "Willis_Wode",
+        "name": "Willis Wode",
+        "title": "Ser",
+        "allegiance": [
+            "House Wode",
+            "House Whent"
+        ],
+        "culture": "Rivermen",
+        "tv series": "Season 1"
+    },
+    "Willit": {
+        "id": "Willit",
+        "name": "Willit",
+        "allegiance": "House Swyft",
+        "culture": "Westermen",
+        "issue": "Two sons"
+    },
+    "Willow_(hound)": {
+        "id": "Willow_(hound)",
+        "name": "Willow (hound)"
+    },
+    "Willow_Heddle": {
+        "id": "Willow_Heddle",
+        "name": "Willow Heddle",
+        "allegiance": [
+            "House Heddle",
+            "Brotherhood without banners"
+        ],
+        "born": "In 289 AC or 290 AC"
+    },
+    "Willow_Witch-eye": {
+        "id": "Willow_Witch-eye",
+        "name": "Willow Witch-eye",
+        "alias": "Willow Witch-eye",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Willow_(daughter_of_Aegon_IV)": {
+        "id": "Willow_(daughter_of_Aegon_IV)",
+        "name": "Willow (daughter of Aegon IV)",
+        "title": "Septa (possibly)",
+        "allegiance": "Faith of the Seven",
+        "culture": "Crownlands",
+        "born": "In 157 AC, at King's Landing"
+    },
+    "Willow_Pound-Stone": {
+        "id": "Willow_Pound-Stone",
+        "name": "Willow Pound-Stone",
+        "culture": "Reach",
+        "died": "In 130 AC, at Bitterbridge"
+    },
+    "Willum": {
+        "id": "Willum",
+        "name": "Willum",
+        "title": "Ser",
+        "culture": "Rivermen"
+    },
+    "Wolmer": {
+        "id": "Wolmer",
+        "name": "Wolmer",
+        "allegiance": "House Webber"
+    },
+    "Woth": {
+        "id": "Woth",
+        "name": "Woth",
+        "died": "In 299 AC, at Gods Eye"
+    },
+    "Wulfe": {
+        "id": "Wulfe",
+        "name": "Wulfe One-Ear",
+        "alias": [
+            "Wulfe One-Ear",
+            "Wulfe One-Eye"
+        ],
+        "title": "Captain",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Wulfgar_Hoare": {
+        "id": "Wulfgar_Hoare",
+        "name": "Wulfgar Hoare",
+        "alias": [
+            "Wulfgar the Widowmaker",
+            "Wulfgar Widowmaker"
+        ],
+        "title": "King of the Iron Islands"
+    },
+    "Wun_Weg_Wun_Dar_Wun": {
+        "id": "Wun_Weg_Wun_Dar_Wun",
+        "name": "Wun Weg Wun Dar Wun",
+        "alias": "Wun Wun",
+        "born": "At Beyond the Wall",
+        "tv series": "Season 5 | Season 6"
+    },
+    "Wyl_of_Wyl": {
+        "id": "Wyl_of_Wyl",
+        "name": "Wyl of Wyl",
+        "alias": "The Widow-lover",
+        "title": [
+            "Lord of Wyl",
+            "Wyl of Wyl"
+        ],
+        "allegiance": "House Wyl",
+        "culture": "Dornishmen",
+        "died": "In 27 AC",
+        "issue": "Walter Wyl"
+    },
+    "Wyl_(guard)": {
+        "id": "Wyl_(guard)",
+        "name": "Wyl (guard)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Wyl_the_Whittler": {
+        "id": "Wyl_the_Whittler",
+        "name": "Wyl the Whittler",
+        "alias": "Blind Wyl the Whittler",
+        "died": "At Riverlands"
+    },
+    "Wyl_Waynwood": {
+        "id": "Wyl_Waynwood",
+        "name": "Wyl Waynwood",
+        "alias": "Wild Wyl",
+        "allegiance": "House Waynwood",
+        "culture": "Valemen",
+        "died": "In 196 AC, at the Redgrass Field"
+    },
+    "Wyland_Wyl": {
+        "id": "Wyland_Wyl",
+        "name": "Wyland Wyl",
+        "allegiance": "House Wyl",
+        "culture": "Dornish"
+    },
+    "Wylis_Manderly": {
+        "id": "Wylis_Manderly",
+        "name": "Wylis Manderly",
+        "title": "Ser",
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "In or between 252 AC and 263 AC, at White Harbor",
+        "spouse": "Leona Woolfield",
+        "issue": [
+            "Wynafryd Manderly",
+            "Wylla Manderly"
+        ]
+    },
+    "Wylla": {
+        "id": "Wylla",
+        "name": "Wylla",
+        "allegiance": "House Dayne"
+    },
+    "Wylla_Fenn": {
+        "id": "Wylla_Fenn",
+        "name": "Wylla Fenn",
+        "allegiance": "House Fenn",
+        "culture": "Crannogmen",
+        "issue": "Lonnel Snow"
+    },
+    "Wylla_Manderly": {
+        "id": "Wylla_Manderly",
+        "name": "Wylla Manderly",
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "In 284 AC or 285 AC, at White Harbor"
+    },
+    "Wylla_of_Wyl": {
+        "id": "Wylla_of_Wyl",
+        "name": "Wylla of Wyl",
+        "allegiance": "House Wyl",
+        "culture": "Dornishmen"
+    },
+    "Wyllis": {
+        "id": "Wyllis",
+        "name": "Wyllis",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Wyman_Manderly": {
+        "id": "Wyman_Manderly",
+        "name": "Wyman Manderly",
+        "alias": [
+            "Lord Lamprey",
+            "Lord Too-Fat-to-Sit-a-Horse",
+            "Lord Pig",
+            "Lord Lard"
+        ],
+        "title": [
+            "Lord of White Harbor",
+            "Warden of the White Knife",
+            "Shield of the Faith",
+            "Defender of the Dispossessed",
+            "Lord Marshal of the Mander",
+            "Knight of the",
+            "Order of the Green Hand"
+        ],
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "In or between 239 AC and 242 AC, at White Harbor",
+        "issue": [
+            "Wylis Manderly",
+            "Wendel Manderly"
+        ],
+        "tv series": "Season 6"
+    },
+    "Wyman_Webber": {
+        "id": "Wyman_Webber",
+        "name": "Wyman Webber",
+        "title": "Lord of Coldmoat",
+        "allegiance": "House Webber",
+        "culture": "Reach",
+        "died": "In 209 AC or 210 AC",
+        "issue": "Rohanne Webber"
+    },
+    "Wynafrei_Whent": {
+        "id": "Wynafrei_Whent",
+        "name": "Wynafrei Whent",
+        "allegiance": [
+            "House Whent",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Ser Danwell Frey"
+    },
+    "Wynafryd_Manderly": {
+        "id": "Wynafryd_Manderly",
+        "name": "Wynafryd Manderly",
+        "allegiance": "House Manderly",
+        "culture": "Northmen",
+        "born": "In 280 AC or 281 AC, at White Harbor"
+    },
+    "Wynton_Stout": {
+        "id": "Wynton_Stout",
+        "name": "Wynton Stout",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Castle Black"
+        ],
+        "allegiance": [
+            "House Stout",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 219 AC"
+    }
+}

@@ -1,0 +1,2140 @@
+{
+    "Gael_Targaryen": {
+        "id": "Gael_Targaryen",
+        "name": "Gael Targaryen",
+        "alias": "The Winter Child",
+        "title": "Princess",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 80 AC",
+        "died": "In 99 AC, at the Blackwater Rush",
+        "issue": "Stillborn bastard son"
+    },
+    "Gaemon_Palehair": {
+        "id": "Gaemon_Palehair",
+        "name": "Gaemon Palehair",
+        "alias": [
+            "King Cunny",
+            "The Cunny King",
+            "The Palehair"
+        ],
+        "title": "King",
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands",
+        "born": "In 126 AC",
+        "died": "In 135 AC, at the Red Keep"
+    },
+    "Gaemon_Targaryen_(son_of_Aenar)": {
+        "id": "Gaemon_Targaryen_(son_of_Aenar)",
+        "name": "Gaemon Targaryen (son of Aenar)",
+        "alias": "Gaemon the Glorious",
+        "title": "Lord of Dragonstone",
+        "allegiance": "House Targaryen",
+        "born": "At Dragonstone",
+        "spouse": "Lady Daenys Targaryen",
+        "issue": [
+            "Aegon Targaryen",
+            "Elaena Targaryen",
+            "Daughter"
+        ]
+    },
+    "Gaemon_Targaryen_(son_of_Jaehaerys_I)": {
+        "id": "Gaemon_Targaryen_(son_of_Jaehaerys_I)",
+        "name": "Gaemon Targaryen (son of Jaehaerys I)",
+        "title": "Prince",
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In 73 AC, at King's Landing",
+        "died": "In 74 AC, at King's Landing"
+    },
+    "Gage": {
+        "id": "Gage",
+        "name": "Gage",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "issue": "Turnip"
+    },
+    "Galazza_Galare": {
+        "id": "Galazza_Galare",
+        "name": "Galazza Galare",
+        "title": "Green Grace",
+        "allegiance": [
+            "Graces",
+            "House of Galare"
+        ],
+        "culture": "Ghiscari",
+        "born": "In 217 AC (roughly), at Meereen"
+    },
+    "Galbart_Glover": {
+        "id": "Galbart_Glover",
+        "name": "Galbart Glover",
+        "title": "Master of Deepwood Motte",
+        "allegiance": "House Glover",
+        "culture": "Northmen",
+        "born": "At Deepwood Motte",
+        "tv series": "Season 1"
+    },
+    "Galendro": {
+        "id": "Galendro",
+        "name": "Galendro"
+    },
+    "Galeo": {
+        "id": "Galeo",
+        "name": "Galeo",
+        "culture": "Braavosi"
+    },
+    "Galladon_of_Morne": {
+        "id": "Galladon_of_Morne",
+        "name": "Galladon of Morne",
+        "alias": "The Perfect Knight",
+        "title": "Ser"
+    },
+    "Galladon_Tarth": {
+        "id": "Galladon_Tarth",
+        "name": "Galladon Tarth",
+        "allegiance": "House Tarth",
+        "culture": "Stormlander",
+        "born": "In either 275 AC, 276 AC or 277 AC",
+        "died": "In either 284 AC or 285 AC"
+    },
+    "Gallard": {
+        "id": "Gallard",
+        "name": "Gallard",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Galon_Whitestaff": {
+        "id": "Galon_Whitestaff",
+        "name": "Galon Whitestaff",
+        "title": "Priest of the Drowned God",
+        "allegiance": "Drowned God",
+        "culture": "Ironborn"
+    },
+    "Galt": {
+        "id": "Galt",
+        "name": "Galt",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans"
+    },
+    "Galtry_the_Green": {
+        "id": "Galtry_the_Green",
+        "name": "Galtry the Green",
+        "title": "Ser"
+    },
+    "Galyeon_of_Cuy": {
+        "id": "Galyeon_of_Cuy",
+        "name": "Galyeon of Cuy"
+    },
+    "Gared": {
+        "id": "Gared",
+        "name": "Gared",
+        "allegiance": "Night's Watch (deserted)",
+        "born": "In or between ~241 AC and 246 AC",
+        "died": "In 298 AC, at the North",
+        "tv series": "Season 1"
+    },
+    "Gareth_(maester)": {
+        "id": "Gareth_(maester)",
+        "name": "Gareth (maester)",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Gareth_Clifton": {
+        "id": "Gareth_Clifton",
+        "name": "Gareth Clifton",
+        "title": "Ser",
+        "allegiance": "House Clifton",
+        "culture": "Westermen",
+        "spouse": "Jeyne Farman",
+        "issue": "12 children"
+    },
+    "Gareth_II_Gardener": {
+        "id": "Gareth_II_Gardener",
+        "name": "Gareth II Gardener",
+        "alias": "Gareth the Grim",
+        "culture": "First Men",
+        "died": "Oldtown",
+        "title": "King of the Reach"
+    },
+    "Gareth_Long": {
+        "id": "Gareth_Long",
+        "name": "Gareth Long",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Starpike",
+            "Master-at-arms at the",
+            "Red Keep"
+        ],
+        "allegiance": [
+            "House Long",
+            "House Peake",
+            "Night's Watch"
+        ]
+    },
+    "Gareth_the_Grey": {
+        "id": "Gareth_the_Grey",
+        "name": "Gareth the Grey",
+        "alias": "Gareth the Grey",
+        "title": "Ser"
+    },
+    "Gareth_Tyrell": {
+        "id": "Gareth_Tyrell",
+        "name": "Gareth Tyrell",
+        "title": "High Steward of Highgarden",
+        "allegiance": "House Tyrell",
+        "culture": "Andal",
+        "issue": "Leo Tyrell"
+    },
+    "Gargon_Qoherys": {
+        "id": "Gargon_Qoherys",
+        "name": "Gargon Qoherys",
+        "alias": "Gargon the Guest",
+        "title": "Lord of Harrenhal",
+        "allegiance": "House Qoherys",
+        "culture": "Rivermen",
+        "died": "In 37 AC or shortly after, at Harrenhal"
+    },
+    "Garibald": {
+        "id": "Garibald",
+        "name": "Garibald",
+        "title": "Ser",
+        "allegiance": "Second Sons"
+    },
+    "Garibald_Grey": {
+        "id": "Garibald_Grey",
+        "name": "Garibald Grey",
+        "title": "Ser",
+        "allegiance": [
+            "House Grey",
+            "blacks"
+        ],
+        "culture": "rivermen",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Garibald_of_the_Seven_Stars": {
+        "id": "Garibald_of_the_Seven_Stars",
+        "name": "Garibald of the Seven Stars",
+        "alias": [
+            "Garibald of the Seven Stars",
+            "The septon knight"
+        ],
+        "title": [
+            "Ser",
+            "Septon"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Garibald_Shells": {
+        "id": "Garibald_Shells",
+        "name": "Garibald Shells",
+        "title": "Ser",
+        "allegiance": "House Martell",
+        "culture": "Dornish"
+    },
+    "Garigus": {
+        "id": "Garigus",
+        "name": "Garigus",
+        "title": "Wisdom",
+        "allegiance": "Alchemists' Guild",
+        "culture": "Crownlands",
+        "died": "At King's Landing"
+    },
+    "Garin_(Orphans)": {
+        "id": "Garin_(Orphans)",
+        "name": "Garin (orphan)",
+        "alias": "Garin of the Orphans",
+        "allegiance": "House Martell",
+        "culture": "Dornish, Orphans of the Greenblood"
+    },
+    "Garin_(Prince)": {
+        "id": "Garin_(Prince)",
+        "name": "Garin the Great",
+        "alias": "Garin the Great",
+        "title": "Prince of Chroyane",
+        "allegiance": "Rhoynar",
+        "culture": "Rhoynar",
+        "died": "At Chroyane"
+    },
+    "Gariss": {
+        "id": "Gariss",
+        "name": "Gariss",
+        "allegiance": "House Stark"
+    },
+    "Garizon": {
+        "id": "Garizon",
+        "name": "Garizon",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Garlan_Tyrell": {
+        "id": "Garlan_Tyrell",
+        "name": "Garlan Tyrell",
+        "alias": [
+            "Garlan the Gallant",
+            "Renly's ghost",
+            "Lord Renly",
+            "Lord Renly's shade"
+        ],
+        "title": [
+            "Ser",
+            "Lord of Brightwater Keep"
+        ],
+        "allegiance": [
+            "House Tyrell of Highgarden",
+            "House Tyrell of Brightwater Keep"
+        ],
+        "culture": "Reach",
+        "born": "In 277 AC, at Highgarden",
+        "spouse": "Lady Leonette Fossoway"
+    },
+    "Garland_II_Gardener": {
+        "id": "Garland_II_Gardener",
+        "name": "Garland II Gardener",
+        "alias": "Garland the Bridegroom",
+        "culture": "First Men",
+        "issue": "Daughter",
+        "title": "King of the Reach",
+        "spouse": [
+            "Multiple wives",
+            "Daughter of",
+            "Lymond Hightower"
+        ]
+    },
+    "Garland_VI_Gardener": {
+        "id": "Garland_VI_Gardener",
+        "name": "Garland VI Gardener",
+        "title": "King of the Reach"
+    },
+    "Garmon_Hightower": {
+        "id": "Garmon_Hightower",
+        "name": "Garmon Hightower",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "died": "In 10 AC, at Oldtown"
+    },
+    "Garmund_Hightower": {
+        "id": "Garmund_Hightower",
+        "name": "Garmund Hightower",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or between 117 AC and 127 AC",
+        "spouse": "Princess Rhaena Targaryen",
+        "issue": "6 daughters"
+    },
+    "Garon_Baratheon": {
+        "id": "Garon_Baratheon",
+        "name": "Garon Baratheon",
+        "title": "Ser",
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 19 25 AC",
+        "died": "In or after 73 AC",
+        "spouse": "Unknown"
+    },
+    "Garrett_Flowers": {
+        "id": "Garrett_Flowers",
+        "name": "Garrett Flowers",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Garrett_Greenspear": {
+        "id": "Garrett_Greenspear",
+        "name": "Garrett Greenspear",
+        "allegiance": "Night's Watch"
+    },
+    "Garrett_Paege": {
+        "id": "Garrett_Paege",
+        "name": "Garrett Paege",
+        "allegiance": "House Paege",
+        "culture": "Rivermen"
+    },
+    "Garrick_Hall": {
+        "id": "Garrick_Hall",
+        "name": "Garrick Hall",
+        "title": "Ser",
+        "allegiance": "Blacks",
+        "born": "At Middleton"
+    },
+    "Garris_the_Grey": {
+        "id": "Garris_the_Grey",
+        "name": "Garris the Grey",
+        "alias": "Garris the Grey",
+        "title": "Prince of Ny Sar",
+        "allegiance": "Ny Sar",
+        "culture": "Rhoynar"
+    },
+    "Garrison_Fowler": {
+        "id": "Garrison_Fowler",
+        "name": "Garrison Fowler",
+        "alias": "The Blind King",
+        "culture": "Dornishmen",
+        "title": [
+            "King of Stone and Sky",
+            "Lord of Skyreach",
+            "Lord of the Wide Way"
+        ]
+    },
+    "Garrison_Prester": {
+        "id": "Garrison_Prester",
+        "name": "Garrison Prester",
+        "title": "Lord of Feastfires",
+        "allegiance": "House Prester",
+        "culture": "westermen"
+    },
+    "Garse": {
+        "id": "Garse",
+        "name": "Garse",
+        "allegiance": "Night's Watch"
+    },
+    "Garse_Flowers": {
+        "id": "Garse_Flowers",
+        "name": "Garse Flowers",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Garse_VII_Gardener": {
+        "id": "Garse_VII_Gardener",
+        "name": "Garse VII Gardener",
+        "died": "Battle of Summerfield",
+        "title": "King of the Reach"
+    },
+    "Garse_Goodbrook": {
+        "id": "Garse_Goodbrook",
+        "name": "Garse Goodbrook",
+        "title": "Ser",
+        "allegiance": "House Goodbrook",
+        "culture": "Rivermen",
+        "died": "In the Twins, at 299 AC",
+        "spouse": "Kyra Frey",
+        "issue": [
+            "Walder Goodbrook",
+            "Jeyne Goodbrook"
+        ]
+    },
+    "Garth_of_Greenaway": {
+        "id": "Garth_of_Greenaway",
+        "name": "Garth of Greenaway",
+        "allegiance": "Night's Watch",
+        "born": "At Greenaway",
+        "died": "In 300 AC, at beyond the Wall"
+    },
+    "Garth_the_Gardener": {
+        "id": "Garth_the_Gardener",
+        "name": "Garth the Gardener",
+        "culture": "First Men",
+        "father": "Garth Greenhand",
+        "title": "King of the Reach"
+    },
+    "Garth_III_Gardener": {
+        "id": "Garth_III_Gardener",
+        "name": "Garth III Gardener",
+        "alias": "Garth the Great",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Garth_V_Gardener": {
+        "id": "Garth_V_Gardener",
+        "name": "Garth V Gardener",
+        "alias": "Hammer of the Dornish",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Garth_VI_Gardener": {
+        "id": "Garth_VI_Gardener",
+        "name": "Garth VI Gardener",
+        "alias": "Garth the Morningstar",
+        "title": "King of the Reach"
+    },
+    "Garth_VII_Gardener": {
+        "id": "Garth_VII_Gardener",
+        "name": "Garth VII Gardener",
+        "alias": [
+            "Garth Goldenhand",
+            "The Goldenhand"
+        ],
+        "culture": "First Men",
+        "issue": [
+            "Son",
+            "2 daughters"
+        ],
+        "title": "King of the Reach"
+    },
+    "Garth_IX_Gardener": {
+        "id": "Garth_IX_Gardener",
+        "name": "Garth IX Gardener",
+        "issue": "Merle I Gardener",
+        "title": "King of the Reach"
+    },
+    "Garth_X_Gardener": {
+        "id": "Garth_X_Gardener",
+        "name": "Garth X Gardener",
+        "alias": "Garth Greybeard",
+        "issue": "2 daughters",
+        "died": "Highgarden",
+        "title": "King of the Reach"
+    },
+    "Garth_XI_Gardener": {
+        "id": "Garth_XI_Gardener",
+        "name": "Garth XI Gardener",
+        "alias": "Garth the Painter",
+        "father": "Mern VI Gardener",
+        "title": "King of the Reach"
+    },
+    "Garth_XII_Gardener": {
+        "id": "Garth_XII_Gardener",
+        "name": "Garth XII Gardener",
+        "title": "King of the Reach"
+    },
+    "Garth_Greenfield": {
+        "id": "Garth_Greenfield",
+        "name": "Garth Greenfield",
+        "title": [
+            "The",
+            "Knight",
+            "of",
+            "Greenfield",
+            "Ser"
+        ],
+        "allegiance": "House Greenfield",
+        "culture": "Westermen"
+    },
+    "Garth_Greenhand": {
+        "id": "Garth_Greenhand",
+        "name": "Garth Greenhand",
+        "alias": [
+            "Garth Greenhair",
+            "Garth the Green"
+        ],
+        "culture": "First Men",
+        "issue": [
+            "Garth the Gardener",
+            "John the Oak",
+            "Gilbert of the Vines",
+            "Florys the Fox",
+            "Maris the Maid",
+            "Foss the Archer",
+            "Brandon of the Bloody Blade",
+            "Owen Oakenshield",
+            "Harlon the Hunter",
+            "Herndon of the Horn",
+            "Bors the Breaker",
+            "Rose of Red Lake",
+            "Ellyn Ever Sweet",
+            "Rowan Gold-Tree"
+        ],
+        "title": "High King of the First Men"
+    },
+    "Garth_Greyfeather": {
+        "id": "Garth_Greyfeather",
+        "name": "Garth Greyfeather",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at beyond the Wall"
+    },
+    "Garth_the_Harelip": {
+        "id": "Garth_the_Harelip",
+        "name": "Garth the Harelip",
+        "alias": [
+            "Garth the Harelip",
+            "the Harelip"
+        ],
+        "title": [
+            "Ser",
+            "Captain of the",
+            "Dragon Gate"
+        ],
+        "allegiance": [
+            "Blacks",
+            "City Watch of King's Landing"
+        ],
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Garth_Hightower": {
+        "id": "Garth_Hightower",
+        "name": "Garth Hightower",
+        "alias": "Garth Greysteel",
+        "title": "Ser",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "At Oldtown"
+    },
+    "Garth_of_Oldtown": {
+        "id": "Garth_of_Oldtown",
+        "name": "Garth of Oldtown",
+        "allegiance": "Night's Watch",
+        "culture": "Reach",
+        "born": "At Oldtown",
+        "died": "In 299 AC, at Craster's Keep"
+    },
+    "Garth_Oldflowers": {
+        "id": "Garth_Oldflowers",
+        "name": "Garth Oldflowers",
+        "title": "Ser",
+        "allegiance": "House Oldflowers"
+    },
+    "Garth_Tyrell": {
+        "id": "Garth_Tyrell",
+        "name": "Garth Tyrell",
+        "alias": "Garth the Gross",
+        "title": "Lord Seneschal of Highgarden",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "issue": [
+            "Garse Flowers",
+            "Garrett Flowers"
+        ]
+    },
+    "Garth_(Wolf%27s_Den)": {
+        "id": "Garth_(Wolf%27s_Den)",
+        "name": "Garth (Wolf's Den)",
+        "allegiance": "House Manderly",
+        "culture": "Northmen"
+    },
+    "Gascoyne": {
+        "id": "Gascoyne",
+        "name": "Gascoyne of the Greenblood",
+        "alias": "Gascoyne of the Greenblood",
+        "title": "Ser",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen"
+    },
+    "Gaven_Greywolf": {
+        "id": "Gaven_Greywolf",
+        "name": "Gaven Greywolf",
+        "culture": "First Men"
+    },
+    "Gavin": {
+        "id": "Gavin",
+        "name": "Gavin",
+        "alias": "Gavin the Trader",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Gawen": {
+        "id": "Gawen",
+        "name": "Gawen",
+        "title": "Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": "In 42 AC, at Dragonstone"
+    },
+    "Gawen_Corbray": {
+        "id": "Gawen_Corbray",
+        "name": "Gawen Corbray",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Dragonstone"
+        ],
+        "allegiance": "House Corbray",
+        "culture": "Valemen"
+    },
+    "Gawen_Gardener": {
+        "id": "Gawen_Gardener",
+        "name": "Gawen Gardener",
+        "title": "Prince",
+        "allegiance": "House Gardener",
+        "culture": "Reach",
+        "died": "In 2 BC, at the Field of Fire"
+    },
+    "Gawen_Glover": {
+        "id": "Gawen_Glover",
+        "name": "Gawen Glover",
+        "allegiance": "House Glover",
+        "culture": "Northmen",
+        "born": "In 295 AC or 296 AC"
+    },
+    "Gawen_Swann": {
+        "id": "Gawen_Swann",
+        "name": "Gawen Swann",
+        "title": [
+            "Ser",
+            "Lord of Stonehelm"
+        ],
+        "allegiance": "House Swann",
+        "culture": "Marcher",
+        "born": "In 152 AC or before, at Stonehelm"
+    },
+    "Gawen_Westerling": {
+        "id": "Gawen_Westerling",
+        "name": "Gawen Westerling",
+        "title": "Lord of the Crag",
+        "allegiance": "House Westerling",
+        "culture": "Westermen",
+        "spouse": "Lady Sybell Spicer",
+        "issue": [
+            "Raynald Westerling",
+            "Jeyne Westerling",
+            "Eleyna Westerling",
+            "Rollam Westerling"
+        ]
+    },
+    "Gawen_Wylde": {
+        "id": "Gawen_Wylde",
+        "name": "Gawen Wylde",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Storm's End"
+        ],
+        "allegiance": [
+            "House Wylde",
+            "House Baratheon"
+        ],
+        "culture": "Stormlands",
+        "died": "In 283 AC, at Storm's End"
+    },
+    "Gedmund_Peake": {
+        "id": "Gedmund_Peake",
+        "name": "Gedmund Peake",
+        "alias": [
+            "Gedmund Great-Axe",
+            "Gedmund Green-Sick"
+        ],
+        "title": [
+            "Ser",
+            "Commander of the",
+            "royal fleet",
+            "Master of ships",
+            "Lord admiral"
+        ],
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Gella": {
+        "id": "Gella",
+        "name": "Gella",
+        "allegiance": "House Borrell",
+        "culture": "Sistermen"
+    },
+    "Gelmarr": {
+        "id": "Gelmarr",
+        "name": "Gelmarr",
+        "alias": "The Grim",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Gendel": {
+        "id": "Gendel",
+        "name": "Gendel",
+        "title": "King-Beyond-the-Wall",
+        "culture": "Free folk"
+    },
+    "Gendry": {
+        "id": "Gendry",
+        "name": "Gendry",
+        "alias": [
+            "The Bull",
+            "Mutton Chop"
+        ],
+        "title": "Ser",
+        "allegiance": "Brotherhood without banners",
+        "culture": "Crownlands",
+        "born": "In 284 AC, at King's Landing",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 7 | Season 8"
+    },
+    "Genna_Lannister": {
+        "id": "Genna_Lannister",
+        "name": "Genna Lannister",
+        "title": [
+            "Lady",
+            "Lady of",
+            "Riverrun"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "House Frey of Riverrun"
+        ],
+        "culture": "Westermen",
+        "born": "In 245 AC, at Casterly Rock",
+        "spouse": "Ser Emmon Frey",
+        "issue": [
+            "Cleos Frey",
+            "Lyonel Frey",
+            "Tion Frey",
+            "Walder Frey"
+        ]
+    },
+    "Geoff": {
+        "id": "Geoff",
+        "name": "Geoff",
+        "alias": "Geoff the Squirrel",
+        "allegiance": "Night's Watch"
+    },
+    "George_Graceford": {
+        "id": "George_Graceford",
+        "name": "George Graceford",
+        "title": [
+            "Lord of Holyhall",
+            "Lord Confessor"
+        ],
+        "allegiance": [
+            "House Graceford",
+            "Greens",
+            "Caltrops",
+            "Night's Watch"
+        ],
+        "culture": "Reach"
+    },
+    "Gerald_Gower": {
+        "id": "Gerald_Gower",
+        "name": "Gerald Gower",
+        "title": "Ser",
+        "allegiance": [
+            "House Gower",
+            "King's men"
+        ],
+        "culture": "Stormlands"
+    },
+    "Gerardys": {
+        "id": "Gerardys",
+        "name": "Gerardys",
+        "title": [
+            "Maester",
+            "at",
+            "Dragonstone",
+            "Grand Maester",
+            "(for",
+            "Rhaenyra Targaryen",
+            ")"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "died": "In 130 AC, at Dragonstone"
+    },
+    "Geremy_Frey": {
+        "id": "Geremy_Frey",
+        "name": "Geremy Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 263 AC or 264 AC",
+        "died": "In or between 289 AC and 299 AC",
+        "spouse": "Carolei Waynwood",
+        "issue": [
+            "Sandor Frey",
+            "Cynthea Frey"
+        ]
+    },
+    "Gerion_Lannister": {
+        "id": "Gerion_Lannister",
+        "name": "Gerion Lannister",
+        "alias": "Gery",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 255 AC, at Casterly Rock",
+        "died": "In 291 AC or after",
+        "issue": "Joy Hill"
+    },
+    "Germund_Botley": {
+        "id": "Germund_Botley",
+        "name": "Germund Botley",
+        "title": "Lord of Lordsport",
+        "allegiance": "House Botley",
+        "culture": "ironborn",
+        "issue": [
+            "Balon Botley",
+            "Quellon Botley"
+        ]
+    },
+    "Gerold": {
+        "id": "Gerold",
+        "name": "Gerold"
+    },
+    "Gerold_Dayne": {
+        "id": "Gerold_Dayne",
+        "name": "Gerold Dayne",
+        "alias": "Darkstar",
+        "title": [
+            "Ser",
+            "Knight of High Hermitage"
+        ],
+        "allegiance": "House Dayne of High Hermitage",
+        "culture": "Dornishmen",
+        "born": "In or between 270 AC and 274 AC, at Dorne"
+    },
+    "Gerold_Grafton": {
+        "id": "Gerold_Grafton",
+        "name": "Gerold Grafton",
+        "title": "Lord of Gulltown",
+        "allegiance": "House Grafton",
+        "culture": "Valemen",
+        "issue": [
+            "Son(s)",
+            "Gyles Grafton"
+        ]
+    },
+    "Gerold_Grafton_(king)": {
+        "id": "Gerold_Grafton_(king)",
+        "name": "Gerold Grafton (king)",
+        "spouse": [
+            "1st:Unknown",
+            "2nd:A daughter of King Osgood"
+        ],
+        "issue": [
+            "2 Daughters",
+            "A child"
+        ],
+        "title": [
+            "King",
+            "Ser"
+        ]
+    },
+    "Gerold_Hightower": {
+        "id": "Gerold_Hightower",
+        "name": "Gerold Hightower",
+        "alias": "The White Bull",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Kingsguard"
+        ],
+        "culture": "Reach",
+        "died": "In 283 AC, at the tower of joy",
+        "tv series": "Season 6"
+    },
+    "Gerold_Lannister": {
+        "id": "Gerold_Lannister",
+        "name": "Gerold Lannister",
+        "alias": "Gerold the Golden",
+        "title": [
+            "Regent",
+            "Lord of Casterly Rock",
+            "Shield of Lannisport",
+            "Warden of the West"
+        ],
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In or before 207 AC, at Casterly Rock",
+        "died": "In 244 AC, at Casterly Rock",
+        "spouse": [
+            "1st: Lady",
+            "Alysanne Farman",
+            "2nd: Lady",
+            "Rohanne Webber"
+        ],
+        "issue": [
+            "Tywald Lannister",
+            "Tion Lannister",
+            "Tytos Lannister",
+            "Jason Lannister"
+        ]
+    },
+    "Gerold_Lannister_(king)": {
+        "id": "Gerold_Lannister_(king)",
+        "name": "Gerold Lannister (king)",
+        "alias": "Gerold the Great",
+        "title": "King of the Rock"
+    },
+    "Gerold_II_Lannister": {
+        "id": "Gerold_II_Lannister",
+        "name": "Gerold II Lannister",
+        "culture": "First Men",
+        "father": "Tyrion III Lannister",
+        "title": "King of the Rock"
+    },
+    "Gerold_III_Lannister": {
+        "id": "Gerold_III_Lannister",
+        "name": "Gerold III Lannister",
+        "culture": "First Men",
+        "issue": "A single daughter",
+        "title": "King of the Rock"
+    },
+    "Gerold_Templeton": {
+        "id": "Gerold_Templeton",
+        "name": "Gerold Templeton",
+        "allegiance": "House Templeton",
+        "culture": "Valemen",
+        "born": "In Around 64 AC"
+    },
+    "Gerren": {
+        "id": "Gerren",
+        "name": "Gerren"
+    },
+    "Gerrick_Kingsblood": {
+        "id": "Gerrick_Kingsblood",
+        "name": "Gerrick Kingsblood",
+        "alias": "Gerrick Kingsblood",
+        "title": "King of the Wildlings",
+        "allegiance": [
+            "House Redbeard",
+            "House Baratheon of Dragonstone",
+            "Mance Rayder"
+        ],
+        "culture": "Free folk",
+        "issue": [
+            "Son",
+            "Eldest daughter",
+            "Second daughter",
+            "Youngest daughter"
+        ]
+    },
+    "Gerrick_Kingsblood%27s_son": {
+        "id": "Gerrick_Kingsblood%27s_son",
+        "name": "Gerrick Kingsblood's son",
+        "allegiance": "House Redbeard",
+        "culture": "Free folk"
+    },
+    "Gerrick_Kingsblood%27s_eldest_daughter": {
+        "id": "Gerrick_Kingsblood%27s_eldest_daughter",
+        "name": "Gerrick Kingsblood's eldest daughter",
+        "allegiance": "House Redbeard",
+        "culture": "Free folk"
+    },
+    "Gerrick_Kingsblood%27s_second_daughter": {
+        "id": "Gerrick_Kingsblood%27s_second_daughter",
+        "name": "Gerrick Kingsblood's second daughter",
+        "alias": "Gerrick Kingsblood's second daughter",
+        "allegiance": "House Redbeard",
+        "culture": "Free folk"
+    },
+    "Gerrick_Kingsblood%27s_youngest_daughter": {
+        "id": "Gerrick_Kingsblood%27s_youngest_daughter",
+        "name": "Gerrick Kingsblood's youngest daughter",
+        "alias": "Gerrick Kingsblood's youngest daughter",
+        "allegiance": "House Redbeard",
+        "culture": "Free folk"
+    },
+    "Gerris_Drinkwater": {
+        "id": "Gerris_Drinkwater",
+        "name": "Gerris Drinkwater",
+        "alias": [
+            "Dornish Gerrold",
+            "Drink"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "House Drinkwater",
+            "House Yronwood",
+            "Windblown"
+        ],
+        "culture": "Dornishmen",
+        "born": "In 275 AC"
+    },
+    "Gerrold_Redback": {
+        "id": "Gerrold_Redback",
+        "name": "Gerrold Redback",
+        "allegiance": "Windblown"
+    },
+    "Gessio_Haratis": {
+        "id": "Gessio_Haratis",
+        "name": "Gessio Haratis",
+        "culture": "Pentos"
+    },
+    "Gevin_Harlaw": {
+        "id": "Gevin_Harlaw",
+        "name": "Gevin Harlaw",
+        "allegiance": "House Harlaw",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Ghael": {
+        "id": "Ghael",
+        "name": "Ghael",
+        "title": "Lord",
+        "culture": "Astapori"
+    },
+    "Gharak_Squint-Eye": {
+        "id": "Gharak_Squint-Eye",
+        "name": "Gharak Squint-Eye",
+        "alias": "Gharak Squint-Eye",
+        "title": "Jhattar",
+        "culture": "Jogos Nhai"
+    },
+    "Ghazdor_zo_Ahlaq": {
+        "id": "Ghazdor_zo_Ahlaq",
+        "name": "Ghazdor zo Ahlaq",
+        "alias": "Lord Wobblecheeks",
+        "allegiance": [
+            "House of Ahlaq",
+            "Wise Masters"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Ghost_of_High_Heart": {
+        "id": "Ghost_of_High_Heart",
+        "name": "Ghost of High Heart",
+        "alias": "The woods witch",
+        "culture": "Rivermen"
+    },
+    "Giant_of_the_Trident": {
+        "id": "Giant_of_the_Trident",
+        "name": "Giant of the Trident",
+        "alias": "The Giant of the Trident",
+        "culture": "Rivermen",
+        "died": "In 31 AC, at Riverlands"
+    },
+    "Gilbert_Farring": {
+        "id": "Gilbert_Farring",
+        "name": "Gilbert Farring",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ],
+        "allegiance": "House Farring"
+    },
+    "Gilbert_of_the_Vines": {
+        "id": "Gilbert_of_the_Vines",
+        "name": "Gilbert of the Vines",
+        "allegiance": "House Redwyne",
+        "culture": "Reach"
+    },
+    "Gillam": {
+        "id": "Gillam",
+        "name": "Gillam",
+        "title": "Brother",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ]
+    },
+    "Gilliane_Glover": {
+        "id": "Gilliane_Glover",
+        "name": "Gilliane Glover",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Glover",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 96 AC",
+        "died": "In or after 109 AC",
+        "spouse": "Lord Rickon Stark",
+        "issue": [
+            "Cregan Stark",
+            "Son"
+        ]
+    },
+    "Gilly": {
+        "id": "Gilly",
+        "name": "Gilly",
+        "alias": "the rabbit keeper",
+        "culture": "Free folk",
+        "born": "In either 282 AC, 283 AC or 284 AC, at Craster's Keep",
+        "spouse": "Craster",
+        "issue": "Monster",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Gilwood_Hunter": {
+        "id": "Gilwood_Hunter",
+        "name": "Gilwood Hunter",
+        "alias": "Young Lord Hunter",
+        "title": [
+            "Ser",
+            "Lord of",
+            "Longbow Hall"
+        ],
+        "allegiance": "House Hunter",
+        "culture": "Valemen",
+        "born": "In 250 254 AC"
+    },
+    "Girl_bought_to_please_the_king": {
+        "id": "Girl_bought_to_please_the_king",
+        "name": "Girl bought to please the king",
+        "culture": "Lys"
+    },
+    "Gladden_Wylde": {
+        "id": "Gladden_Wylde",
+        "name": "Gladden Wylde",
+        "title": "Ser",
+        "allegiance": "House Wylde",
+        "culture": "Stormlander",
+        "died": "In 298 AC, at the Mummer's Ford"
+    },
+    "Glaive": {
+        "id": "Glaive",
+        "name": "Glaive",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Glendon_Flowers": {
+        "id": "Glendon_Flowers",
+        "name": "Glendon Flowers",
+        "alias": [
+            "Glendon Ball",
+            "The Knight of the Pussywillows",
+            "Glendon the Bastard"
+        ],
+        "title": "Ser",
+        "culture": [
+            "Crownlands",
+            "Reach"
+        ],
+        "born": "In 196 AC or 197 AC"
+    },
+    "Glendon_Goode": {
+        "id": "Glendon_Goode",
+        "name": "Glendon Goode",
+        "title": [
+            "Ser",
+            "Lord Commander of the Queensguard"
+        ],
+        "allegiance": [
+            "House Goode",
+            "Queensguard",
+            "Blacks"
+        ],
+        "born": "In 110 AC",
+        "died": "In 130 AC, at Dragonpit, King's Landing"
+    },
+    "Glendon_Hewett": {
+        "id": "Glendon_Hewett",
+        "name": "Glendon Hewett",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Eastwatch-by-the-Sea",
+            "Commander",
+            "of",
+            "Eastwatch-by-the-Sea",
+            "(temporary)"
+        ],
+        "allegiance": [
+            "House Hewett",
+            "Night's Watch"
+        ],
+        "culture": "Reach"
+    },
+    "Goady": {
+        "id": "Goady",
+        "name": "Goady",
+        "allegiance": "Night's Watch"
+    },
+    "Goat_boy": {
+        "id": "Goat_boy",
+        "name": "Goat boy",
+        "allegiance": "House of Qaggaz"
+    },
+    "God-on-Earth": {
+        "id": "God-on-Earth",
+        "name": "God-on-Earth",
+        "alias": "God-on-Earth",
+        "culture": "Great Empire of the Dawn",
+        "issue": [
+            "Pearl Emperor",
+            "Son(s)"
+        ],
+        "father": "The Lion of Night",
+        "mother": "The Maiden-Made-of-Light",
+        "title": "God-Emperor",
+        "spouse": "100 queens"
+    },
+    "Godric_Borrell": {
+        "id": "Godric_Borrell",
+        "name": "Godric Borrell",
+        "title": [
+            "Lord of Sweetsister",
+            "Shield of Sisterton",
+            "Master of Breakwater Castle",
+            "Keeper of the Night Lamp"
+        ],
+        "allegiance": "House Borrell",
+        "culture": "Sistermen",
+        "born": "At Sweetsister",
+        "issue": "2 daughters"
+    },
+    "Godry_Farring": {
+        "id": "Godry_Farring",
+        "name": "Godry Farring",
+        "alias": [
+            "Godry the Giantslayer",
+            "The Giantslayer"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "House Farring",
+            "House Baratheon of Dragonstone",
+            "queen's men"
+        ]
+    },
+    "Godwyn": {
+        "id": "Godwyn",
+        "name": "Godwyn",
+        "allegiance": "House Lannister"
+    },
+    "Goghor_the_Giant": {
+        "id": "Goghor_the_Giant",
+        "name": "Goghor",
+        "alias": "Goghor the Giant",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Goodwin": {
+        "id": "Goodwin",
+        "name": "Goodwin",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Evenfall Hall"
+        ],
+        "allegiance": "House Tarth"
+    },
+    "Goodwyn": {
+        "id": "Goodwyn",
+        "name": "Goodwyn",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Gordan_I_Gardener": {
+        "id": "Gordan_I_Gardener",
+        "name": "Gordan I Gardener",
+        "alias": "Grey-Eyes",
+        "title": "King of the Reach"
+    },
+    "Goren_Greyjoy": {
+        "id": "Goren_Greyjoy",
+        "name": "Goren Greyjoy",
+        "title": [
+            "Lord of the Iron Islands",
+            "Lord Reaper of Pyke"
+        ],
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Gorghan_of_Old_Ghis": {
+        "id": "Gorghan_of_Old_Ghis",
+        "name": "Gorghan",
+        "culture": "Ghiscari"
+    },
+    "Gorm": {
+        "id": "Gorm",
+        "name": "Gorm",
+        "alias": "Gorm the Wolf",
+        "culture": "Free folk",
+        "died": "At Hardhome"
+    },
+    "Gormon_Massey": {
+        "id": "Gormon_Massey",
+        "name": "Gormon Massey",
+        "title": "Lord of Stonedance",
+        "allegiance": [
+            "House Massey",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 129 AC, at Dragonstone"
+    },
+    "Gormon_Peake": {
+        "id": "Gormon_Peake",
+        "name": "Gormon Peake",
+        "alias": "Gormy",
+        "title": [
+            "Ser",
+            "Lord of Starpike",
+            "Lord of Dunstonbury",
+            "(stripped)",
+            "Lord of Whitegrove",
+            "(stripped)"
+        ],
+        "allegiance": [
+            "House Peake",
+            "House Blackfyre"
+        ],
+        "culture": "Reach",
+        "died": "In 212 AC, at Whitewalls"
+    },
+    "Gormon_Tyrell": {
+        "id": "Gormon_Tyrell",
+        "name": "Gormon Tyrell",
+        "alias": "Maester Gormon",
+        "title": "Maester",
+        "allegiance": [
+            "House Tyrell",
+            "The Citadel"
+        ],
+        "culture": "Reach"
+    },
+    "Gormond_Drumm": {
+        "id": "Gormond_Drumm",
+        "name": "Gormond Drumm",
+        "alias": "Gormond the Oldfather",
+        "allegiance": "House Drumm",
+        "culture": "ironborn"
+    },
+    "Gormond_Goodbrother": {
+        "id": "Gormond_Goodbrother",
+        "name": "Gormond Goodbrother",
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "born": "In 282 AC or 283 AC, at Hammerhorn"
+    },
+    "Gorne": {
+        "id": "Gorne",
+        "name": "Gorne",
+        "title": "King-Beyond-the-Wall",
+        "culture": "Free folk"
+    },
+    "Gorold_Goodbrother": {
+        "id": "Gorold_Goodbrother",
+        "name": "Gorold Goodbrother",
+        "title": [
+            "Lord of Hammerhorn",
+            "Captain"
+        ],
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "issue": [
+            "Gwin Goodbrother",
+            "Gysella Goodbrother",
+            "10 daughters",
+            "Greydon Goodbrother",
+            "Gormond Goodbrother",
+            "Gran Goodbrother"
+        ]
+    },
+    "Gorys_Edoryen": {
+        "id": "Gorys_Edoryen",
+        "name": "Gorys Edoryen",
+        "title": "Paymaster",
+        "allegiance": "Golden Company",
+        "culture": "Volantene"
+    },
+    "Gorzhak_zo_Eraz": {
+        "id": "Gorzhak_zo_Eraz",
+        "name": "Gorzhak zo Eraz",
+        "alias": "Pudding Face",
+        "allegiance": [
+            "Wise Masters",
+            "House of Eraz"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai",
+        "died": "In 300 AC, at outside Meereen"
+    },
+    "Gowen_Baratheon": {
+        "id": "Gowen_Baratheon",
+        "name": "Gowen Baratheon",
+        "allegiance": "House Baratheon",
+        "culture": "Stormlands",
+        "spouse": "Tya Lannister",
+        "issue": "Son"
+    },
+    "Gramyon": {
+        "id": "Gramyon",
+        "name": "Gramyon",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Gran_Goodbrother": {
+        "id": "Gran_Goodbrother",
+        "name": "Gran Goodbrother",
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "born": "In 282 AC or 283 AC, at Hammerhorn"
+    },
+    "Grance_Morrigen": {
+        "id": "Grance_Morrigen",
+        "name": "Grance Morrigen",
+        "title": "Ser",
+        "allegiance": "House Morrigen",
+        "culture": "Stormlands"
+    },
+    "Gravedigger": {
+        "id": "Gravedigger",
+        "name": "Gravedigger",
+        "title": "Novice",
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ]
+    },
+    "Grazdan_(Great)": {
+        "id": "Grazdan_(Great)",
+        "name": "Grazdan the Great",
+        "culture": "Ghiscari"
+    },
+    "Grazdan_(tall_one)": {
+        "id": "Grazdan_(tall_one)",
+        "name": "Grazdan (tall one)",
+        "allegiance": "Good Masters",
+        "culture": "Astapori",
+        "died": "In 299 AC, at Astapor"
+    },
+    "Grazdan_(fat_one)": {
+        "id": "Grazdan_(fat_one)",
+        "name": "Grazdan (fat one)",
+        "allegiance": "Good Masters",
+        "culture": "Astapori",
+        "died": "In 299 AC, at Astapor"
+    },
+    "Grazdan_(spiked_beard)": {
+        "id": "Grazdan_(spiked_beard)",
+        "name": "Grazdan (spiked beard)",
+        "allegiance": "Good Masters",
+        "culture": "Astapori",
+        "died": "In 299 AC, at Astapor"
+    },
+    "Grazdan_mo_Eraz": {
+        "id": "Grazdan_mo_Eraz",
+        "name": "Grazdan mo Eraz",
+        "allegiance": [
+            "Wise Masters",
+            "House of Eraz"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Grazdan_mo_Ullhor": {
+        "id": "Grazdan_mo_Ullhor",
+        "name": "Grazdan mo Ullhor",
+        "allegiance": [
+            "Good Masters",
+            "House of Ullhor"
+        ],
+        "culture": "Astapori",
+        "died": "In 299 AC, at Astapor"
+    },
+    "Grazdan_zo_Galare": {
+        "id": "Grazdan_zo_Galare",
+        "name": "Grazdan zo Galare",
+        "allegiance": "House of Galare",
+        "culture": "Meereenese"
+    },
+    "Grazhar_zo_Galare": {
+        "id": "Grazhar_zo_Galare",
+        "name": "Grazhar zo Galare",
+        "alias": "Grazdar",
+        "title": "Cupbearer",
+        "allegiance": "House of Galare",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Grazdhan_zo_Rhaezn": {
+        "id": "Grazdhan_zo_Rhaezn",
+        "name": "Grazdhan zo Rhaezn",
+        "alias": "Clanker Lord",
+        "allegiance": [
+            "Wise Masters",
+            "House of Rhaezn"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Great_Walrus": {
+        "id": "Great_Walrus",
+        "name": "Great Walrus",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Greatheart": {
+        "id": "Greatheart",
+        "name": "Greatheart",
+        "alias": "Greatheart",
+        "title": "Ser",
+        "allegiance": "Kingsguard"
+    },
+    "Green_Gergen": {
+        "id": "Green_Gergen",
+        "name": "Green Gergen",
+        "alias": "Green Gergen"
+    },
+    "Greenbeard": {
+        "id": "Greenbeard",
+        "name": "Greenbeard",
+        "alias": "Greenbeard",
+        "title": "Ser",
+        "allegiance": "Brotherhood without banners",
+        "culture": "Tyroshi"
+    },
+    "Gregor_Clegane": {
+        "id": "Gregor_Clegane",
+        "name": "Gregor Clegane",
+        "alias": [
+            "The Mountain That Rides",
+            "The Mountain",
+            "The Enormity That Rides",
+            "The great dog"
+        ],
+        "title": [
+            "Ser",
+            "Knight of",
+            "Clegane's Keep"
+        ],
+        "allegiance": [
+            "House Clegane",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "born": "In 265 AC or 266 AC",
+        "died": "In 300 AC, at the Red Keep",
+        "spouse": "Three unknown wives",
+        "tv series": "Season 1 | Season 2 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Gregor_Goode": {
+        "id": "Gregor_Goode",
+        "name": "Gregor Goode",
+        "title": "Ser",
+        "allegiance": [
+            "House Goode",
+            "Kingsguard"
+        ],
+        "died": "In 10 48 AC"
+    },
+    "Grenn": {
+        "id": "Grenn",
+        "name": "Grenn",
+        "alias": "Aurochs",
+        "allegiance": "Night's Watch",
+        "culture": "Westeros",
+        "born": "In 281 AC or 282 AC",
+        "tv series": "Season 1 | Season 2 | Season 3  | Season 4"
+    },
+    "Gretchel": {
+        "id": "Gretchel",
+        "name": "Gretchel",
+        "allegiance": "House Arryn"
+    },
+    "Grey_King": {
+        "id": "Grey_King",
+        "name": "Grey King",
+        "culture": "ironborn",
+        "died": "watery halls of the Drowned God (alleged)",
+        "title": "High King of the Iron Islands"
+    },
+    "Grey_Worm": {
+        "id": "Grey_Worm",
+        "name": "Grey Worm",
+        "title": "Commander of the Unsullied",
+        "allegiance": [
+            "The",
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "tv series": "Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Greydon": {
+        "id": "Greydon",
+        "name": "Greydon",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel"
+    },
+    "Greydon_Gardener": {
+        "id": "Greydon_Gardener",
+        "name": "Greydon Gardener",
+        "title": "King of the Reach"
+    },
+    "Greydon_Goodbrother": {
+        "id": "Greydon_Goodbrother",
+        "name": "Greydon Goodbrother",
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "born": "In 282 AC or 283 AC, at Hammerhorn"
+    },
+    "Griffin_King": {
+        "id": "Griffin_King",
+        "name": "Griffin King",
+        "culture": "First Men",
+        "title": "last of the Mountain Kings"
+    },
+    "Griffith_Goode": {
+        "id": "Griffith_Goode",
+        "name": "Griffith Goode",
+        "title": "Ser",
+        "allegiance": [
+            "House Goode",
+            "Kingsguard"
+        ],
+        "died": "In 10 48 AC"
+    },
+    "Grigg": {
+        "id": "Grigg",
+        "name": "Grigg the Goat",
+        "alias": "Grigg the Goat",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Grimtongue": {
+        "id": "Grimtongue",
+        "name": "Grimtongue",
+        "culture": "Ironborn"
+    },
+    "Grisel": {
+        "id": "Grisel",
+        "name": "Grisel",
+        "allegiance": "House Baelish",
+        "culture": "Valemen"
+    },
+    "Grisella": {
+        "id": "Grisella",
+        "name": "Grisella",
+        "culture": "Free folk"
+    },
+    "Groleo": {
+        "id": "Groleo",
+        "name": "Groleo",
+        "title": [
+            "Captain",
+            "Lord Admiral"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Pentoshi",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Grover_Tully": {
+        "id": "Grover_Tully",
+        "name": "Grover Tully",
+        "title": [
+            "Lord Paramount of the Trident",
+            "Lord of Riverrun"
+        ],
+        "allegiance": [
+            "House Tully",
+            "Greens"
+        ],
+        "culture": "Rivermen",
+        "born": "In before 76 AC",
+        "died": "In 130 AC, at Riverrun",
+        "issue": "Sons"
+    },
+    "Grubbs": {
+        "id": "Grubbs",
+        "name": "Grubbs",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at Beyond the Wall"
+    },
+    "Grunt": {
+        "id": "Grunt",
+        "name": "Grunt",
+        "allegiance": [
+            "House Bolton",
+            "Bastard's Boys"
+        ],
+        "culture": "Northmen"
+    },
+    "Gueren": {
+        "id": "Gueren",
+        "name": "Gueren",
+        "allegiance": "Night's Watch"
+    },
+    "Gulian": {
+        "id": "Gulian",
+        "name": "Gulian",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Gulian_Qorgyle": {
+        "id": "Gulian_Qorgyle",
+        "name": "Gulian Qorgyle",
+        "title": "Ser",
+        "allegiance": "House Qorgyle",
+        "culture": "Dornishmen"
+    },
+    "Gulian_Swann": {
+        "id": "Gulian_Swann",
+        "name": "Gulian Swann",
+        "title": "Lord of Stonehelm",
+        "allegiance": "House Swann",
+        "culture": "Marcher",
+        "born": "In 259 AC or before",
+        "issue": [
+            "Donnel Swann",
+            "Balon Swann"
+        ]
+    },
+    "Guncer_Sunglass": {
+        "id": "Guncer_Sunglass",
+        "name": "Guncer Sunglass",
+        "title": "Lord of Sweetport Sound",
+        "allegiance": "House Sunglass",
+        "culture": "Crownlands",
+        "born": "At Sweetport Sound",
+        "died": "In 299 AC, at Dragonstone"
+    },
+    "Gunthor_son_of_Gurn": {
+        "id": "Gunthor_son_of_Gurn",
+        "name": "Gunthor (son of Gurn)",
+        "allegiance": "Stone Crows"
+    },
+    "Gunthor_Darklyn": {
+        "id": "Gunthor_Darklyn",
+        "name": "Gunthor Darklyn",
+        "title": "Lord of Duskendale",
+        "allegiance": [
+            "House Darklyn",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 129 AC, at Duskendale",
+        "spouse": "Lady Meredyth Darklyn"
+    },
+    "Gunthor_Estermont": {
+        "id": "Gunthor_Estermont",
+        "name": "Gunthor Estermont",
+        "title": "Ser",
+        "allegiance": "House Estermont",
+        "culture": "Stormlands"
+    },
+    "Gunthor_Goodbrother": {
+        "id": "Gunthor_Goodbrother",
+        "name": "Gunthor Goodbrother",
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "spouse": "Lysa Farman (as a salt wife)"
+    },
+    "Gunthor_Hightower": {
+        "id": "Gunthor_Hightower",
+        "name": "Gunthor Hightower",
+        "title": "Ser",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or between ~271 AC and 285 AC",
+        "spouse": "Jeyne Fossoway"
+    },
+    "Gunthor_Royce": {
+        "id": "Gunthor_Royce",
+        "name": "Gunthor Royce",
+        "alias": "The Bronze Giant",
+        "title": "Lord of Runestone",
+        "allegiance": "House Royce",
+        "culture": "Valemen"
+    },
+    "Gurn": {
+        "id": "Gurn",
+        "name": "Gurn",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans",
+        "issue": "Gunthor"
+    },
+    "Guthor_Grimm": {
+        "id": "Guthor_Grimm",
+        "name": "Guthor Grimm",
+        "title": "Lord of Greyshield (deposed)",
+        "allegiance": "House Grimm",
+        "culture": "Reach"
+    },
+    "Guy_Lothston": {
+        "id": "Guy_Lothston",
+        "name": "Guy Lothston",
+        "alias": "Guy the Glutton",
+        "title": "Ser",
+        "allegiance": "House Lothston",
+        "culture": "Rivermen",
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Guyard_Morrigen": {
+        "id": "Guyard_Morrigen",
+        "name": "Guyard Morrigen",
+        "alias": "Guyard the Green",
+        "title": "Ser",
+        "allegiance": [
+            "House Morrigen",
+            "Rainbow Guard"
+        ],
+        "culture": "Stormlander",
+        "born": "In or between 278 AC and 283 AC, at Crows Nest",
+        "died": "In 299 AC, at King's Landing"
+    },
+    "Guyne": {
+        "id": "Guyne",
+        "name": "Guyne",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Guyle_the_Cunning": {
+        "id": "Guyle_the_Cunning",
+        "name": "Guyle the Cunning",
+        "title": "Ser"
+    },
+    "Gwayne_Corbray": {
+        "id": "Gwayne_Corbray",
+        "name": "Gwayne Corbray",
+        "title": "Ser",
+        "allegiance": [
+            "House Corbray",
+            "Kingsguard"
+        ],
+        "culture": "Valemen"
+    },
+    "Gwayne_I_Gardener": {
+        "id": "Gwayne_I_Gardener",
+        "name": "Gwayne I Gardener",
+        "alias": "Gwayne the Gallant",
+        "title": "King of the Reach"
+    },
+    "Gwayne_III_Gardener": {
+        "id": "Gwayne_III_Gardener",
+        "name": "Gwayne III Gardener",
+        "alias": "Gwayne the Fat",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Gwayne_IV_Gardener": {
+        "id": "Gwayne_IV_Gardener",
+        "name": "Gwayne IV Gardener",
+        "alias": "Gwayne the Gods-fearing",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Gwayne_V_Gardener": {
+        "id": "Gwayne_V_Gardener",
+        "name": "Gwayne V Gardener",
+        "culture": "Andal",
+        "father": "Merle I Gardener",
+        "title": [
+            "King of the Reach",
+            "Ser"
+        ]
+    },
+    "Gwayne_Gardener_(son_of_Perceon_III)": {
+        "id": "Gwayne_Gardener_(son_of_Perceon_III)",
+        "name": "Gwayne Gardener (son of Perceon III)",
+        "title": "King of the Reach",
+        "spouse": "Daughter of Lord Lorimar Peake"
+    },
+    "Gwayne_Gaunt": {
+        "id": "Gwayne_Gaunt",
+        "name": "Gwayne Gaunt",
+        "title": "Ser",
+        "allegiance": [
+            "House Gaunt",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands",
+        "died": "In 277 AC, at Duskendale"
+    },
+    "Gwayne_Hightower": {
+        "id": "Gwayne_Hightower",
+        "name": "Gwayne Hightower",
+        "title": "Ser",
+        "allegiance": [
+            "House Hightower",
+            "City Watch of King's Landing",
+            "Greens"
+        ],
+        "culture": "Reach",
+        "born": "In or between 88 AC and 96 AC",
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Gwayne_Oakheart": {
+        "id": "Gwayne_Oakheart",
+        "name": "Gwayne Oakheart",
+        "title": "Ser",
+        "allegiance": "House Oakheart",
+        "culture": "Reach"
+    },
+    "Gwenys_Rivers": {
+        "id": "Gwenys_Rivers",
+        "name": "Gwenys Rivers",
+        "allegiance": "House Blackwood",
+        "born": "In 173 AC or 174 AC"
+    },
+    "Gwin_Goodbrother": {
+        "id": "Gwin_Goodbrother",
+        "name": "Gwin Goodbrother",
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "born": "In or before 282 AC"
+    },
+    "Gwynesse_Harlaw": {
+        "id": "Gwynesse_Harlaw",
+        "name": "Gwynesse Harlaw",
+        "allegiance": "House Harlaw",
+        "culture": "ironborn",
+        "spouse": "Unknown husband"
+    },
+    "Gwyneth_Yronwood": {
+        "id": "Gwyneth_Yronwood",
+        "name": "Gwyneth Yronwood",
+        "allegiance": "House Yronwood",
+        "culture": "Dornishmen",
+        "born": "In 287 AC or 288 AC"
+    },
+    "Gylbert_Farman": {
+        "id": "Gylbert_Farman",
+        "name": "Gylbert Farman",
+        "allegiance": "House Farman",
+        "culture": "Westermen"
+    },
+    "Gylbert_Farwynd": {
+        "id": "Gylbert_Farwynd",
+        "name": "Gylbert Farwynd",
+        "title": "Lord of the Lonely Light",
+        "allegiance": "House Farwynd of the Lonely Light",
+        "culture": "ironborn",
+        "issue": [
+            "Gyles Farwynd",
+            "Ygon Farwynd",
+            "Yohn Farwynd"
+        ]
+    },
+    "Gyldayn": {
+        "id": "Gyldayn",
+        "name": "Gyldayn",
+        "title": [
+            "Archmaester",
+            "Maester",
+            "at",
+            "Summerhall"
+        ],
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ],
+        "culture": "Westeros"
+    },
+    "Gyleno_Dothare": {
+        "id": "Gyleno_Dothare",
+        "name": "Gyleno Dothare",
+        "culture": "Braavosi"
+    },
+    "Gyles": {
+        "id": "Gyles",
+        "name": "Gyles",
+        "alias": "Gyles Greycloak",
+        "title": "Ser",
+        "allegiance": "Kingsguard"
+    },
+    "Gyles_Belgrave": {
+        "id": "Gyles_Belgrave",
+        "name": "Gyles Belgrave",
+        "title": "Ser",
+        "allegiance": [
+            "House Belgrave",
+            "Kingsguard",
+            "Greens"
+        ],
+        "died": "In 131 AC, at King's Landing"
+    },
+    "Gyles_Farwynd": {
+        "id": "Gyles_Farwynd",
+        "name": "Gyles Farwynd",
+        "allegiance": "House Farwynd of the Lonely Light",
+        "culture": "ironborn"
+    },
+    "Gyles_I_Gardener": {
+        "id": "Gyles_I_Gardener",
+        "name": "Gyles I Gardener",
+        "alias": "Gyles the Woe",
+        "culture": "First Men",
+        "title": "King of the Reach"
+    },
+    "Gyles_II_Gardener": {
+        "id": "Gyles_II_Gardener",
+        "name": "Gyles II Gardener",
+        "title": "King of the Reach"
+    },
+    "Gyles_III_Gardener": {
+        "id": "Gyles_III_Gardener",
+        "name": "Gyles III Gardener",
+        "title": "King of the Reach"
+    },
+    "Gyles_Grafton": {
+        "id": "Gyles_Grafton",
+        "name": "Gyles Grafton",
+        "allegiance": "House Grafton",
+        "culture": "Valemen"
+    },
+    "Gyles_Morrigen": {
+        "id": "Gyles_Morrigen",
+        "name": "Gyles Morrigen",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Morrigen",
+            "Kingsguard"
+        ],
+        "culture": "Stormlander",
+        "born": "In or before 32 AC",
+        "died": "In 84 99 AC"
+    },
+    "Gyles_Rosby": {
+        "id": "Gyles_Rosby",
+        "name": "Gyles Rosby",
+        "title": [
+            "Lord of Rosby",
+            "Lord treasurer",
+            "Master of coin"
+        ],
+        "allegiance": "House Rosby",
+        "culture": "Crownlands",
+        "died": "In 300 AC, at King's Landing",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Niece of",
+            "Tanda Stokeworth"
+        ],
+        "tv series": "Season 1"
+    },
+    "Gyles_Yronwood": {
+        "id": "Gyles_Yronwood",
+        "name": "Gyles Yronwood",
+        "title": "Ser",
+        "allegiance": [
+            "House Yronwood",
+            "Blacks"
+        ],
+        "culture": "Dornishmen",
+        "died": "In 130 AC, at Flea Bottom"
+    },
+    "Gylo_Rhegan": {
+        "id": "Gylo_Rhegan",
+        "name": "Gylo Rhegan",
+        "title": "Commander of the Long Lances",
+        "allegiance": "Long Lances"
+    },
+    "Gyloro_Dothare": {
+        "id": "Gyloro_Dothare",
+        "name": "Gyloro Dothare",
+        "culture": "Braavosi"
+    },
+    "Gynir": {
+        "id": "Gynir",
+        "name": "Gynir",
+        "alias": [
+            "Gynir Rednose",
+            "Rednose"
+        ],
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Gysella_Goodbrother": {
+        "id": "Gysella_Goodbrother",
+        "name": "Gysella Goodbrother",
+        "allegiance": "House Goodbrother",
+        "culture": "ironborn",
+        "born": "In or before 282 AC"
+    },
+    "Ginger_Jack": {
+        "id": "Ginger_Jack",
+        "name": "Ginger Jack",
+        "alias": "Ginjer Jack",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Grey_Jeyne": {
+        "id": "Grey_Jeyne",
+        "name": "Grey Jeyne"
+    },
+    "Goodwife_Maerie": {
+        "id": "Goodwife_Maerie",
+        "name": "Goodwife Maerie",
+        "title": "Goodwife",
+        "died": "At Riverlands"
+    }
+}

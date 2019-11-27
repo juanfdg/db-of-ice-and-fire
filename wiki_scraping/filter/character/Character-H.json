@@ -1,0 +1,2023 @@
+{
+    "Haegon_Blackfyre": {
+        "id": "Haegon_Blackfyre",
+        "name": "Haegon I Blackfyre",
+        "allegiance": "House Blackfyre",
+        "culture": "Crownlands",
+        "born": "In 190 193 AC",
+        "died": "In 219 AC",
+        "spouse": "Unknown",
+        "issue": [
+            "Daemon III Blackfyre",
+            "Son(s)"
+        ]
+    },
+    "Haereg": {
+        "id": "Haereg",
+        "name": "Haereg",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Hagen": {
+        "id": "Hagen",
+        "name": "Hagen the Horn",
+        "alias": "Hagen the Horn",
+        "culture": "ironborn",
+        "died": "In 300 AC, at Deepwood Motte",
+        "issue": "Daughter"
+    },
+    "Hagen%27s_daughter": {
+        "id": "Hagen%27s_daughter",
+        "name": "Hagen's daughter",
+        "culture": "ironborn",
+        "born": "In 282 AC or 283 AC"
+    },
+    "Haggo": {
+        "id": "Haggo",
+        "name": "Haggo",
+        "title": "Bloodrider of Khal Drogo",
+        "culture": "Dothraki",
+        "died": "In ~298/299 AC, at Dothraki sea",
+        "tv series": "Season 1"
+    },
+    "Haggon": {
+        "id": "Haggon",
+        "name": "Haggon",
+        "culture": "Free folk"
+    },
+    "Hagon_Hoare": {
+        "id": "Hagon_Hoare",
+        "name": "Hagon Hoare",
+        "alias": [
+            "Hagon the Heartless",
+            "Hagon the Terrible"
+        ],
+        "father": "Harmund II Hoare",
+        "mother": "Lelia Lannister",
+        "title": "King of the Iron Islands"
+    },
+    "Hake": {
+        "id": "Hake",
+        "name": "Hake",
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at Fist of the First Men"
+    },
+    "Hake_(archmaester)": {
+        "id": "Hake_(archmaester)",
+        "name": "Hake (archmaester)",
+        "title": "Archmaester",
+        "allegiance": "The Citadel",
+        "born": "At Harlaw"
+    },
+    "Hairy_Hal": {
+        "id": "Hairy_Hal",
+        "name": "Hairy Hal",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at beyond the Wall"
+    },
+    "Hal_(Hog)": {
+        "id": "Hal_(Hog)",
+        "name": "Hal the Hog",
+        "alias": "Hal the Hog",
+        "allegiance": "House Baratheon of Dragonstone",
+        "died": "In 299 AC"
+    },
+    "Halder": {
+        "id": "Halder",
+        "name": "Halder",
+        "alias": "Stone Head",
+        "allegiance": "Night's Watch",
+        "born": "In 281 AC or 282 AC",
+        "tv series": "Season 1"
+    },
+    "Haldon": {
+        "id": "Haldon",
+        "name": "Haldon",
+        "alias": "Haldon Halfmaester",
+        "allegiance": "House Targaryen"
+    },
+    "Hali": {
+        "id": "Hali",
+        "name": "Hali",
+        "culture": "Free folk",
+        "died": "In 298 AC, at the Wolfswood"
+    },
+    "Halleck": {
+        "id": "Halleck",
+        "name": "Halleck",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "born": "At beyond the Wall"
+    },
+    "Halleck_Hoare": {
+        "id": "Halleck_Hoare",
+        "name": "Halleck Hoare",
+        "issue": [
+            "Harren Hoare",
+            "Lord Commander Hoare"
+        ],
+        "father": "Harwyn Hoare",
+        "died": "around ~ 42 BC",
+        "title": "King of the Isles and the Rivers"
+    },
+    "Hallis_Hornwood": {
+        "id": "Hallis_Hornwood",
+        "name": "Hallis Hornwood",
+        "alias": "Mad Hal",
+        "allegiance": [
+            "House Hornwood",
+            "blacks",
+            "Wolf Pack"
+        ],
+        "culture": "northmen"
+    },
+    "Hallis_Mollen": {
+        "id": "Hallis_Mollen",
+        "name": "Hallis Mollen",
+        "alias": "Hal",
+        "title": "Captain of the guard at Winterfell",
+        "allegiance": [
+            "House Mollen",
+            "House Stark"
+        ],
+        "culture": "Northmen"
+    },
+    "Hallyne": {
+        "id": "Hallyne",
+        "name": "Hallyne",
+        "alias": "Hallyne the Pyromancer",
+        "title": [
+            "Lord",
+            "Wisdom"
+        ],
+        "allegiance": "Alchemists' Guild",
+        "culture": "Crownlands",
+        "tv series": "Season 2"
+    },
+    "Halmon_Paege": {
+        "id": "Halmon_Paege",
+        "name": "Halmon Paege",
+        "title": "Ser",
+        "allegiance": "House Paege",
+        "culture": "Rivermen",
+        "issue": "Garrett Paege[N 1]"
+    },
+    "Halys_Hornwood": {
+        "id": "Halys_Hornwood",
+        "name": "Halys Hornwood",
+        "title": "Lord of the Hornwood",
+        "allegiance": "House Hornwood",
+        "culture": "Northmen",
+        "died": "In 298 AC, at the Green Fork",
+        "spouse": "Lady Donella Manderly",
+        "issue": [
+            "Larence Snow",
+            "Daryn Hornwood"
+        ]
+    },
+    "Hammer": {
+        "id": "Hammer",
+        "name": "Hammer",
+        "allegiance": "Second Sons"
+    },
+    "Hammer_of_the_Hills": {
+        "id": "Hammer_of_the_Hills",
+        "name": "Hammer of the Hills",
+        "title": "King",
+        "culture": "Andal"
+    },
+    "Hamish_the_Harper": {
+        "id": "Hamish_the_Harper",
+        "name": "Hamish the Harper",
+        "alias": "Hamish the Harper",
+        "died": "In 300 AC, at King's Landing"
+    },
+    "Handsome_man": {
+        "id": "Handsome_man",
+        "name": "Handsome man",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Hanna_Harroway": {
+        "id": "Hanna_Harroway",
+        "name": "Hanna Harroway",
+        "title": "Lady",
+        "allegiance": "House Harroway",
+        "culture": "Rivermen",
+        "died": "In 44 AC, at King's Landing"
+    },
+    "Har_Loi": {
+        "id": "Har_Loi",
+        "name": "Har Loi",
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Harbert": {
+        "id": "Harbert",
+        "name": "Harbert",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Storm's End"
+        ],
+        "allegiance": "House Baratheon"
+    },
+    "Harbert_Paege": {
+        "id": "Harbert_Paege",
+        "name": "Harbert Paege",
+        "title": "Ser",
+        "allegiance": "House Paege"
+    },
+    "Hareth_(Maester)": {
+        "id": "Hareth_(Maester)",
+        "name": "Hareth (maester)",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel"
+    },
+    "Hareth_(Mole%27s_Town)": {
+        "id": "Hareth_(Mole%27s_Town)",
+        "name": "Hareth (Mole's Town)",
+        "alias": "Horse",
+        "allegiance": "Night's Watch",
+        "culture": "Northmen"
+    },
+    "Harghaz": {
+        "id": "Harghaz",
+        "name": "Harghaz",
+        "alias": [
+            "Harghaz the Hero",
+            "Harghaz the Dragonslayer"
+        ],
+        "culture": "Ghiscari",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Harlan_Grandison": {
+        "id": "Harlan_Grandison",
+        "name": "Harlan Grandison",
+        "title": "Ser",
+        "allegiance": [
+            "House Grandison",
+            "Kingsguard"
+        ],
+        "culture": "Stormlander",
+        "died": "In 281 AC, at King's Landing"
+    },
+    "Harlan_Hunter": {
+        "id": "Harlan_Hunter",
+        "name": "Harlan Hunter",
+        "title": "Ser",
+        "allegiance": "House Hunter",
+        "culture": "Valemen"
+    },
+    "Harlan_Hoare": {
+        "id": "Harlan_Hoare",
+        "name": "Harlan Hoare",
+        "title": "Prince",
+        "allegiance": "House Hoare",
+        "culture": "ironborn"
+    },
+    "Harle_the_Handsome": {
+        "id": "Harle_the_Handsome",
+        "name": "Harle the Handsome",
+        "alias": "Harle the Handsome",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Harle_the_Huntsman": {
+        "id": "Harle_the_Huntsman",
+        "name": "Harle the Huntsman",
+        "alias": "Harle the Huntsman",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Harlen_Tyrell": {
+        "id": "Harlen_Tyrell",
+        "name": "Harlen Tyrell",
+        "alias": "Harlan Tyrell",
+        "title": [
+            "High Steward of Highgarden",
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "House Gardener",
+            "(pre-Conquest)"
+        ],
+        "culture": "Reach",
+        "died": "In 5 AC, at Dornish desert east of the Hellholt",
+        "issue": "Theo Tyrell"
+    },
+    "Harlon_Botley": {
+        "id": "Harlon_Botley",
+        "name": "Harlon Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn"
+    },
+    "Harlon_Greyjoy": {
+        "id": "Harlon_Greyjoy",
+        "name": "Harlon Greyjoy",
+        "allegiance": "House Greyjoy",
+        "culture": "Ironborn",
+        "born": "In or between 253 AC and 258 AC",
+        "died": "At Pyke"
+    },
+    "Harlon_Stark": {
+        "id": "Harlon_Stark",
+        "name": "Harlon Stark",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Harlon_the_Hunter": {
+        "id": "Harlon_the_Hunter",
+        "name": "Harlon the Hunter",
+        "allegiance": "House Tarly",
+        "culture": "Reach",
+        "spouse": "A woods witch"
+    },
+    "Harma": {
+        "id": "Harma",
+        "name": "Harma Dogshead",
+        "alias": [
+            "Harma the Dogshead",
+            "Harma Dogshead"
+        ],
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at The Wall"
+    },
+    "Harmen_Uller": {
+        "id": "Harmen_Uller",
+        "name": "Harmen Uller",
+        "title": "Lord of Hellholt",
+        "allegiance": "House Uller",
+        "culture": "Dornishmen",
+        "issue": "Ellaria Sand"
+    },
+    "Harmon": {
+        "id": "Harmon",
+        "name": "Harmon"
+    },
+    "Harmon_Dondarrion": {
+        "id": "Harmon_Dondarrion",
+        "name": "Harmon Dondarrion",
+        "alias": "No-Nose Dondarrion",
+        "title": "Lord of Blackhaven",
+        "allegiance": "House Dondarrion",
+        "culture": "Marcher"
+    },
+    "Harmon_of_the_Reeds": {
+        "id": "Harmon_of_the_Reeds",
+        "name": "Harmon of the Reeds",
+        "alias": "Iron-Banger",
+        "title": "Ser",
+        "allegiance": "Blacks",
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Harmond_Umber": {
+        "id": "Harmond_Umber",
+        "name": "Harmond Umber",
+        "alias": "The Drunken Giant",
+        "title": "Lord of the Last Hearth",
+        "allegiance": "House Umber",
+        "culture": "Northmen"
+    },
+    "Harmund_I_Hoare": {
+        "id": "Harmund_I_Hoare",
+        "name": "Harmund I Hoare",
+        "alias": "Harmund the Host",
+        "issue": "Harmund II Hoare",
+        "title": "King of the Iron Islands"
+    },
+    "Harmund_II_Hoare": {
+        "id": "Harmund_II_Hoare",
+        "name": "Harmund II Hoare",
+        "alias": "Harmund the Haggler",
+        "issue": [
+            "Harmund III Hoare",
+            "Hagon Hoare"
+        ],
+        "father": "Harmund I Hoare",
+        "title": "King of the Iron Islands",
+        "spouse": "Lelia Lannister"
+    },
+    "Harmund_III_Hoare": {
+        "id": "Harmund_III_Hoare",
+        "name": "Harmund III Hoare",
+        "alias": "Harmund the Handsome",
+        "father": "Harmund II Hoare",
+        "mother": "Lelia Lannister",
+        "died": "Hoare Castle",
+        "title": "King of the Iron Islands"
+    },
+    "Harmund_Sharp": {
+        "id": "Harmund_Sharp",
+        "name": "Harmund Sharp",
+        "allegiance": "House Sharp",
+        "culture": "ironborn",
+        "issue": "Harrag Sharp and other sons"
+    },
+    "Harmune": {
+        "id": "Harmune",
+        "name": "Harmune",
+        "title": "Maester at Eastwatch-by-the-Sea",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "Night's Watch"
+        ]
+    },
+    "Harmune_(archmaester)": {
+        "id": "Harmune_(archmaester)",
+        "name": "Harmune (archmaester)",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Haro": {
+        "id": "Haro",
+        "name": "Haro",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Harodon": {
+        "id": "Harodon",
+        "name": "Harodon",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Harra": {
+        "id": "Harra",
+        "name": "Harra",
+        "allegiance": [
+            "House Whent",
+            "House Lannister"
+        ],
+        "died": "In 299 AC, at Harrenhal"
+    },
+    "Harrag_Hoare": {
+        "id": "Harrag_Hoare",
+        "name": "Harrag Hoare",
+        "culture": "ironborn",
+        "issue": "Ravos Hoare",
+        "title": "High King of the Iron Isles"
+    },
+    "Harrag_Sharp": {
+        "id": "Harrag_Sharp",
+        "name": "Harrag Sharp",
+        "alias": "Harrag Sheepstealer",
+        "allegiance": "House Sharp",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Harrald_Halfdrowned": {
+        "id": "Harrald_Halfdrowned",
+        "name": "Harrald Halfdrowned",
+        "culture": "ironborn",
+        "died": "Lann's Point",
+        "title": "king"
+    },
+    "Harras_Harlaw": {
+        "id": "Harras_Harlaw",
+        "name": "Harras Harlaw",
+        "alias": "The Knight",
+        "title": [
+            "Ser",
+            "Knight of Grey Garden",
+            "Lord of Greyshield"
+        ],
+        "allegiance": "House Harlaw of Grey Garden",
+        "culture": "ironborn"
+    },
+    "Harras_Hoare": {
+        "id": "Harras_Hoare",
+        "name": "Harras Hoare",
+        "alias": "Harras Stump-hand",
+        "spouse": "an Andal maiden",
+        "title": "King of the Iron Islands"
+    },
+    "Harren_Botley": {
+        "id": "Harren_Botley",
+        "name": "Harren Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn",
+        "died": "In 299 AC, at Moat Cailin"
+    },
+    "Harren_Half-Hoare": {
+        "id": "Harren_Half-Hoare",
+        "name": "Harren Half-Hoare",
+        "title": "Captain",
+        "culture": "ironborn"
+    },
+    "Harren_Hoare": {
+        "id": "Harren_Hoare",
+        "name": "Harren Hoare",
+        "alias": [
+            "Black Harren",
+            "Harren the Black"
+        ],
+        "culture": "ironborn",
+        "issue": "At least four sons",
+        "father": "Halleck Hoare",
+        "died": "2 BC Harrenhal",
+        "title": [
+            "King of the Isles and the Rivers",
+            "Lord of Harrenhal"
+        ]
+    },
+    "Harren_the_Red": {
+        "id": "Harren_the_Red",
+        "name": "Harren the Red",
+        "alias": [
+            "Harren the Red",
+            "Red Harren"
+        ],
+        "title": [
+            "Lord of Harrenhal",
+            "King of the Rivers"
+        ],
+        "allegiance": "House Hoare",
+        "died": "In 37 AC, at near the Gods Eye"
+    },
+    "Harrion_Karstark": {
+        "id": "Harrion_Karstark",
+        "name": "Harrion Karstark",
+        "alias": "Harry",
+        "title": "Lord of Karhold",
+        "allegiance": "House Karstark",
+        "culture": "Northmen",
+        "born": "At Karhold"
+    },
+    "Harrold_Darke": {
+        "id": "Harrold_Darke",
+        "name": "Harrold Darke",
+        "title": "Ser",
+        "allegiance": [
+            "House Darke",
+            "Queensguard",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 130 AC, at Dragonstone"
+    },
+    "Harrold_Hardyng": {
+        "id": "Harrold_Hardyng",
+        "name": "Harrold Hardyng",
+        "alias": [
+            "Harry the Heir",
+            "The Young Falcon",
+            "Harry the Arse"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "House Hardyng",
+            "House Waynwood",
+            "House Arryn"
+        ],
+        "culture": "Valemen",
+        "born": "In 281 AC or 282 AC",
+        "issue": [
+            "Alys Stone",
+            "Unborn bastard"
+        ]
+    },
+    "Harrold_Langward": {
+        "id": "Harrold_Langward",
+        "name": "Harrold Langward",
+        "title": "Ser",
+        "allegiance": [
+            "House Langward",
+            "Kingsguard"
+        ],
+        "culture": "Crownlands",
+        "died": "In 48 AC, at King's Landing"
+    },
+    "Harrold_Osgrey": {
+        "id": "Harrold_Osgrey",
+        "name": "Harrold Osgrey",
+        "title": "Ser",
+        "allegiance": "House Osgrey",
+        "culture": "Reach",
+        "died": "In 196 AC, at the Redgrass Field"
+    },
+    "Harrold_Rogers": {
+        "id": "Harrold_Rogers",
+        "name": "Harrold Rogers",
+        "allegiance": "House Rogers",
+        "culture": "Stormlander",
+        "spouse": "Branda Stark"
+    },
+    "Harrold_Swyft": {
+        "id": "Harrold_Swyft",
+        "name": "Harrold Swyft",
+        "title": "Ser",
+        "allegiance": "House Swyft",
+        "culture": "Westermen"
+    },
+    "Harrold_Westerling": {
+        "id": "Harrold_Westerling",
+        "name": "Harrold Westerling",
+        "title": [
+            "Ser",
+            "Lord Commander of the Kingsguard"
+        ],
+        "allegiance": [
+            "House Westerling",
+            "Kingsguard"
+        ],
+        "culture": "Westermen",
+        "died": "In 112 AC"
+    },
+    "Harry_Merrell": {
+        "id": "Harry_Merrell",
+        "name": "Harry Merrell",
+        "alias": "Hot Harry Merrell",
+        "allegiance": "House Lannister",
+        "culture": "Westermen"
+    },
+    "Harry_Penny": {
+        "id": "Harry_Penny",
+        "name": "Harry Penny",
+        "title": "Ser",
+        "allegiance": [
+            "House Penny",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at near Acorn Hall, riverlands"
+    },
+    "Harry_Rivers": {
+        "id": "Harry_Rivers",
+        "name": "Harry Rivers",
+        "alias": "The Bastard of Bracken",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen",
+        "died": "In 299 AC, at Riverlands"
+    },
+    "Harry_Sawyer": {
+        "id": "Harry_Sawyer",
+        "name": "Harry Sawyer",
+        "title": "Ser",
+        "allegiance": "House Sawyer"
+    },
+    "Harry_Strickland": {
+        "id": "Harry_Strickland",
+        "name": "Harry Strickland",
+        "alias": "Homeless Harry Strickland",
+        "title": [
+            "Ser",
+            "Captain-general",
+            "Paymaster",
+            "(formerly)"
+        ],
+        "allegiance": [
+            "House Strickland",
+            "Golden Company"
+        ],
+        "tv series": "Season 8"
+    },
+    "Harsley": {
+        "id": "Harsley",
+        "name": "Harsley",
+        "died": "In 299 AC, at Pennytree"
+    },
+    "Harwin": {
+        "id": "Harwin",
+        "name": "Harwin",
+        "allegiance": [
+            "House Stark",
+            "Brotherhood without banners"
+        ],
+        "culture": "Northmen",
+        "born": "In 271 AC or later"
+    },
+    "Harwin_Strong": {
+        "id": "Harwin_Strong",
+        "name": "Harwin Strong",
+        "alias": [
+            "Breakbones",
+            "Brokenbones"
+        ],
+        "title": [
+            "Ser",
+            "Captain"
+        ],
+        "allegiance": [
+            "House Strong",
+            "City Watch of King's Landing",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "born": "In 90 AC or before",
+        "died": "In 120 AC, at Harrenhal"
+    },
+    "Harwood_Fell": {
+        "id": "Harwood_Fell",
+        "name": "Harwood Fell",
+        "title": "Lord of Felwood",
+        "allegiance": [
+            "House Fell",
+            "Queen's men"
+        ],
+        "culture": "Stormlands",
+        "died": "In 300 AC, at Wolfswood"
+    },
+    "Harwood_Stout": {
+        "id": "Harwood_Stout",
+        "name": "Harwood Stout",
+        "title": "Lord of Goldgrass",
+        "allegiance": [
+            "House Stout",
+            "House Dustin"
+        ],
+        "culture": "Northmen"
+    },
+    "Harwyn_Hoare": {
+        "id": "Harwyn_Hoare",
+        "name": "Harwyn Hoare",
+        "alias": [
+            "Harwyn Hardhand",
+            "The Hardhand"
+        ],
+        "issue": "Halleck Hoare",
+        "father": "Qhorwyn Hoare",
+        "title": [
+            "King of the Iron Islands",
+            "King of the Isles and the Rivers"
+        ]
+    },
+    "Harwyn_Plumm": {
+        "id": "Harwyn_Plumm",
+        "name": "Harwyn Plumm",
+        "alias": "Hardstone",
+        "title": [
+            "Ser",
+            "Commander of the garrison",
+            "at",
+            "Darry"
+        ],
+        "allegiance": [
+            "House Plumm",
+            "House Lannister of Darry"
+        ],
+        "culture": "Westermen"
+    },
+    "Harys_Cobb": {
+        "id": "Harys_Cobb",
+        "name": "Harys Cobb",
+        "title": "Ser",
+        "allegiance": [
+            "House Cobb",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Reach"
+    },
+    "Harys_Graceford": {
+        "id": "Harys_Graceford",
+        "name": "Harys Graceford",
+        "title": "Ser",
+        "allegiance": "House Graceford",
+        "culture": "Reach"
+    },
+    "Harys_Haigh": {
+        "id": "Harys_Haigh",
+        "name": "Harys Haigh",
+        "title": "Ser",
+        "allegiance": [
+            "House Haigh",
+            "House Frey"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 250 AC and 283 AC",
+        "spouse": "Unknown",
+        "issue": "Walder Haigh"
+    },
+    "Harys_Hogg": {
+        "id": "Harys_Hogg",
+        "name": "Harys Hogg",
+        "alias": "Harry the Ham",
+        "title": "Ser",
+        "allegiance": "House Hogg",
+        "culture": "Crownlands"
+    },
+    "Harys_Horpe": {
+        "id": "Harys_Horpe",
+        "name": "Harys Horpe",
+        "alias": "Death's Head Harry",
+        "title": "Ser",
+        "allegiance": [
+            "House Horpe",
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "culture": "Stormlands",
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Harys_Swyft": {
+        "id": "Harys_Swyft",
+        "name": "Harys Swyft",
+        "alias": "The knight of the yellow chicken",
+        "title": [
+            "Knight of Cornfield",
+            "Ser",
+            "Hand of the King",
+            "(formerly)",
+            "Master of coin",
+            "Lord treasurer"
+        ],
+        "allegiance": [
+            "House Swyft",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Unknown",
+        "issue": [
+            "Dorna Swyft",
+            "Steffon Swyft",
+            "Shierle Swyft"
+        ],
+        "tv series": "Season 1"
+    },
+    "Hayhead": {
+        "id": "Hayhead",
+        "name": "Hayhead",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Hazel_Harte": {
+        "id": "Hazel_Harte",
+        "name": "Hazel Harte",
+        "allegiance": [
+            "House Harte",
+            "House Velaryon"
+        ],
+        "culture": "Crownlands",
+        "died": "In or between 130 AC and 133 AC",
+        "spouse": "Daeron Velaryon",
+        "issue": "Daenaera Velaryon"
+    },
+    "Hazrak_zo_Loraq": {
+        "id": "Hazrak_zo_Loraq",
+        "name": "Hazrak zo Loraq",
+        "alias": "The Handsome",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Hazzea": {
+        "id": "Hazzea",
+        "name": "Hazzea",
+        "culture": "Ghiscari",
+        "born": "In 295 AC or 296 AC",
+        "died": "In 300 AC, at plains outside Meereen"
+    },
+    "Helaena_Targaryen": {
+        "id": "Helaena_Targaryen",
+        "name": "Helaena Targaryen",
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "Greens"
+        ],
+        "culture": "Crownlands",
+        "born": "In 109 AC",
+        "died": "In 130 AC, at Maegor's Holdfast, King's Landing",
+        "spouse": "King Aegon II Targaryen",
+        "issue": [
+            "Jaehaerys Targaryen",
+            "Jaehaera Targaryen",
+            "Maelor Targaryen"
+        ]
+    },
+    "Helicent_Uffering": {
+        "id": "Helicent_Uffering",
+        "name": "Helicent Uffering",
+        "allegiance": "House Uffering",
+        "culture": "Reach",
+        "born": "In 171 AC (roughly)"
+    },
+    "Helliweg": {
+        "id": "Helliweg",
+        "name": "Helliweg",
+        "title": "Maester at Runestone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Royce"
+        ]
+    },
+    "Helly": {
+        "id": "Helly",
+        "name": "Helly"
+    },
+    "Helman_Tallhart": {
+        "id": "Helman_Tallhart",
+        "name": "Helman Tallhart",
+        "title": [
+            "Ser",
+            "Master of Torrhen's Square"
+        ],
+        "allegiance": "House Tallhart",
+        "culture": "Northmen",
+        "born": "At Torrhen's Square",
+        "died": "In 299 AC, at Duskendale",
+        "spouse": "Unknown",
+        "issue": [
+            "Benfred Tallhart",
+            "Eddara Tallhart"
+        ]
+    },
+    "Helya": {
+        "id": "Helya",
+        "name": "Helya",
+        "title": "Steward of Pyke",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Hendry_Bracken": {
+        "id": "Hendry_Bracken",
+        "name": "Hendry Bracken",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen",
+        "died": "In 299 AC, at Stone Hedge"
+    },
+    "Henk": {
+        "id": "Henk",
+        "name": "Henk the Helm",
+        "alias": "Henk the Helm",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Henly_(Maester)": {
+        "id": "Henly_(Maester)",
+        "name": "Henly (maester)",
+        "title": "Maester at Blackpool",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Slate"
+        ]
+    },
+    "Henly_(House_Ashford)": {
+        "id": "Henly_(House_Ashford)",
+        "name": "Henly (House Ashford)",
+        "allegiance": "House Ashford",
+        "culture": "Reach"
+    },
+    "Henrietta_Woodhull": {
+        "id": "Henrietta_Woodhull",
+        "name": "Henrietta Woodhull",
+        "allegiance": "House Woodhull",
+        "culture": "Valemen",
+        "born": "In 103 133 AC"
+    },
+    "Herbert_Bolling": {
+        "id": "Herbert_Bolling",
+        "name": "Herbert Bolling",
+        "title": "Ser",
+        "allegiance": "House Bolling",
+        "culture": "Stormlands"
+    },
+    "Heriston": {
+        "id": "Heriston",
+        "name": "Heriston",
+        "title": "Maester at New Castle",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Manderly"
+        ]
+    },
+    "Herman_Rollingford": {
+        "id": "Herman_Rollingford",
+        "name": "Herman Rollingford",
+        "title": "Ser",
+        "allegiance": "House Rollingford",
+        "died": "In 133 AC, at Braavos"
+    },
+    "Herndon_of_the_Horn": {
+        "id": "Herndon_of_the_Horn",
+        "name": "Herndon of the Horn",
+        "allegiance": "House Tarly",
+        "culture": "Reach",
+        "spouse": "A woods witch"
+    },
+    "Hero": {
+        "id": "Hero",
+        "name": "Hero",
+        "title": "Second-in-command of the Unsullied",
+        "allegiance": [
+            "Unsullied",
+            "House Targaryen"
+        ]
+    },
+    "Herrock_Kenning": {
+        "id": "Herrock_Kenning",
+        "name": "Herrock Kenning",
+        "alias": "Herrock the Whoreson",
+        "title": "Lord of Kayce",
+        "allegiance": [
+            "House Kenning of Harlaw",
+            "House Kenning of Kayce",
+            "(founder)"
+        ],
+        "culture": [
+            "ironborn",
+            "westermen"
+        ]
+    },
+    "Herryk": {
+        "id": "Herryk",
+        "name": "Herryk",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Heward": {
+        "id": "Heward",
+        "name": "Heward",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Hibald": {
+        "id": "Hibald",
+        "name": "Hibald"
+    },
+    "High_Lickspittle": {
+        "id": "High_Lickspittle",
+        "name": "High Lickspittle",
+        "alias": "The High Lickspittle",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 54 AC, at Starry Sept of Oldtown"
+    },
+    "High_Septon_(Aegon_I)": {
+        "id": "High_Septon_(Aegon_I)",
+        "name": "High Septon (Aegon I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven"
+    },
+    "High_Septon_(Aegon_III)": {
+        "id": "High_Septon_(Aegon_III)",
+        "name": "High Septon (Aegon III)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 143 169 AC"
+    },
+    "High_Septon_(Aegon_V)": {
+        "id": "High_Septon_(Aegon_V)",
+        "name": "High Septon (Aegon V)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven"
+    },
+    "High_Septon_(Aegon%27s_Conquest)": {
+        "id": "High_Septon_(Aegon%27s_Conquest)",
+        "name": "High Septon (Aegon's Conquest)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 11 AC, at Oldtown"
+    },
+    "High_Septon_(Aenys_I)": {
+        "id": "High_Septon_(Aenys_I)",
+        "name": "High Septon (Aenys I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "born": "In 9 BC",
+        "died": "In 43 AC, at the Starry Sept, Oldtown"
+    },
+    "High_Septon_(Aerys_II)": {
+        "id": "High_Septon_(Aerys_II)",
+        "name": "High Septon (Aerys II)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven"
+    },
+    "High_Septon_(Baelor_I)": {
+        "id": "High_Septon_(Baelor_I)",
+        "name": "High Septon (Baelor I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 161 169 AC"
+    },
+    "High_Septon_(brother_of_Donnel_Hightower)": {
+        "id": "High_Septon_(brother_of_Donnel_Hightower)",
+        "name": "High Septon (brother of Donnel Hightower)",
+        "title": [
+            "Septon",
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": [
+            "House Hightower",
+            "Faith of the Seven"
+        ],
+        "culture": "Reach"
+    },
+    "High_Septon_(child)": {
+        "id": "High_Septon_(child)",
+        "name": "High Septon (child)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "born": "In 154 162 AC"
+    },
+    "High_Septon_(Daeron_II)": {
+        "id": "High_Septon_(Daeron_II)",
+        "name": "High Septon (Daeron II)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 209 AC or 210 AC, at King's Landing"
+    },
+    "High_Septon_(Dance_of_the_Dragons)": {
+        "id": "High_Septon_(Dance_of_the_Dragons)",
+        "name": "High Septon (Dance of the Dragons)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 129 131 AC[N 1]"
+    },
+    "High_Septon_(fat_one)": {
+        "id": "High_Septon_(fat_one)",
+        "name": "High Septon (fat one)",
+        "alias": "The fat one",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 299 AC, at King's Landing"
+    },
+    "High_Septon_(Jaehaerys_I)": {
+        "id": "High_Septon_(Jaehaerys_I)",
+        "name": "High Septon (Jaehaerys I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven"
+    },
+    "High_Septon_(Maekar_I)": {
+        "id": "High_Septon_(Maekar_I)",
+        "name": "High Septon (Maekar I)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven"
+    },
+    "High_Septon_(Regency_of_Aegon_III)": {
+        "id": "High_Septon_(Regency_of_Aegon_III)",
+        "name": "High Septon (Regency of Aegon III)",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 143 AC"
+    },
+    "High_Septon_(Tyrion%27s)": {
+        "id": "High_Septon_(Tyrion%27s)",
+        "name": "High Septon (Tyrion's)",
+        "alias": "The one after the Fat One",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 300 AC, at King's Landing"
+    },
+    "High_Sparrow": {
+        "id": "High_Sparrow",
+        "name": "High Sparrow",
+        "alias": "The High Sparrow",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Sparrows",
+            "Faith Militant"
+        ],
+        "tv series": "Season 5 | Season 6"
+    },
+    "Hildy": {
+        "id": "Hildy",
+        "name": "Hildy",
+        "culture": "Rivermen"
+    },
+    "Hilmar_Drumm": {
+        "id": "Hilmar_Drumm",
+        "name": "Hilmar Drumm",
+        "alias": "Hilmar the Cunning",
+        "allegiance": "House Drumm",
+        "culture": "ironborn"
+    },
+    "Hizdahr_zo_Loraq": {
+        "id": "Hizdahr_zo_Loraq",
+        "name": "Hizdahr zo Loraq",
+        "alias": [
+            "Hizdak",
+            "Hizdahr of the tepid kisses"
+        ],
+        "culture": "Ghiscari",
+        "issue": [
+            "Bastard daughter",
+            "Bastard son"
+        ],
+        "tv series": "Season 4 | Season 5",
+        "title": [
+            "King of Meereen",
+            "Scion",
+            "of",
+            "Ghis",
+            "Octarch",
+            "of the",
+            "Old Empire",
+            "Master",
+            "of the",
+            "Skahazadhan",
+            ",",
+            "Consort to Dragons",
+            "Blood of the Harpy"
+        ],
+        "spouse": "Daenerys Targaryen"
+    },
+    "Hoarfrost_Umber": {
+        "id": "Hoarfrost_Umber",
+        "name": "Hoarfrost Umber",
+        "title": "Lord of the Last Hearth",
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "spouse": "Unknown",
+        "issue": [
+            "Father of",
+            "Jon Umber",
+            "Mors Umber",
+            "Hother Umber"
+        ]
+    },
+    "Hobb": {
+        "id": "Hobb",
+        "name": "Hobb",
+        "alias": "Three-Finger Hobb",
+        "allegiance": "Night's Watch"
+    },
+    "Hobb_the_Hewer": {
+        "id": "Hobb_the_Hewer",
+        "name": "Hobb the Hewer"
+    },
+    "Hobber_Redwyne": {
+        "id": "Hobber_Redwyne",
+        "name": "Hobber Redwyne",
+        "alias": "Slobber",
+        "title": "Ser",
+        "allegiance": "House Redwyne",
+        "culture": "Reach",
+        "born": "In or before 282 AC, at the Arbor"
+    },
+    "Hobert_Hightower": {
+        "id": "Hobert_Hightower",
+        "name": "Hobert Hightower",
+        "title": "Ser",
+        "allegiance": [
+            "House Hightower",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "born": "In 70 AC",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Hod": {
+        "id": "Hod",
+        "name": "Hod"
+    },
+    "Hodor": {
+        "id": "Hodor",
+        "name": "Hodor",
+        "alias": "Hodor",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 6"
+    },
+    "Hoke": {
+        "id": "Hoke",
+        "name": "Hoke",
+        "alias": "Hoke the Horseleg",
+        "allegiance": "House Lannister"
+    },
+    "Holger": {
+        "id": "Holger",
+        "name": "Holger",
+        "allegiance": "Stone Crows",
+        "culture": "Vale mountain clans",
+        "issue": "Dolf"
+    },
+    "Hollis_Teague": {
+        "id": "Hollis_Teague",
+        "name": "Hollis Teague",
+        "culture": "Rivermen",
+        "father": "Humfrey I Teague",
+        "died": "Mother's Teats",
+        "title": "King of the Rivers and the Hills"
+    },
+    "Holly": {
+        "id": "Holly",
+        "name": "Holly",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "born": "In 283 AC, 284 AC or 285 AC",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Hooded_man": {
+        "id": "Hooded_man",
+        "name": "Hooded man"
+    },
+    "Hooded_Man": {
+        "id": "Hooded_Man",
+        "name": "Hooded Man",
+        "allegiance": "House Banefort",
+        "born": "In Age of Heroes"
+    },
+    "Hop-Bean": {
+        "id": "Hop-Bean",
+        "name": "Hop-Bean",
+        "issue": [
+            "Oppo",
+            "Penny"
+        ]
+    },
+    "Hop-Robin": {
+        "id": "Hop-Robin",
+        "name": "Hop-Robin",
+        "allegiance": "Night's Watch"
+    },
+    "Horas_Harroway": {
+        "id": "Horas_Harroway",
+        "name": "Horas Harroway",
+        "allegiance": "House Harroway",
+        "culture": "Rivermen",
+        "died": "In 44 AC, at King's Landing"
+    },
+    "Horas_Redwyne": {
+        "id": "Horas_Redwyne",
+        "name": "Horas Redwyne",
+        "alias": "Horror",
+        "title": "Ser",
+        "allegiance": "House Redwyne",
+        "culture": "Reach",
+        "born": "In or before 282 AC, at the Arbor"
+    },
+    "Horgan_Hoare": {
+        "id": "Horgan_Hoare",
+        "name": "Horgan Hoare",
+        "alias": "Horgan Priestkiller",
+        "title": "King of the Iron Islands"
+    },
+    "Horned_Lord": {
+        "id": "Horned_Lord",
+        "name": "Horned Lord",
+        "title": "King-Beyond-the-Wall",
+        "culture": "Free folk"
+    },
+    "Horonno": {
+        "id": "Horonno",
+        "name": "Horonno",
+        "title": "Triarch of Volantis",
+        "allegiance": "Tiger",
+        "culture": "Volantene",
+        "died": "At Volantis"
+    },
+    "Horro": {
+        "id": "Horro",
+        "name": "Horro",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Horton_Redfort": {
+        "id": "Horton_Redfort",
+        "name": "Horton Redfort",
+        "title": "Lord of Redfort",
+        "allegiance": [
+            "House Redfort",
+            "Lords Declarant"
+        ],
+        "culture": "Valemen",
+        "spouse": "3 wives",
+        "issue": [
+            "Jasper Redfort",
+            "Creighton Redfort",
+            "Jon Redfort",
+            "Mychel Redfort"
+        ]
+    },
+    "Horys_Hill": {
+        "id": "Horys_Hill",
+        "name": "Horys Hill",
+        "title": "Ser",
+        "allegiance": [
+            "Faith of the Seven",
+            "Poor Fellows"
+        ],
+        "culture": "Westermen",
+        "died": "In 45 AC"
+    },
+    "Hosman_Norcross": {
+        "id": "Hosman_Norcross",
+        "name": "Hosman Norcross",
+        "title": "Ser",
+        "allegiance": "House Norcross",
+        "culture": "Reach",
+        "spouse": "Delena Florent",
+        "issue": [
+            "Alester Norcross",
+            "Renly Norcross"
+        ]
+    },
+    "Hosteen_Frey": {
+        "id": "Hosteen_Frey",
+        "name": "Hosteen Frey",
+        "alias": "Ser Stupid",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 249 AC and 258 AC",
+        "spouse": "Bellena Hawick",
+        "issue": "Arwood Frey"
+    },
+    "Hostella_Frey": {
+        "id": "Hostella_Frey",
+        "name": "Hostella Frey",
+        "allegiance": "House Frey",
+        "born": "In 299 AC or 300 AC"
+    },
+    "Hoster_Blackwood": {
+        "id": "Hoster_Blackwood",
+        "name": "Hoster Blackwood",
+        "alias": "Hos",
+        "allegiance": "House Blackwood",
+        "culture": "rivermen",
+        "born": "In 283 AC or 284 AC"
+    },
+    "Hoster_Frey": {
+        "id": "Hoster_Frey",
+        "name": "Hoster Frey",
+        "allegiance": [
+            "House Frey",
+            "Damon Paege"
+        ],
+        "culture": "Rivermen",
+        "born": "In 287 AC"
+    },
+    "Hoster_Tully": {
+        "id": "Hoster_Tully",
+        "name": "Hoster Tully",
+        "title": [
+            "Lord Paramount of the Trident",
+            "Lord of Riverrun"
+        ],
+        "allegiance": "House Tully",
+        "culture": "Rivermen",
+        "born": "In or between 238 AC and 240 AC, at Riverrun",
+        "died": "In 299 AC, at Riverrun",
+        "spouse": "Lady Minisa Whent",
+        "issue": [
+            "2 sons",
+            "Catelyn Tully",
+            "Lysa Tully",
+            "Edmure Tully",
+            "Son"
+        ]
+    },
+    "Hot_Pie": {
+        "id": "Hot_Pie",
+        "name": "Hot Pie",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 7"
+    },
+    "Hother_Umber": {
+        "id": "Hother_Umber",
+        "name": "Hother Umber",
+        "alias": [
+            "Hother Whoresbane",
+            "Whoresbane Umber"
+        ],
+        "title": "Castellan of Last Hearth",
+        "allegiance": "House Umber",
+        "culture": "Northmen",
+        "born": "In 241 AC or before, at Last Hearth"
+    },
+    "Hotho_Harlaw": {
+        "id": "Hotho_Harlaw",
+        "name": "Hotho Harlaw",
+        "alias": [
+            "Hotho Humpback",
+            "Hotho the Humpback"
+        ],
+        "title": "Captain",
+        "allegiance": "House Harlaw of the Tower of Glimmering",
+        "culture": "ironborn",
+        "born": "At Harlaw",
+        "issue": "Daughter"
+    },
+    "House_of_the_Undying_servitor": {
+        "id": "House_of_the_Undying_servitor",
+        "name": "House of the Undying servitor",
+        "allegiance": "The Undying Ones"
+    },
+    "Howard_Bullock": {
+        "id": "Howard_Bullock",
+        "name": "Howard Bullock",
+        "title": "Ser",
+        "allegiance": [
+            "House Bullock",
+            "House Targaryen",
+            "Free Company"
+        ],
+        "culture": "Crownlands",
+        "born": "At or before 34 AC",
+        "died": "In 53 AC, at Myr",
+        "spouse": "Unknown"
+    },
+    "Howard_Pyle": {
+        "id": "Howard_Pyle",
+        "name": "Howard Pyle",
+        "title": "Ser",
+        "allegiance": "House Pyle",
+        "culture": "Crownlands"
+    },
+    "Howd_Wanderer": {
+        "id": "Howd_Wanderer",
+        "name": "Howd",
+        "alias": "Wanderer",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Howland_Reed": {
+        "id": "Howland_Reed",
+        "name": "Howland Reed",
+        "title": "Lord of Greywater Watch",
+        "allegiance": "House Reed",
+        "culture": "Crannogmen",
+        "born": "In or between 260 AC and 265 AC, at Greywater Watch",
+        "spouse": "Jyana",
+        "issue": [
+            "Meera Reed",
+            "Jojen Reed"
+        ],
+        "tv series": "Season 6"
+    },
+    "Hrothgar": {
+        "id": "Hrothgar",
+        "name": "Hrothgar",
+        "alias": "Hrothgar of Pyke",
+        "culture": "ironborn",
+        "born": "In Age of Heroes, at Pyke"
+    },
+    "Hubard_Rambton": {
+        "id": "Hubard_Rambton",
+        "name": "Hubard Rambton",
+        "title": "Ser",
+        "allegiance": [
+            "House Rambton",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Crownlands",
+        "died": "In 299 AC, at Dragonstone",
+        "issue": "3 sons"
+    },
+    "Hubert": {
+        "id": "Hubert",
+        "name": "Hubert",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Hubert_Arryn": {
+        "id": "Hubert_Arryn",
+        "name": "Hubert Arryn",
+        "title": [
+            "Lord of the Eyrie",
+            "Defender of the Vale",
+            "Warden of the East"
+        ],
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "spouse": "Lady of House Royce",
+        "issue": "6 sons"
+    },
+    "Hugh": {
+        "id": "Hugh",
+        "name": "Hugh",
+        "alias": "Hugh of the Vale",
+        "title": "Ser",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "died": "In 298 AC, at King's Landing",
+        "tv series": "Season 1"
+    },
+    "Hugh_Arryn": {
+        "id": "Hugh_Arryn",
+        "name": "Hugh Arryn",
+        "alias": "Hugh the Fat",
+        "culture": "Andal",
+        "issue": "Son(s)",
+        "title": "King of Mountain and Vale"
+    },
+    "Hugh_Beesbury": {
+        "id": "Hugh_Beesbury",
+        "name": "Hugh Beesbury",
+        "title": "Ser",
+        "allegiance": "House Beesbury",
+        "culture": "Reach"
+    },
+    "Hugh_Grandison": {
+        "id": "Hugh_Grandison",
+        "name": "Hugh Grandison",
+        "alias": "Greybeard",
+        "title": "Lord of Grandview",
+        "allegiance": "House Grandison",
+        "culture": "Stormlander"
+    },
+    "Hugh_Clifton": {
+        "id": "Hugh_Clifton",
+        "name": "Hugh Clifton",
+        "allegiance": [
+            "House Clifton",
+            "House Tyrell"
+        ],
+        "culture": "Westermen"
+    },
+    "Hugh_Hammer": {
+        "id": "Hugh_Hammer",
+        "name": "Hugh Hammer",
+        "alias": [
+            "Hugh the Hammer",
+            "Hard Hugh",
+            "The Betrayer",
+            "Lord Hammer",
+            "Hard Hugh Hammer"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "Blacks",
+            "Greens",
+            "Two Betrayers"
+        ],
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Hugh_Hungerford": {
+        "id": "Hugh_Hungerford",
+        "name": "Hugh Hungerford",
+        "title": "Serjeant",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Hugo_Arryn": {
+        "id": "Hugo_Arryn",
+        "name": "Hugo Arryn",
+        "alias": "Hugo the Hopeful",
+        "culture": "Andal",
+        "title": "King of Mountain and Vale"
+    },
+    "Hugo_Vance": {
+        "id": "Hugo_Vance",
+        "name": "Hugo Vance",
+        "title": "Ser",
+        "allegiance": "House Vance of Atranta",
+        "culture": "Rivermen"
+    },
+    "Hugo_Vance_(lord)": {
+        "id": "Hugo_Vance_(lord)",
+        "name": "Hugo Vance (lord)",
+        "title": "Lord of Wayfarer's Rest",
+        "allegiance": [
+            "House Vance of Wayfarer's Rest",
+            "Blacks"
+        ],
+        "culture": "Rivermen"
+    },
+    "Hugo_Wull": {
+        "id": "Hugo_Wull",
+        "name": "Hugo Wull",
+        "alias": [
+            "Big Bucket",
+            "Big Bucket Wull"
+        ],
+        "title": [
+            "The Wull",
+            "Lord",
+            "Wull"
+        ],
+        "allegiance": "House Wull",
+        "culture": "Northern mountain clans"
+    },
+    "Hugor_of_the_Hill": {
+        "id": "Hugor_of_the_Hill",
+        "name": "Hugor of the Hill",
+        "alias": "Hukko (unconfirmed)",
+        "title": "King of the Andals",
+        "culture": "Andals"
+    },
+    "Hukko": {
+        "id": "Hukko",
+        "name": "Hukko",
+        "culture": "Andals"
+    },
+    "Hullen": {
+        "id": "Hullen",
+        "name": "Hullen",
+        "title": "Master of horse at Winterfell",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 298 AC, at King's Landing",
+        "issue": "Harwin"
+    },
+    "Humfrey_Beesbury": {
+        "id": "Humfrey_Beesbury",
+        "name": "Humfrey Beesbury",
+        "title": "Ser",
+        "allegiance": "House Beesbury",
+        "culture": "Reach",
+        "died": "In 209 AC, at Ashford",
+        "spouse": "Sister of Humfrey Hardyng"
+    },
+    "Humfrey_Bracken": {
+        "id": "Humfrey_Bracken",
+        "name": "Humfrey Bracken",
+        "title": "Lord of Stone Hedge",
+        "allegiance": [
+            "House Bracken",
+            "Greens",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "spouse": "Three wives",
+        "issue": [
+            "Amos Bracken",
+            "Raylon Rivers",
+            "Other children"
+        ]
+    },
+    "Humfrey_Clifton": {
+        "id": "Humfrey_Clifton",
+        "name": "Humfrey Clifton",
+        "title": "Ser",
+        "allegiance": [
+            "House Clifton",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Westermen"
+    },
+    "Humfrey_Hardyng": {
+        "id": "Humfrey_Hardyng",
+        "name": "Humfrey Hardyng",
+        "title": "Ser",
+        "allegiance": "House Hardyng",
+        "culture": "Valemen",
+        "died": "In 209 AC, at Ashford"
+    },
+    "Humfrey_Hewett": {
+        "id": "Humfrey_Hewett",
+        "name": "Humfrey Hewett",
+        "title": "Lord of Oakenshield",
+        "allegiance": "House Hewett",
+        "culture": "Reach",
+        "died": "In 300 AC, at Oakenshield Castle",
+        "spouse": "Unknown",
+        "issue": [
+            "Falia Flowers",
+            "Trueborn daughters",
+            "Sons"
+        ]
+    },
+    "Humfrey_Hightower": {
+        "id": "Humfrey_Hightower",
+        "name": "Humfrey Hightower",
+        "title": "Ser",
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or between ~272 AC and 285 AC"
+    },
+    "Humfrey_Lefford": {
+        "id": "Humfrey_Lefford",
+        "name": "Humfrey Lefford",
+        "title": "Lord of the Golden Tooth",
+        "allegiance": "House Lefford",
+        "culture": "westermen",
+        "died": "In 130 AC, at Gods Eye"
+    },
+    "Humfrey_Stone": {
+        "id": "Humfrey_Stone",
+        "name": "Humfrey Stone",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Humfrey_Swyft": {
+        "id": "Humfrey_Swyft",
+        "name": "Humfrey Swyft",
+        "title": "Ser",
+        "allegiance": "House Swyft"
+    },
+    "Humfrey_I_Teague": {
+        "id": "Humfrey_I_Teague",
+        "name": "Humfrey I Teague",
+        "culture": "Rivermen",
+        "issue": [
+            "Humfrey II Teague",
+            "Hollis Teague",
+            "Tyler Teague"
+        ],
+        "died": "Mother's Teats",
+        "title": "King of the Rivers and the Hills"
+    },
+    "Humfrey_II_Teague": {
+        "id": "Humfrey_II_Teague",
+        "name": "Humfrey II Teague",
+        "culture": "Rivermen",
+        "father": "Humfrey I Teague",
+        "died": "Mother's Teats",
+        "title": "King of the Rivers and the Hills"
+    },
+    "Humfrey_the_Mummer": {
+        "id": "Humfrey_the_Mummer",
+        "name": "Humfrey the Mummer",
+        "alias": "Humfrey the Mummer",
+        "title": "Ser",
+        "allegiance": "Kingsguard"
+    },
+    "Humfrey_Wagstaff": {
+        "id": "Humfrey_Wagstaff",
+        "name": "Humfrey Wagstaff",
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Grandview"
+        ],
+        "allegiance": [
+            "House Wagstaff",
+            "House Grandison"
+        ],
+        "culture": "Stormlander",
+        "born": "In 230 232 AC"
+    },
+    "Humfrey_Waters": {
+        "id": "Humfrey_Waters",
+        "name": "Humfrey Waters",
+        "title": [
+            "Captain of the",
+            "Dragon Gate",
+            "Commander of the City Watch"
+        ],
+        "allegiance": "City Watch of King's Landing",
+        "culture": "Crownlands"
+    },
+    "Humphrey_Bulwer": {
+        "id": "Humphrey_Bulwer",
+        "name": "Humphrey Bulwer",
+        "title": "Ser",
+        "allegiance": "House Bulwer",
+        "culture": "Reach"
+    },
+    "Hunnimore": {
+        "id": "Hunnimore",
+        "name": "Hunnimore",
+        "title": "Maester at Dragonstone",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Targaryen"
+        ]
+    },
+    "Husband": {
+        "id": "Husband",
+        "name": "Husband",
+        "culture": "Rivermen",
+        "spouse": "Sharna",
+        "issue": [
+            "2 sons",
+            "Boy",
+            "(adopted)"
+        ]
+    },
+    "Huzhor_Amai": {
+        "id": "Huzhor_Amai",
+        "name": "Huzhor Amai",
+        "alias": "The Amazing",
+        "title": "King",
+        "allegiance": "Kingdom of Sarnor",
+        "culture": "Tall Men",
+        "spouse": [
+            "Cymmeri",
+            "wife",
+            "Zoqora",
+            "wife"
+        ]
+    },
+    "Hyle_Hunt": {
+        "id": "Hyle_Hunt",
+        "name": "Hyle Hunt",
+        "title": "Ser",
+        "allegiance": [
+            "House Hunt",
+            "House Tarly",
+            "(formerly)"
+        ],
+        "culture": "Reach",
+        "issue": "Bastard girl"
+    },
+    "High_Septon_(stonemason)": {
+        "id": "High_Septon_(stonemason)",
+        "name": "High Septon (stonemason)",
+        "alias": "Pate",
+        "title": [
+            "High Septon",
+            "Father of the Faithful",
+            "His High Holiness",
+            "Shepherd of the Faithful"
+        ],
+        "allegiance": "Faith of the Seven",
+        "died": "In 162 170 AC"
+    },
+    "Hookface_Will": {
+        "id": "Hookface_Will",
+        "name": "Hookface Will",
+        "alias": "Hookface Will",
+        "allegiance": "House Baratheon of Dragonstone",
+        "died": "In 299 AC"
+    }
+}

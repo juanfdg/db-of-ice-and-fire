@@ -1,0 +1,1454 @@
+{
+    "Earl_Harlaw": {
+        "id": "Earl_Harlaw",
+        "name": "Earl Harlaw",
+        "allegiance": "House Harlaw",
+        "culture": "ironborn"
+    },
+    "Easy": {
+        "id": "Easy",
+        "name": "Easy",
+        "allegiance": "Night's Watch",
+        "died": "In 300 AC, at Castle Black"
+    },
+    "Ebben": {
+        "id": "Ebben",
+        "name": "Ebben",
+        "alias": "Eggen",
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at Skirling Pass"
+    },
+    "Ebrose": {
+        "id": "Ebrose",
+        "name": "Ebrose",
+        "title": "Archmaester",
+        "allegiance": "The Citadel",
+        "tv series": "Season 7"
+    },
+    "Eddara_Tallhart": {
+        "id": "Eddara_Tallhart",
+        "name": "Eddara Tallhart",
+        "title": "Lady of Torrhen's Square",
+        "allegiance": "House Tallhart",
+        "culture": "Northmen",
+        "born": "In 289 AC or 290 AC"
+    },
+    "Eddard_Karstark": {
+        "id": "Eddard_Karstark",
+        "name": "Eddard Karstark",
+        "alias": "Edd",
+        "allegiance": "House Karstark",
+        "culture": "Northmen",
+        "born": "At Karhold",
+        "died": "In 298 AC, at the Whispering Wood"
+    },
+    "Eddard_Stark": {
+        "id": "Eddard_Stark",
+        "name": "Eddard Stark",
+        "alias": [
+            "Ned",
+            "The Ned",
+            "The quiet wolf"
+        ],
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North",
+            "Hand of the King",
+            "Protector of the Realm",
+            "Lord Regent"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 263 AC, at Winterfell",
+        "died": "In 299 AC, at Great Sept of Baelor in King's Landing",
+        "spouse": "Lady Catelyn Tully",
+        "issue": [
+            "Robb Stark",
+            "Jon Snow",
+            "Sansa Stark",
+            "Arya Stark",
+            "Bran Stark",
+            "Rickon Stark"
+        ],
+        "tv series": "Season 1 | Season 6 | Season 7"
+    },
+    "Edderion_Stark": {
+        "id": "Edderion_Stark",
+        "name": "Edderion Stark",
+        "alias": "Edderrion the Bridegroom",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Eddison_Peake_(the_Elder)": {
+        "id": "Eddison_Peake_(the_Elder)",
+        "name": "Eddison Peake (the Elder)",
+        "alias": "Eddison the Elder",
+        "title": "Lord of Starpike",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Eddison_Peake_(the_Younger)": {
+        "id": "Eddison_Peake_(the_Younger)",
+        "name": "Eddison Peake (the Younger)",
+        "alias": "Eddison the Younger",
+        "title": "Lord of Starpike",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Eddison_Tollett": {
+        "id": "Eddison_Tollett",
+        "name": "Eddison Tollett",
+        "alias": "Dolorous Edd",
+        "allegiance": [
+            "House Tollett",
+            "Night's Watch"
+        ],
+        "culture": "Valemen",
+        "tv series": "Season 2 | Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Eden_Risley": {
+        "id": "Eden_Risley",
+        "name": "Eden Risley",
+        "title": "Ser",
+        "allegiance": "House Risley",
+        "culture": "Reach"
+    },
+    "Edgar_Yronwood": {
+        "id": "Edgar_Yronwood",
+        "name": "Edgar Yronwood",
+        "title": [
+            "Lord of Yronwood",
+            "The Bloodroyal",
+            "Warden of the Stone Way"
+        ],
+        "allegiance": "House Yronwood",
+        "culture": "Dornishmen",
+        "died": "In 273 AC, 274 AC or 275 AC, at Yronwood",
+        "issue": "Ormond Yronwood"
+    },
+    "Edgar_Sloane": {
+        "id": "Edgar_Sloane",
+        "name": "Edgar Sloane",
+        "title": "Hand of the King",
+        "allegiance": "House Sloane",
+        "culture": "Reach"
+    },
+    "Edgerran": {
+        "id": "Edgerran",
+        "name": "Edgerran",
+        "title": [
+            "Archmaester",
+            "Seneschal of the Citadel"
+        ],
+        "allegiance": "The Citadel"
+    },
+    "Edgerran_Oakheart": {
+        "id": "Edgerran_Oakheart",
+        "name": "Edgerran Oakheart",
+        "alias": "Edgerran the Open-Handed",
+        "title": "Lord of Old Oak",
+        "allegiance": "House Oakheart"
+    },
+    "Edmund_Ambrose": {
+        "id": "Edmund_Ambrose",
+        "name": "Edmund Ambrose",
+        "title": "Ser",
+        "allegiance": "House Ambrose",
+        "culture": "Reach"
+    },
+    "Edmund_Blackwood": {
+        "id": "Edmund_Blackwood",
+        "name": "Edmund Blackwood",
+        "alias": "Ben",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "born": "In 287 AC or 288 AC"
+    },
+    "Edmund_Breakstone": {
+        "id": "Edmund_Breakstone",
+        "name": "Edmund Breakstone",
+        "title": "Ser",
+        "allegiance": "House Breakstone"
+    },
+    "Edmund_Gardener": {
+        "id": "Edmund_Gardener",
+        "name": "Edmund Gardener",
+        "title": "Prince",
+        "allegiance": "House Gardener",
+        "culture": "Reach",
+        "died": "In 2 BC, at the Field of Fire"
+    },
+    "Edmund_Warrick": {
+        "id": "Edmund_Warrick",
+        "name": "Edmund Warrick",
+        "title": "Ser",
+        "allegiance": [
+            "House Warrick",
+            "Kingsguard"
+        ]
+    },
+    "Edmund_Waxley": {
+        "id": "Edmund_Waxley",
+        "name": "Edmund Waxley",
+        "title": [
+            "The Knight of",
+            "Wickenden",
+            "Ser"
+        ],
+        "allegiance": "House Waxley"
+    },
+    "Edmure_Tully": {
+        "id": "Edmure_Tully",
+        "name": "Edmure Tully",
+        "title": [
+            "Ser",
+            "Lord Paramount of the Trident",
+            "(attainted, lost to",
+            "Petyr Baelish",
+            ")",
+            "Lord of Riverrun",
+            "(attainted, lost to",
+            "Emmon Frey",
+            ")"
+        ],
+        "allegiance": "House Tully",
+        "culture": "Rivermen",
+        "born": "In or between 267 AC and 274 AC, at Riverrun",
+        "spouse": "Lady Roslin Frey",
+        "issue": "Unborn child",
+        "tv series": "Season 3 | Season 6 | Season 8"
+    },
+    "Edmure_Tully_(father_of_Axel)": {
+        "id": "Edmure_Tully_(father_of_Axel)",
+        "name": "Edmure Tully (father of Axel)",
+        "title": "Ser",
+        "allegiance": "House Tully",
+        "culture": "Rivermen",
+        "issue": [
+            "Axel Tully",
+            "Son(s)"
+        ]
+    },
+    "Edmyn_Tully": {
+        "id": "Edmyn_Tully",
+        "name": "Edmyn Tully",
+        "title": [
+            "Lord of Riverrun",
+            "Lord Paramount of the Trident",
+            "Hand of the King"
+        ],
+        "allegiance": "House Tully",
+        "culture": "Rivermen",
+        "spouse": "Unknown",
+        "issue": "3 daughters"
+    },
+    "Edric_Dayne": {
+        "id": "Edric_Dayne",
+        "name": "Edric Dayne",
+        "alias": "Ned",
+        "title": "Lord of Starfall",
+        "allegiance": [
+            "House Dayne",
+            "brotherhood without banners"
+        ],
+        "culture": "Dornishmen",
+        "born": "In 287 AC, at Starfall"
+    },
+    "Edric_Stark": {
+        "id": "Edric_Stark",
+        "name": "Edric Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 58 72 AC",
+        "died": "In 72 101 AC"
+    },
+    "Edric_Stark_(son_of_Cregan)": {
+        "id": "Edric_Stark_(son_of_Cregan)",
+        "name": "Edric Stark (son of Cregan)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 137 AC",
+        "died": "In or before 209 AC",
+        "spouse": "Serena Stark",
+        "issue": [
+            "Cregard Stark",
+            "Torrhen Stark",
+            "Arrana Stark",
+            "Aregelle Stark"
+        ]
+    },
+    "Edric_Storm": {
+        "id": "Edric_Storm",
+        "name": "Edric Storm",
+        "allegiance": "House Baratheon",
+        "born": "In 287 AC"
+    },
+    "Edrick_Stark": {
+        "id": "Edrick_Stark",
+        "name": "Edrick Stark",
+        "alias": "Edrick Snowbeard",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Edwell_Celtigar": {
+        "id": "Edwell_Celtigar",
+        "name": "Edwell Celtigar",
+        "title": [
+            "Lord of Claw Isle",
+            "Hand of the King",
+            "Master of coin",
+            "Lord treasurer"
+        ],
+        "allegiance": "House Celtigar",
+        "culture": "Crownlands",
+        "died": "In 59 AC, at Claw Isle",
+        "issue": [
+            "Prunella Celtigar",
+            "Prudence Celtigar",
+            "Son"
+        ]
+    },
+    "Edwyd_Fossoway": {
+        "id": "Edwyd_Fossoway",
+        "name": "Edwyd Fossoway",
+        "title": "Ser",
+        "allegiance": "House Fossoway of Cider Hall",
+        "culture": "Reach",
+        "died": "In 299 AC, at Blackwater Rush"
+    },
+    "Edwyle_Stark": {
+        "id": "Edwyle_Stark",
+        "name": "Edwyle Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or before 226 AC",
+        "died": "In or before 262 AC",
+        "spouse": "Lady Marna Locke",
+        "issue": "Rickard Stark"
+    },
+    "Edwyn_Frey": {
+        "id": "Edwyn_Frey",
+        "name": "Edwyn Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 257 AC or 279 AC, at Twins",
+        "spouse": "Janyce Hunter",
+        "issue": "Walda Frey"
+    },
+    "Edwyn_Osgrey": {
+        "id": "Edwyn_Osgrey",
+        "name": "Edwyn Osgrey",
+        "title": "Ser",
+        "allegiance": "House Osgrey",
+        "culture": "Reach",
+        "died": "In 196 AC, at the Redgrass Field"
+    },
+    "Edwyn_Stark": {
+        "id": "Edwyn_Stark",
+        "name": "Edwyn Stark",
+        "alias": "The Spring King",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Edwyn_Tarth": {
+        "id": "Edwyn_Tarth",
+        "name": "Edwyn Tarth",
+        "alias": "Edwyn Evenstar",
+        "title": [
+            "King of Tarth",
+            "The",
+            "Evenstar"
+        ]
+    },
+    "Edyth": {
+        "id": "Edyth",
+        "name": "Edyth",
+        "title": [
+            "Novice",
+            "Septa"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "born": "In 36 AC",
+        "died": "In 59 AC or 60 AC, at Dragonstone"
+    },
+    "Egbert": {
+        "id": "Egbert",
+        "name": "Egbert",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Eggon": {
+        "id": "Eggon",
+        "name": "Eggon",
+        "allegiance": "House Clegane"
+    },
+    "Eglantine": {
+        "id": "Eglantine",
+        "name": "Eglantine",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Baratheon of King's Landing"
+        ]
+    },
+    "Egon_Emeros": {
+        "id": "Egon_Emeros",
+        "name": "Egon Emeros",
+        "alias": "Egon Emeros the Exquisite",
+        "allegiance": "Pureborn",
+        "culture": "Qartheen"
+    },
+    "Eladon_Goldenhair": {
+        "id": "Eladon_Goldenhair",
+        "name": "Eladon Goldenhair",
+        "allegiance": [
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "died": "In 300 AC, at Meereen"
+    },
+    "Elaena_Targaryen": {
+        "id": "Elaena_Targaryen",
+        "name": "Elaena Targaryen",
+        "alias": "Dragon princess",
+        "title": [
+            "Princess",
+            "Lady of",
+            "Parchments"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "House Plumm",
+            "House Penrose",
+            "House Manwoody"
+        ],
+        "culture": "Crownlands",
+        "born": "In 150 AC",
+        "died": "In or after 220 AC",
+        "spouse": [
+            "1st: Lord",
+            "Ossifer Plumm",
+            "2nd: Lord",
+            "Ronnel Penrose",
+            "3rd: Ser",
+            "Michael Manwoody"
+        ],
+        "issue": [
+            "Jon Waters",
+            "Jeyne Waters",
+            "Viserys Plumm",
+            "Robin Penrose",
+            "Laena Penrose",
+            "Jocelyn Penrose",
+            "Joy Penrose"
+        ]
+    },
+    "Elaena_Targaryen_(daughter_of_Gaemon)": {
+        "id": "Elaena_Targaryen_(daughter_of_Gaemon)",
+        "name": "Elaena Targaryen (daughter of Gaemon)",
+        "title": "Lady of Dragonstone",
+        "allegiance": "House Targaryen",
+        "born": "At Dragonstone",
+        "spouse": "Lord Aegon Targaryen",
+        "issue": [
+            "Maegon Targaryen",
+            "Aerys Targaryen"
+        ]
+    },
+    "Elbert_Arryn": {
+        "id": "Elbert_Arryn",
+        "name": "Elbert Arryn",
+        "title": "Ser",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "died": "In 282 AC, at King's Landing"
+    },
+    "Elder_Brother_(Quiet_Isle)": {
+        "id": "Elder_Brother_(Quiet_Isle)",
+        "name": "Elder Brother (Quiet Isle)",
+        "title": [
+            "Elder Brother",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Targaryen",
+            "(formerly)",
+            "Faith of the Seven",
+            "Quiet Isle"
+        ],
+        "born": "In 255 AC or 256 AC"
+    },
+    "Elderly_man": {
+        "id": "Elderly_man",
+        "name": "Elderly man",
+        "culture": "Braavosi"
+    },
+    "Eldiss": {
+        "id": "Eldiss",
+        "name": "Eldiss",
+        "culture": "ironborn"
+    },
+    "Eldon_Estermont": {
+        "id": "Eldon_Estermont",
+        "name": "Eldon Estermont",
+        "title": [
+            "Ser",
+            "Lord of Greenstone"
+        ],
+        "allegiance": "House Estermont",
+        "culture": "Stormlands",
+        "born": "In or between 228 AC and 232 AC",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Lady",
+            "Sylva Santagar"
+        ],
+        "issue": "Aemon Estermont"
+    },
+    "Eldred_Codd": {
+        "id": "Eldred_Codd",
+        "name": "Eldred Codd",
+        "allegiance": "House Codd",
+        "culture": "Ironborn"
+    },
+    "Eldric_Arryn": {
+        "id": "Eldric_Arryn",
+        "name": "Eldric Arryn",
+        "title": "Ser",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In or before 119 AC",
+        "died": "In 134 AC"
+    },
+    "Eleanor_Mooton": {
+        "id": "Eleanor_Mooton",
+        "name": "Eleanor Mooton",
+        "allegiance": [
+            "House Mooton",
+            "House Tarly"
+        ],
+        "culture": "Rivermen",
+        "born": "In 286 AC or 287 AC",
+        "spouse": "Dickon Tarly"
+    },
+    "Elenda_Caron": {
+        "id": "Elenda_Caron",
+        "name": "Elenda Baratheon",
+        "alias": "Elendra Baratheon",
+        "title": "Lady of Storm's End",
+        "allegiance": [
+            "House Caron",
+            "House Baratheon",
+            "House Connington"
+        ],
+        "culture": "Marcher",
+        "born": "In or before 97 AC",
+        "spouse": [
+            "1st: Lord",
+            "Borros Baratheon",
+            "2nd: Ser",
+            "Steffon Connington"
+        ],
+        "issue": [
+            "Cassandra Baratheon",
+            "Maris Baratheon",
+            "Floris Baratheon",
+            "Ellyn Baratheon",
+            "Olyver Baratheon"
+        ]
+    },
+    "Elenei": {
+        "id": "Elenei",
+        "name": "Elenei",
+        "allegiance": "House Durrandon",
+        "born": "In Age of Heroes",
+        "died": "In Storm's End",
+        "spouse": "King Durran Godsgrief"
+    },
+    "Eleyna_Westerling": {
+        "id": "Eleyna_Westerling",
+        "name": "Eleyna Westerling",
+        "allegiance": "House Westerling",
+        "culture": "Westermen",
+        "born": "In 287 AC, at the Crag"
+    },
+    "Elia_Martell": {
+        "id": "Elia_Martell",
+        "name": "Elia Martell",
+        "alias": "Elia of Dorne",
+        "title": "Princess",
+        "allegiance": [
+            "House Martell",
+            "House Targaryen"
+        ],
+        "culture": "Dornishmen",
+        "born": "In 256 AC or 257 AC, at Sunspear",
+        "died": "In 283 AC, at King's Landing",
+        "spouse": "Prince Rhaegar Targaryen",
+        "issue": [
+            "Rhaenys Targaryen",
+            "Aegon Targaryen"
+        ]
+    },
+    "Elia_Sand": {
+        "id": "Elia_Sand",
+        "name": "Elia Sand",
+        "alias": [
+            "El",
+            "Lady Lance"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 285 AC or 286 AC"
+    },
+    "Elinda_Massey": {
+        "id": "Elinda_Massey",
+        "name": "Elinda Massey",
+        "allegiance": [
+            "House Massey",
+            "Blacks"
+        ],
+        "culture": "Crownlands"
+    },
+    "Elinor_Costayne": {
+        "id": "Elinor_Costayne",
+        "name": "Elinor Costayne",
+        "alias": "Black Bride",
+        "title": [
+            "Lady",
+            "Queen",
+            "Septa",
+            "Mother of the Great",
+            "Motherhouse",
+            "of",
+            "Lannisport"
+        ],
+        "allegiance": [
+            "House Costayne",
+            "House Bolling",
+            "House Targaryen",
+            "Faith of the Seven"
+        ],
+        "culture": "Reach",
+        "born": "In 28 AC",
+        "spouse": [
+            "1st: Ser",
+            "Theo Bolling",
+            "2nd: King",
+            "Maegor I Targaryen"
+        ],
+        "issue": [
+            "3 sons by Ser Theo",
+            "Stillborn son by King Maegor"
+        ]
+    },
+    "Elinor_Massey": {
+        "id": "Elinor_Massey",
+        "name": "Elinor Massey",
+        "allegiance": "House Massey",
+        "culture": "Crownlands",
+        "born": "In 103 133 AC"
+    },
+    "Elinor_Tyrell": {
+        "id": "Elinor_Tyrell",
+        "name": "Elinor Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "In 286 AC (roughly)"
+    },
+    "Elissa_Farman": {
+        "id": "Elissa_Farman",
+        "name": "Elissa Farman",
+        "alias": [
+            "Alys Westhill",
+            "Lady Westhill"
+        ],
+        "title": [
+            "Lady",
+            "Captain of",
+            "Maiden's Fancy",
+            "Captain of",
+            "Sun Chaser"
+        ],
+        "allegiance": "House Farman",
+        "culture": "Westermen",
+        "born": "In 29 AC"
+    },
+    "Elkin": {
+        "id": "Elkin",
+        "name": "Elkin",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Ella_Lannister": {
+        "id": "Ella_Lannister",
+        "name": "Ella Lannister",
+        "allegiance": [
+            "House Lannister of Lannisport",
+            "House Lannister"
+        ],
+        "culture": "Westermen",
+        "spouse": "Damon Lannister",
+        "issue": "Damion Lannister"
+    },
+    "Ella_Broome": {
+        "id": "Ella_Broome",
+        "name": "Ella Broome",
+        "title": "Lady-in-waiting",
+        "allegiance": [
+            "House Broome",
+            "House Targaryen"
+        ],
+        "culture": "Westermen"
+    },
+    "Ellard_Stark": {
+        "id": "Ellard_Stark",
+        "name": "Ellard Stark",
+        "title": [
+            "Lord of Winterfell",
+            "Warden of the North"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 101 121 AC"
+    },
+    "Ellard_Crane": {
+        "id": "Ellard_Crane",
+        "name": "Ellard Crane",
+        "allegiance": "House Crane",
+        "culture": "Reach",
+        "born": "In Around 64 AC"
+    },
+    "Ellaria_Sand": {
+        "id": "Ellaria_Sand",
+        "name": "Ellaria Sand",
+        "alias": "The serpent's whore",
+        "allegiance": [
+            "House Uller",
+            "House Martell"
+        ],
+        "culture": "Dornishmen",
+        "spouse": "Prince Oberyn Martell (paramour)",
+        "issue": [
+            "Elia Sand",
+            "Obella Sand",
+            "Dorea Sand",
+            "Loreza Sand"
+        ],
+        "tv series": "Season 4 | Season 5 | Season 6 | Season 7"
+    },
+    "Ellendor": {
+        "id": "Ellendor",
+        "name": "Ellendor",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel",
+        "born": "In or between 167 AC and 171 AC",
+        "died": "In 258 AC or 259 AC, at King's Landing"
+    },
+    "Ellery_Vance": {
+        "id": "Ellery_Vance",
+        "name": "Ellery Vance",
+        "title": "Ser",
+        "allegiance": "House Vance of Atranta",
+        "culture": "Rivermen"
+    },
+    "Ellyn_Baratheon": {
+        "id": "Ellyn_Baratheon",
+        "name": "Ellyn Baratheon",
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In 105 129 AC"
+    },
+    "Ellyn_Caron": {
+        "id": "Ellyn_Caron",
+        "name": "Ellyn Caron",
+        "title": [
+            "Lady of the Marches",
+            "Lady of",
+            "Nightsong"
+        ],
+        "allegiance": "House Caron",
+        "culture": "Marcher"
+    },
+    "Ellyn_Ever_Sweet": {
+        "id": "Ellyn_Ever_Sweet",
+        "name": "Ellyn Ever Sweet",
+        "allegiance": "House Beesbury",
+        "culture": "Reach"
+    },
+    "Ellyn_Reyne": {
+        "id": "Ellyn_Reyne",
+        "name": "Ellyn Reyne",
+        "alias": "Ellyn Tarbeck",
+        "title": "Lady of Tarbeck Hall",
+        "allegiance": [
+            "House Reyne",
+            "House Lannister",
+            "House Tarbeck"
+        ],
+        "culture": "Westermen",
+        "born": "At Castamere",
+        "died": "In 261 AC, at Tarbeck Hall",
+        "spouse": [
+            "1st: Ser",
+            "Tion Lannister",
+            "2nd: Lord",
+            "Walderan Tarbeck"
+        ]
+    },
+    "Elmar_Frey": {
+        "id": "Elmar_Frey",
+        "name": "Elmar Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 290 AC"
+    },
+    "Elmo_Tully": {
+        "id": "Elmo_Tully",
+        "name": "Elmo Tully",
+        "title": [
+            "Ser",
+            "Lord Paramount of the Trident",
+            "Lord of Riverrun"
+        ],
+        "allegiance": [
+            "House Tully",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "born": "In or before 100 AC",
+        "died": "In 131 AC",
+        "issue": [
+            "Kermit Tully",
+            "Oscar Tully"
+        ]
+    },
+    "Elric_Stark": {
+        "id": "Elric_Stark",
+        "name": "Elric Stark",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Elron": {
+        "id": "Elron",
+        "name": "Elron",
+        "allegiance": "Night's Watch"
+    },
+    "Elston_Tully": {
+        "id": "Elston_Tully",
+        "name": "Elston Tully",
+        "title": "Lord of Riverrun",
+        "allegiance": "House Tully",
+        "culture": "Rivermen"
+    },
+    "Elwood": {
+        "id": "Elwood",
+        "name": "Elwood",
+        "allegiance": "House Tully",
+        "died": "In 299 AC, at Riverrun"
+    },
+    "Elwood_Blackbar": {
+        "id": "Elwood_Blackbar",
+        "name": "Elwood Blackbar",
+        "title": "Ser",
+        "allegiance": "House Blackbar",
+        "culture": "Reach"
+    },
+    "Elwood_Harte": {
+        "id": "Elwood_Harte",
+        "name": "Elwood Harte",
+        "title": "Ser",
+        "allegiance": "House Harte"
+    },
+    "Elwood_Meadows": {
+        "id": "Elwood_Meadows",
+        "name": "Elwood Meadows",
+        "title": [
+            "Lord of Grassfield Keep",
+            "Castellan",
+            "of",
+            "Storm's End",
+            "(formerly)",
+            "Seneschal of",
+            "Storm's End"
+        ],
+        "allegiance": [
+            "House Meadows",
+            "House Baratheon of Dragonstone"
+        ],
+        "culture": "Reach",
+        "born": "In 278 AC or 279 AC"
+    },
+    "Elyana_Vypren": {
+        "id": "Elyana_Vypren",
+        "name": "Elyana Vypren",
+        "allegiance": [
+            "House Vypren",
+            "House Wylde"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 262 AC and 283 AC",
+        "spouse": "Ser Jon Wylde",
+        "issue": "Rickard Wylde"
+    },
+    "Elyas_Willum": {
+        "id": "Elyas_Willum",
+        "name": "Elyas Willum",
+        "allegiance": "House Willum"
+    },
+    "Elyas_Scales": {
+        "id": "Elyas_Scales",
+        "name": "Elyas Scales",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Dragonstone"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "Crownlands"
+    },
+    "Elyn_Norridge": {
+        "id": "Elyn_Norridge",
+        "name": "Elyn Norridge",
+        "allegiance": [
+            "House Norridge",
+            "House Tyrell"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Luthor Tyrell",
+        "issue": [
+            "Theodore Tyrell",
+            "Olene Tyrell",
+            "Medwick Tyrell"
+        ]
+    },
+    "Elys_Arryn": {
+        "id": "Elys_Arryn",
+        "name": "Elys Arryn",
+        "allegiance": "House Arryn",
+        "culture": "Valemen",
+        "born": "In 61 AC"
+    },
+    "Elys_Waynwood": {
+        "id": "Elys_Waynwood",
+        "name": "Elys Waynwood",
+        "title": "Ser",
+        "allegiance": "House Waynwood",
+        "culture": "Valemen",
+        "spouse": "Alys Arryn",
+        "issue": [
+            "8 daughters",
+            "Jasper Waynwood"
+        ]
+    },
+    "Elys_Westerling": {
+        "id": "Elys_Westerling",
+        "name": "Elys Westerling",
+        "title": "Ser",
+        "allegiance": "House Westerling",
+        "culture": "Westermen"
+    },
+    "Elysar": {
+        "id": "Elysar",
+        "name": "Elysar",
+        "title": "Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": "In 97 AC"
+    },
+    "Elza": {
+        "id": "Elza",
+        "name": "Elza",
+        "alias": "Ella",
+        "allegiance": "House of Galare",
+        "culture": "Meereenese",
+        "died": "In 294 AC, at Meereen"
+    },
+    "Emberlei_Frey": {
+        "id": "Emberlei_Frey",
+        "name": "Emberlei Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 296 AC or 297 AC"
+    },
+    "Emerick_Peake": {
+        "id": "Emerick_Peake",
+        "name": "Emerick Peake",
+        "alias": "Emerick the Avenger",
+        "title": "Lord of Starpike",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Emma": {
+        "id": "Emma",
+        "name": "Emma",
+        "culture": "Reach",
+        "born": "In 260 AC or before"
+    },
+    "Emmett": {
+        "id": "Emmett",
+        "name": "Emmett",
+        "alias": "Iron Emmett",
+        "title": [
+            "Master-at-arms",
+            "at",
+            "Castle Black",
+            "Commander",
+            "of",
+            "Long Barrow"
+        ],
+        "allegiance": "Night's Watch"
+    },
+    "Emmon_Cuy": {
+        "id": "Emmon_Cuy",
+        "name": "Emmon Cuy",
+        "alias": "Emmon the Yellow",
+        "title": "Ser",
+        "allegiance": [
+            "House Cuy",
+            "Rainbow Guard"
+        ],
+        "culture": "Reach",
+        "born": "At Sunflower Hall",
+        "died": "In 299 AC, at near Storm's End",
+        "tv series": "Season 2"
+    },
+    "Emmon_Frey": {
+        "id": "Emmon_Frey",
+        "name": "Emmon Frey",
+        "alias": "Emm",
+        "title": "Lord of Riverrun",
+        "allegiance": [
+            "House Frey",
+            "House Frey of Riverrun",
+            "House Lannister"
+        ],
+        "culture": "Rivermen",
+        "born": "In 237 AC or 238 AC",
+        "spouse": "Lady Genna Lannister",
+        "issue": [
+            "Cleos Frey",
+            "Lyonel Frey",
+            "Tion Frey",
+            "Walder Frey"
+        ]
+    },
+    "Emmond": {
+        "id": "Emmond",
+        "name": "Emmond",
+        "allegiance": "Drowned men",
+        "culture": "ironborn"
+    },
+    "Emory_Hill": {
+        "id": "Emory_Hill",
+        "name": "Emory Hill",
+        "alias": [
+            "Bastard of Lannisport",
+            "Tyler Hill"
+        ],
+        "title": "Ser",
+        "allegiance": [
+            "House Lannister of Lannisport",
+            "Greens"
+        ],
+        "culture": "Westermen",
+        "born": "At Lannisport",
+        "died": "In 130 AC, at the Gods Eye"
+    },
+    "Emphyria_Vance": {
+        "id": "Emphyria_Vance",
+        "name": "Emphyria Vance",
+        "allegiance": "House Vance of Wayfarer's Rest",
+        "culture": "Rivermen"
+    },
+    "Emrick": {
+        "id": "Emrick",
+        "name": "Emrick",
+        "allegiance": "Night's Watch",
+        "culture": "Westermen",
+        "born": "At Fair Isle"
+    },
+    "Endehar": {
+        "id": "Endehar",
+        "name": "Endehar",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Endrew_Tarth": {
+        "id": "Endrew_Tarth",
+        "name": "Endrew Tarth",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Castle Black"
+        ],
+        "allegiance": [
+            "House Tarth",
+            "Night's Watch"
+        ],
+        "culture": "Stormlands",
+        "died": "In 299 AC, at the Bridge of Skulls"
+    },
+    "Enger": {
+        "id": "Enger",
+        "name": "Enger",
+        "allegiance": "House Tully"
+    },
+    "Eon": {
+        "id": "Eon",
+        "name": "Eon",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Eon_Hunter": {
+        "id": "Eon_Hunter",
+        "name": "Eon Hunter",
+        "alias": "Old Lord Hunter",
+        "title": "Lord of Longbow Hall",
+        "allegiance": "House Hunter",
+        "culture": "Valemen",
+        "born": "In 220 AC or before (roughly)",
+        "died": "In +/- 300 AC",
+        "issue": [
+            "Gilwood Hunter",
+            "Eustace Hunter",
+            "Harlan Hunter"
+        ],
+        "tv series": "Season 1"
+    },
+    "Erena_Glover": {
+        "id": "Erena_Glover",
+        "name": "Erena Glover",
+        "allegiance": "House Glover",
+        "culture": "Northmen",
+        "born": "In 297 AC or 298 AC"
+    },
+    "Erich_Durrandon_(Kin-Killer)": {
+        "id": "Erich_Durrandon_(Kin-Killer)",
+        "name": "Erich Durrandon (Kin-Killer)",
+        "alias": "Erich Kin-Killer",
+        "allegiance": "House Durrandon",
+        "culture": "Stormlander",
+        "issue": "Daughter"
+    },
+    "Erich_III_Durrandon": {
+        "id": "Erich_III_Durrandon",
+        "name": "Erich Durrandon (the Sailmaker)",
+        "alias": "Erich the Sailmaker",
+        "culture": "First Men",
+        "title": "Storm King"
+    },
+    "Erich_VII_Durrandon": {
+        "id": "Erich_VII_Durrandon",
+        "name": "Erich VII Durrandon",
+        "alias": "Erich the Unready",
+        "issue": "Father of Qarlton II Durrandon",
+        "title": "Storm King"
+    },
+    "Erich_Hoare": {
+        "id": "Erich_Hoare",
+        "name": "Erich Hoare",
+        "alias": "Erich the Eagle",
+        "allegiance": "House Hoare",
+        "culture": "ironborn"
+    },
+    "Erich_I_Greyiron": {
+        "id": "Erich_I_Greyiron",
+        "name": "Erich I Greyiron",
+        "alias": "Erich the Ugly",
+        "culture": "ironborn",
+        "title": "High King of the Iron Islands"
+    },
+    "Erich_V_Harlaw": {
+        "id": "Erich_V_Harlaw",
+        "name": "Erich V Harlaw",
+        "culture": "ironborn",
+        "issue": "Harron Harlaw",
+        "title": "High King of the Iron Islands"
+    },
+    "Erik_Ironmaker": {
+        "id": "Erik_Ironmaker",
+        "name": "Erik Ironmaker",
+        "alias": [
+            "Erik the Just",
+            "Erik Anvil-Breaker",
+            "Eric Ironmaker"
+        ],
+        "title": [
+            "Lord Steward of the Iron Islands",
+            "Castellan",
+            "of",
+            "Pyke"
+        ],
+        "allegiance": [
+            "House Ironmaker",
+            "House Greyjoy"
+        ],
+        "culture": "ironborn",
+        "born": "In 211 AC or 212 AC",
+        "spouse": "Asha Greyjoy"
+    },
+    "Ermesande_Hayford": {
+        "id": "Ermesande_Hayford",
+        "name": "Ermesande Hayford",
+        "title": "Lady of Hayford",
+        "allegiance": [
+            "House Hayford",
+            "House Lannister"
+        ],
+        "culture": "Crownlands",
+        "born": "In 298 AC",
+        "spouse": "Tyrek Lannister"
+    },
+    "Ernest_Dabell": {
+        "id": "Ernest_Dabell",
+        "name": "Ernest Dabell",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Eroeh": {
+        "id": "Eroeh",
+        "name": "Eroeh",
+        "culture": "Lhazareen",
+        "died": "In 298 AC, at Dothraki Sea"
+    },
+    "Erreck": {
+        "id": "Erreck",
+        "name": "Erreck",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Erreg": {
+        "id": "Erreg",
+        "name": "Erreg the Kinslayer",
+        "alias": "Erreg the Kinslayer",
+        "title": "King",
+        "culture": "Andal"
+    },
+    "Erren_Florent": {
+        "id": "Erren_Florent",
+        "name": "Erren Florent",
+        "title": "Ser",
+        "allegiance": "House Florent",
+        "culture": "Reach"
+    },
+    "Errok": {
+        "id": "Errok",
+        "name": "Errok",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Errold_Stark": {
+        "id": "Errold_Stark",
+        "name": "Errold Stark",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Erryk_(guard)": {
+        "id": "Erryk_(guard)",
+        "name": "Erryk (guard)",
+        "alias": "\"Left\" or \"Right\"",
+        "allegiance": "House Tyrell"
+    },
+    "Erryk_Cargyll": {
+        "id": "Erryk_Cargyll",
+        "name": "Erryk Cargyll",
+        "title": "Ser",
+        "allegiance": [
+            "House Cargyll",
+            "Kingsguard",
+            "Queensguard",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 129 AC, at Dragonstone"
+    },
+    "Erwin_Lannister": {
+        "id": "Erwin_Lannister",
+        "name": "Erwin Lannister",
+        "title": "Ser",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "died": "In 133 AC, at Fair Isle"
+    },
+    "Esgred": {
+        "id": "Esgred",
+        "name": "Esgred"
+    },
+    "Essie": {
+        "id": "Essie",
+        "name": "Essie",
+        "alias": "Lady Esselyn",
+        "title": "Lady",
+        "allegiance": [
+            "House of Kisses",
+            "Gaemon Palehair"
+        ],
+        "culture": "Crownlands",
+        "died": "In 130 AC or 131 AC, at Red Keep, King's Landing",
+        "issue": "Gaemon Palehair"
+    },
+    "Ethan_Glover": {
+        "id": "Ethan_Glover",
+        "name": "Ethan Glover",
+        "allegiance": "House Glover",
+        "culture": "Northmen",
+        "died": "In 283 AC, at the tower of joy"
+    },
+    "Eunuch_strangler": {
+        "id": "Eunuch_strangler",
+        "name": "Eunuch strangler"
+    },
+    "Euron_Greyjoy": {
+        "id": "Euron_Greyjoy",
+        "name": "Euron Greyjoy",
+        "alias": [
+            "Crow's Eye",
+            "Euron Crow's Eye",
+            "Euron Croweye"
+        ],
+        "culture": "Ironborn",
+        "issue": "At least 3 bastards sons",
+        "father": "Lord Quellon Greyjoy",
+        "mother": "Lady of House Sunderly",
+        "tv series": "Season 6 | Season 7 | Season 8",
+        "born": "Between 256 AC and 268 AC Pyke",
+        "title": [
+            "Iron King",
+            "King of the Isles and the North",
+            "King of Salt and Rock",
+            "Son of the Sea Wind",
+            "Lord Reaper of Pyke",
+            "Captain of the",
+            "Silence"
+        ]
+    },
+    "Eustace_(Braavos)": {
+        "id": "Eustace_(Braavos)",
+        "name": "Eustace (Braavos)",
+        "title": "Septon",
+        "allegiance": "Faith of the Seven"
+    },
+    "Eustace_(Dance_of_the_Dragons)": {
+        "id": "Eustace_(Dance_of_the_Dragons)",
+        "name": "Eustace (Dance of the Dragons)",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen",
+            "Greens"
+        ],
+        "culture": "Rivermen",
+        "born": "At Stoney Sept"
+    },
+    "Eustace_Brune": {
+        "id": "Eustace_Brune",
+        "name": "Eustace Brune",
+        "title": "Lord of the Dyre Den",
+        "allegiance": "House Brune of the Dyre Den",
+        "culture": "Crownlands",
+        "issue": "Sons"
+    },
+    "Eustace_Hightower": {
+        "id": "Eustace_Hightower",
+        "name": "Eustace Hightower",
+        "title": [
+            "Ser",
+            "Captain of",
+            "Lady Meredith"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or before 41 AC",
+        "spouse": "Unknown",
+        "issue": "Children"
+    },
+    "Eustace_Hunter": {
+        "id": "Eustace_Hunter",
+        "name": "Eustace Hunter",
+        "title": "Ser",
+        "allegiance": "House Hunter",
+        "culture": "Valemen"
+    },
+    "Eustace_Osgrey": {
+        "id": "Eustace_Osgrey",
+        "name": "Eustace Osgrey",
+        "alias": [
+            "Ser Useless",
+            "Old Osgrey"
+        ],
+        "title": [
+            "Knight",
+            "of",
+            "Standfast",
+            "Lord of Coldmoat"
+        ],
+        "allegiance": "House Osgrey",
+        "culture": "Reach",
+        "born": "At Standfast",
+        "died": "In 211 219 AC",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Lady",
+            "Rohanne Webber"
+        ],
+        "issue": [
+            "Edwyn Osgrey",
+            "Harrold Osgrey",
+            "Addam Osgrey",
+            "Alysanne Osgrey"
+        ]
+    },
+    "Evlyn": {
+        "id": "Evlyn",
+        "name": "Evlyn",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Eyron": {
+        "id": "Eyron",
+        "name": "Eyron",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Eyron_Stark": {
+        "id": "Eyron_Stark",
+        "name": "Eyron Stark",
+        "title": "King in the North",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Ezzara": {
+        "id": "Ezzara",
+        "name": "Ezzara",
+        "title": "Blue Grace",
+        "allegiance": "Graces of Meereen",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Ezzelyno": {
+        "id": "Ezzelyno",
+        "name": "Ezzelyno",
+        "title": "Red priest",
+        "allegiance": "R'hllor",
+        "culture": "Braavosi"
+    }
+}

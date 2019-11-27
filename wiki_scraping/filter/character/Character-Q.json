@@ -1,0 +1,522 @@
+{
+    "Qalen": {
+        "id": "Qalen",
+        "name": "Qalen",
+        "title": "Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Greyjoy"
+        ],
+        "died": "In 289 299 AC"
+    },
+    "Qano": {
+        "id": "Qano",
+        "name": "Qano",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Qarl_the_Maid": {
+        "id": "Qarl_the_Maid",
+        "name": "Qarl the Maid",
+        "alias": "Qarl the Maid",
+        "culture": "ironborn"
+    },
+    "Qarl_the_Thrall": {
+        "id": "Qarl_the_Thrall",
+        "name": "Qarl the Thrall",
+        "alias": "Qarl the Thrall",
+        "culture": "ironborn"
+    },
+    "Qarl_Corbray": {
+        "id": "Qarl_Corbray",
+        "name": "Qarl Corbray",
+        "title": [
+            "Ser",
+            "Lord of Heart's Home",
+            "Commander of the City Watch"
+        ],
+        "allegiance": [
+            "House Corbray",
+            "City Watch of King's Landing"
+        ],
+        "culture": "Valemen",
+        "died": "In 59 AC, at King's Landing"
+    },
+    "Qarl_Correy": {
+        "id": "Qarl_Correy",
+        "name": "Qarl Correy",
+        "title": "Ser",
+        "allegiance": "House Velaryon"
+    },
+    "Qarl_Kenning": {
+        "id": "Qarl_Kenning",
+        "name": "Qarl Kenning",
+        "alias": "Queer Qarl Kenning",
+        "allegiance": "House Kenning of Harlaw",
+        "culture": "Ironborn"
+    },
+    "Qarl_Quickaxe": {
+        "id": "Qarl_Quickaxe",
+        "name": "Qarl Quickaxe",
+        "alias": "Qarl Quickaxe",
+        "culture": "ironborn"
+    },
+    "Qarl_Shepherd": {
+        "id": "Qarl_Shepherd",
+        "name": "Qarl Shepherd",
+        "allegiance": "House Shepherd",
+        "culture": "ironborn"
+    },
+    "Qarlon": {
+        "id": "Qarlon",
+        "name": "Qarlon",
+        "alias": "Qarlon the Great",
+        "culture": "Lorathi Andal",
+        "died": "near Norvos",
+        "title": "King of All Andals"
+    },
+    "Qarlton_Chelsted": {
+        "id": "Qarlton_Chelsted",
+        "name": "Qarlton Chelsted",
+        "alias": "The mace-and-dagger Hand",
+        "title": [
+            "Lord",
+            "Master of coin",
+            "Hand of the King"
+        ],
+        "allegiance": "House Chelsted",
+        "culture": "Crownlands",
+        "died": "In 283 AC, at King's Landing"
+    },
+    "Qarlton_II_Durrandon": {
+        "id": "Qarlton_II_Durrandon",
+        "name": "Qarlton II Durrandon",
+        "alias": "Qarlton the Conqueror",
+        "culture": "First Men",
+        "issue": "Qarlton III Durrandon",
+        "title": "Storm King"
+    },
+    "Qarlton_III_Durrandon": {
+        "id": "Qarlton_III_Durrandon",
+        "name": "Qarlton III Durrandon",
+        "culture": "First Men",
+        "issue": "Monfryd V Durrandon",
+        "father": "Qarlton II Durrandon",
+        "title": "Storm King"
+    },
+    "Qarro_Volentin": {
+        "id": "Qarro_Volentin",
+        "name": "Qarro Volentin",
+        "title": "First Sword of Braavos",
+        "culture": "Braavosi"
+    },
+    "Qavo_Nogarys": {
+        "id": "Qavo_Nogarys",
+        "name": "Qavo Nogarys",
+        "culture": "Volantene"
+    },
+    "Qezza_Galare": {
+        "id": "Qezza_Galare",
+        "name": "Qezza Galare",
+        "title": "Cupbearer",
+        "allegiance": "House of Galare",
+        "culture": "Ghiscari",
+        "born": "At Meereen"
+    },
+    "Qhored_I_Hoare": {
+        "id": "Qhored_I_Hoare",
+        "name": "Qhored I Hoare",
+        "alias": [
+            "Qhored Greyiron",
+            "Qhored Blacktyde",
+            "Qhored the Cruel"
+        ],
+        "title": "High King of the Iron Islands"
+    },
+    "Qhorin_Halfhand": {
+        "id": "Qhorin_Halfhand",
+        "name": "Qhorin Halfhand",
+        "alias": [
+            "Qhorin Halfhand",
+            "Quorin Halfhand",
+            "The Halfhand"
+        ],
+        "allegiance": "Night's Watch",
+        "died": "In 299 AC, at Skirling Pass",
+        "tv series": "Season 2"
+    },
+    "Qhorin_Volmark": {
+        "id": "Qhorin_Volmark",
+        "name": "Qhorin Volmark",
+        "title": [
+            "Lord of Volmark",
+            "King of the Iron Islands",
+            "(claimed)"
+        ],
+        "allegiance": "House Volmark",
+        "culture": "ironborn",
+        "died": "In 2 AC, at Great Wyk",
+        "issue": "Son"
+    },
+    "Qhorwyn_Hoare": {
+        "id": "Qhorwyn_Hoare",
+        "name": "Qhorwyn Hoare",
+        "alias": "Qhorwyn the Cunning",
+        "issue": [
+            "Eldest son",
+            "Harlan Hoare",
+            "Harwyn Hoare",
+            "Grandmother of",
+            "Qhorin Volmark"
+        ],
+        "title": "King of the Iron Islands"
+    },
+    "Qoren_Martell": {
+        "id": "Qoren_Martell",
+        "name": "Qoren Martell",
+        "title": [
+            "Prince of Dorne",
+            "Lord of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In or before 102 AC",
+        "died": "In or between 129 132 AC",
+        "issue": [
+            "Aliandra Martell",
+            "Qyle Martell",
+            "Coryanne Martell"
+        ]
+    },
+    "Qos": {
+        "id": "Qos",
+        "name": "Qos",
+        "title": "Captain of the Wind Witch"
+    },
+    "Qotho": {
+        "id": "Qotho",
+        "name": "Qotho",
+        "title": "Bloodrider of Khal Drogo",
+        "culture": "Dothraki",
+        "died": "In ~298/299 AC, at Dothraki sea",
+        "tv series": "Season 1"
+    },
+    "Quaithe": {
+        "id": "Quaithe",
+        "name": "Quaithe",
+        "alias": "Quaithe of the Shadow",
+        "culture": "Asshai'i",
+        "tv series": "Season 2"
+    },
+    "Quaro": {
+        "id": "Quaro",
+        "name": "Quaro",
+        "culture": "Dothraki",
+        "died": "In 298 AC, at Dothraki sea"
+    },
+    "Queen_o%27_whores": {
+        "id": "Queen_o%27_whores",
+        "name": "Queen o' whores"
+    },
+    "Queen_Whore": {
+        "id": "Queen_Whore",
+        "name": "Queen Whore",
+        "title": "Queen of Astapor",
+        "culture": "Astapori",
+        "died": "In 300 AC, at Astapor"
+    },
+    "Quellon_Botley": {
+        "id": "Quellon_Botley",
+        "name": "Quellon Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn"
+    },
+    "Quellon_Greyjoy": {
+        "id": "Quellon_Greyjoy",
+        "name": "Quellon Greyjoy",
+        "title": [
+            "Lord of the Iron Islands",
+            "Lord Reaper of Pyke"
+        ],
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 283 AC, at the mouth of the Mander",
+        "spouse": [
+            "1st: Lady",
+            "Stonetree",
+            "2nd: Lady",
+            "Sunderly",
+            "3rd: Lady",
+            "Piper"
+        ],
+        "issue": [
+            "Harlon Greyjoy",
+            "Quenton Greyjoy",
+            "Donel Greyjoy",
+            "Balon Greyjoy",
+            "Euron Greyjoy",
+            "Victarion Greyjoy",
+            "Urrigon Greyjoy",
+            "Aeron Greyjoy",
+            "Robin Greyjoy",
+            "Stillborn daughter"
+        ]
+    },
+    "Quellon_Humble": {
+        "id": "Quellon_Humble",
+        "name": "Quellon Humble",
+        "allegiance": "House Humble",
+        "culture": "ironborn"
+    },
+    "Quence": {
+        "id": "Quence",
+        "name": "Quence",
+        "culture": "Braavosi"
+    },
+    "Quenn": {
+        "id": "Quenn",
+        "name": "Quenn",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Quent": {
+        "id": "Quent",
+        "name": "Quent",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Quenten_Banefort": {
+        "id": "Quenten_Banefort",
+        "name": "Quenten Banefort",
+        "title": "Lord of Banefort",
+        "allegiance": "House Banefort",
+        "culture": "Westermen"
+    },
+    "Quentin_Tyrell": {
+        "id": "Quentin_Tyrell",
+        "name": "Quentin Tyrell",
+        "title": "Ser",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "died": "In 282 AC, at Ashford",
+        "spouse": "Unknown",
+        "issue": "Olymer Tyrell"
+    },
+    "Quenton_Corbray": {
+        "id": "Quenton_Corbray",
+        "name": "Quenton Corbray",
+        "title": "Lord of Heart's Home",
+        "allegiance": "House Corbray",
+        "culture": "Valemen"
+    },
+    "Quenton_Greyjoy": {
+        "id": "Quenton_Greyjoy",
+        "name": "Quenton Greyjoy",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "born": "In or between 254 AC and 259 AC"
+    },
+    "Quenton_Greyjoy_(cousin)": {
+        "id": "Quenton_Greyjoy_(cousin)",
+        "name": "Quenton Greyjoy (cousin)",
+        "title": "Captain of the Salty Wench",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "died": "In 300 AC, at the wolfswood"
+    },
+    "Quenton_Hightower": {
+        "id": "Quenton_Hightower",
+        "name": "Quenton Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "died": "In 216 232 AC, at Oldtown",
+        "issue": "Son"
+    },
+    "Quenton_Qoherys": {
+        "id": "Quenton_Qoherys",
+        "name": "Quenton Qoherys",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at",
+            "Dragonstone",
+            "Lord of Harrenhal"
+        ],
+        "allegiance": [
+            "House Qoherys",
+            "House Targaryen"
+        ],
+        "died": "In 9 AC",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: A daughter of Lord",
+            "Edmyn Tully"
+        ]
+    },
+    "Quentyn_Ball": {
+        "id": "Quentyn_Ball",
+        "name": "Quentyn Ball",
+        "alias": "Fireball",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at the",
+            "Red Keep"
+        ],
+        "allegiance": [
+            "House Ball",
+            "House Blackfyre"
+        ],
+        "culture": "Reach",
+        "died": "In 196 AC, at near Redgrass Field",
+        "spouse": "Unknown",
+        "issue": "Glendon Flowers (disputed)"
+    },
+    "Quentyn_Blackwood": {
+        "id": "Quentyn_Blackwood",
+        "name": "Quentyn Blackwood",
+        "title": "Lord of Raventree Hall",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "died": "In 206 AC, at King's Landing"
+    },
+    "Quentyn_Martell": {
+        "id": "Quentyn_Martell",
+        "name": "Quentyn Martell",
+        "alias": [
+            "Frog",
+            "Prince Frog",
+            "The Prince Who Came Too Late",
+            "The dragonrider"
+        ],
+        "title": [
+            "Prince",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Martell",
+            "Windblown"
+        ],
+        "culture": "Dornishmen",
+        "born": "In 281 AC, at Sunspear, Dorne",
+        "died": "In 300 AC, at Meereen"
+    },
+    "Quentyn_Qorgyle": {
+        "id": "Quentyn_Qorgyle",
+        "name": "Quentyn Qorgyle",
+        "title": "Lord of Sandstone",
+        "allegiance": "House Qorgyle",
+        "culture": "Dornishmen",
+        "issue": [
+            "Gulian Qorgyle",
+            "Arron Qorgyle"
+        ]
+    },
+    "Quhuru_Mo": {
+        "id": "Quhuru_Mo",
+        "name": "Quhuru Mo",
+        "title": "Captain of the Cinnamon Wind",
+        "culture": "Summer Isles",
+        "issue": "Kojja Mo"
+    },
+    "Quickfinger": {
+        "id": "Quickfinger",
+        "name": "Quickfinger",
+        "alias": "Quickfinger",
+        "allegiance": "House Blackfyre"
+    },
+    "Quill": {
+        "id": "Quill",
+        "name": "Quill",
+        "culture": "Braavosi"
+    },
+    "Quillion": {
+        "id": "Quillion",
+        "name": "Quillion",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Quince": {
+        "id": "Quince",
+        "name": "Quince",
+        "title": "Maester at the Eyrie",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Arryn"
+        ]
+    },
+    "Quincy_Cox": {
+        "id": "Quincy_Cox",
+        "name": "Quincy Cox",
+        "title": [
+            "Ser",
+            "Knight of Saltpans"
+        ],
+        "allegiance": "House Cox",
+        "culture": "Rivermen",
+        "issue": [
+            "Sons",
+            "2 daughters"
+        ]
+    },
+    "Quort": {
+        "id": "Quort",
+        "name": "Quort",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "born": "In or between 285 AC and 287 AC",
+        "died": "In +/-299 AC, at Castle Black"
+    },
+    "Qyburn": {
+        "id": "Qyburn",
+        "name": "Qyburn",
+        "alias": [
+            "The Bloody Maester",
+            "Lord Qyburn"
+        ],
+        "title": [
+            "Maester",
+            "(formerly)",
+            "Master of whisperers"
+        ],
+        "allegiance": [
+            "The Citadel",
+            "(formerly)",
+            "Brave Companions",
+            "(formerly)",
+            "House Lannister"
+        ],
+        "born": "In 217 AC or after, at Westeros",
+        "tv series": "Season 3 | Season 4 | Season 5 | Season 6 | Season 7 | Season 8"
+    },
+    "Qyle": {
+        "id": "Qyle",
+        "name": "Qyle",
+        "died": "In 299 AC, at Gods Eye"
+    },
+    "Qyle_Corbray": {
+        "id": "Qyle_Corbray",
+        "name": "Qyle Corbray",
+        "culture": "Andal",
+        "title": "King of the Fingers"
+    },
+    "Qyle_Martell": {
+        "id": "Qyle_Martell",
+        "name": "Qyle Martell",
+        "title": "Prince",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 116 124 AC"
+    }
+}

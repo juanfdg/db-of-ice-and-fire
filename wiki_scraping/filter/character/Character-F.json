@@ -1,0 +1,350 @@
+{
+    "Fletcher_Dick": {
+        "id": "Fletcher_Dick",
+        "name": "Fletcher Dick",
+        "allegiance": "Kingswood Brotherhood",
+        "born": "At a village near Stonehelm"
+    },
+    "Faezhar_zo_Faez": {
+        "id": "Faezhar_zo_Faez",
+        "name": "Faezhar zo Faez",
+        "alias": "the Rabbit",
+        "allegiance": [
+            "House of Faez",
+            "Wise Masters"
+        ],
+        "culture": "Ghiscari",
+        "born": "At Yunkai"
+    },
+    "Falena_Stokeworth": {
+        "id": "Falena_Stokeworth",
+        "name": "Falena Stokeworth",
+        "title": "Lady of Harrenhal",
+        "allegiance": [
+            "House Stokeworth",
+            "House Lothston"
+        ],
+        "culture": "Crownlands",
+        "born": "In 125 AC",
+        "spouse": "Lord Lucas Lothston",
+        "issue": "Jeyne Lothston"
+    },
+    "Falia_Flowers": {
+        "id": "Falia_Flowers",
+        "name": "Falia Flowers",
+        "allegiance": [
+            "House Hewett",
+            "House Greyjoy"
+        ],
+        "culture": "Reach",
+        "born": "In either 281 AC, 282 AC or 283 AC",
+        "issue": "Unborn child"
+    },
+    "Falyse_Stokeworth": {
+        "id": "Falyse_Stokeworth",
+        "name": "Falyse Stokeworth",
+        "title": "Lady",
+        "allegiance": [
+            "House Stokeworth",
+            "House Byrch"
+        ],
+        "culture": "Crownlands",
+        "born": "In 265 AC or before",
+        "died": "In 300 AC, at the black cells of the Red Keep, King's Landing",
+        "spouse": "Ser Balman Byrch"
+    },
+    "Farlen": {
+        "id": "Farlen",
+        "name": "Farlen",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "died": "In 299 AC, at Winterfell",
+        "issue": "Palla",
+        "tv series": "Season 2"
+    },
+    "Fat_fellow": {
+        "id": "Fat_fellow",
+        "name": "Fat fellow",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Fearless_Ithoke": {
+        "id": "Fearless_Ithoke",
+        "name": "Ithoke",
+        "alias": "Fearless Ithoke",
+        "allegiance": "House of Loraq",
+        "culture": "Ghiscari"
+    },
+    "Fergon_Hoare": {
+        "id": "Fergon_Hoare",
+        "name": "Fergon Hoare",
+        "alias": "Fergon the Fierce",
+        "title": "King of the Iron Islands"
+    },
+    "Fern": {
+        "id": "Fern",
+        "name": "Fern"
+    },
+    "Ferny": {
+        "id": "Ferny",
+        "name": "Ferny",
+        "culture": "Free folk",
+        "spouse": "Craster"
+    },
+    "Ferrego_Antaryon": {
+        "id": "Ferrego_Antaryon",
+        "name": "Ferrego Antaryon",
+        "title": "Sealord of Braavos",
+        "allegiance": "House Antaryon",
+        "culture": "Braavosi"
+    },
+    "Ferret": {
+        "id": "Ferret",
+        "name": "Ferret"
+    },
+    "Ferris_Fowler": {
+        "id": "Ferris_Fowler",
+        "name": "Ferris Fowler",
+        "culture": "Dornishmen",
+        "title": [
+            "King of Stone and Sky",
+            "Lord of Skyreach",
+            "Lord of the Wide Way"
+        ]
+    },
+    "Fingers": {
+        "id": "Fingers",
+        "name": "Fingers"
+    },
+    "First_King": {
+        "id": "First_King",
+        "name": "First King",
+        "culture": "First Men"
+    },
+    "Flement_Brax": {
+        "id": "Flement_Brax",
+        "name": "Flement Brax",
+        "title": "Ser",
+        "allegiance": "House Brax",
+        "culture": "Westermen",
+        "born": "In or before 278 AC",
+        "spouse": "Morya Frey",
+        "issue": [
+            "Robert Brax",
+            "Walder Brax",
+            "Jon Brax"
+        ]
+    },
+    "Florence_Fossoway": {
+        "id": "Florence_Fossoway",
+        "name": "Florence Fossoway",
+        "alias": "Apple-counter",
+        "title": [
+            "Lady of",
+            "Highgarden",
+            "Master of coin",
+            "(unofficially)"
+        ],
+        "allegiance": [
+            "House Fossoway",
+            "House Tyrell"
+        ],
+        "culture": "Reach",
+        "spouse": "Lord Martyn Tyrell"
+    },
+    "Florian_the_Fool": {
+        "id": "Florian_the_Fool",
+        "name": "Florian the Fool",
+        "alias": "Florian the Fool",
+        "title": "Ser",
+        "culture": "rivermen"
+    },
+    "Florian_Greysteel": {
+        "id": "Florian_Greysteel",
+        "name": "Florian Greysteel",
+        "title": "Ser",
+        "allegiance": "House Mooton"
+    },
+    "Florian_V_Mooton": {
+        "id": "Florian_V_Mooton",
+        "name": "Florian V Mooton",
+        "alias": "Florian the Brave",
+        "culture": "Rivermen",
+        "title": "King"
+    },
+    "Floris_Baratheon": {
+        "id": "Floris_Baratheon",
+        "name": "Floris Baratheon",
+        "title": "Lady of Goldengrove",
+        "allegiance": [
+            "House Baratheon",
+            "House Rowan"
+        ],
+        "culture": "Stormlander",
+        "born": "In 118 AC",
+        "died": "In 134 AC",
+        "spouse": "Lord Thaddeus Rowan"
+    },
+    "Florys_the_Fox": {
+        "id": "Florys_the_Fox",
+        "name": "Florys the Fox",
+        "allegiance": [
+            "House Florent",
+            "House Ball",
+            "House Peake"
+        ],
+        "culture": "Reach",
+        "spouse": "3 husbands",
+        "issue": "Lann the Clever (allegedly)"
+    },
+    "Fogo": {
+        "id": "Fogo",
+        "name": "Fogo",
+        "title": [
+            "Khalakka",
+            "Khal"
+        ],
+        "culture": "Dothraki",
+        "died": "In 298 AC, at Dothraki sea"
+    },
+    "Fomas": {
+        "id": "Fomas",
+        "name": "Fomas",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Forley_Prester": {
+        "id": "Forley_Prester",
+        "name": "Forley Prester",
+        "title": "Ser",
+        "allegiance": "House Prester",
+        "culture": "Westermen"
+    },
+    "Fornio": {
+        "id": "Fornio",
+        "name": "Fornio",
+        "allegiance": "Night's Watch"
+    },
+    "Forrest_Frey": {
+        "id": "Forrest_Frey",
+        "name": "Forrest Frey",
+        "alias": "Fool Frey",
+        "title": [
+            "Ser",
+            "Lord of the Crossing"
+        ],
+        "allegiance": [
+            "House Frey",
+            "Blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Gods Eye",
+        "spouse": "Lady Sabitha Vypren",
+        "issue": "Son"
+    },
+    "Foss_the_Archer": {
+        "id": "Foss_the_Archer",
+        "name": "Foss the Archer",
+        "allegiance": "House Fossoway of Cider Hall",
+        "culture": "Reach"
+    },
+    "Fralegg": {
+        "id": "Fralegg",
+        "name": "Fralegg the Strong",
+        "alias": "Fralegg the Strong",
+        "title": "Captain",
+        "culture": "ironborn"
+    },
+    "Franklyn_Farman": {
+        "id": "Franklyn_Farman",
+        "name": "Franklyn Farman",
+        "title": [
+            "Ser",
+            "Lord of Fair Isle"
+        ],
+        "allegiance": "House Farman",
+        "culture": "Westermen",
+        "born": "In 31 AC or before",
+        "died": "In 55 88 AC"
+    },
+    "Franklyn_Flowers": {
+        "id": "Franklyn_Flowers",
+        "name": "Franklyn Flowers",
+        "alias": "Bastard of Cider Hall",
+        "title": "Ser",
+        "allegiance": "Golden Company"
+    },
+    "Franklyn_Fowler": {
+        "id": "Franklyn_Fowler",
+        "name": "Franklyn Fowler",
+        "alias": "The Old Hawk",
+        "title": [
+            "Lord of Skyreach",
+            "Warden of the Prince's Pass"
+        ],
+        "allegiance": "House Fowler",
+        "culture": "Dornishmen",
+        "issue": [
+            "Jeyne Fowler",
+            "Jennelyn Fowler"
+        ]
+    },
+    "Franklyn_Frey": {
+        "id": "Franklyn_Frey",
+        "name": "Franklyn Frey",
+        "title": "Ser",
+        "allegiance": "House Frey",
+        "culture": "Rivermen"
+    },
+    "Fredo_Rogare": {
+        "id": "Fredo_Rogare",
+        "name": "Fredo Rogare",
+        "allegiance": "House Rogare",
+        "culture": "Lysene",
+        "issue": "Daughters"
+    },
+    "Frenken": {
+        "id": "Frenken",
+        "name": "Frenken",
+        "title": "Maester at Stokeworth",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Stokeworth"
+        ]
+    },
+    "Frenya": {
+        "id": "Frenya",
+        "name": "Frenya",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Frynne": {
+        "id": "Frynne",
+        "name": "Frynne",
+        "culture": "Dornishmen"
+    },
+    "Fulk_the_Flea": {
+        "id": "Fulk_the_Flea",
+        "name": "Fulk the Flea",
+        "alias": "Fulk the Flea",
+        "allegiance": "Night's Watch"
+    },
+    "First_Ranger_Stane": {
+        "id": "First_Ranger_Stane",
+        "name": "First Ranger Stane",
+        "title": "First Ranger",
+        "allegiance": [
+            "House Stane",
+            "Night's Watch"
+        ],
+        "culture": "Skagosi"
+    },
+    "Fletcher_Will": {
+        "id": "Fletcher_Will",
+        "name": "Fletcher Will",
+        "alias": "Fletcher Will",
+        "died": "At Riverlands"
+    }
+}

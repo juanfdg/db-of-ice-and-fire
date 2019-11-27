@@ -1,0 +1,432 @@
+{
+    "Nine-Finger_Jack": {
+        "id": "Nine-Finger_Jack",
+        "name": "Nine-Finger Jack",
+        "alias": "Nine-Finger Jack"
+    },
+    "Naerys_Targaryen": {
+        "id": "Naerys_Targaryen",
+        "name": "Naerys Targaryen",
+        "title": [
+            "Princess",
+            "Queen"
+        ],
+        "allegiance": "House Targaryen",
+        "culture": "crownlands",
+        "born": "In 138 AC, at King's Landing",
+        "died": "In or between 179 AC and 184 AC, at King's Landing",
+        "spouse": "Aegon IV Targaryen",
+        "issue": [
+            "Daeron II Targaryen",
+            "Unnamed twins",
+            "Daenerys Targaryen",
+            "Stillborn son (twin to Daenerys)"
+        ]
+    },
+    "Nage": {
+        "id": "Nage",
+        "name": "Nage",
+        "allegiance": "House Bolton"
+    },
+    "Naggle": {
+        "id": "Naggle",
+        "name": "Naggle",
+        "culture": "Crownlands"
+    },
+    "Nail": {
+        "id": "Nail",
+        "name": "Nail",
+        "allegiance": "Second Sons"
+    },
+    "Nan": {
+        "id": "Nan",
+        "name": "Old Nan",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or before 213 AC",
+        "issue": [
+            "2 sons",
+            "Daughters"
+        ],
+        "tv series": "Season 1 | Season 6"
+    },
+    "Narbert": {
+        "id": "Narbert",
+        "name": "Narbert",
+        "title": [
+            "Brother",
+            "Proctor"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "Quiet Isle"
+        ]
+    },
+    "Narbert_Grandison": {
+        "id": "Narbert_Grandison",
+        "name": "Narbert Grandison",
+        "title": "Ser",
+        "allegiance": [
+            "House Grandison",
+            "Queen's men"
+        ],
+        "culture": "Stormlander"
+    },
+    "Narbo": {
+        "id": "Narbo",
+        "name": "Narbo",
+        "alias": "Little Narbo",
+        "culture": "Braavosi"
+    },
+    "Narha_Otherys": {
+        "id": "Narha_Otherys",
+        "name": "Narha Otherys",
+        "born": "In or between 162 AC and 171 AC"
+    },
+    "Nate": {
+        "id": "Nate",
+        "name": "Nate",
+        "alias": "Feathers",
+        "allegiance": "House Martell",
+        "culture": "Dornish"
+    },
+    "Naylin": {
+        "id": "Naylin",
+        "name": "Naylin",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Ned_(ferryman)": {
+        "id": "Ned_(ferryman)",
+        "name": "Ned (ferryman)"
+    },
+    "Ned_Bean": {
+        "id": "Ned_Bean",
+        "name": "Ned Bean",
+        "alias": "Blackbean",
+        "title": "Second-in-command of the royal fleet",
+        "allegiance": "House Targaryen"
+    },
+    "Ned_Woods": {
+        "id": "Ned_Woods",
+        "name": "Ned Woods",
+        "alias": "Noseless Ned",
+        "allegiance": "House Woods",
+        "culture": "Northmen"
+    },
+    "Nella": {
+        "id": "Nella",
+        "name": "Nella",
+        "culture": "Free folk",
+        "spouse": "Craster",
+        "issue": "Six sons"
+    },
+    "Nestor_Royce": {
+        "id": "Nestor_Royce",
+        "name": "Nestor Royce",
+        "title": [
+            "Lord",
+            "Keeper of the Gates of the Moon",
+            "High Steward of the Vale"
+        ],
+        "allegiance": [
+            "House Royce of the Gates of the Moon",
+            "House Arryn"
+        ],
+        "culture": "Valemen",
+        "issue": [
+            "Albar Royce",
+            "Myranda Royce"
+        ]
+    },
+    "Nettles": {
+        "id": "Nettles",
+        "name": "Nettles",
+        "alias": "Netty",
+        "allegiance": "Blacks",
+        "born": "In 113 AC, at Driftmark"
+    },
+    "Nettles_(free_folk)": {
+        "id": "Nettles_(free_folk)",
+        "name": "Nettles (free folk)",
+        "culture": "Free folk"
+    },
+    "Nevio_Narratys": {
+        "id": "Nevio_Narratys",
+        "name": "Nevio Narratys",
+        "title": "Prince of Pentos",
+        "culture": "Pentoshi"
+    },
+    "Nicol": {
+        "id": "Nicol",
+        "name": "Nicol",
+        "title": "Maester",
+        "allegiance": "The Citadel"
+    },
+    "Night%27s_King": {
+        "id": "Night%27s_King",
+        "name": "Night's King",
+        "alias": [
+            "Night's King",
+            "Brandon Stark (according to",
+            "Old Nan",
+            ")"
+        ],
+        "title": [
+            "Lord Commander of the Night's Watch",
+            "Night's King"
+        ],
+        "allegiance": [
+            "Night's Watch",
+            "Others",
+            "House Bolton",
+            ",",
+            "Magnar",
+            ",",
+            "Umber",
+            ",",
+            "Flint",
+            ",",
+            "Norrey",
+            ",",
+            "Woodfoot",
+            ", or",
+            "Stark",
+            "(according to various people)"
+        ],
+        "born": "In the Age of Heroes"
+    },
+    "Nightingale": {
+        "id": "Nightingale",
+        "name": "Nightingale"
+    },
+    "Nine_Eyes": {
+        "id": "Nine_Eyes",
+        "name": "Nine Eyes",
+        "allegiance": "Band of Nine"
+    },
+    "Nissa_Nissa": {
+        "id": "Nissa_Nissa",
+        "name": "Nissa Nissa",
+        "spouse": "Azor Ahai"
+    },
+    "Noho_Dimittis": {
+        "id": "Noho_Dimittis",
+        "name": "Noho Dimittis",
+        "allegiance": "Iron Bank of Braavos",
+        "culture": "Braavosi"
+    },
+    "Nolla": {
+        "id": "Nolla",
+        "name": "Nolla",
+        "title": "Goodwife",
+        "died": "At Riverlands"
+    },
+    "Norbert_Vance": {
+        "id": "Norbert_Vance",
+        "name": "Norbert Vance",
+        "title": "Lord of Atranta",
+        "allegiance": "House Vance of Atranta",
+        "issue": [
+            "Ronald Vance",
+            "Hugo Vance",
+            "Hugo Vance",
+            "Ellery Vance",
+            "Kirth Vance",
+            "Jon Vance"
+        ]
+    },
+    "Norjen": {
+        "id": "Norjen",
+        "name": "Norjen",
+        "allegiance": "drowned men",
+        "culture": "ironborn"
+    },
+    "Norman_Hightower": {
+        "id": "Norman_Hightower",
+        "name": "Norman Hightower",
+        "title": [
+            "Ser",
+            "Captain of",
+            "Autumn Moon"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In or before 41 AC",
+        "died": "In 56 AC, at Sunset Sea"
+    },
+    "Normund_Tyrell": {
+        "id": "Normund_Tyrell",
+        "name": "Normund Tyrell",
+        "title": "Maester at Blackcrown",
+        "allegiance": [
+            "House Tyrell",
+            "The",
+            "Citadel",
+            "House Bulwer"
+        ],
+        "culture": "Reach"
+    },
+    "Norne_Goodbrother": {
+        "id": "Norne_Goodbrother",
+        "name": "Norne Goodbrother",
+        "title": "Lord of Shatterstone",
+        "allegiance": "House Goodbrother of Shatterstone",
+        "culture": "ironborn"
+    },
+    "Norren": {
+        "id": "Norren",
+        "name": "Norren",
+        "title": [
+            "Archmaester",
+            "Seneschal of the Citadel"
+        ],
+        "allegiance": "The Citadel"
+    },
+    "Norren_(House_Mooton)": {
+        "id": "Norren_(House_Mooton)",
+        "name": "Norren (House Mooton)",
+        "title": "Maester at Maidenpool",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Mooton"
+        ],
+        "born": "In 108 AC"
+    },
+    "Norwin_Lannister": {
+        "id": "Norwin_Lannister",
+        "name": "Norwin Lannister",
+        "alias": "Norwin the Niggardly",
+        "title": "King of the Rock"
+    },
+    "Notch": {
+        "id": "Notch",
+        "name": "Notch",
+        "allegiance": "Brotherhood without Banners"
+    },
+    "Nurse": {
+        "id": "Nurse",
+        "name": "Nurse",
+        "alias": "Nurse",
+        "allegiance": "Yezzan zo Qaggaz",
+        "culture": "Ghiscari",
+        "born": "At Yunkai",
+        "died": "In 300 AC, at outside Meereen"
+    },
+    "Nute": {
+        "id": "Nute",
+        "name": "Nute the Barber",
+        "alias": "Nute the Barber",
+        "title": "Lord of Oakenshield",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Nyessos_Vhassar": {
+        "id": "Nyessos_Vhassar",
+        "name": "Nyessos Vhassar",
+        "title": "Triarch of Volantis",
+        "allegiance": "Elephants",
+        "culture": "Volantene"
+    },
+    "Nyles_Rowan": {
+        "id": "Nyles_Rowan",
+        "name": "Nyles Rowan",
+        "title": "Ser",
+        "allegiance": "House Rowan",
+        "culture": "Reach"
+    },
+    "Nymella_Toland": {
+        "id": "Nymella_Toland",
+        "name": "Nymella Toland",
+        "title": "Lady of Ghost Hill",
+        "allegiance": "House Toland",
+        "culture": "Dornish",
+        "issue": [
+            "Valena Toland",
+            "Teora Toland"
+        ]
+    },
+    "Nymeria": {
+        "id": "Nymeria",
+        "name": "Nymeria",
+        "alias": "Nymeria of the Rhoyne",
+        "title": [
+            "Princess of",
+            "Ny Sar",
+            "Lady of Sunspear",
+            "Princess of Dorne"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Rhoynar",
+        "spouse": [
+            "1st:",
+            "Mors Martell",
+            "2nd: Lord",
+            "Uller",
+            "of",
+            "Hellholt",
+            "3rd: Ser",
+            "Davos Dayne"
+        ],
+        "issue": [
+            "4 daughters",
+            "Son"
+        ]
+    },
+    "Nymeria_(direwolf)": {
+        "id": "Nymeria_(direwolf)",
+        "name": "Nymeria (direwolf)",
+        "alias": "The night wolf",
+        "allegiance": [
+            "Arya Stark",
+            "Her pack"
+        ],
+        "born": "In 298 AC, at The North, near Winterfell",
+        "tv series": "Season 1 | Season 7"
+    },
+    "Nymeria_Sand": {
+        "id": "Nymeria_Sand",
+        "name": "Nymeria Sand",
+        "alias": "Lady Nym",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 274 AC or 275 AC, at Volantis",
+        "tv series": "Season 5 | Season 6 | Season 7"
+    },
+    "Nymor_Martell": {
+        "id": "Nymor_Martell",
+        "name": "Nymor Martell",
+        "title": [
+            "Prince of Dorne",
+            "Lord of Sunspear"
+        ],
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 47 BC",
+        "died": "In 13 23 AC",
+        "spouse": "Unknown",
+        "issue": "Deria Martell"
+    },
+    "Nymos": {
+        "id": "Nymos",
+        "name": "Nymos",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Nysseos_Qoheros": {
+        "id": "Nysseos_Qoheros",
+        "name": "Nysseos Qoheros",
+        "culture": "Volantis",
+        "died": "At Volantis"
+    },
+    "Nysterica": {
+        "id": "Nysterica",
+        "name": "Nysterica",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Tyrell"
+        ]
+    }
+}

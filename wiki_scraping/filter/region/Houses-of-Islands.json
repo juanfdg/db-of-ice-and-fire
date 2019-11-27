@@ -1,0 +1,451 @@
+{
+    "House_Greyjoy": {
+        "id": "House_Greyjoy",
+        "name": "House Greyjoy",
+        "coat of arms": "Sable, a kraken Or",
+        "words": "We Do Not Sow",
+        "seat": "Pyke",
+        "lord": "King Euron III",
+        "region": "Iron Islands",
+        "title": [
+            "King of the Isles and the North",
+            "King of Salt and Rock",
+            "Son of the Sea Wind",
+            "Lord Reaper of Pyke",
+            "Lord of the Iron Islands",
+            "(formerly)",
+            "Prince of Winterfell",
+            "(formerly)"
+        ],
+        "overlord": "None, sovereign (disputed by House Baratheon of King's Landing and House Baratheon of Dragonstone)",
+        "founder": "Son of the Grey King",
+        "founded": "Age of Heroes"
+    },
+    "House_Blacktyde": {
+        "id": "House_Blacktyde",
+        "name": "House Blacktyde",
+        "coat of arms": "Vairy vert and sable",
+        "seat": "Blacktyde Castle",
+        "region": "Iron Islands",
+        "title": "Lord of Blacktyde",
+        "overlord": "House Greyjoy"
+    },
+    "House_Botley": {
+        "id": "House_Botley",
+        "name": "House Botley",
+        "coat of arms": [
+            "A shoal of silver fish on pale green",
+            "(Vert sem  of fishes argent)"
+        ],
+        "seat": "Lordsport",
+        "lord": "Lord Germund Botley (disputed by Tristifer Botley)",
+        "region": "Iron Islands",
+        "title": "Lord of Lordsport",
+        "heir": [
+            "Balon Botley",
+            "under Germund",
+            "Symond Botley",
+            "under Tristifer"
+        ],
+        "overlord": "House Greyjoy"
+    },
+    "House_Drumm": {
+        "id": "House_Drumm",
+        "name": "House Drumm",
+        "coat of arms": "Gules, a bone hand argent",
+        "lord": "Lord Dunstan Drumm",
+        "region": "Iron Islands",
+        "title": [
+            "Lord of Old Wyk",
+            "The Drumm",
+            "the Bone Hand"
+        ],
+        "overlord": "House Greyjoy",
+        "ancestral weapon": "Red Rain"
+    },
+    "House_Farwynd": {
+        "id": "House_Farwynd",
+        "name": "House Farwynd",
+        "seat": "Sealskin Point",
+        "lord": "Triston Farwynd",
+        "region": "Iron Islands",
+        "title": "Lord of Sealskin Point",
+        "overlord": "House Greyjoy",
+        "cadet branch": "House Farwynd of the Lonely Light"
+    },
+    "House_Goodbrother": {
+        "id": "House_Goodbrother",
+        "name": "House Goodbrother",
+        "coat of arms": "Gules, a warhorn sable banded or.",
+        "seat": "Hammerhorn",
+        "lord": "Lord Gorold Goodbrother",
+        "region": "Iron Islands",
+        "title": "Lord of Hammerhorn",
+        "heir": "Greydon Goodbrother",
+        "overlord": "House Greyjoy",
+        "cadet branch": [
+            "House Goodbrother of Corpse Lake",
+            "House Goodbrother of Crow Spike Keep",
+            "House Goodbrother of Downdelving",
+            "House Goodbrother of Orkmont",
+            "(possibly)",
+            "House Goodbrother of Shatterstone",
+            "(possibly)"
+        ],
+        "founder": "Grey King's eldest brother",
+        "founded": "Age of Heroes"
+    },
+    "House_Harlaw": {
+        "id": "House_Harlaw",
+        "name": "House Harlaw",
+        "coat of arms": "Sable, a scythe argent",
+        "seat": [
+            "Ten Towers",
+            "Harlaw Hall",
+            "(formerly)"
+        ],
+        "lord": "Lord Rodrik Harlaw",
+        "region": "Iron Islands",
+        "title": [
+            "Harlaw of Harlaw",
+            "Lord of Harlaw",
+            "Lord of Ten Towers"
+        ],
+        "heir": "Ser Harras Harlaw",
+        "overlord": "House Greyjoy",
+        "cadet branch": [
+            "House Harlaw of Grey Garden",
+            "House Harlaw of Harlaw Hall",
+            "House Harlaw of Harridan Hill",
+            "House Harlaw of the Tower of Glimmering"
+        ],
+        "founded": "Age of Heroes"
+    },
+    "House_Kenning_of_Harlaw": {
+        "id": "House_Kenning_of_Harlaw",
+        "name": "House Kenning of Harlaw",
+        "coat of arms": [
+            "The storm god's cloudly hand, pale grey, yellow lightning flashing from the fingertips, on black",
+            "(Sable, the storm god\u2019s hand nebuly cendr e, issuant from its fingertips lightning bolts or)"
+        ],
+        "region": "Iron Islands",
+        "overlord": "House Harlaw",
+        "cadet branch": "House Kenning of Kayce"
+    },
+    "House_Merlyn": {
+        "id": "House_Merlyn",
+        "name": "House Merlyn",
+        "coat of arms": [
+            "Twining waterspouts, green on white",
+            "(Argent, waterspouts intertwining vert)"
+        ],
+        "seat": "Pebbleton",
+        "lord": "Lord Meldred Merlyn",
+        "region": "Iron Islands",
+        "title": "Lord of Pebbleton",
+        "overlord": "House Greyjoy"
+    },
+    "House_Myre": {
+        "id": "House_Myre",
+        "name": "House Myre",
+        "coat of arms": [
+            "10 nooses, 4-3-2-1, black on white with a border of blood",
+            "(Argent, ten nooses 4-3-2-1 sable within a bordure sanguine)"
+        ],
+        "region": "Iron Islands",
+        "overlord": "House Harlaw"
+    },
+    "House_Orkwood": {
+        "id": "House_Orkwood",
+        "name": "House Orkwood",
+        "coat of arms": [
+            "Dark green pines strewn closely together on yellow",
+            "(Or sem  of pines vert)"
+        ],
+        "seat": "Orkmont",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Saltcliffe": {
+        "id": "House_Saltcliffe",
+        "name": "House Saltcliffe",
+        "coat of arms": "Argent, a serpent nine-headed sable",
+        "seat": "Saltcliffe",
+        "lord": "Donnor Saltcliffe",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Sparr": {
+        "id": "House_Sparr",
+        "name": "House Sparr",
+        "coat of arms": [
+            "Oak saltire on blue",
+            "(Azure, a saltire brun\u00e2tre)"
+        ],
+        "seat": "Great Wyk",
+        "lord": "The Sparr",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Stonehouse": {
+        "id": "House_Stonehouse",
+        "name": "House Stonehouse",
+        "coat of arms": [
+            "A black brazier on a grey masonry field",
+            "(Cendr e masoned proper, a brazier sable)"
+        ],
+        "seat": "Old Wyk",
+        "lord": "The Stonehouse",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Stonetree": {
+        "id": "House_Stonetree",
+        "name": "House Stonetree",
+        "coat of arms": [
+            "A bare stone tree, grey on black",
+            "(Sable, a stone tree blasted cendr e)"
+        ],
+        "region": [
+            "Iron Islands",
+            "Harlaw"
+        ],
+        "overlord": "House Harlaw"
+    },
+    "House_Sunderly": {
+        "id": "House_Sunderly",
+        "name": "House Sunderly",
+        "coat of arms": [
+            "A drowned man, pink and pale, floating upright in a blue-green sea, his hair streaming upwards, as fish nibble at his limbs",
+            "(Aquamarine, a drowned man erect carnation, hair to chief, fishes proper nibbling at his limbs)"
+        ],
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Tawney": {
+        "id": "House_Tawney",
+        "name": "House Tawney",
+        "coat of arms": [
+            "A scourge of nettles, red and black, on white",
+            "(Argent, a scourge sable lashed with nettles gules)"
+        ],
+        "seat": "Orkmont",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Volmark": {
+        "id": "House_Volmark",
+        "name": "House Volmark",
+        "coat of arms": "A black leviathan on a grey field (Cendr e, a leviathan sable)",
+        "seat": "Volmark",
+        "lord": "Lord Maron Volmark",
+        "region": [
+            "Iron Islands",
+            "The Reach"
+        ],
+        "title": [
+            "Lord of Volmark",
+            "Lord of Greenshield"
+        ],
+        "overlord": "House Harlaw"
+    },
+    "House_Wynch": {
+        "id": "House_Wynch",
+        "name": "House Wynch",
+        "coat of arms": [
+            "A bloody moon on purple",
+            "(Purpure, a moon proper tipped sanguine)"
+        ],
+        "seat": "Iron Holt",
+        "lord": "Lord Waldon Wynch",
+        "region": "Iron Islands",
+        "title": "Lord of Iron Holt",
+        "overlord": "House Greyjoy"
+    },
+    "House_Codd": {
+        "id": "House_Codd",
+        "name": "House Codd",
+        "words": "Though All Men Do Despise Us",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Farwynd_of_the_Lonely_Light": {
+        "id": "House_Farwynd_of_the_Lonely_Light",
+        "name": "House Farwynd of the Lonely Light",
+        "coat of arms": [
+            "Per fesse: below a black sea with crested line, a black longship, outlined against the setting sun, dark red on orange",
+            "(Per fess wavy crested tenn  and sable, in chief on a demi-guze per fess issuant from the division a longship sailing upon the division of the second)"
+        ],
+        "seat": "Lonely Light",
+        "lord": "Gylbert Farwynd",
+        "region": "Iron Islands",
+        "title": "Lord of the Lonely Light",
+        "heir": "Gyles Farwynd",
+        "overlord": "House Greyjoy"
+    },
+    "House_Goodbrother_of_Corpse_Lake": {
+        "id": "House_Goodbrother_of_Corpse_Lake",
+        "name": "House Goodbrother of Corpse Lake",
+        "seat": "Corpse Lake",
+        "region": "Iron Islands",
+        "overlord": "House Goodbrother"
+    },
+    "House_Goodbrother_of_Crow_Spike_Keep": {
+        "id": "House_Goodbrother_of_Crow_Spike_Keep",
+        "name": "House Goodbrother of Crow Spike Keep",
+        "seat": "Crow Spike Keep",
+        "region": "Iron Islands",
+        "overlord": "House Goodbrother"
+    },
+    "House_Goodbrother_of_Downdelving": {
+        "id": "House_Goodbrother_of_Downdelving",
+        "name": "House Goodbrother of Downdelving",
+        "seat": "Downdelving",
+        "region": "Iron Islands",
+        "overlord": "House Goodbrother"
+    },
+    "House_Goodbrother_of_Orkmont": {
+        "id": "House_Goodbrother_of_Orkmont",
+        "name": "House Goodbrother of Orkmont",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Goodbrother_of_Shatterstone": {
+        "id": "House_Goodbrother_of_Shatterstone",
+        "name": "House Goodbrother of Shatterstone",
+        "seat": "Shatterstone",
+        "lord": "Norne Goodbrother",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Harlaw_of_Grey_Garden": {
+        "id": "House_Harlaw_of_Grey_Garden",
+        "name": "House Harlaw of Grey Garden",
+        "coat of arms": [
+            "Quarterly, a silver scythe on black, a peacock on cream",
+            "(Quarterly, first and fourth sable, a scythe argent, second and third carnation, a peacock in his pride proper)"
+        ],
+        "seat": "Grey Garden, Harlaw",
+        "lord": "Ser Harras Harlaw",
+        "region": "Iron Islands",
+        "title": [
+            "Knight of Grey Garden",
+            "Lord of Greyshield"
+        ],
+        "overlord": "House Harlaw"
+    },
+    "House_Harlaw_of_Harridan_Hill": {
+        "id": "House_Harlaw_of_Harridan_Hill",
+        "name": "House Harlaw of Harridan Hill",
+        "coat of arms": [
+            "A silver scythe on a pale blue field",
+            "(Bleu celeste, a scythe argent)"
+        ],
+        "seat": "Harridan Hill, Harlaw",
+        "lord": "Boremund Harlaw",
+        "region": "Iron Islands",
+        "title": "Master of Harridan Hill",
+        "overlord": "House Harlaw"
+    },
+    "House_Harlaw_of_Harlaw_Hall": {
+        "id": "House_Harlaw_of_Harlaw_Hall",
+        "name": "House Harlaw of Harlaw Hall",
+        "coat of arms": [
+            "Per bend black and silver, two scythes counterchanged",
+            "(Per bend sable and argent, two scythes counterchanged)"
+        ],
+        "seat": "Harlaw Hall, Harlaw",
+        "lord": "Sigfryd Harlaw",
+        "region": "Iron Islands",
+        "title": "Master of Harlaw Hall",
+        "overlord": "House Harlaw"
+    },
+    "House_Harlaw_of_the_Tower_of_Glimmering": {
+        "id": "House_Harlaw_of_the_Tower_of_Glimmering",
+        "name": "House Harlaw of the Tower of Glimmering",
+        "coat of arms": [
+            "A silver scythe on black within an embattled silver border",
+            "(Sable, a scythe within a bordure embattled argent)"
+        ],
+        "seat": "Tower of Glimmering, Harlaw",
+        "lord": "Hotho Harlaw",
+        "region": "Iron Islands",
+        "overlord": "House Harlaw"
+    },
+    "House_Humble": {
+        "id": "House_Humble",
+        "name": "House Humble",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Ironmaker": {
+        "id": "House_Ironmaker",
+        "name": "House Ironmaker",
+        "lord": "Erik Ironmaker",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Netley": {
+        "id": "House_Netley",
+        "name": "House Netley",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Sharp": {
+        "id": "House_Sharp",
+        "name": "House Sharp",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Shepherd": {
+        "id": "House_Shepherd",
+        "name": "House Shepherd",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Weaver": {
+        "id": "House_Weaver",
+        "name": "House Weaver",
+        "region": "Iron Islands",
+        "overlord": "House Greyjoy"
+    },
+    "House_Greyiron": {
+        "id": "House_Greyiron",
+        "name": "House Greyiron",
+        "coat of arms": [
+            "The sea king's head, white with dark green seaweed beard and hair, a black crown on a grey field",
+            "(Cendr e, the sea king\u2019s head argent bearded and crined with seaweed vert crowned sable)"
+        ],
+        "seat": "Orkmont",
+        "region": "Iron Islands",
+        "title": [
+            "High King of the Iron Islands",
+            "King of the Iron Islands"
+        ],
+        "overlord": "Extinct"
+    },
+    "House_Hoare": {
+        "id": "House_Hoare",
+        "name": "House Hoare",
+        "coat of arms": [
+            "Per saltire, two heavy silver chains crossing between a gold longship on a black field, a dark green pine on a white field, a cluster of red grapes on a gold field, and a black raven flying in a blue sky",
+            "(Per saltire sable, azure, argent and or, two chains throughout saltirewise argent between in chief a longship or, in dexter a raven volant sable, in sinister a pine-tree vert and in base a bunch of grapes gules)"
+        ],
+        "seat": [
+            "Orkmont",
+            "Hoare Castle",
+            "Fairmarket",
+            "Harrenhal"
+        ],
+        "region": [
+            "Iron Islands",
+            "Riverlands"
+        ],
+        "title": [
+            "King of the Iron Islands",
+            "King of the Isles and the Rivers"
+        ],
+        "founded": "Age of Heroes",
+        "died out": "Aegon's Conquest (2 1 BC)"
+    }
+}

@@ -1,0 +1,2527 @@
+{
+    "Lord_Ashford": {
+        "id": "Lord_Ashford",
+        "name": "Lord Ashford",
+        "title": "Lord of Ashford",
+        "allegiance": "House Ashford",
+        "culture": "Reach",
+        "issue": [
+            "Androw Ashford",
+            "Robert Ashford",
+            "Daughter"
+        ]
+    },
+    "Lord_Belgrave": {
+        "id": "Lord_Belgrave",
+        "name": "Lord Belgrave",
+        "title": "Lord",
+        "allegiance": "House Belgrave"
+    },
+    "Lord_Blacktyde": {
+        "id": "Lord_Blacktyde",
+        "name": "Lord Blacktyde",
+        "title": "Lord of Blacktyde",
+        "allegiance": "House Blacktyde",
+        "culture": "ironborn",
+        "died": "In 289 AC",
+        "issue": "Baelor Blacktyde"
+    },
+    "Lord_Bracken": {
+        "id": "Lord_Bracken",
+        "name": "Lord Bracken",
+        "title": [
+            "Lord of Stone Hedge",
+            "Hand of the King"
+        ],
+        "allegiance": "House Bracken",
+        "culture": "Rivermen",
+        "died": "In 178 AC",
+        "issue": [
+            "Barba Bracken",
+            "Bethany Bracken"
+        ]
+    },
+    "Lord_Cafferen": {
+        "id": "Lord_Cafferen",
+        "name": "Lord Cafferen",
+        "title": "Lord of Fawnton",
+        "allegiance": "House Cafferen",
+        "culture": "Stormlands",
+        "died": "In 282 AC, at Ashford"
+    },
+    "Lord_Caswell": {
+        "id": "Lord_Caswell",
+        "name": "Lord Caswell",
+        "title": [
+            "Lord of Bitterbridge",
+            "Defender of the Fords"
+        ],
+        "allegiance": "House Caswell",
+        "culture": "Reach",
+        "issue": [
+            "Lorent Caswell",
+            "4 daughters"
+        ]
+    },
+    "Lord_Commander_Crowl": {
+        "id": "Lord_Commander_Crowl",
+        "name": "Lord Commander Crowl",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Crowl",
+            "Night's Watch"
+        ],
+        "culture": "Skagosi"
+    },
+    "Lord_Fell": {
+        "id": "Lord_Fell",
+        "name": "Lord Fell",
+        "title": "Lord of Felwood",
+        "allegiance": "House Fell",
+        "culture": "stormlands",
+        "died": "In 282 AC, at Summerhall",
+        "issue": "\"Silveraxe\" Fell"
+    },
+    "Lord_Footly": {
+        "id": "Lord_Footly",
+        "name": "Lord Footly",
+        "title": "Lord of Tumbleton",
+        "allegiance": [
+            "House Footly",
+            "Blacks"
+        ],
+        "culture": "Reach",
+        "died": "In 130 AC, at Tumbleton",
+        "spouse": "Lady Sharis Footly",
+        "issue": "1 posthumous son (disputed)"
+    },
+    "Lord_Grandison": {
+        "id": "Lord_Grandison",
+        "name": "Lord Grandison",
+        "title": "Lord of Grandview",
+        "allegiance": "House Grandison",
+        "culture": "Stormlander",
+        "died": "In 284 AC"
+    },
+    "Lord_Commander_Hoare": {
+        "id": "Lord_Commander_Hoare",
+        "name": "Lord Commander Hoare",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Hoare",
+            "Night's Watch"
+        ],
+        "culture": "ironborn"
+    },
+    "Lacey": {
+        "id": "Lacey",
+        "name": "Lacey",
+        "died": "In 299 AC, at Pennytree"
+    },
+    "Lady_Farts-a-Lot": {
+        "id": "Lady_Farts-a-Lot",
+        "name": "Lady Farts-a-Lot",
+        "alias": "Lady Farts-a-Lot",
+        "title": "Lady"
+    },
+    "Lady_Frey_(wife_of_Ambrose_Butterwell)": {
+        "id": "Lady_Frey_(wife_of_Ambrose_Butterwell)",
+        "name": "Lady Frey (wife of Ambrose Butterwell)",
+        "title": "Lady of Whitewalls",
+        "allegiance": [
+            "House Frey",
+            "House Butterwell"
+        ],
+        "culture": "Rivermen",
+        "born": "In 196 AC or 197 AC",
+        "spouse": "Lord Ambrose Butterwell"
+    },
+    "Lady_Mormont_(wife_of_Alaric_Stark)": {
+        "id": "Lady_Mormont_(wife_of_Alaric_Stark)",
+        "name": "Lady Mormont (wife of Alaric Stark)",
+        "alias": "Lady Stark",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Mormont",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "died": "In 55 AC",
+        "spouse": "Lord Alaric Stark",
+        "issue": [
+            "2 Sons",
+            "Alarra Stark"
+        ]
+    },
+    "Lady_of_the_Leaves": {
+        "id": "Lady_of_the_Leaves",
+        "name": "Lady of the Leaves",
+        "title": "Lady of the Leaves",
+        "culture": "Rivermen"
+    },
+    "Laena_Penrose": {
+        "id": "Laena_Penrose",
+        "name": "Laena Penrose",
+        "allegiance": "House Penrose",
+        "culture": "Stormlander",
+        "born": "In or between 185 AC and ~198 AC"
+    },
+    "Laena_Velaryon": {
+        "id": "Laena_Velaryon",
+        "name": "Laena Velaryon",
+        "title": "Lady",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 93 AC",
+        "died": "In 120 AC, at Driftmark",
+        "spouse": "Prince Daemon Targaryen",
+        "issue": [
+            "Baela Targaryen",
+            "Rhaena Targaryen"
+        ]
+    },
+    "Laena_Velaryon_(daughter_of_Alyn)": {
+        "id": "Laena_Velaryon_(daughter_of_Alyn)",
+        "name": "Laena Velaryon (daughter of Alyn)",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "born": "In 134 AC"
+    },
+    "Laenor_Velaryon": {
+        "id": "Laenor_Velaryon",
+        "name": "Laenor Velaryon",
+        "title": [
+            "Ser",
+            "Prince consort"
+        ],
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "born": "In 94 AC",
+        "died": "In 120 AC, at Spicetown",
+        "spouse": "Princess Rhaenyra Targaryen",
+        "issue": [
+            "Jacaerys Velaryon",
+            "(disputed)",
+            "Lucerys Velaryon",
+            "(disputed)",
+            "Joffrey Velaryon",
+            "(disputed)",
+            "Addam Velaryon",
+            "(disputed)",
+            "Alyn Velaryon",
+            "(disputed)"
+        ]
+    },
+    "Lambert_Turnberry": {
+        "id": "Lambert_Turnberry",
+        "name": "Lambert Turnberry",
+        "title": "Ser",
+        "allegiance": "House Turnberry",
+        "culture": "Westermen"
+    },
+    "Lambert_Whitewater": {
+        "id": "Lambert_Whitewater",
+        "name": "Lambert Whitewater",
+        "title": "Ser",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "Queen's men"
+        ]
+    },
+    "Lamprey": {
+        "id": "Lamprey",
+        "name": "Lamprey",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "House Sunglass",
+            "(possibly)"
+        ]
+    },
+    "Lancel_Lannister": {
+        "id": "Lancel_Lannister",
+        "name": "Lancel Lannister",
+        "title": [
+            "Ser",
+            "Lord of Darry",
+            "(formerly)"
+        ],
+        "allegiance": [
+            "House Lannister of Casterly Rock",
+            "House Lannister of Darry",
+            "Noble and Puissant Order of the Warrior's Sons"
+        ],
+        "culture": "Westermen",
+        "born": "In 282 AC",
+        "spouse": "Lady Amerei Frey (dissolved)",
+        "tv series": "Season 1 | Season 2 | Season 5 | Season 6"
+    },
+    "Lancel_I_Lannister": {
+        "id": "Lancel_I_Lannister",
+        "name": "Lancel I Lannister",
+        "alias": "Lancel the Lion",
+        "culture": "Andal",
+        "issue": "Loreon III Lannister",
+        "title": "King of the Rock"
+    },
+    "Lancel_IV_Lannister": {
+        "id": "Lancel_IV_Lannister",
+        "name": "Lancel IV Lannister",
+        "culture": "Andal",
+        "died": "Red Lake in the Reach",
+        "title": "King of the Rock"
+    },
+    "Lancel_V_Lannister": {
+        "id": "Lancel_V_Lannister",
+        "name": "Lancel V Lannister",
+        "title": "King of the Rock"
+    },
+    "Lann_the_Clever": {
+        "id": "Lann_the_Clever",
+        "name": "Lann the Clever",
+        "alias": "Lann the Clever",
+        "title": "King of the Rock (posthumously)",
+        "allegiance": "House Lannister",
+        "born": "In Age of Heroes"
+    },
+    "Lanna_(Happy_Port)": {
+        "id": "Lanna_(Happy_Port)",
+        "name": "Lanna (Happy Port)",
+        "allegiance": "Happy Port",
+        "culture": "Braavosi",
+        "born": "In 285 AC or 286 AC"
+    },
+    "Lanna_(Peach)": {
+        "id": "Lanna_(Peach)",
+        "name": "Lanna (Peach)"
+    },
+    "Lanna_Lannister": {
+        "id": "Lanna_Lannister",
+        "name": "Lanna Lannister",
+        "title": "Lady",
+        "allegiance": [
+            "House Lannister",
+            "House Jast"
+        ],
+        "culture": "Westermen",
+        "born": "In or between 269 AC and 286 AC",
+        "spouse": "Lord Antario Jast",
+        "issue": "Sons[N 1]"
+    },
+    "Larence_Snow": {
+        "id": "Larence_Snow",
+        "name": "Larence Snow",
+        "allegiance": [
+            "House Hornwood",
+            "House Glover"
+        ],
+        "culture": "Northmen",
+        "born": "In 286 AC"
+    },
+    "Larissa_Velaryon": {
+        "id": "Larissa_Velaryon",
+        "name": "Larissa Velaryon",
+        "title": "Lady",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "House Tarth"
+        ],
+        "culture": "Crownlands",
+        "spouse": "Second son of Lord Tarth",
+        "issue": "Daughter"
+    },
+    "Lark": {
+        "id": "Lark",
+        "name": "Lark",
+        "alias": [
+            "The Sisterman",
+            "Lark the Sisterman"
+        ],
+        "allegiance": "Night's Watch",
+        "culture": "Sistermen",
+        "died": "In 299 AC, at the haunted forest"
+    },
+    "Larra_Blackmont": {
+        "id": "Larra_Blackmont",
+        "name": "Larra Blackmont",
+        "title": "Lady of Blackmont",
+        "allegiance": "House Blackmont",
+        "culture": "Dornishmen",
+        "spouse": "Unknown",
+        "issue": [
+            "Jynessa Blackmont",
+            "Perros Blackmont"
+        ]
+    },
+    "Larra_Rogare": {
+        "id": "Larra_Rogare",
+        "name": "Larra Rogare",
+        "alias": "Larra of Lys",
+        "title": "Lady",
+        "allegiance": [
+            "House Rogare",
+            "House Targaryen"
+        ],
+        "culture": "Lysene",
+        "born": "In 115 AC, at Lys",
+        "died": "In 145 AC, at Lys",
+        "spouse": "Prince Viserys Targaryen",
+        "issue": [
+            "Aegon IV Targaryen",
+            "Aemon Targaryen",
+            "Naerys Targaryen"
+        ]
+    },
+    "Larraq": {
+        "id": "Larraq",
+        "name": "Larraq",
+        "alias": "The Lash",
+        "culture": "Ghiscari"
+    },
+    "Larys_Strong": {
+        "id": "Larys_Strong",
+        "name": "Larys Strong",
+        "alias": [
+            "Larys the Clubfoot",
+            "Larys Clubfoot",
+            "The Clubfoot"
+        ],
+        "title": [
+            "Lord of Harrenhal",
+            "Master of whisperers",
+            "Lord Confessor"
+        ],
+        "allegiance": [
+            "House Strong",
+            "Greens"
+        ],
+        "culture": "Rivermen",
+        "died": "In 131 AC, at King's Landing"
+    },
+    "Last_hero": {
+        "id": "Last_hero",
+        "name": "Last hero"
+    },
+    "Laswell_Peake": {
+        "id": "Laswell_Peake",
+        "name": "Laswell Peake",
+        "title": [
+            "Ser",
+            "Lord",
+            "(in exile)",
+            "Serjeant"
+        ],
+        "allegiance": [
+            "House Peake",
+            "Golden Company"
+        ],
+        "culture": "Reach"
+    },
+    "Laurent": {
+        "id": "Laurent",
+        "name": "Laurent",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Layna": {
+        "id": "Layna",
+        "name": "Layna",
+        "born": "In or between 279 AC and 285 AC"
+    },
+    "Leana_Frey": {
+        "id": "Leana_Frey",
+        "name": "Leana Frey",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In 299 AC or 300 AC"
+    },
+    "Leathers": {
+        "id": "Leathers",
+        "name": "Leathers",
+        "title": "Master-at-arms at Castle Black",
+        "allegiance": [
+            "Mance Rayder",
+            "Night's Watch"
+        ],
+        "culture": "Free folk",
+        "born": "In 259 AC or before",
+        "issue": "Sons"
+    },
+    "Left_Hand_Lew": {
+        "id": "Left_Hand_Lew",
+        "name": "Left Hand Lew",
+        "allegiance": "Night's Watch"
+    },
+    "Lelia_Lannister": {
+        "id": "Lelia_Lannister",
+        "name": "Lelia Lannister",
+        "title": [
+            "Queen of the",
+            "Iron Islands",
+            "Lady of",
+            "Hoare Castle",
+            "Dowager Queen"
+        ],
+        "allegiance": [
+            "House Lannister",
+            "House Hoare"
+        ],
+        "culture": "Westermen",
+        "spouse": "King Harmund II Hoare",
+        "issue": [
+            "Harmund III Hoare",
+            "Hagon Hoare"
+        ]
+    },
+    "Lem": {
+        "id": "Lem",
+        "name": "Lem",
+        "alias": [
+            "Lem Lemoncloak",
+            "the Lemon",
+            "The",
+            "Hound",
+            "(III)",
+            "Yellow cloak"
+        ],
+        "title": "Ser",
+        "allegiance": "Brotherhood without banners",
+        "culture": "Rivermen",
+        "tv series": "Season 6"
+    },
+    "Lem_(Standfast)": {
+        "id": "Lem_(Standfast)",
+        "name": "Lem (Standfast)",
+        "allegiance": "House Osgrey",
+        "culture": "Reach",
+        "born": "In or around 161 AC"
+    },
+    "Lemore": {
+        "id": "Lemore",
+        "name": "Lemore",
+        "alias": "Lady Lemore",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "born": "In 259 AC or before"
+    },
+    "Lenn": {
+        "id": "Lenn",
+        "name": "Lenn",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Lennocks": {
+        "id": "Lennocks",
+        "name": "Lennocks",
+        "culture": "Rivermen",
+        "died": "In 298 AC or 299 AC"
+    },
+    "Lenwood_Tawney": {
+        "id": "Lenwood_Tawney",
+        "name": "Lenwood Tawney",
+        "alias": "Little Lenwood Tawney",
+        "allegiance": "House Tawney",
+        "culture": "ironborn"
+    },
+    "Lenyl": {
+        "id": "Lenyl",
+        "name": "Lenyl",
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk"
+    },
+    "Leo_Blackbar": {
+        "id": "Leo_Blackbar",
+        "name": "Leo Blackbar",
+        "title": "Ser",
+        "allegiance": "House Blackbar",
+        "culture": "Reach",
+        "spouse": "Olene Tyrell"
+    },
+    "Leo_Costayne": {
+        "id": "Leo_Costayne",
+        "name": "Leo Costayne",
+        "alias": "The Sea Lion",
+        "title": [
+            "Ser",
+            "Lord admiral",
+            "of the",
+            "Reach"
+        ],
+        "allegiance": "House Costayne",
+        "culture": "Reach",
+        "died": "In 134 AC, at Great Wyk"
+    },
+    "Leo_Lefford": {
+        "id": "Leo_Lefford",
+        "name": "Leo Lefford",
+        "title": "Lord of the Golden Tooth",
+        "allegiance": "House Lefford",
+        "culture": "Westermen",
+        "died": "In 299 AC, at the Red Fork of the Trident",
+        "tv series": "Season 1"
+    },
+    "Leo_Tyrell_(son_of_Gareth)": {
+        "id": "Leo_Tyrell_(son_of_Gareth)",
+        "name": "Leo Tyrell (son of Gareth)",
+        "title": "High Steward of Highgarden",
+        "allegiance": "House Tyrell",
+        "culture": "Andal"
+    },
+    "Leo_Tyrell_(son_of_Moryn)": {
+        "id": "Leo_Tyrell_(son_of_Moryn)",
+        "name": "Leo Tyrell (son of Moryn)",
+        "alias": [
+            "Lazy Leo",
+            "Leo the Lazy"
+        ],
+        "title": "Novice",
+        "allegiance": [
+            "House Tyrell",
+            "The",
+            "Citadel"
+        ],
+        "culture": "Reach"
+    },
+    "Leo_Tyrell_(Longthorn)": {
+        "id": "Leo_Tyrell_(Longthorn)",
+        "name": "Leo Tyrell (Longthorn)",
+        "alias": "Leo Longthorn",
+        "title": [
+            "Lord of Highgarden",
+            "Lord Paramount of the Mander",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South",
+            "Ser"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "At Highgarden"
+    },
+    "Leo_Tyrell_(son_of_Victor)": {
+        "id": "Leo_Tyrell_(son_of_Victor)",
+        "name": "Leo Tyrell (son of Victor)",
+        "title": "Ser",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "spouse": "Alys Beesbury",
+        "issue": [
+            "Lyonel Tyrell",
+            "Alla Tyrell",
+            "Lucas Tyrell",
+            "Lorent Tyrell",
+            "Leona Tyrell"
+        ]
+    },
+    "Leobald_Tallhart": {
+        "id": "Leobald_Tallhart",
+        "name": "Leobald Tallhart",
+        "title": "Castellan of Torrhen's Square",
+        "allegiance": "House Tallhart",
+        "culture": "Northmen",
+        "born": "At Torrhen's Square",
+        "died": "In 299 AC, at Winterfell",
+        "spouse": "Berena Hornwood",
+        "issue": [
+            "Brandon Tallhart",
+            "Beren Tallhart"
+        ]
+    },
+    "Leona_Tyrell": {
+        "id": "Leona_Tyrell",
+        "name": "Leona Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Leona_Woolfield": {
+        "id": "Leona_Woolfield",
+        "name": "Leona Woolfield",
+        "allegiance": [
+            "House Woolfield",
+            "House Manderly"
+        ],
+        "culture": "Northmen",
+        "spouse": "Ser Wylis Manderly",
+        "issue": [
+            "Wynafryd Manderly",
+            "Wylla Manderly"
+        ]
+    },
+    "Leonella_Lefford": {
+        "id": "Leonella_Lefford",
+        "name": "Leonella Lefford",
+        "allegiance": [
+            "House Lefford",
+            "House Frey"
+        ],
+        "culture": "Westermen",
+        "spouse": "Lothar Frey",
+        "issue": [
+            "Tysane Frey",
+            "Walda Frey",
+            "Emberlei Frey",
+            "Leana Frey"
+        ]
+    },
+    "Leonette_Fossoway": {
+        "id": "Leonette_Fossoway",
+        "name": "Leonette Fossoway",
+        "title": "Lady of Brightwater Keep",
+        "allegiance": [
+            "House Fossoway",
+            "House Tyrell",
+            "House Tyrell of Brightwater Keep"
+        ],
+        "culture": "Reach",
+        "spouse": "Lord Garlan Tyrell"
+    },
+    "Leowyn_Corbray": {
+        "id": "Leowyn_Corbray",
+        "name": "Leowyn Corbray",
+        "title": [
+            "Lord of Heart's Home",
+            "Protector of the Realm"
+        ],
+        "allegiance": [
+            "House Corbray",
+            "Blacks"
+        ],
+        "culture": "Valemen",
+        "born": "In or before 99 AC",
+        "died": "In 133 AC, at Red Keep, King's Landing",
+        "issue": "Quenton Corbray"
+    },
+    "Leslyn": {
+        "id": "Leslyn",
+        "name": "Leslyn"
+    },
+    "Leslyn_Haigh": {
+        "id": "Leslyn_Haigh",
+        "name": "Leslyn Haigh",
+        "title": "Ser",
+        "allegiance": "House Haigh",
+        "spouse": "Perriane Frey",
+        "issue": [
+            "Harys Haigh",
+            "Donnel Haigh",
+            "Alyn Haigh"
+        ]
+    },
+    "Lester": {
+        "id": "Lester",
+        "name": "Lester",
+        "alias": "Red Lester",
+        "allegiance": "House Lannister"
+    },
+    "Lester_Dabell": {
+        "id": "Lester_Dabell",
+        "name": "Lester Dabell",
+        "title": "Ser",
+        "culture": "Westeros"
+    },
+    "Lester_Morrigen": {
+        "id": "Lester_Morrigen",
+        "name": "Lester Morrigen",
+        "title": "Lord of Crow's Nest",
+        "allegiance": "House Morrigen",
+        "culture": "Stormlander"
+    },
+    "Lew_(guard)": {
+        "id": "Lew_(guard)",
+        "name": "Lew (guard)",
+        "allegiance": "House Stark",
+        "culture": "Northmen"
+    },
+    "Long_Lew": {
+        "id": "Long_Lew",
+        "name": "Long Lew",
+        "alias": "Long Lew",
+        "allegiance": "House Tully"
+    },
+    "Lewis_Lanster": {
+        "id": "Lewis_Lanster",
+        "name": "Lewis Lanster",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Lewyn_Martell": {
+        "id": "Lewyn_Martell",
+        "name": "Lewyn Martell",
+        "title": [
+            "Prince",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Martell",
+            "Kingsguard"
+        ],
+        "culture": "Dornishmen",
+        "died": "In 283 AC, at the Trident"
+    },
+    "Lewys_the_Fishwife": {
+        "id": "Lewys_the_Fishwife",
+        "name": "Lewys the Fishwife",
+        "alias": "Lewys the Fishwife",
+        "allegiance": [
+            "House Baratheon of Dragonstone",
+            "King's men"
+        ]
+    },
+    "Lewys_Lydden": {
+        "id": "Lewys_Lydden",
+        "name": "Lewys Lydden",
+        "title": "Lord of the Deep Den",
+        "allegiance": "House Lydden",
+        "culture": "Westermen"
+    },
+    "Lewys_Piper": {
+        "id": "Lewys_Piper",
+        "name": "Lewys Piper",
+        "alias": [
+            "Lew Piper",
+            "Little Lew",
+            "Little Lew Piper"
+        ],
+        "allegiance": "House Piper",
+        "culture": "Rivermen"
+    },
+    "Leyla_Hightower": {
+        "id": "Leyla_Hightower",
+        "name": "Leyla Hightower",
+        "allegiance": [
+            "House Hightower",
+            "House Cupps"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Jon Cupps"
+    },
+    "Leyton_Hightower": {
+        "id": "Leyton_Hightower",
+        "name": "Leyton Hightower",
+        "alias": "Old Man of Oldtown",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown",
+            "3rd: Unknown",
+            "4th:",
+            "Rhea Florent"
+        ],
+        "issue": [
+            "Baelor Hightower",
+            "Malora Hightower",
+            "Alerie Hightower",
+            "Garth Hightower",
+            "Denyse Hightower",
+            "Leyla Hightower",
+            "Alysanne Hightower",
+            "Lynesse Hightower",
+            "Gunthor Hightower",
+            "Humfrey Hightower"
+        ]
+    },
+    "Lharys": {
+        "id": "Lharys",
+        "name": "Lharys",
+        "allegiance": "House Bracken",
+        "died": "In 298 AC, at the Mountains of the Moon"
+    },
+    "Lia_Serry": {
+        "id": "Lia_Serry",
+        "name": "Lia Serry",
+        "allegiance": [
+            "House Serry",
+            "House Tyrell"
+        ],
+        "culture": "Reach",
+        "spouse": "Theodore Tyrell",
+        "issue": [
+            "Elinor Tyrell",
+            "Luthor Tyrell"
+        ]
+    },
+    "Liane_Vance": {
+        "id": "Liane_Vance",
+        "name": "Liane Vance",
+        "allegiance": "House Vance of Wayfarer's Rest",
+        "culture": "Rivermen"
+    },
+    "Lianna_Velaryon": {
+        "id": "Lianna_Velaryon",
+        "name": "Lianna Velaryon",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "died": "In 54 AC, at Dragonstone"
+    },
+    "Likely_Luke": {
+        "id": "Likely_Luke",
+        "name": "Likely Luke",
+        "alias": "Likely Luke",
+        "allegiance": "Brotherhood Without Banners"
+    },
+    "Lily": {
+        "id": "Lily",
+        "name": "Lily",
+        "title": "Septa (possibly)",
+        "allegiance": "Faith of the Seven",
+        "culture": "Crownlands",
+        "born": "In 156 AC, at King's Landing"
+    },
+    "Liomond_Lashare": {
+        "id": "Liomond_Lashare",
+        "name": "Liomond Lashare",
+        "alias": "The Lord of Battles",
+        "allegiance": "Band of Nine"
+    },
+    "Lister": {
+        "id": "Lister",
+        "name": "Lister",
+        "culture": "Rivermen",
+        "died": "In 298 AC or 299 AC"
+    },
+    "Little_Lord_Lazyeye": {
+        "id": "Little_Lord_Lazyeye",
+        "name": "Little Lord Lazyeye",
+        "alias": "Little Lord Lazyeye",
+        "title": "Lord",
+        "born": "In before 273 AC"
+    },
+    "Lo_Bu": {
+        "id": "Lo_Bu",
+        "name": "Lo Bu",
+        "alias": "The Boy Too Bold By Half",
+        "culture": "Yi Ti",
+        "father": "Lo Han",
+        "title": "God-Emperor"
+    },
+    "Lo_Doq": {
+        "id": "Lo_Doq",
+        "name": "Lo Doq",
+        "alias": "Lo Lackwit",
+        "culture": "Yi Ti",
+        "title": "God-Emperor",
+        "spouse": "Bathi Ma Lo"
+    },
+    "Lo_Han": {
+        "id": "Lo_Han",
+        "name": "Lo Han",
+        "culture": "Yi Ti",
+        "issue": "Lo Bu",
+        "title": "God-Emperor"
+    },
+    "Lo_Tho": {
+        "id": "Lo_Tho",
+        "name": "Lo Tho",
+        "alias": [
+            "Lo Longspoon",
+            "Lo the Terrible"
+        ],
+        "culture": "Yi Ti",
+        "title": "God-Emperor"
+    },
+    "Lodos": {
+        "id": "Lodos",
+        "name": "Lodos",
+        "culture": "Ironborn",
+        "died": "2 AC",
+        "title": [
+            "King of the Iron Islands",
+            "(claimant)",
+            "Priest of the Drowned God"
+        ]
+    },
+    "Lodos_the_Twice-Drowned": {
+        "id": "Lodos_the_Twice-Drowned",
+        "name": "Lodos the Twice-Drowned",
+        "alias": [
+            "Lodos the Twice-Drowned",
+            "King Lodos, Second of That Name"
+        ],
+        "culture": "Ironborn",
+        "died": "37 AC",
+        "title": [
+            "King of the Iron Islands",
+            "(claimant)",
+            "Priest of the Drowned God"
+        ]
+    },
+    "Lollys_Stokeworth": {
+        "id": "Lollys_Stokeworth",
+        "name": "Lollys Stokeworth",
+        "alias": "Lollys Lackwit",
+        "title": "Lady of Stokeworth",
+        "allegiance": "House Stokeworth",
+        "culture": "Crownlands",
+        "born": "In 265 AC",
+        "spouse": "Ser Bronn of the Blackwater",
+        "issue": "Tyrion Tanner (bastard)",
+        "tv series": "Season 5"
+    },
+    "Lomas_Estermont": {
+        "id": "Lomas_Estermont",
+        "name": "Lomas Estermont",
+        "title": "Ser",
+        "allegiance": "House Estermont",
+        "culture": "Stormlands",
+        "issue": "Andrew Estermont"
+    },
+    "Lomas_Longstrider": {
+        "id": "Lomas_Longstrider",
+        "name": "Lomas Longstrider"
+    },
+    "Lommy_Greenhands": {
+        "id": "Lommy_Greenhands",
+        "name": "Lommy",
+        "alias": "Lommy Greenhands",
+        "died": "In 299 AC, at Riverlands",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Lomys": {
+        "id": "Lomys",
+        "name": "Lomys",
+        "title": "Maester",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Tyrell"
+        ]
+    },
+    "Longwater_Pyke": {
+        "id": "Longwater_Pyke",
+        "name": "Longwater Pyke",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Lonnel_Snow": {
+        "id": "Lonnel_Snow",
+        "name": "Lonnel Snow",
+        "alias": "Lonny",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 153 AC"
+    },
+    "Loras_Tyrell": {
+        "id": "Loras_Tyrell",
+        "name": "Loras Tyrell",
+        "alias": [
+            "The Knight of Flowers",
+            "Knight o' Pansies",
+            "Ser Daisy",
+            "Renly's little rose"
+        ],
+        "title": [
+            "Ser",
+            "Lord Commander",
+            "of the",
+            "Rainbow Guard",
+            "(formerly)"
+        ],
+        "allegiance": [
+            "House Tyrell",
+            "Rainbow Guard",
+            "(formerly)",
+            "Kingsguard"
+        ],
+        "culture": "Reach",
+        "born": "In 282 AC, at Highgarden",
+        "tv series": "Season 1 | Season 2 | Season 3 | Season 4 | Season 5 | Season 6"
+    },
+    "Lorcas": {
+        "id": "Lorcas",
+        "name": "Lorcas",
+        "title": "Acolyte",
+        "allegiance": "The Citadel",
+        "born": "In 241 AC or before"
+    },
+    "Lorcas_the_Learned": {
+        "id": "Lorcas_the_Learned",
+        "name": "Lorcas the Learned",
+        "alias": "Lorcas the Learned",
+        "allegiance": "Poor Fellows",
+        "culture": "Westerosi",
+        "died": "In 48 AC, at outside Oldtown"
+    },
+    "Lord_of_Bones": {
+        "id": "Lord_of_Bones",
+        "name": "Lord of Bones",
+        "alias": [
+            "Rattleshirt",
+            "Lord o' Bones",
+            "Bag o' Bones"
+        ],
+        "allegiance": "Mance Rayder",
+        "culture": "Free folk",
+        "died": "In 300 AC, at Castle Black",
+        "tv series": "Season 2 | Season 3 | Season 5"
+    },
+    "Lord_Pigface": {
+        "id": "Lord_Pigface",
+        "name": "Lord Pigface",
+        "alias": "Lord Pigface",
+        "title": "Lord"
+    },
+    "Lordling": {
+        "id": "Lordling",
+        "name": "Lordling",
+        "allegiance": "Faceless Men",
+        "culture": "Braavosi"
+    },
+    "Loren_I_Lannister": {
+        "id": "Loren_I_Lannister",
+        "name": "Loren I Lannister",
+        "alias": "Loren the Last",
+        "issue": "Sons",
+        "title": [
+            "King of the Rock",
+            "(pre-Conquest)",
+            "Lord of Casterly Rock",
+            "(post-Conquest)",
+            "Warden of the West",
+            "(post-Conquest)"
+        ]
+    },
+    "Lorence_Roxton": {
+        "id": "Lorence_Roxton",
+        "name": "Lorence Roxton",
+        "title": "Ser",
+        "allegiance": [
+            "House Roxton",
+            "Kingsguard"
+        ],
+        "culture": "Reach"
+    },
+    "Lorent_Caswell": {
+        "id": "Lorent_Caswell",
+        "name": "Lorent Caswell",
+        "title": [
+            "Ser",
+            "Lord of Bitterbridge",
+            "Defender of the Fords"
+        ],
+        "allegiance": "House Caswell",
+        "culture": "Reach",
+        "issue": "2 daughters"
+    },
+    "Lorent_Grandison": {
+        "id": "Lorent_Grandison",
+        "name": "Lorent Grandison",
+        "title": [
+            "Lord of",
+            "Grandview",
+            "Lord Regent"
+        ],
+        "allegiance": "House Grandison",
+        "culture": "Stormlander"
+    },
+    "Lorent_Lorch": {
+        "id": "Lorent_Lorch",
+        "name": "Lorent Lorch",
+        "title": "Ser",
+        "allegiance": "House Lorch",
+        "culture": "Westermen"
+    },
+    "Lorent_Marbrand": {
+        "id": "Lorent_Marbrand",
+        "name": "Lorent Marbrand",
+        "title": [
+            "Ser",
+            "Lord Commander of the Queensguard"
+        ],
+        "allegiance": [
+            "House Marbrand",
+            "Kingsguard",
+            "Queensguard",
+            "Blacks"
+        ],
+        "culture": "Westermen",
+        "died": "In 130 AC, at King's Landing"
+    },
+    "Lorent_Tyrell": {
+        "id": "Lorent_Tyrell",
+        "name": "Lorent Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Lorent_Tyrell_(steward)": {
+        "id": "Lorent_Tyrell_(steward)",
+        "name": "Lorent Tyrell (steward)",
+        "title": "High Steward of Highgarden",
+        "allegiance": [
+            "House Tyrell",
+            "House Gardener"
+        ],
+        "culture": "Reach"
+    },
+    "Loreon_Lannister": {
+        "id": "Loreon_Lannister",
+        "name": "Loreon Lannister"
+    },
+    "Loreon_I_Lannister": {
+        "id": "Loreon_I_Lannister",
+        "name": "Loreon I Lannister",
+        "alias": "Loreon the Lion",
+        "culture": "First Men",
+        "issue": "At least 3 sons",
+        "title": "King of the Rock",
+        "spouse": "Lady Reyne"
+    },
+    "Loreon_II_Lannister": {
+        "id": "Loreon_II_Lannister",
+        "name": "Loreon II Lannister",
+        "culture": "Andal",
+        "title": "King of the Rock"
+    },
+    "Loreon_III_Lannister": {
+        "id": "Loreon_III_Lannister",
+        "name": "Loreon III Lannister",
+        "alias": "Loreon the Limp",
+        "culture": "Andal",
+        "father": "Lancel I Lannister",
+        "title": "King of the Rock"
+    },
+    "Loreon_IV_Lannister": {
+        "id": "Loreon_IV_Lannister",
+        "name": "Loreon IV Lannister",
+        "alias": "Loreon the Lackwit",
+        "title": "King of the Rock"
+    },
+    "Loreon_V_Lannister": {
+        "id": "Loreon_V_Lannister",
+        "name": "Loreon V Lannister",
+        "alias": "Queen Lorea",
+        "title": "King of the Rock"
+    },
+    "Loreth_Lansdale": {
+        "id": "Loreth_Lansdale",
+        "name": "Loreth Lansdale",
+        "title": "Ser",
+        "allegiance": [
+            "Queensguard",
+            "Blacks"
+        ],
+        "died": "In 130 AC, at Dragonstone"
+    },
+    "Loreza_Sand": {
+        "id": "Loreza_Sand",
+        "name": "Loreza Sand",
+        "alias": "Loree",
+        "allegiance": "House Martell",
+        "culture": "Dornishmen",
+        "born": "In 293 AC"
+    },
+    "Lorimar_Peake": {
+        "id": "Lorimar_Peake",
+        "name": "Lorimar Peake",
+        "title": [
+            "Lord of Starpike",
+            "Lord of Dunstonbury"
+        ],
+        "allegiance": "House Peake",
+        "culture": "Reach",
+        "issue": "Daughter"
+    },
+    "Lorimas_Mudd": {
+        "id": "Lorimas_Mudd",
+        "name": "Lorimas Mudd",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Lorimer_the_Belly": {
+        "id": "Lorimer_the_Belly",
+        "name": "Lorimer the Belly",
+        "alias": "Lorimer the Belly",
+        "title": "Ser",
+        "allegiance": "House Lefford",
+        "died": "In 298 AC, at riverlands"
+    },
+    "Lormelle": {
+        "id": "Lormelle",
+        "name": "Lormelle Long Lance",
+        "alias": "Lormelle Long Lance"
+    },
+    "Loron_Greyjoy": {
+        "id": "Loron_Greyjoy",
+        "name": "Loron Greyjoy",
+        "alias": "The Old Kraken",
+        "culture": "ironborn",
+        "title": "High King of the Iron Islands"
+    },
+    "Loron_Greyjoy_(lord)": {
+        "id": "Loron_Greyjoy_(lord)",
+        "name": "Loron Greyjoy (lord)",
+        "alias": "The Bard",
+        "title": [
+            "Lord of the Iron Islands",
+            "Lord Reaper of Pyke"
+        ],
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Lorra_Royce": {
+        "id": "Lorra_Royce",
+        "name": "Lorra Royce",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Royce",
+            "House Stark"
+        ],
+        "spouse": "Lord Beron Stark",
+        "issue": [
+            "Donnor Stark",
+            "Willam Stark",
+            "Artos Stark",
+            "Berena Stark",
+            "Alysanne Stark",
+            "Errold Stark",
+            "Rodrik Stark"
+        ]
+    },
+    "Lorren_Longaxe": {
+        "id": "Lorren_Longaxe",
+        "name": "Lorren Longaxe",
+        "alias": "Lorren Longaxe",
+        "culture": "ironborn",
+        "born": "In 300 AC",
+        "died": "At wolfswood"
+    },
+    "Loso": {
+        "id": "Loso",
+        "name": "Loso",
+        "alias": "Loso the Lame",
+        "title": "Khal",
+        "culture": "Dothraki"
+    },
+    "Lothar": {
+        "id": "Lothar",
+        "name": "Lothar",
+        "title": "Maester at Whitewalls",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Butterwell"
+        ]
+    },
+    "Lothar_Bracken": {
+        "id": "Lothar_Bracken",
+        "name": "Lothar Bracken",
+        "title": "Lord of Stone Hedge",
+        "allegiance": "House Bracken",
+        "culture": "Rivermen"
+    },
+    "Lothar_Frey": {
+        "id": "Lothar_Frey",
+        "name": "Lothar Frey",
+        "alias": "Lame Lothar",
+        "title": "Steward of the Twins",
+        "allegiance": "House Frey",
+        "culture": "Rivermen",
+        "born": "In or between 264 AC or 266 AC, at the Twins",
+        "spouse": "Leonella Lefford",
+        "issue": [
+            "Tysane Frey",
+            "Walda Frey",
+            "Emberlei Frey",
+            "Leana Frey"
+        ],
+        "tv series": "Season 3 | Season 6"
+    },
+    "Lothar_Mallery": {
+        "id": "Lothar_Mallery",
+        "name": "Lothar Mallery",
+        "title": "Lord",
+        "allegiance": "House Mallery",
+        "culture": "Crownlands",
+        "died": "In 298 AC, at Mummer's Ford"
+    },
+    "Lotho_Lornel": {
+        "id": "Lotho_Lornel",
+        "name": "Lotho Lornel",
+        "culture": "Braavosi"
+    },
+    "Lotho_Rogare": {
+        "id": "Lotho_Rogare",
+        "name": "Lotho Rogare",
+        "title": "Lord",
+        "allegiance": "House Rogare",
+        "culture": "Lysene"
+    },
+    "Lothor_Brune": {
+        "id": "Lothor_Brune",
+        "name": "Lothor Brune",
+        "alias": "Lothor Apple-Eater",
+        "title": [
+            "Ser",
+            "Captain of the guards"
+        ],
+        "allegiance": [
+            "House Brune of Brownhollow",
+            "House Baelish of Harrenhal"
+        ],
+        "culture": "Crownlands"
+    },
+    "Lothor_Burley": {
+        "id": "Lothor_Burley",
+        "name": "Lothor Burley",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Burley",
+            "Night's Watch"
+        ],
+        "culture": "Mountain clans"
+    },
+    "Loyal_Spear": {
+        "id": "Loyal_Spear",
+        "name": "Loyal Spear",
+        "allegiance": [
+            "Unsullied",
+            "House Targaryen"
+        ],
+        "died": "In 300 AC, at Meereen"
+    },
+    "Lucamore_Strong": {
+        "id": "Lucamore_Strong",
+        "name": "Lucamore Strong",
+        "alias": "Lucamore the Lusty",
+        "title": "Ser",
+        "allegiance": [
+            "House Strong",
+            "Kingsguard",
+            "Night's Watch"
+        ],
+        "culture": "Rivermen",
+        "spouse": "3 wives",
+        "issue": "16 children"
+    },
+    "Lucan": {
+        "id": "Lucan",
+        "name": "Lucan",
+        "allegiance": [
+            "House Whent",
+            "House Lannister"
+        ],
+        "culture": "Rivermen",
+        "died": "In 299 AC, at Harrenhal"
+    },
+    "Lucan_(Grand_Maester)": {
+        "id": "Lucan_(Grand_Maester)",
+        "name": "Lucan (Grand Maester)",
+        "title": "Grand Maester",
+        "allegiance": "The Citadel"
+    },
+    "Lucantine_Woodwright": {
+        "id": "Lucantine_Woodwright",
+        "name": "Lucantine Woodwright",
+        "title": "Ser",
+        "allegiance": "House Woodwright",
+        "culture": "Reach"
+    },
+    "Lucas_Blackwood": {
+        "id": "Lucas_Blackwood",
+        "name": "Lucas Blackwood",
+        "allegiance": "House Blackwood",
+        "culture": "Rivermen",
+        "died": "In 299 AC, at the Twins"
+    },
+    "Lucas_Codd": {
+        "id": "Lucas_Codd",
+        "name": "Lucas Codd",
+        "alias": "Left-Hand Lucas",
+        "title": "Captain",
+        "allegiance": "House Codd",
+        "culture": "ironborn"
+    },
+    "Lucas_Corbray": {
+        "id": "Lucas_Corbray",
+        "name": "Lucas Corbray",
+        "title": "Ser",
+        "allegiance": "House Corbray",
+        "culture": "Valemen"
+    },
+    "Lucas_Harroway": {
+        "id": "Lucas_Harroway",
+        "name": "Lucas Harroway",
+        "title": [
+            "Lord of Harrenhal",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Harroway",
+            "House Targaryen"
+        ],
+        "culture": "Rivermen",
+        "died": "In 44 AC, at King's Landing",
+        "issue": [
+            "Alys Harroway",
+            "Jeyne Harroway",
+            "Hanna Harroway",
+            "Multiple sons"
+        ]
+    },
+    "Lucas_Inchfield": {
+        "id": "Lucas_Inchfield",
+        "name": "Lucas Inchfield",
+        "alias": [
+            "Lucas Longinch",
+            "The Longinch"
+        ],
+        "title": [
+            "Ser",
+            "Castellan",
+            "of",
+            "Coldmoat"
+        ],
+        "allegiance": [
+            "House Inchfield",
+            "House Webber"
+        ],
+        "culture": "Reach",
+        "died": "In 211 AC, at the Chequy Water"
+    },
+    "Lucas_Leygood": {
+        "id": "Lucas_Leygood",
+        "name": "Lucas Leygood",
+        "title": [
+            "Ser",
+            "Commander of the City Watch"
+        ],
+        "allegiance": [
+            "House Leygood",
+            "City Watch of King's Landing"
+        ],
+        "culture": "Reach",
+        "died": "In 135 AC, at the Gate of the Gods, King's Landing"
+    },
+    "Lucas_Lothston_(husband_of_Falena)": {
+        "id": "Lucas_Lothston_(husband_of_Falena)",
+        "name": "Lucas Lothston (husband of Falena)",
+        "title": [
+            "Ser",
+            "Master-at-arms",
+            "at the",
+            "Red Keep",
+            "Lord of Harrenhal",
+            "Hand of the King"
+        ],
+        "allegiance": "House Lothston",
+        "culture": "Rivermen",
+        "spouse": "Lady Falena Stokeworth",
+        "issue": "Jeyne Lothston"
+    },
+    "Lucas_Lothston_(father_of_Manfryd)": {
+        "id": "Lucas_Lothston_(father_of_Manfryd)",
+        "name": "Lucas Lothston (father of Manfryd)",
+        "alias": "The Pander",
+        "title": "Lord of Harrenhal",
+        "allegiance": "House Lothston",
+        "culture": "Rivermen",
+        "issue": "Manfryd Lothston"
+    },
+    "Lucas_Nayland": {
+        "id": "Lucas_Nayland",
+        "name": "Lucas Nayland",
+        "title": "Ser",
+        "allegiance": "House Nayland",
+        "culture": "Rivermen"
+    },
+    "Lucas_Roote": {
+        "id": "Lucas_Roote",
+        "name": "Lucas Roote",
+        "allegiance": "House Roote",
+        "died": "In 299 AC, at the Riverlands"
+    },
+    "Lucas_Tyrell": {
+        "id": "Lucas_Tyrell",
+        "name": "Lucas Tyrell",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Luceon_Frey": {
+        "id": "Luceon_Frey",
+        "name": "Luceon Frey",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ],
+        "born": "In or between 248 AC and 258 AC"
+    },
+    "Luceon_of_Tarth": {
+        "id": "Luceon_of_Tarth",
+        "name": "Luceon of Tarth",
+        "alias": "Luceon of Tarth",
+        "culture": "Stormlands",
+        "born": "At Tarth"
+    },
+    "Luceon_Templeton": {
+        "id": "Luceon_Templeton",
+        "name": "Luceon Templeton",
+        "title": [
+            "Ser",
+            "Knight of Ninestars"
+        ],
+        "allegiance": "House Templeton",
+        "culture": "Andal"
+    },
+    "Lucerys_Velaryon": {
+        "id": "Lucerys_Velaryon",
+        "name": "Lucerys Velaryon",
+        "alias": [
+            "Luke",
+            "Little Luke Strong"
+        ],
+        "title": "Prince",
+        "allegiance": [
+            "House Velaryon",
+            "House Targaryen",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "born": "In 115 AC",
+        "died": "In 129 AC, at Shipbreaker Bay"
+    },
+    "Lucerys_Velaryon_(master_of_ships)": {
+        "id": "Lucerys_Velaryon_(master_of_ships)",
+        "name": "Lucerys Velaryon (master of ships)",
+        "title": [
+            "Lord of the Tides",
+            "Master of Driftmark",
+            "master of ships"
+        ],
+        "allegiance": "House Velaryon",
+        "culture": "crownlands"
+    },
+    "Lucias_Vypren": {
+        "id": "Lucias_Vypren",
+        "name": "Lucias Vypren",
+        "title": "Lord",
+        "allegiance": "House Vypren",
+        "culture": "Rivermen",
+        "spouse": "Lady Lythene Frey",
+        "issue": [
+            "Elyana Vypren",
+            "Damon Vypren"
+        ]
+    },
+    "Lucifer_Dryland": {
+        "id": "Lucifer_Dryland",
+        "name": "Lucifer Dryland",
+        "alias": "Last of His Ilk",
+        "culture": "Dornishmen",
+        "title": [
+            "King of the Brimstone",
+            "Lord",
+            "of",
+            "Hellgate Hall",
+            "Brother of the",
+            "Night's Watch"
+        ]
+    },
+    "Lucifer_Hardy": {
+        "id": "Lucifer_Hardy",
+        "name": "Lucifer Hardy",
+        "title": "Lord",
+        "allegiance": "House Hardy"
+    },
+    "Lucifer_Justman": {
+        "id": "Lucifer_Justman",
+        "name": "Lucifer Justman",
+        "alias": "Lucifer the Liar",
+        "title": "River king/King of the Trident",
+        "allegiance": "House Justman"
+    },
+    "Lucifer_Long": {
+        "id": "Lucifer_Long",
+        "name": "Lucifer Long",
+        "title": "Ser",
+        "allegiance": "Windblown",
+        "born": "At Westeros"
+    },
+    "Lucifer_Massey": {
+        "id": "Lucifer_Massey",
+        "name": "Lucifer Massey",
+        "title": [
+            "Lord of Stonedance",
+            "Ser"
+        ],
+        "allegiance": [
+            "House Massey",
+            "House Targaryen"
+        ],
+        "culture": "Crownlands",
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Lucimore_Botley": {
+        "id": "Lucimore_Botley",
+        "name": "Lucimore Botley",
+        "allegiance": "House Botley",
+        "culture": "ironborn"
+    },
+    "Lucinda_Broome": {
+        "id": "Lucinda_Broome",
+        "name": "Lucinda Tully",
+        "alias": "Lucinda Broome",
+        "title": "Lady of Riverrun",
+        "allegiance": [
+            "House Broome",
+            "House Tully"
+        ],
+        "culture": "Westermen",
+        "died": "In 59 AC, at Riverrun",
+        "spouse": "Lord Prentys Tully"
+    },
+    "Lucinda_Penrose": {
+        "id": "Lucinda_Penrose",
+        "name": "Lucinda Penrose",
+        "title": "Septa",
+        "allegiance": [
+            "House Penrose",
+            "Faith of the Seven"
+        ],
+        "culture": "Stormlands",
+        "born": "In 103 133 AC"
+    },
+    "Lucion_Lannister": {
+        "id": "Lucion_Lannister",
+        "name": "Lucion Lannister",
+        "title": "Ser",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In or between 270 AC and 285 AC"
+    },
+    "Luco_Prestayn": {
+        "id": "Luco_Prestayn",
+        "name": "Luco Prestayn",
+        "allegiance": "House Prestayn",
+        "culture": "Braavosi"
+    },
+    "Lucos": {
+        "id": "Lucos",
+        "name": "Lucos",
+        "title": "Septon",
+        "allegiance": [
+            "Faith of the Seven",
+            "House Royce"
+        ]
+    },
+    "Lucos_Chyttering": {
+        "id": "Lucos_Chyttering",
+        "name": "Lucos Chyttering",
+        "alias": "Little Lucos",
+        "title": "Lord",
+        "allegiance": "House Chyttering",
+        "culture": "Crownlands",
+        "born": "In 283 AC"
+    },
+    "Luke_of_Longtown": {
+        "id": "Luke_of_Longtown",
+        "name": "Luke of Longtown",
+        "alias": "Luke of Longtown",
+        "allegiance": "Night's Watch",
+        "born": "At Longtown"
+    },
+    "Lum": {
+        "id": "Lum",
+        "name": "Lum",
+        "allegiance": "House Lannister",
+        "culture": "westermen"
+    },
+    "Luthor_Largent": {
+        "id": "Luthor_Largent",
+        "name": "Luthor Largent",
+        "title": [
+            "Ser",
+            "Commander of the City Watch",
+            "Lord"
+        ],
+        "allegiance": [
+            "City Watch of King's Landing",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 130 AC, at Cobbler's Square, King's Landing"
+    },
+    "Luthor_Tyrell": {
+        "id": "Luthor_Tyrell",
+        "name": "Luthor Tyrell",
+        "title": [
+            "Lord Paramount of the Mander",
+            "Lord of Highgarden",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "spouse": "Lady Olenna Redwyne",
+        "issue": [
+            "Mace Tyrell",
+            "Mina Tyrell",
+            "Janna Tyrell"
+        ]
+    },
+    "Luthor_Tyrell_(son_of_Moryn)": {
+        "id": "Luthor_Tyrell_(son_of_Moryn)",
+        "name": "Luthor Tyrell (son of Moryn)",
+        "title": "Ser",
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "spouse": "Elyn Norridge",
+        "issue": [
+            "Theodore Tyrell",
+            "Olene Tyrell",
+            "Medwick Tyrell"
+        ]
+    },
+    "Luthor_Tyrell_(son_of_Theodore)": {
+        "id": "Luthor_Tyrell_(son_of_Theodore)",
+        "name": "Luthor Tyrell (son of Theodore)",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Luton": {
+        "id": "Luton",
+        "name": "Luton",
+        "allegiance": "House Bolton",
+        "culture": "Northmen",
+        "died": "In 300 AC, at Winterfell"
+    },
+    "Luwin": {
+        "id": "Luwin",
+        "name": "Luwin",
+        "title": "Maester at Winterfell",
+        "allegiance": [
+            "Citadel",
+            "House Stark"
+        ],
+        "culture": "Westeros",
+        "died": "In 299 AC, at Winterfell",
+        "tv series": "Season 1 | Season 2"
+    },
+    "Lyanna_Mormont": {
+        "id": "Lyanna_Mormont",
+        "name": "Lyanna Mormont",
+        "allegiance": "House Mormont",
+        "culture": "Northmen",
+        "born": "In 290 AC, at Bear Island",
+        "tv series": "Season 6 | Season 7 | Season 8"
+    },
+    "Lyanna_Stark": {
+        "id": "Lyanna_Stark",
+        "name": "Lyanna Stark",
+        "alias": [
+            "The She-Wolf",
+            "The Wolf Maid",
+            "Lya",
+            "Wolf girl"
+        ],
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In 266 AC or 267 AC, at Winterfell",
+        "died": "In 283 AC, at the tower of joy",
+        "tv series": "Season 6 | Season 7"
+    },
+    "Lyanna_Stark_(daughter_of_Cregan)": {
+        "id": "Lyanna_Stark_(daughter_of_Cregan)",
+        "name": "Lyanna Stark (daughter of Cregan)",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "born": "In or after 138 AC"
+    },
+    "Lyanne_Glover": {
+        "id": "Lyanne_Glover",
+        "name": "Lyanne Glover",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Glover",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "died": "In or before 226 AC, at Winterfell",
+        "spouse": "Lord Willam Stark",
+        "issue": "Brandon Stark"
+    },
+    "Lyarra_Stark": {
+        "id": "Lyarra_Stark",
+        "name": "Lyarra Stark",
+        "title": "Lady of Winterfell",
+        "allegiance": "House Stark",
+        "culture": "Northmen",
+        "spouse": "Lord Rickard Stark",
+        "issue": [
+            "Brandon Stark",
+            "Eddard Stark",
+            "Lyanna Stark",
+            "Benjen Stark"
+        ]
+    },
+    "Lyessa_Flint": {
+        "id": "Lyessa_Flint",
+        "name": "Lyessa Flint",
+        "title": "Lady of Widow's Watch",
+        "allegiance": "House Flint of Widow's Watch",
+        "culture": "Northmen",
+        "issue": "Robin Flint"
+    },
+    "Lyle_Bracken": {
+        "id": "Lyle_Bracken",
+        "name": "Lyle Bracken",
+        "title": "Ser",
+        "allegiance": [
+            "House Bracken",
+            "Faith of the Seven",
+            "Warrior's Sons"
+        ],
+        "culture": "Rivermen",
+        "died": "In 42 AC, at King's Landing"
+    },
+    "Lyle_Crakehall": {
+        "id": "Lyle_Crakehall",
+        "name": "Lyle Crakehall",
+        "alias": "Strongboar",
+        "title": "Ser",
+        "allegiance": "House Crakehall",
+        "culture": "Westermen",
+        "born": "At Crakehall"
+    },
+    "Lyman_Beesbury": {
+        "id": "Lyman_Beesbury",
+        "name": "Lyman Beesbury",
+        "title": [
+            "Lord of Honeyholt",
+            "Master of coin",
+            "Lord treasurer"
+        ],
+        "allegiance": [
+            "House Beesbury",
+            "Blacks"
+        ],
+        "culture": "Reach",
+        "born": "In 49 AC",
+        "died": "In 129 AC, at King's Landing"
+    },
+    "Lyman_(Archmaester)": {
+        "id": "Lyman_(Archmaester)",
+        "name": "Lyman (Archmaester)",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Lyman_Darry": {
+        "id": "Lyman_Darry",
+        "name": "Lyman Darry",
+        "title": "Lord of Darry (unconfirmed)",
+        "allegiance": "House Darry",
+        "culture": "Rivermen",
+        "born": "In 290 AC or 291 AC",
+        "died": "In 299 AC, at Darry"
+    },
+    "Lyman_Lannister": {
+        "id": "Lyman_Lannister",
+        "name": "Lyman Lannister",
+        "title": [
+            "Lord of Casterly Rock",
+            "Shield of Lannisport",
+            "Warden of the West"
+        ],
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In or before 15 AC",
+        "died": "In 59 AC",
+        "spouse": "Lady Jocasta Tarbeck",
+        "issue": [
+            "Trueborn sons",
+            "Tyler Hill"
+        ]
+    },
+    "Lymond_Fisher": {
+        "id": "Lymond_Fisher",
+        "name": "Lymond Fisher",
+        "title": [
+            "Knight of Oldstones",
+            "River king",
+            "/",
+            "King of the Trident"
+        ],
+        "allegiance": "House Fisher",
+        "culture": "Rivermen"
+    },
+    "Lymond_Goodbrook": {
+        "id": "Lymond_Goodbrook",
+        "name": "Lymond Goodbrook",
+        "title": "Lord",
+        "allegiance": "House Goodbrook",
+        "culture": "Rivermen"
+    },
+    "Lymond_Hightower": {
+        "id": "Lymond_Hightower",
+        "name": "Lymond Hightower",
+        "alias": "The Sea Lion",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "King of the High Tower",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "First Men",
+        "born": "At Oldtown",
+        "spouse": [
+            "1st: Unknown",
+            "2nd:Daughter of",
+            "Garland II"
+        ],
+        "issue": "Daughter"
+    },
+    "Lymond_Lychester": {
+        "id": "Lymond_Lychester",
+        "name": "Lymond Lychester",
+        "title": "Lord of Castle Lychester",
+        "allegiance": "House Lychester",
+        "culture": "Rivermen",
+        "issue": "Six sons"
+    },
+    "Lymond_Lynderly": {
+        "id": "Lymond_Lynderly",
+        "name": "Lymond Lynderly",
+        "title": "Ser",
+        "allegiance": "House Lynderly",
+        "culture": "Valemen"
+    },
+    "Lymond_Mallister": {
+        "id": "Lymond_Mallister",
+        "name": "Lymond Mallister",
+        "title": "Lord of Seagard",
+        "allegiance": "House Mallister",
+        "culture": "Rivermen",
+        "died": "In 104 131 AC"
+    },
+    "Lymond_Pease": {
+        "id": "Lymond_Pease",
+        "name": "Lymond Pease",
+        "title": "Serjeant",
+        "allegiance": "Golden Company"
+    },
+    "Lymond_Vikary": {
+        "id": "Lymond_Vikary",
+        "name": "Lymond Vikary",
+        "title": "Ser",
+        "allegiance": "House Vikary"
+    },
+    "Lyn_Corbray": {
+        "id": "Lyn_Corbray",
+        "name": "Lyn Corbray",
+        "title": "Ser",
+        "allegiance": [
+            "House Corbray",
+            "Lords Declarant"
+        ],
+        "culture": "Valemen",
+        "born": "At Heart's Home"
+    },
+    "Lynara_Stark": {
+        "id": "Lynara_Stark",
+        "name": "Lynara Stark",
+        "title": "Lady of Winterfell",
+        "allegiance": "House Stark",
+        "culture": "northmen",
+        "spouse": "Lord Cregan Stark",
+        "issue": [
+            "Jonnel Stark",
+            "Edric Stark",
+            "Lyanna Stark",
+            "Barthogan Stark",
+            "Brandon Stark"
+        ]
+    },
+    "Lync": {
+        "id": "Lync",
+        "name": "Lync",
+        "allegiance": "Night's Watch",
+        "culture": "Crownlands"
+    },
+    "Lynesse_Hightower": {
+        "id": "Lynesse_Hightower",
+        "name": "Lynesse Hightower",
+        "title": "Lady of Bear Island (formerly)",
+        "allegiance": [
+            "House Hightower",
+            "House Mormont"
+        ],
+        "culture": "Reach",
+        "born": "In roughly 271 272 AC",
+        "spouse": [
+            "1st:",
+            "Jorah Mormont",
+            "2nd: (unofficial)",
+            "Tregar Ormollen"
+        ]
+    },
+    "Lynora_Hill": {
+        "id": "Lynora_Hill",
+        "name": "Lynora Hill",
+        "allegiance": "House Lannister",
+        "culture": "Westermen",
+        "born": "In 243 AC or 244 AC"
+    },
+    "Lyonce": {
+        "id": "Lyonce",
+        "name": "Lyonce",
+        "title": "Grand Maester",
+        "allegiance": [
+            "The Citadel",
+            "House Targaryen"
+        ],
+        "died": "In 12 AC or 13 AC, at King's Landing"
+    },
+    "Lyonel_(knight)": {
+        "id": "Lyonel_(knight)",
+        "name": "Lyonel (knight)",
+        "title": "Ser",
+        "allegiance": "House Lannister"
+    },
+    "Lyonel_Baratheon": {
+        "id": "Lyonel_Baratheon",
+        "name": "Lyonel Baratheon",
+        "alias": "The Laughing Storm",
+        "title": [
+            "Ser",
+            "Lord of Storm's End",
+            "Lord Paramount of the Stormlands",
+            "Storm King",
+            "(briefly)"
+        ],
+        "allegiance": "House Baratheon",
+        "culture": "Stormlander",
+        "born": "In or before 194 AC",
+        "died": "In or between 239 AC and 245 AC",
+        "spouse": "Unknown",
+        "issue": "Daughter"
+    },
+    "Lyonel_Bentley": {
+        "id": "Lyonel_Bentley",
+        "name": "Lyonel Bentley",
+        "title": "Ser",
+        "allegiance": [
+            "Queensguard",
+            "Blacks"
+        ],
+        "died": "In 130 AC, at between Stokeworth and Duskendale"
+    },
+    "Lyonel_Corbray": {
+        "id": "Lyonel_Corbray",
+        "name": "Lyonel Corbray",
+        "title": "Lord of Heart's Home",
+        "allegiance": "House Corbray",
+        "culture": "Valemen",
+        "born": "In 260 AC (roughly), at Heart's Home",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: A merchant's daughter"
+        ],
+        "issue": [
+            "Sickly babe",
+            "Unborn child"
+        ]
+    },
+    "Lyonel_Deddings": {
+        "id": "Lyonel_Deddings",
+        "name": "Lyonel Deddings",
+        "title": "Lord",
+        "allegiance": [
+            "House Deddings",
+            "blacks"
+        ],
+        "culture": "Rivermen",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Lyonel_Frey": {
+        "id": "Lyonel_Frey",
+        "name": "Lyonel Frey",
+        "title": "Ser",
+        "allegiance": "House Frey of Riverrun",
+        "born": "In or between 258 AC and 283 AC",
+        "spouse": "Melesa Crakehall"
+    },
+    "Lyonel_Hightower": {
+        "id": "Lyonel_Hightower",
+        "name": "Lyonel Hightower",
+        "title": [
+            "Beacon of the South",
+            "Defender of Oldtown",
+            "Defender of the Citadel",
+            "Lord of Oldtown",
+            "Lord of the Hightower",
+            "Lord of the Port",
+            "Voice of Oldtown"
+        ],
+        "allegiance": "House Hightower",
+        "culture": "Reach",
+        "born": "In 114 AC or 115 AC",
+        "died": "In 143 AC or after",
+        "spouse": "Lady Samantha Tarly",
+        "issue": "6 children"
+    },
+    "Lyonel_Lorch": {
+        "id": "Lyonel_Lorch",
+        "name": "Lyonel Lorch",
+        "title": "Ser",
+        "allegiance": [
+            "House Lorch",
+            "Faith Militant"
+        ],
+        "culture": "Westermen"
+    },
+    "Lyonel_Selmy": {
+        "id": "Lyonel_Selmy",
+        "name": "Lyonel Selmy",
+        "title": [
+            "Ser",
+            "Knight of",
+            "Harvest Hall"
+        ],
+        "allegiance": "House Selmy",
+        "issue": "Barristan Selmy"
+    },
+    "Lyonel_Strong": {
+        "id": "Lyonel_Strong",
+        "name": "Lyonel Strong",
+        "title": [
+            "Lord of Harrenhal",
+            "Master of laws",
+            "Hand of the King"
+        ],
+        "allegiance": "House Strong",
+        "culture": "Rivermen",
+        "born": "In or before 77 AC",
+        "died": "In 120 AC, at Harrenhal",
+        "spouse": [
+            "1st: Unknown",
+            "2nd: Unknown",
+            "3rd: Unknown"
+        ],
+        "issue": [
+            "Harwin Strong",
+            "Larys Strong",
+            "2 daughters",
+            "Alys Rivers",
+            "(alleged bastard)"
+        ]
+    },
+    "Lyonel_Tyrell_(lord)": {
+        "id": "Lyonel_Tyrell_(lord)",
+        "name": "Lyonel Tyrell (lord)",
+        "title": [
+            "Lord Paramount of the Mander",
+            "Lord of Highgarden",
+            "Defender of the Marches",
+            "High Marshal of the Reach",
+            "Warden of the South"
+        ],
+        "allegiance": "House Tyrell",
+        "culture": "Reach",
+        "born": "In roughly 129 AC",
+        "died": "In 159 AC or 160 AC, at Sandstone"
+    },
+    "Lyonel_Tyrell_(son_of_Leo)": {
+        "id": "Lyonel_Tyrell_(son_of_Leo)",
+        "name": "Lyonel Tyrell (son of Leo)",
+        "allegiance": "House Tyrell",
+        "culture": "Reach"
+    },
+    "Lyra": {
+        "id": "Lyra",
+        "name": "Lyra",
+        "title": [
+            "Novice",
+            "Septa"
+        ],
+        "allegiance": [
+            "Faith of the Seven",
+            "House Targaryen"
+        ],
+        "born": "In 36 AC",
+        "died": "In or after 80 AC"
+    },
+    "Lyra_Hayford": {
+        "id": "Lyra_Hayford",
+        "name": "Lyra Hayford",
+        "allegiance": "House Hayford",
+        "culture": "Crownlands",
+        "born": "In 103 133 AC"
+    },
+    "Lyra_Mormont": {
+        "id": "Lyra_Mormont",
+        "name": "Lyra Mormont",
+        "allegiance": "House Mormont",
+        "culture": "Northmen",
+        "born": "In or between 277 AC and 288 AC"
+    },
+    "Lysa_Arryn": {
+        "id": "Lysa_Arryn",
+        "name": "Lysa Arryn",
+        "alias": "Lysa Tully",
+        "title": [
+            "Lady of the",
+            "Eyrie",
+            "Lady Regent",
+            "of the",
+            "Vale of Arryn",
+            "Lady of",
+            "Harrenhal"
+        ],
+        "allegiance": [
+            "House Tully",
+            "House Arryn",
+            "House Baelish"
+        ],
+        "culture": "Rivermen",
+        "born": "In 266 AC, 267 AC, or 268 AC, at Riverrun",
+        "died": "In 300 AC, at the Eyrie",
+        "spouse": [
+            "1st: Lord",
+            "Jon Arryn",
+            "2nd: Lord",
+            "Petyr Baelish"
+        ],
+        "issue": [
+            "2 stillborn children",
+            "Robert Arryn"
+        ],
+        "tv series": "Season 1 | Season 4"
+    },
+    "Lysa_Farman": {
+        "id": "Lysa_Farman",
+        "name": "Lysa Farman",
+        "allegiance": [
+            "House Farman",
+            "House Greyjoy",
+            "(forcibly)",
+            "House Goodbrother",
+            "(forcibly)"
+        ],
+        "culture": "Westermen",
+        "spouse": [
+            "1st: Lord",
+            "Dalton Greyjoy",
+            "(as a",
+            "salt wife",
+            ")",
+            "2nd:",
+            "Gunthor Goodbrother",
+            "(as a",
+            "salt wife",
+            ")"
+        ]
+    },
+    "Lysa_Locke": {
+        "id": "Lysa_Locke",
+        "name": "Lysa Locke",
+        "title": "Lady of Winterfell",
+        "allegiance": [
+            "House Locke",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "born": "In or before 82 AC",
+        "spouse": "Lord Benjen Stark",
+        "issue": [
+            "Rickon Stark",
+            "Bennard Stark"
+        ]
+    },
+    "Lysa_Meadows": {
+        "id": "Lysa_Meadows",
+        "name": "Lysa Meadows",
+        "allegiance": [
+            "House Meadows",
+            "House Tyrell"
+        ],
+        "culture": "Reach",
+        "spouse": "Ser Olymer Tyrell",
+        "issue": [
+            "Raymund Tyrell",
+            "Rickard Tyrell",
+            "Megga Tyrell"
+        ]
+    },
+    "Lysandro_Rogare": {
+        "id": "Lysandro_Rogare",
+        "name": "Lysandro Rogare",
+        "alias": "Lysandro the Magnificent",
+        "title": "First Magister for Life",
+        "allegiance": "House Rogare",
+        "culture": "Lysene",
+        "died": "In 135 AC, at Lys",
+        "issue": [
+            "Lysaro Rogare",
+            "Larra Rogare",
+            "Moredo Rogare",
+            "Lotho Rogare",
+            "Roggerio Rogare",
+            "Lysara Rogare",
+            "Drako Rogare",
+            "Fredo Rogare",
+            "Marra Rogare",
+            "Sixteen bastard children"
+        ]
+    },
+    "Lysara_Karstark": {
+        "id": "Lysara_Karstark",
+        "name": "Lysara Karstark",
+        "allegiance": [
+            "House Karstark",
+            "House Stark"
+        ],
+        "culture": "Northmen",
+        "spouse": "Artos Stark",
+        "issue": [
+            "Brandon Stark",
+            "Benjen Stark"
+        ]
+    },
+    "Lysara_Rogare": {
+        "id": "Lysara_Rogare",
+        "name": "Lysara Rogare",
+        "allegiance": "House Rogare",
+        "culture": "Lyseni",
+        "born": "In or before 114 AC",
+        "died": "In or after 135 AC"
+    },
+    "Lysaro_Rogare": {
+        "id": "Lysaro_Rogare",
+        "name": "Lysaro Rogare",
+        "title": "Gonfaloniere",
+        "allegiance": "House Rogare",
+        "culture": "Lysene",
+        "died": "In 135 AC, at Temple of Trade, Lys",
+        "issue": "Daughters"
+    },
+    "Lysono_Maar": {
+        "id": "Lysono_Maar",
+        "name": "Lysono Maar",
+        "allegiance": "Golden Company",
+        "culture": "Lyseni",
+        "born": "At Lys"
+    },
+    "Lythene_Frey": {
+        "id": "Lythene_Frey",
+        "name": "Lythene Frey",
+        "allegiance": "House Frey",
+        "born": "In 250 AC and 259 AC",
+        "spouse": "Lord Lucias Vypren",
+        "issue": [
+            "Elyana Vypren",
+            "Damon Vypren"
+        ]
+    },
+    "Lord_Commander_Qorgyle": {
+        "id": "Lord_Commander_Qorgyle",
+        "name": "Lord Commander Qorgyle",
+        "title": "Lord Commander of the Night's Watch",
+        "allegiance": [
+            "House Qorgyle",
+            "Night's Watch"
+        ],
+        "culture": "Dornishmen",
+        "died": "In 288 AC, at Castle Black"
+    },
+    "Lord_Redwyne": {
+        "id": "Lord_Redwyne",
+        "name": "Lord Redwyne",
+        "title": "Lord of the Arbor",
+        "allegiance": [
+            "House Redwyne",
+            "Greens"
+        ],
+        "culture": "Reach"
+    },
+    "Lord_Ryswell_(Night%27s_Watch)": {
+        "id": "Lord_Ryswell_(Night%27s_Watch)",
+        "name": "Lord Ryswell (Night's Watch)",
+        "title": "Lord of the Rills",
+        "allegiance": [
+            "House Ryswell",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "issue": [
+            "Son(s)",
+            "Youngest son"
+        ]
+    },
+    "Lord_Ryswell%27s_youngest_son": {
+        "id": "Lord_Ryswell%27s_youngest_son",
+        "name": "Lord Ryswell's youngest son",
+        "allegiance": [
+            "House Ryswell",
+            "Night's Watch"
+        ],
+        "culture": "Northmen",
+        "died": "At within the Wall"
+    },
+    "Lord_Staunton": {
+        "id": "Lord_Staunton",
+        "name": "Lord Staunton",
+        "title": "Lord of Rook's Rest",
+        "allegiance": [
+            "House Staunton",
+            "Blacks"
+        ],
+        "culture": "Crownlands",
+        "died": "In 129 AC, at Rook's Rest"
+    },
+    "Lord_Sunglass": {
+        "id": "Lord_Sunglass",
+        "name": "Lord Sunglass",
+        "title": "Lord of Sweetport Sound",
+        "allegiance": "House Sunglass",
+        "culture": "Crownlands"
+    },
+    "Lord_Swyft": {
+        "id": "Lord_Swyft",
+        "name": "Lord Swyft",
+        "title": "Lord of Cornfield[N 1]",
+        "allegiance": [
+            "House Swyft",
+            "Greens"
+        ],
+        "culture": "Westermen",
+        "died": "In 130 AC, at Gods Eye"
+    },
+    "Lord_Wyl_(conquest_of_Dorne)": {
+        "id": "Lord_Wyl_(conquest_of_Dorne)",
+        "name": "Lord Wyl (conquest of Dorne)",
+        "title": "Lord of Wyl",
+        "allegiance": "House Wyl",
+        "culture": "Dornishmen"
+    }
+}

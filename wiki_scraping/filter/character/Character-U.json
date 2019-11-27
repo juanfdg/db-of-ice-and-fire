@@ -1,0 +1,357 @@
+{
+    "Uhlan": {
+        "id": "Uhlan",
+        "name": "Uhlan",
+        "title": "Serjeant",
+        "allegiance": "Second Sons"
+    },
+    "Ulf_son_of_Umar": {
+        "id": "Ulf_son_of_Umar",
+        "name": "Ulf son of Umar",
+        "allegiance": "Moon Brothers",
+        "culture": "Vale mountain clans",
+        "died": "In 298 AC, at the Green Fork"
+    },
+    "Ulf_the_Ill": {
+        "id": "Ulf_the_Ill",
+        "name": "Ulf the Ill",
+        "alias": "Ulf the Ill",
+        "allegiance": "House Greyjoy",
+        "culture": "Ironborn",
+        "died": "In 299 AC, at Winterfell"
+    },
+    "Ulf_the_White": {
+        "id": "Ulf_the_White",
+        "name": "Ulf White",
+        "alias": [
+            "Ulf the White",
+            "Ulf the Sot",
+            "The Betrayer"
+        ],
+        "title": [
+            "Ser",
+            "Lord of Bitterbridge",
+            "Lord of Highgarden",
+            "(claimant)"
+        ],
+        "allegiance": [
+            "Blacks",
+            "Greens",
+            "Two Betrayers"
+        ],
+        "culture": "Crownlands",
+        "born": "At Dragonstone",
+        "died": "In 130 AC, at Tumbleton"
+    },
+    "Uller": {
+        "id": "Uller",
+        "name": "Uller",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Ulmer": {
+        "id": "Ulmer",
+        "name": "Ulmer of the Kingswood",
+        "alias": "Ulmer of the Kingswood",
+        "allegiance": [
+            "Kingswood Brotherhood",
+            "Night's Watch"
+        ],
+        "born": "At kingswood"
+    },
+    "Ulrick_Dayne": {
+        "id": "Ulrick_Dayne",
+        "name": "Ulrick Dayne",
+        "title": [
+            "Ser",
+            "Sword of the Morning"
+        ],
+        "allegiance": "House Dayne",
+        "culture": "Dornishmen"
+    },
+    "Ulwyck_Uller": {
+        "id": "Ulwyck_Uller",
+        "name": "Ulwyck Uller",
+        "title": "Ser",
+        "allegiance": "House Uller",
+        "culture": "Dornishmen"
+    },
+    "Umar": {
+        "id": "Umar",
+        "name": "Umar",
+        "allegiance": "Moon Brothers",
+        "culture": "Vale mountain clans",
+        "issue": "Ulf"
+    },
+    "Umbert": {
+        "id": "Umbert",
+        "name": "Umbert",
+        "title": "Archmaester",
+        "allegiance": "The Citadel"
+    },
+    "Umfred": {
+        "id": "Umfred",
+        "name": "Umfred",
+        "title": "Steward of the \"Drearfort\"",
+        "allegiance": "House Baelish",
+        "culture": "Valemen"
+    },
+    "Umma": {
+        "id": "Umma",
+        "name": "Umma",
+        "allegiance": "House of Black and White",
+        "culture": "Braavosi"
+    },
+    "Ummet": {
+        "id": "Ummet",
+        "name": "Ummet",
+        "allegiance": "House Targaryen",
+        "died": "In 131 AC, at King's Landing"
+    },
+    "Unella": {
+        "id": "Unella",
+        "name": "Unella",
+        "title": "Septa",
+        "allegiance": [
+            "Faith of the Seven",
+            "Most Devout"
+        ],
+        "tv series": "Season 5 | Season 6"
+    },
+    "Unwin_Peake": {
+        "id": "Unwin_Peake",
+        "name": "Unwin Peake",
+        "title": [
+            "Lord of Starpike",
+            "Lord of Dunstonbury",
+            "Lord of Whitegrove",
+            "Lord Regent",
+            "Protector of the Realm",
+            "Hand of the King"
+        ],
+        "allegiance": [
+            "House Peake",
+            "Greens",
+            "Caltrops"
+        ],
+        "culture": "Reach",
+        "born": "In or before 99 AC",
+        "died": "In 136 196 AC",
+        "spouse": "3 wives",
+        "issue": [
+            "Titus Peake",
+            "Myrielle Peake",
+            "2 sons",
+            "3 daughters"
+        ]
+    },
+    "Urek_Ironmaker": {
+        "id": "Urek_Ironmaker",
+        "name": "Urek Ironmaker",
+        "allegiance": "House Ironmaker",
+        "culture": "ironborn"
+    },
+    "Urho_the_Unwashed": {
+        "id": "Urho_the_Unwashed",
+        "name": "Urho the Unwashed",
+        "allegiance": "Pirates",
+        "culture": "Essos"
+    },
+    "Urragon_III_Greyiron": {
+        "id": "Urragon_III_Greyiron",
+        "name": "Urragon III Greyiron",
+        "alias": "Urragon the Bald",
+        "issue": "Torgon Greyiron and other sons",
+        "title": "High King of the Iron Islands"
+    },
+    "Urragon_IV_Greyiron": {
+        "id": "Urragon_IV_Greyiron",
+        "name": "Urragon IV Greyiron",
+        "father": "Torgon Greyiron",
+        "title": "High King of the Iron Islands"
+    },
+    "Urras_Greyiron": {
+        "id": "Urras_Greyiron",
+        "name": "Urras Greyiron",
+        "alias": [
+            "Ironfoot",
+            "Urras Ironfoot"
+        ],
+        "issue": [
+            "Erich I Greyiron",
+            "Son(s)"
+        ],
+        "born": "Orkmont",
+        "title": [
+            "High King of the Iron Islands",
+            "Salt King",
+            "of Orkmont"
+        ]
+    },
+    "Urrathon_IV_Goodbrother": {
+        "id": "Urrathon_IV_Goodbrother",
+        "name": "Urrathon IV Goodbrother",
+        "alias": "Badbrother",
+        "title": "High King of the Iron Islands"
+    },
+    "Urrathon_Night-Walker": {
+        "id": "Urrathon_Night-Walker",
+        "name": "Urrathon Night-Walker",
+        "culture": "Qartheen"
+    },
+    "Urrathon_Peake": {
+        "id": "Urrathon_Peake",
+        "name": "Urrathon Peake",
+        "alias": "Urrathon the Shieldsmasher",
+        "title": "Ser",
+        "allegiance": "House Peake",
+        "culture": "Reach"
+    },
+    "Urreg": {
+        "id": "Urreg",
+        "name": "Urreg"
+    },
+    "Urrigon_Greyjoy": {
+        "id": "Urrigon_Greyjoy",
+        "name": "Urrigon Greyjoy",
+        "alias": "Urri",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn",
+        "born": "In or between 268 AC and 270 AC",
+        "died": "In 283 AC or 284 AC, at Pyke"
+    },
+    "Urrigon_Hightower": {
+        "id": "Urrigon_Hightower",
+        "name": "Urrigon Hightower",
+        "title": "King of the Hightower"
+    },
+    "Urron_Greyiron": {
+        "id": "Urron_Greyiron",
+        "name": "Urron Greyiron",
+        "alias": [
+            "Urron Redhand",
+            "Urron of",
+            "Orkmont",
+            "The Redhand"
+        ],
+        "culture": "ironborn",
+        "title": [
+            "Iron King",
+            "King of the Iron Islands",
+            "Salt king",
+            "of Orkmont"
+        ]
+    },
+    "Ursula_Upcliff": {
+        "id": "Ursula_Upcliff",
+        "name": "Ursula Upcliff",
+        "title": "Bride of the Merling King",
+        "allegiance": "House Upcliff",
+        "died": "At the Giant's Lance"
+    },
+    "Urswyck": {
+        "id": "Urswyck",
+        "name": "Urswyck",
+        "alias": [
+            "Urswyck the Faithful",
+            "Faithful Urswyck"
+        ],
+        "allegiance": "Brave Companions"
+    },
+    "Urzen": {
+        "id": "Urzen",
+        "name": "Urzen",
+        "allegiance": "House Greyjoy",
+        "culture": "ironborn"
+    },
+    "Uther_Peake": {
+        "id": "Uther_Peake",
+        "name": "Uther Peake",
+        "title": [
+            "Lord of Starpike",
+            "Lord of Dunstonbury",
+            "Lord of Whitegrove"
+        ],
+        "allegiance": "House Peake",
+        "culture": "Reach",
+        "spouse": "Lady Prunella Celtigar"
+    },
+    "Uther_Shett": {
+        "id": "Uther_Shett",
+        "name": "Uther Shett",
+        "title": "Ser",
+        "allegiance": "House Shett of Gulltown"
+    },
+    "Uthero_Zalyne": {
+        "id": "Uthero_Zalyne",
+        "name": "Uthero Zalyne",
+        "title": "Sealord of Braavos",
+        "allegiance": "Braavos",
+        "culture": "Braavosi",
+        "died": "At Volantis"
+    },
+    "Utherydes_Wayn": {
+        "id": "Utherydes_Wayn",
+        "name": "Utherydes Wayn",
+        "title": "Steward of Riverrun",
+        "allegiance": [
+            "House Wayn",
+            "House Tully"
+        ],
+        "culture": "Rivermen",
+        "born": "In or between 237 AC and 241 AC (roughly)"
+    },
+    "Uthor": {
+        "id": "Uthor",
+        "name": "Uthor",
+        "title": "Maester at the Dreadfort",
+        "allegiance": [
+            "The",
+            "Citadel",
+            "House Bolton"
+        ],
+        "died": "In 297 300 AC (presumably)"
+    },
+    "Uthor_of_the_High_Tower": {
+        "id": "Uthor_of_the_High_Tower",
+        "name": "Uthor of the High Tower",
+        "spouse": "Maris the Maid",
+        "issue": [
+            "Urrigon Hightower",
+            "Peremore Hightower"
+        ],
+        "title": "King of the High Tower"
+    },
+    "Uthor_Tollett": {
+        "id": "Uthor_Tollett",
+        "name": "Uthor Tollett",
+        "title": "Lord of the Grey Glen",
+        "allegiance": "House Tollett",
+        "culture": "Valemen"
+    },
+    "Uthor_Uller": {
+        "id": "Uthor_Uller",
+        "name": "Uthor Uller",
+        "title": "Lord of the Hellholt",
+        "allegiance": "House Uller",
+        "culture": "Dornishmen"
+    },
+    "Uthor_Underleaf": {
+        "id": "Uthor_Underleaf",
+        "name": "Uthor Underleaf",
+        "alias": "The Snail",
+        "title": "Ser",
+        "born": "In or around 181 AC, 182 AC or 183 AC"
+    },
+    "Utt": {
+        "id": "Utt",
+        "name": "Utt",
+        "title": "Septon",
+        "allegiance": [
+            "Brave Companions",
+            "Faith of the Seven",
+            "(expelled)"
+        ],
+        "died": "In 299 AC, at the burning septry"
+    }
+}
