@@ -64,8 +64,8 @@ class Chapter:
             th = tr.find(name='th')
             if th is not None:
                 if th.get_text() == 'POV':
-                    a = tr.find(name='a')
-                    pov = a.get('href')[11:]
+                    a = tr.find(name='td')
+                    pov = a.get_text()
                     break
 
         # Search for another character

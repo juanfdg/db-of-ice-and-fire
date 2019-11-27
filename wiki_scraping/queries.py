@@ -8,6 +8,24 @@ conn = connect(dbname="got",
                port="5432")
 cursor = conn.cursor(cursor_factory=RealDictCursor)
 
+DELETE_ALL_QUERY = """
+DELETE FROM alias;
+DELETE FROM lineage;
+DELETE FROM allegiance;
+DELETE FROM appearance_chapter_character;
+DELETE FROM chapter;
+DELETE FROM book;
+DELETE FROM character_culture;
+DELETE FROM culture;
+DELETE FROM house_lord;
+DELETE FROM character;
+DELETE FROM house_battle;
+DELETE FROM battle;
+DELETE FROM house_region;
+DELETE FROM house;
+DELETE FROM region;
+"""
+
 ALIAS_QUERY = """
 INSERT INTO alias (character,
                    alias)
@@ -17,15 +35,15 @@ VALUES (%(character)s,
 
 ALLEGIANCE_QUERY = """
 INSERT INTO allegiance (character,
-             house)
+                        house)
 VALUES (%(character)s,
         %(house)s)
 """
 
 APPEARANCE_QUERY = """
-INSERT INTO appearance_chapter_character(id_chapter,
-                                         id_character)
-VALUES (%(id_chapter)s,
+INSERT INTO appearance_chapter_character(chapter,
+                                         character)
+VALUES (%(chapter)s,
         %(character)s)
 """
 
@@ -33,7 +51,7 @@ BATTLE_QUERY = """
 INSERT INTO battle (id_battle,
                     name_battle,
                     place_battle)
-VALUES (%(id_battlle)s,
+VALUES (%(id_battle)s,
         %(name_battle)s,
         %(place_battle)s)
 """
@@ -73,25 +91,35 @@ VALUES (%(name_culture)s)
 """
 
 CHARACTER_CULTURE_QUERY = """
-INSERT INTO culture (character,
-                     culture)
+INSERT INTO character_culture (character,
+                               culture)
 VALUES (%(character)s,
         %(culture)s)
 """
 
 HOUSE_QUERY = """
-INSERT INTO house (name_house, 
-                   lord,
-                   region,
-                   is_royal,
-                   is_great,
-                   is_noble,
-                   is_exiled,
-                   is_extinct,
-                   is_deposed,
-                   is_landed_knight)
-VALUES (%(name_house)s,
-        %(lord)s,
+INSERT INTO house (id_house,
+                   name_house)
+VALUES (%(id_house)s,
+        %(name_house)s)
+"""
+
+HOUSE_LORD_QUERY = """
+INSERT INTO house_lord (house, lord)
+VALUES (%(house)s, %(lord)s)
+"""
+
+HOUSE_REGIONS_QUERY = """
+INSERT INTO house_region(house,
+                         region,
+                         is_royal,
+                         is_great,
+                         is_noble,
+                         is_exiled,
+                         is_extinct,
+                         is_deposed,
+                         is_landed_knight)
+VALUES (%(house)s,
         %(region)s,
         %(is_royal)s,
         %(is_great)s,
@@ -140,6 +168,8 @@ table_to_query = {
     "culture": CULTURE_QUERY,
     "character_culture": CHARACTER_CULTURE_QUERY,
     "house": HOUSE_QUERY,
+    "house_lord": HOUSE_LORD_QUERY,
+    "house_region": HOUSE_REGIONS_QUERY,
     "region": REGION_QUERY,
     "house_battle": HOUSE_BATTLE_QUERY,
     "lineage": LINEAGE_QUERY,
@@ -150,3 +180,7 @@ table_to_query = {
 def insert_dict_list(table, dict_list):
     execute_batch(cursor, table_to_query[table], dict_list)
     conn.commit()
+
+
+def delete_all():
+    cursor.execute(DELETE_ALL_QUERY)

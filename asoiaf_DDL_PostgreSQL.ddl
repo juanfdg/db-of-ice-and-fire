@@ -1,9 +1,3 @@
-create schema public;
-
-comment on schema public is 'standard public schema';
-
-alter schema public owner to postgres;
-
 create table if not exists book
 (
 	id_book varchar not null

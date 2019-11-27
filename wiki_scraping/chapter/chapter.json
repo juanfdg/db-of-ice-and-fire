@@ -4,7 +4,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Prologue",
         "chapter_name": " Prologue ",
-        "pov": "Will",
+        "pov": "\nWill",
         "character": [
             "Gared",
             "Waymar_Royce",
@@ -19,7 +19,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_1",
         "chapter_name": " Bran I ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Desmond",
@@ -52,7 +52,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_2",
         "chapter_name": " Catelyn I ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": [
             "Catelyn_Tully",
             "Eddard_Stark",
@@ -88,7 +88,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_3",
         "chapter_name": " Daenerys I ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Drogo",
@@ -122,7 +122,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_4",
         "chapter_name": " Eddard I ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": [
             "Catelyn_Tully",
             "Cersei_Lannister",
@@ -155,7 +155,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_5",
         "chapter_name": " Jon I ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Arya_Stark",
             "Benjen_Stark",
@@ -186,7 +186,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_6",
         "chapter_name": " Catelyn II ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": [
             "Catelyn_Tully",
             "Desmond",
@@ -220,7 +220,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_7",
         "chapter_name": " Arya I ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Beth_Cassel",
@@ -253,7 +253,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_8",
         "chapter_name": " Bran II ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Cersei_Lannister",
@@ -310,7 +310,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_9",
         "chapter_name": " Tyrion I ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Cersei_Lannister",
             "Chayle",
@@ -338,7 +338,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_10",
         "chapter_name": " Jon II ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Arya_Stark",
             "Bran_Stark",
@@ -360,7 +360,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_11",
         "chapter_name": " Daenerys II ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Cohollo",
             "Daenerys_Targaryen",
@@ -385,7 +385,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_12",
         "chapter_name": " Eddard II ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": [
             "Alyn",
             "Boros_Blount",
@@ -419,7 +419,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_13",
         "chapter_name": " Tyrion II ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Benjen_Stark",
             "Ghost",
@@ -446,7 +446,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_14",
         "chapter_name": " Catelyn III ",
-        "pov": "Catelyn_Stark",
+        "pov": "\nCatelyn Stark",
         "character": [
             "Bran_Stark",
             "Catelyn_Stark",
@@ -477,7 +477,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_15",
         "chapter_name": " Sansa I ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": [
             "Arya_Stark",
             "Barristan_Selmy",
@@ -510,7 +510,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_16",
         "chapter_name": " Eddard III ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": [
             "Arya_Stark",
             "Barristan_Selmy",
@@ -537,7 +537,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_17",
         "chapter_name": " Bran III ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Robb_Stark",
@@ -556,7 +556,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_18",
         "chapter_name": " Catelyn IV ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": [
             "Catelyn_Stark",
             "Rodrik_Cassel",
@@ -591,7 +591,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_19",
         "chapter_name": " Jon III ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Alliser_Thorne",
             "Dareon",
@@ -632,7 +632,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_20",
         "chapter_name": " Eddard IV ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": [
             "Catelyn_Stark",
             "Eddard_Stark",
@@ -679,7 +679,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_21",
         "chapter_name": " Tyrion III ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Aemon_Targaryen_(son_of_Maekar_I)",
             "Alliser_Thorne",
@@ -719,7 +719,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_22",
         "chapter_name": " Arya II ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Eddard_Stark",
@@ -760,7 +760,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_23",
         "chapter_name": " Daenerys III ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Jorah_Mormont",
@@ -784,7 +784,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_24",
         "chapter_name": " Bran IV ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Rickon_Stark",
@@ -827,7 +827,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_25",
         "chapter_name": " Eddard V ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": [
             "Eddard_Stark",
             "Pycelle",
@@ -868,7 +868,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_26",
         "chapter_name": " Jon IV ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Samwell_Tarly",
@@ -902,7 +902,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_27",
         "chapter_name": " Eddard VI ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": [
             "Eddard_Stark",
             "Varys",
@@ -950,7 +950,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_28",
         "chapter_name": " Catelyn V ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": [
             "Catelyn_Stark",
             "Rodrik_Cassel",
@@ -987,7 +987,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_29",
         "chapter_name": " Sansa II ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": [
             "Mordane",
             "Yohn_Royce",
@@ -1032,7 +1032,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_30",
         "chapter_name": " Eddard VII ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1040,7 +1040,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_31",
         "chapter_name": " Tyrion IV ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1048,7 +1048,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_32",
         "chapter_name": " Arya III ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -1056,7 +1056,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_33",
         "chapter_name": " Eddard VIII ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1064,7 +1064,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_34",
         "chapter_name": " Catelyn VI ",
-        "pov": "Catelyn_Stark",
+        "pov": "\nCatelyn Stark",
         "character": []
     },
     {
@@ -1072,7 +1072,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_35",
         "chapter_name": " Eddard IX ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1080,7 +1080,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_36",
         "chapter_name": " Daenerys IV ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1088,7 +1088,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_37",
         "chapter_name": " Bran V ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -1096,7 +1096,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_38",
         "chapter_name": " Tyrion V ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1104,7 +1104,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_39",
         "chapter_name": " Eddard X ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1112,7 +1112,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_40",
         "chapter_name": " Catelyn VII ",
-        "pov": "Catelyn_Stark",
+        "pov": "\nCatelyn Stark",
         "character": []
     },
     {
@@ -1120,7 +1120,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_41",
         "chapter_name": " Jon V ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -1128,7 +1128,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_42",
         "chapter_name": " Tyrion VI ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1136,7 +1136,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_43",
         "chapter_name": " Eddard XI ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1144,7 +1144,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_44",
         "chapter_name": " Sansa III ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -1152,7 +1152,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_45",
         "chapter_name": " Eddard XII ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1160,7 +1160,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_46",
         "chapter_name": " Daenerys V ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1168,7 +1168,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_47",
         "chapter_name": " Eddard XIII ",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1176,7 +1176,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_48",
         "chapter_name": " Jon VI",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -1184,7 +1184,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_49",
         "chapter_name": " Eddard XIV",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1192,7 +1192,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_50",
         "chapter_name": " Arya IV",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -1200,7 +1200,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_51",
         "chapter_name": " Sansa IV",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -1208,7 +1208,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_52",
         "chapter_name": " Jon VII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -1216,7 +1216,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_53",
         "chapter_name": " Bran VI",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -1224,7 +1224,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_54",
         "chapter_name": " Daenerys VI",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1232,7 +1232,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_55",
         "chapter_name": " Catelyn VIII",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -1240,7 +1240,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_56",
         "chapter_name": " Tyrion VII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1248,7 +1248,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_57",
         "chapter_name": " Sansa V",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -1256,7 +1256,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_58",
         "chapter_name": " Eddard XV",
-        "pov": "Eddard_Stark",
+        "pov": "\nEddard Stark",
         "character": []
     },
     {
@@ -1264,7 +1264,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_59",
         "chapter_name": " Catelyn IX",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -1272,7 +1272,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_60",
         "chapter_name": " Jon VIII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -1280,7 +1280,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_61",
         "chapter_name": " Daenerys VII",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1288,7 +1288,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_62",
         "chapter_name": " Tyrion VIII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Tywin_Lannister",
@@ -1327,7 +1327,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_63",
         "chapter_name": " Catelyn X",
-        "pov": "Catelyn_Stark",
+        "pov": "\nCatelyn",
         "character": [
             "Catelyn_Stark",
             "Hallis_Mollen",
@@ -1369,7 +1369,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_64",
         "chapter_name": " Daenerys VIII",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1377,7 +1377,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_65",
         "chapter_name": " Arya V",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Horas_Redwyne",
@@ -1409,7 +1409,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_66",
         "chapter_name": " Bran VII",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Rodrik_Cassel",
@@ -1452,7 +1452,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_67",
         "chapter_name": " Sansa VI",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": [
             "Sansa_Stark",
             "Pycelle",
@@ -1477,7 +1477,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_68",
         "chapter_name": " Daenerys IX",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1485,7 +1485,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_69",
         "chapter_name": " Tyrion IX",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1493,7 +1493,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_70",
         "chapter_name": " Jon IX",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -1501,7 +1501,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_71",
         "chapter_name": " Catelyn XI",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -1509,7 +1509,7 @@
         "book_name": "A Game of Thrones",
         "chapter_id": "A_Game_of_Thrones-Chapter_72",
         "chapter_name": " Daenerys X",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -1517,7 +1517,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Prologue",
         "chapter_name": " Prologue",
-        "pov": "Cressen",
+        "pov": "\nCressen",
         "character": [
             "Ardrian_Celtigar",
             "Axell_Florent",
@@ -1570,7 +1570,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_1",
         "chapter_name": " Arya I",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Gendry",
@@ -1597,7 +1597,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_2",
         "chapter_name": " Sansa I",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": [
             "Aron_Santagar",
             "Arys_Oakheart",
@@ -1645,7 +1645,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_3",
         "chapter_name": " Tyrion I",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Bronn",
             "Cersei_Lannister",
@@ -1694,7 +1694,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_4",
         "chapter_name": " Bran I",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -1702,7 +1702,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_5",
         "chapter_name": " Arya II",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -1710,7 +1710,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_6",
         "chapter_name": " Jon I",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Samwell_Tarly",
             "Jon_Snow",
@@ -1764,7 +1764,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_7",
         "chapter_name": " Catelyn I",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -1772,7 +1772,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_8",
         "chapter_name": " Tyrion II",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1780,7 +1780,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_9",
         "chapter_name": " Arya III",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -1788,7 +1788,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_10",
         "chapter_name": " Davos I",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": []
     },
     {
@@ -1796,7 +1796,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_11",
         "chapter_name": " Theon I ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Aeron_Greyjoy",
             "Balon_Greyjoy",
@@ -1841,7 +1841,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_12",
         "chapter_name": " Daenerys I ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Doreah",
@@ -1900,7 +1900,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_13",
         "chapter_name": " Jon II",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Jeor_Mormont",
@@ -1926,7 +1926,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_14",
         "chapter_name": " Arya IV",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Koss",
@@ -1969,7 +1969,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_15",
         "chapter_name": " Tyrion III",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1977,7 +1977,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_16",
         "chapter_name": " Bran II",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -1985,7 +1985,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_17",
         "chapter_name": " Tyrion IV",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -1993,7 +1993,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_18",
         "chapter_name": " Sansa II",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -2001,7 +2001,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_19",
         "chapter_name": " Arya V",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -2009,7 +2009,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_20",
         "chapter_name": " Tyrion V",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Timett",
@@ -2056,7 +2056,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_21",
         "chapter_name": " Bran III",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -2064,7 +2064,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_22",
         "chapter_name": " Catelyn II",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -2072,7 +2072,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_23",
         "chapter_name": " Jon III",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -2080,7 +2080,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_24",
         "chapter_name": " Theon II",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Aeron_Greyjoy",
             "Asha_Greyjoy",
@@ -2122,7 +2122,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_25",
         "chapter_name": " Tyrion VI",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2130,7 +2130,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_26",
         "chapter_name": " Arya VI",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -2138,7 +2138,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_27",
         "chapter_name": " Daenerys II",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -2146,7 +2146,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_28",
         "chapter_name": " Bran IV",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -2154,7 +2154,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_29",
         "chapter_name": " Tyrion VII ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2162,7 +2162,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_30",
         "chapter_name": " Arya VII",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -2170,7 +2170,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_31",
         "chapter_name": " Catelyn III",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -2178,7 +2178,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_32",
         "chapter_name": " Sansa III",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -2186,7 +2186,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_33",
         "chapter_name": " Catelyn IV",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -2194,7 +2194,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_34",
         "chapter_name": " Jon IV",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -2202,7 +2202,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_35",
         "chapter_name": " Bran V",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -2210,7 +2210,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_36",
         "chapter_name": " Tyrion VIII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2218,7 +2218,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_37",
         "chapter_name": " Theon III",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Aeron_Greyjoy",
             "Benfred_Tallhart",
@@ -2255,7 +2255,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_38",
         "chapter_name": " Arya VIII",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -2263,7 +2263,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_39",
         "chapter_name": " Catelyn V",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -2271,7 +2271,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_40",
         "chapter_name": " Daenerys III",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Jhogo",
@@ -2302,7 +2302,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_41",
         "chapter_name": " Tyrion IX",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2310,7 +2310,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_42",
         "chapter_name": " Davos II",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": []
     },
     {
@@ -2318,7 +2318,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_43",
         "chapter_name": " Jon V",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -2326,7 +2326,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_44",
         "chapter_name": " Tyrion X",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2334,7 +2334,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_45",
         "chapter_name": " Catelyn VI",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -2342,7 +2342,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_46",
         "chapter_name": " Bran VI",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -2350,7 +2350,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_47",
         "chapter_name": " Arya IX",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -2358,7 +2358,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_48",
         "chapter_name": " Daenerys IV",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Drogon",
@@ -2384,7 +2384,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_49",
         "chapter_name": " Tyrion XI",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2392,7 +2392,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_50",
         "chapter_name": " Theon IV",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Aggar",
             "Barth_(brewer)",
@@ -2444,7 +2444,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_51",
         "chapter_name": " Jon VI",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -2452,7 +2452,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_52",
         "chapter_name": " Sansa IV",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -2460,7 +2460,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_53",
         "chapter_name": " Jon VII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -2468,7 +2468,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_54",
         "chapter_name": " Tyrion XII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2476,7 +2476,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_55",
         "chapter_name": " Catelyn VII",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": []
     },
     {
@@ -2484,7 +2484,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_56",
         "chapter_name": " Theon V",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Wex_Pyke",
@@ -2520,7 +2520,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_57",
         "chapter_name": " Sansa V",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": [
             "Tyrion_Lannister",
             "Joffrey_Baratheon",
@@ -2547,7 +2547,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_58",
         "chapter_name": " Davos III",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": []
     },
     {
@@ -2555,7 +2555,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_59",
         "chapter_name": " Tyrion XIII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Joffrey_Baratheon",
@@ -2583,7 +2583,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_60",
         "chapter_name": " Sansa VI",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -2591,7 +2591,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_61",
         "chapter_name": " Tyrion XIV",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2599,7 +2599,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_62",
         "chapter_name": " Sansa VII",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -2607,7 +2607,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_63",
         "chapter_name": " Daenerys V",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Irri",
@@ -2653,7 +2653,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_64",
         "chapter_name": " Arya X",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -2661,7 +2661,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_65",
         "chapter_name": " Sansa VIII",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -2669,7 +2669,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_66",
         "chapter_name": " Theon VI",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Cley_Cerwyn",
             "Dykk_Harlaw",
@@ -2711,7 +2711,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_67",
         "chapter_name": " Tyrion XV",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -2719,7 +2719,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_68",
         "chapter_name": " Jon VIII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -2727,7 +2727,7 @@
         "book_name": "A Clash of Kings",
         "chapter_id": "A_Clash_of_Kings-Chapter_69",
         "chapter_name": " Bran VII",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": []
     },
     {
@@ -2735,7 +2735,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Prologue",
         "chapter_name": " Prologue",
-        "pov": "Chett",
+        "pov": "\nChett",
         "character": [
             "Chett",
             "Jon_Snow",
@@ -2754,7 +2754,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_1",
         "chapter_name": " Jaime I ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": [
             "Jaime_Lannister",
             "Brienne_of_Tarth",
@@ -2791,7 +2791,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_2",
         "chapter_name": " Catelyn I ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn Tully",
         "character": [
             "Desmond_Grell",
             "Edmure_Tully",
@@ -2814,7 +2814,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_3",
         "chapter_name": " Arya I ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Gendry",
@@ -2828,7 +2828,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_4",
         "chapter_name": " Tyrion I ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Bronn",
@@ -2853,7 +2853,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_5",
         "chapter_name": " Davos I ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos",
         "character": [
             "Davos_Seaworth",
             "Salladhor_Saan"
@@ -2864,7 +2864,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_6",
         "chapter_name": " Sansa I ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Loras_Tyrell",
@@ -2926,7 +2926,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_7",
         "chapter_name": " Jon I ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Mance_Rayder",
@@ -2941,7 +2941,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_8",
         "chapter_name": " Daenerys I ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys",
         "character": [
             "Illyrio_Mopatis",
             "Daenerys_Targaryen",
@@ -2959,7 +2959,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_9",
         "chapter_name": " Bran I ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran",
         "character": [
             "Bran_Stark",
             "Summer_(direwolf)",
@@ -2971,7 +2971,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_10",
         "chapter_name": " Davos II ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos",
         "character": [
             "Davos_Seaworth",
             "Devan_Seaworth",
@@ -2993,7 +2993,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_11",
         "chapter_name": " Jaime II ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Jaime_Lannister",
             "Brienne_of_Tarth",
@@ -3017,7 +3017,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_12",
         "chapter_name": " Tyrion II ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Varys",
@@ -3036,7 +3036,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_13",
         "chapter_name": " Arya II ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Arya_Stark",
             "Hot_Pie",
@@ -3070,7 +3070,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_14",
         "chapter_name": " Catelyn II ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn",
         "character": [
             "Catelyn_Tully",
             "Robb_Stark",
@@ -3096,7 +3096,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_15",
         "chapter_name": " Jon II ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Mance_Rayder",
@@ -3114,7 +3114,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_16",
         "chapter_name": " Sansa II ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Cersei_Lannister",
@@ -3132,7 +3132,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_17",
         "chapter_name": " Arya III ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Hot_Pie",
             "Sharna",
@@ -3157,7 +3157,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_18",
         "chapter_name": " Samwell I ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell",
         "character": [
             "Samwell_Tarly",
             "Jeor_Mormont",
@@ -3175,7 +3175,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_19",
         "chapter_name": " Tyrion III ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Lancel_Lannister",
@@ -3218,7 +3218,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_20",
         "chapter_name": " Catelyn III ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn",
         "character": [
             "Robb_Stark",
             "Willem_Lannister",
@@ -3237,7 +3237,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_21",
         "chapter_name": " Jaime III ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Jaime_Lannister",
             "Brienne_of_Tarth",
@@ -3281,7 +3281,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_22",
         "chapter_name": " Arya IV ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Lymond_Lychester",
             "Lady_of_the_Leaves",
@@ -3308,7 +3308,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_23",
         "chapter_name": " Daenerys II ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys",
         "character": [
             "Daenerys_Targaryen",
             "Missandei",
@@ -3332,7 +3332,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_24",
         "chapter_name": " Bran II ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran",
         "character": [
             "Bran_Stark",
             "Ramsay_Snow",
@@ -3355,7 +3355,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_25",
         "chapter_name": " Davos III ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos",
         "character": [
             "Davos_Seaworth",
             "Melisandre",
@@ -3376,7 +3376,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_26",
         "chapter_name": " Jon III ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Ghost",
@@ -3392,7 +3392,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_27",
         "chapter_name": " Daenerys III ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys",
         "character": [
             "Daenerys_Targaryen",
             "Missandei",
@@ -3429,7 +3429,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_28",
         "chapter_name": " Sansa III ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Cersei_Lannister",
@@ -3489,7 +3489,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_29",
         "chapter_name": " Arya V ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Harwin",
             "Arya_Stark",
@@ -3516,7 +3516,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_30",
         "chapter_name": " Jon IV ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Jarl",
@@ -3529,7 +3529,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_31",
         "chapter_name": " Jaime IV ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Jaime_Lannister",
             "Zollo",
@@ -3547,7 +3547,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_32",
         "chapter_name": " Tyrion IV ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Symon_Silvertongue",
@@ -3573,7 +3573,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_33",
         "chapter_name": " Samwell II ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell",
         "character": [
             "Craster",
             "Jeor_Mormont",
@@ -3595,7 +3595,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_34",
         "chapter_name": " Arya VI ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Arya_Stark",
             "Gendry",
@@ -3616,7 +3616,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_35",
         "chapter_name": " Catelyn IV ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn",
         "character": [
             "Hoster_Tully",
             "Lothar_Frey",
@@ -3649,7 +3649,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_36",
         "chapter_name": " Davos IV ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos",
         "character": [
             "Axell_Florent",
             "Davos_Seaworth",
@@ -3677,7 +3677,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_37",
         "chapter_name": " Jaime V ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Jaime_Lannister",
             "Brienne_of_Tarth",
@@ -3714,7 +3714,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_38",
         "chapter_name": " Tyrion V ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Oberyn_Martell",
@@ -3734,7 +3734,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_39",
         "chapter_name": " Arya VII ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Beric_Dondarrion",
             "Arya_Stark",
@@ -3752,7 +3752,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_40",
         "chapter_name": " Bran III ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran",
         "character": [
             "Bran_Stark",
             "Alysanne_Targaryen",
@@ -3767,7 +3767,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_41",
         "chapter_name": " Jon V ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Styr",
@@ -3784,7 +3784,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_42",
         "chapter_name": " Daenerys IV ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys",
         "character": [
             "Daenerys_Targaryen",
             "Daario_Naharis",
@@ -3798,7 +3798,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_43",
         "chapter_name": " Arya VIII ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Gendry",
             "Tobho_Mott",
@@ -3834,7 +3834,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_44",
         "chapter_name": " Jaime VI ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Roose_Bolton",
             "Vargo_Hoat",
@@ -3865,7 +3865,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_45",
         "chapter_name": " Catelyn V ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn",
         "character": [
             "Catelyn_Tully",
             "Robb_Stark",
@@ -3902,7 +3902,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_46",
         "chapter_name": " Samwell III ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell",
         "character": [
             "Samwell_Tarly",
             "Gilly",
@@ -3916,7 +3916,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_47",
         "chapter_name": " Arya IX ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Arya_Stark",
             "Sandor_Clegane",
@@ -3931,7 +3931,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_48",
         "chapter_name": " Jon VI ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Jarman_Buckwell",
@@ -3954,7 +3954,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_49",
         "chapter_name": " Catelyn VI ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn",
         "character": [
             "Robb_Stark",
             "Catelyn_Tully",
@@ -3985,7 +3985,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_50",
         "chapter_name": " Arya X ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Arya_Stark",
             "Sandor_Clegane",
@@ -3997,7 +3997,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_51",
         "chapter_name": " Catelyn VII ",
-        "pov": "Catelyn_Tully",
+        "pov": "\nCatelyn",
         "character": [
             "Catelyn_Tully",
             "Ryman_Frey",
@@ -4032,7 +4032,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_52",
         "chapter_name": " Arya XI ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Arya_Stark",
             "Sandor_Clegane",
@@ -4046,7 +4046,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_53",
         "chapter_name": " Tyrion VI ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Sansa_Stark",
@@ -4109,7 +4109,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_54",
         "chapter_name": " Davos V",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos",
         "character": [
             "Salladhor_Saan",
             "Stannis_Baratheon",
@@ -4134,7 +4134,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_55",
         "chapter_name": " Jon VII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Dick_Follard",
             "Donal_Noye",
@@ -4151,7 +4151,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_56",
         "chapter_name": " Bran IV",
-        "pov": "Bran_Stark",
+        "pov": "\nBran",
         "character": [
             "Bran_Stark",
             "Meera_Reed",
@@ -4172,7 +4172,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_57",
         "chapter_name": " Daenerys V",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys",
         "character": [
             "Daenerys_Targaryen",
             "Daario_Naharis",
@@ -4220,7 +4220,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_58",
         "chapter_name": " Tyrion VII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Sansa_Stark",
@@ -4237,7 +4237,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_59",
         "chapter_name": " Sansa IV",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Tyrion_Lannister",
@@ -4256,7 +4256,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_60",
         "chapter_name": " Tyrion VIII",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Joffrey_Baratheon",
@@ -4280,7 +4280,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_61",
         "chapter_name": " Sansa V",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Dontos_Hollard",
@@ -4297,7 +4297,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_62",
         "chapter_name": " Jaime VII",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": [
             "Jaime_Lannister",
             "Joffrey_Baratheon",
@@ -4322,7 +4322,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_63",
         "chapter_name": " Davos VI",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos",
         "character": [
             "Davos_Seaworth",
             "Stannis_Baratheon",
@@ -4340,7 +4340,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_64",
         "chapter_name": " Jon VIII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Mance_Rayder",
@@ -4360,7 +4360,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_65",
         "chapter_name": " Arya XII",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Arya_Stark",
             "Sandor_Clegane",
@@ -4376,7 +4376,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_66",
         "chapter_name": " Tyrion IX",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Kevan_Lannister",
             "Tyrion_Lannister",
@@ -4407,7 +4407,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_67",
         "chapter_name": " Jaime VIII",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Jaime_Lannister",
             "Barristan_Selmy",
@@ -4437,7 +4437,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_68",
         "chapter_name": " Sansa VI",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Petyr_Baelish",
@@ -4456,7 +4456,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_69",
         "chapter_name": " Jon IX",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Owen_the_Oaf",
@@ -4512,7 +4512,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_70",
         "chapter_name": " Tyrion X",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Podrick_Payne",
             "Addam_Marbrand",
@@ -4563,7 +4563,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_71",
         "chapter_name": " Daenerys VI",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys",
         "character": [
             "Daenerys_Targaryen",
             "Missandei",
@@ -4617,7 +4617,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_72",
         "chapter_name": " Jaime IX",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime",
         "character": [
             "Jaime_Lannister",
             "Tommen_Baratheon",
@@ -4662,7 +4662,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_73",
         "chapter_name": " Jon X",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Janos_Slynt",
@@ -4683,7 +4683,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_74",
         "chapter_name": " Arya XIII",
-        "pov": "Arya_Stark",
+        "pov": "\nArya",
         "character": [
             "Sandor_Clegane",
             "Arya_Stark",
@@ -4705,7 +4705,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_75",
         "chapter_name": " Samwell IV",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell",
         "character": [
             "Gilly",
             "Mance_Rayder",
@@ -4735,7 +4735,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_76",
         "chapter_name": " Jon XI",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Satin",
@@ -4753,7 +4753,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_77",
         "chapter_name": " Tyrion XI",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion",
         "character": [
             "Tyrion_Lannister",
             "Jaime_Lannister",
@@ -4775,7 +4775,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_78",
         "chapter_name": " Samwell V",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell",
         "character": [
             "Stannis_Baratheon",
             "Janos_Slynt",
@@ -4792,7 +4792,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_79",
         "chapter_name": " Jon XII",
-        "pov": "Jon_Snow",
+        "pov": "\nJon",
         "character": [
             "Jon_Snow",
             "Emmett",
@@ -4814,7 +4814,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Chapter_80",
         "chapter_name": " Sansa VII",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa",
         "character": [
             "Sansa_Stark",
             "Petyr_Baelish",
@@ -4832,7 +4832,7 @@
         "book_name": "A Storm of Swords",
         "chapter_id": "A_Storm_of_Swords-Epilogue",
         "chapter_name": " Epilogue",
-        "pov": "Merrett_Frey",
+        "pov": "\nMerrett Frey",
         "character": [
             "Merrett_Frey",
             "Stevron_Frey",
@@ -4857,7 +4857,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Prologue",
         "chapter_name": " Prologue",
-        "pov": "Pate_(Novice)",
+        "pov": "\nPate",
         "character": [
             "Alleras",
             "Armen",
@@ -4898,7 +4898,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_1",
         "chapter_name": " The Prophet  ",
-        "pov": "Aeron_Greyjoy",
+        "pov": "\nAeron Greyjoy",
         "character": [
             "Aeron_Greyjoy",
             "Emmond",
@@ -4941,7 +4941,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_2",
         "chapter_name": " The Captain Of Guards ",
-        "pov": "Areo_Hotah",
+        "pov": "\nAreo Hotah",
         "character": [
             "Areo_Hotah",
             "Doran_Martell",
@@ -4976,7 +4976,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_3",
         "chapter_name": " Cersei I  ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": [
             "Cersei_Lannister",
             "Senelle",
@@ -5030,7 +5030,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_4",
         "chapter_name": " Brienne I  ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5038,7 +5038,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_5",
         "chapter_name": " Samwell I  ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell Tarly",
         "character": []
     },
     {
@@ -5046,7 +5046,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_6",
         "chapter_name": " Arya I  ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -5054,7 +5054,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_7",
         "chapter_name": " Cersei II  ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5062,7 +5062,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_8",
         "chapter_name": " Jaime I  ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5070,7 +5070,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_9",
         "chapter_name": " Brienne II  ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5078,7 +5078,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_10",
         "chapter_name": " Sansa I  ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": [
             "Sansa_Stark",
             "Petyr_Baelish",
@@ -5133,7 +5133,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_11",
         "chapter_name": " The Kraken's Daughter ",
-        "pov": "Asha_Greyjoy",
+        "pov": "\nAsha Greyjoy",
         "character": [
             "Asha_Greyjoy",
             "Qarl_the_Maid",
@@ -5188,7 +5188,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_12",
         "chapter_name": " Cersei III  ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5196,7 +5196,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_13",
         "chapter_name": " The Soiled Knight ",
-        "pov": "Arys_Oakheart",
+        "pov": "\nArys Oakheart",
         "character": []
     },
     {
@@ -5204,7 +5204,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_14",
         "chapter_name": " Brienne III  ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5212,7 +5212,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_15",
         "chapter_name": " Samwell II  ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell Tarly",
         "character": []
     },
     {
@@ -5220,7 +5220,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_16",
         "chapter_name": " Jaime II  ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5228,7 +5228,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_17",
         "chapter_name": " Cersei IV  ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5236,7 +5236,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_18",
         "chapter_name": " The Iron Captain ",
-        "pov": "Victarion_Greyjoy",
+        "pov": "\nVictarion Greyjoy",
         "character": [
             "Nute",
             "Ralf_Stonehouse",
@@ -5269,7 +5269,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_19",
         "chapter_name": " The Drowned Man ",
-        "pov": "Aeron_Greyjoy",
+        "pov": "\nAeron Greyjoy",
         "character": []
     },
     {
@@ -5277,7 +5277,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_20",
         "chapter_name": " Brienne IV  ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5285,7 +5285,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_21",
         "chapter_name": " The Queenmaker ",
-        "pov": "Arianne_Martell",
+        "pov": "\nArianne Martell",
         "character": []
     },
     {
@@ -5293,7 +5293,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_22",
         "chapter_name": " Arya II  ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": []
     },
     {
@@ -5301,7 +5301,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_23",
         "chapter_name": " Alayne I  ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -5309,7 +5309,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_24",
         "chapter_name": " Cersei V  ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5317,7 +5317,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_25",
         "chapter_name": " Brienne V  ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5325,7 +5325,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_26",
         "chapter_name": " Samwell III  ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell Tarly",
         "character": []
     },
     {
@@ -5333,7 +5333,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_27",
         "chapter_name": " Jaime III  ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5341,7 +5341,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_28",
         "chapter_name": " Cersei VI  ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5349,7 +5349,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_29",
         "chapter_name": " The Reaver  ",
-        "pov": "Victarion_Greyjoy",
+        "pov": "\nVictarion Greyjoy",
         "character": []
     },
     {
@@ -5357,7 +5357,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_30",
         "chapter_name": " Jaime IV ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5365,7 +5365,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_31",
         "chapter_name": " Brienne VI",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5373,7 +5373,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_32",
         "chapter_name": " Cersei VII ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5381,7 +5381,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_33",
         "chapter_name": " Jaime V ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5389,7 +5389,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_34",
         "chapter_name": " Cat Of The Canals ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Kindly_man",
@@ -5403,7 +5403,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_35",
         "chapter_name": " Samwell IV ",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell Tarly",
         "character": []
     },
     {
@@ -5411,7 +5411,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_36",
         "chapter_name": " Cersei VIII ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5419,7 +5419,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_37",
         "chapter_name": " Brienne VII ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5427,7 +5427,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_38",
         "chapter_name": " Jaime VI ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5435,7 +5435,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_39",
         "chapter_name": " Cersei IX ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5443,7 +5443,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_40",
         "chapter_name": " The Princess In The Tower ",
-        "pov": "Arianne_Martell",
+        "pov": "\nArianne Martell",
         "character": []
     },
     {
@@ -5451,7 +5451,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_41",
         "chapter_name": " Alayne II ",
-        "pov": "Sansa_Stark",
+        "pov": "\nSansa Stark",
         "character": []
     },
     {
@@ -5459,7 +5459,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_42",
         "chapter_name": " Brienne VIII ",
-        "pov": "Brienne_of_Tarth",
+        "pov": "\nBrienne of Tarth",
         "character": []
     },
     {
@@ -5467,7 +5467,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_43",
         "chapter_name": " Cersei X ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": []
     },
     {
@@ -5475,7 +5475,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_44",
         "chapter_name": " Jaime VII ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": []
     },
     {
@@ -5483,7 +5483,7 @@
         "book_name": "A Feast for Crows",
         "chapter_id": "A_Feast_for_Crows-Chapter_45",
         "chapter_name": " Samwell V",
-        "pov": "Samwell_Tarly",
+        "pov": "\nSamwell Tarly",
         "character": [
             "Samwell_Tarly",
             "Kojja_Mo",
@@ -5540,7 +5540,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Prologue",
         "chapter_name": "Prologue ",
-        "pov": "Varamyr_Sixskins",
+        "pov": "\nVaramyr Sixskins",
         "character": [
             "Thistle",
             "Haggon",
@@ -5571,7 +5571,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_1",
         "chapter_name": "Tyrion I ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Tywin_Lannister",
@@ -5587,7 +5587,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_2",
         "chapter_name": "Daenerys I ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Barristan_Selmy",
             "Daenerys_Targaryen",
@@ -5628,7 +5628,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_3",
         "chapter_name": "Jon I ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Edd_Tollett",
@@ -5691,7 +5691,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_4",
         "chapter_name": "Bran I ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Hodor",
@@ -5715,7 +5715,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_5",
         "chapter_name": "Tyrion II ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Illyrio_Mopatis",
@@ -5755,7 +5755,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_6",
         "chapter_name": "The Merchant's Man ",
-        "pov": "Quentyn_Martell",
+        "pov": "\nQuentyn Martell",
         "character": [
             "Quentyn_Martell",
             "Doran_Martell",
@@ -5772,7 +5772,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_7",
         "chapter_name": "Jon II ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -5780,7 +5780,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_8",
         "chapter_name": "Tyrion III ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Illyrio_Mopatis",
@@ -5825,7 +5825,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_9",
         "chapter_name": "Davos I ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": [
             "Davos_Seaworth",
             "Godric_Borrell",
@@ -5865,7 +5865,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_10",
         "chapter_name": "Jon III ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -5873,7 +5873,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_11",
         "chapter_name": "Daenerys II ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targeryen",
             "Irri",
@@ -5932,7 +5932,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_12",
         "chapter_name": "Reek I ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Walder_Frey_(son_of_Jammos)",
@@ -5959,7 +5959,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_13",
         "chapter_name": "Bran II ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Summer",
@@ -5980,7 +5980,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_14",
         "chapter_name": "Tyrion IV ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Griff",
@@ -6016,7 +6016,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_15",
         "chapter_name": "Davos II ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": []
     },
     {
@@ -6024,7 +6024,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_16",
         "chapter_name": "Daenerys III ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Reznak_mo_Reznak",
@@ -6065,7 +6065,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_17",
         "chapter_name": "Jon IV ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Dolorous_Edd",
             "Jon_Snow",
@@ -6120,7 +6120,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_18",
         "chapter_name": "Tyrion V ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Lemore",
             "Griff",
@@ -6151,7 +6151,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_19",
         "chapter_name": "Davos III ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": [
             "Davos_Seaworth",
             "Wyman_Manderly",
@@ -6191,7 +6191,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_20",
         "chapter_name": "Reek II ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Damon_Dance-for-Me",
@@ -6233,7 +6233,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_21",
         "chapter_name": "Jon V ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Dolorous_Edd",
@@ -6279,7 +6279,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_22",
         "chapter_name": "Tyrion VI ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -6287,7 +6287,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_23",
         "chapter_name": "Daenerys IV ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Galazza_Galare",
             "Daenerys_Targaryen",
@@ -6336,7 +6336,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_24",
         "chapter_name": "The Lost Lord ",
-        "pov": "Jon_Connington",
+        "pov": "\nJon Connington",
         "character": [
             "Griff",
             "Lemore",
@@ -6390,7 +6390,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_25",
         "chapter_name": "The Windblown ",
-        "pov": "Quentyn_Martell",
+        "pov": "\nQuentyn Martell",
         "character": []
     },
     {
@@ -6398,7 +6398,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_26",
         "chapter_name": "The Wayward Bride ",
-        "pov": "Asha_Greyjoy",
+        "pov": "\nAsha Greyjoy",
         "character": []
     },
     {
@@ -6406,7 +6406,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_27",
         "chapter_name": "Tyrion VII ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Jorah_Mormont",
@@ -6447,7 +6447,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_28",
         "chapter_name": "Jon VI ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": []
     },
     {
@@ -6455,7 +6455,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_29",
         "chapter_name": "Davos IV ",
-        "pov": "Davos_Seaworth",
+        "pov": "\nDavos Seaworth",
         "character": [
             "Davos_Seaworth",
             "Garth_(Wolf%27s_Den)",
@@ -6514,7 +6514,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_30",
         "chapter_name": "Daenerys V ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": []
     },
     {
@@ -6522,7 +6522,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_31",
         "chapter_name": "Melisandre I ",
-        "pov": "Melisandre",
+        "pov": "\nMelisandre",
         "character": [
             "Melisandre",
             "Devan_Seaworth",
@@ -6561,7 +6561,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_32",
         "chapter_name": "Reek III ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": []
     },
     {
@@ -6569,7 +6569,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_33",
         "chapter_name": "Tyrion VIII ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": []
     },
     {
@@ -6577,7 +6577,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_34",
         "chapter_name": "Bran III ",
-        "pov": "Bran_Stark",
+        "pov": "\nBran Stark",
         "character": [
             "Bran_Stark",
             "Jojen_Reed",
@@ -6605,7 +6605,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_35",
         "chapter_name": "Jon VII ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Dolorous_Edd",
@@ -6655,7 +6655,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_36",
         "chapter_name": "Daenerys VI ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Barristan_Selmy",
@@ -6685,7 +6685,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_37",
         "chapter_name": "The Prince of Winterfell ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Jeyne_Poole",
@@ -6753,7 +6753,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_38",
         "chapter_name": "The Watcher ",
-        "pov": "Areo_Hotah",
+        "pov": "\nAreo Hotah",
         "character": [
             "Areo_Hotah",
             "Balon_Swann",
@@ -6807,7 +6807,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_39",
         "chapter_name": "Jon VIII ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Val",
@@ -6847,7 +6847,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_40",
         "chapter_name": "Tyrion IX ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Jaime_Lannister",
@@ -6873,7 +6873,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_41",
         "chapter_name": "The Turncloak",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Stannis",
@@ -6922,7 +6922,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_42",
         "chapter_name": "The King's Prize",
-        "pov": "Asha_Greyjoy",
+        "pov": "\nAsha Greyjoy",
         "character": [
             "Asha_Greyjoy",
             "Stannis",
@@ -6975,7 +6975,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_43",
         "chapter_name": "Daenerys VII",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Daario_Naharis",
@@ -7021,7 +7021,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_44",
         "chapter_name": "Jon IX",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Selyse_Florent",
@@ -7086,7 +7086,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_45",
         "chapter_name": "The Blind Girl ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Gregor_Clegane",
@@ -7121,7 +7121,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_46",
         "chapter_name": "A Ghost in Winterfell ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Theon_Greyjoy",
@@ -7189,7 +7189,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_47",
         "chapter_name": "Tyrion X ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Illyrio",
@@ -7212,7 +7212,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_48",
         "chapter_name": "Jaime I ",
-        "pov": "Jaime_Lannister",
+        "pov": "\nJaime Lannister",
         "character": [
             "Jaime_Lannister",
             "Jonos_Bracken",
@@ -7262,7 +7262,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_49",
         "chapter_name": "Jon X ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Stark",
             "Melisandre",
@@ -7323,7 +7323,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_50",
         "chapter_name": "Daenerys VIII ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Hizdahr_zo_Loraq",
@@ -7373,7 +7373,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_51",
         "chapter_name": "Theon I ",
-        "pov": "Theon_Greyjoy",
+        "pov": "\nTheon Greyjoy",
         "character": [
             "Theon_Greyjoy",
             "Stannis_Baratheon",
@@ -7434,7 +7434,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_52",
         "chapter_name": "Daenerys IX ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Jhiqui",
@@ -7482,7 +7482,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_53",
         "chapter_name": "Jon XI ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Tormund",
             "Mance_Rayder",
@@ -7545,7 +7545,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_54",
         "chapter_name": "Cersei I ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": [
             "Cersei_Lannister",
             "Jaime_Lannister",
@@ -7600,7 +7600,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_55",
         "chapter_name": "The Queensguard ",
-        "pov": "Barristan_Selmy",
+        "pov": "\nBarristan Selmy",
         "character": [
             "Daenerys_Targaryen",
             "Belwas",
@@ -7623,7 +7623,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_56",
         "chapter_name": "The Iron Suitor ",
-        "pov": "Victarion_Greyjoy",
+        "pov": "\nVictarion Greyjoy",
         "character": [
             "Victarion_Greyjoy",
             "Ralf_Stonehouse",
@@ -7647,7 +7647,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_57",
         "chapter_name": "Tyrion XI ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Yezzan_zo_Qaggaz",
@@ -7685,7 +7685,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_58",
         "chapter_name": "Jon XII ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Jon_Snow",
             "Ygritte",
@@ -7746,7 +7746,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_59",
         "chapter_name": "The Discarded Knight ",
-        "pov": "Barristan_Selmy",
+        "pov": "\nBarristan Selmy",
         "character": [
             "Barristan_Selmy",
             "Quentyn_Martell",
@@ -7771,7 +7771,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_60",
         "chapter_name": "The Spurned Suitor ",
-        "pov": "Quentyn_Martell",
+        "pov": "\nQuentyn Martell",
         "character": [
             "Quentyn_Martell",
             "Gerris_Drinkwater",
@@ -7808,7 +7808,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_61",
         "chapter_name": "The Griffin Reborn ",
-        "pov": "Jon_Connington",
+        "pov": "\nJon Connington",
         "character": [
             "Jon_Connington",
             "Balaq",
@@ -7860,7 +7860,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_62",
         "chapter_name": "The Sacrifice ",
-        "pov": "Asha_Greyjoy",
+        "pov": "\nAsha Greyjoy",
         "character": [
             "Asha_Greyjoy",
             "Alysane_Mormont",
@@ -7903,7 +7903,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_63",
         "chapter_name": "Victarion I ",
-        "pov": "Victarion_Greyjoy",
+        "pov": "\nVictarion Greyjoy",
         "character": [
             "File:Chase_Toole_Sacrificed_to_Two_Gods.jpg",
             "File:Chase_Toole_Sacrificed_to_Two_Gods.jpg",
@@ -7915,7 +7915,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_64",
         "chapter_name": "The Ugly Little Girl ",
-        "pov": "Arya_Stark",
+        "pov": "\nArya Stark",
         "character": [
             "Arya_Stark",
             "Lordling",
@@ -7948,7 +7948,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_65",
         "chapter_name": "Cersei II ",
-        "pov": "Cersei_Lannister",
+        "pov": "\nCersei Lannister",
         "character": [
             "Cersei_Lannister",
             "Kevan_Lannister",
@@ -7976,7 +7976,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_66",
         "chapter_name": "Tyrion XII ",
-        "pov": "Tyrion_Lannister",
+        "pov": "\nTyrion Lannister",
         "character": [
             "Tyrion_Lannister",
             "Jorah_Mormont",
@@ -8003,7 +8003,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_67",
         "chapter_name": "The Kingbreaker ",
-        "pov": "Barristan_Selmy",
+        "pov": "\nBarristan Selmy",
         "character": [
             "Barristan_Selmy",
             "Skahaz_mo_Kandaq",
@@ -8080,7 +8080,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_68",
         "chapter_name": "The Dragontamer ",
-        "pov": "Quentyn_Martell",
+        "pov": "\nQuentyn Martell",
         "character": [
             "Quentyn_Martell",
             "Rhaegal",
@@ -8095,7 +8095,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_69",
         "chapter_name": "Jon XIII ",
-        "pov": "Jon_Snow",
+        "pov": "\nJon Snow",
         "character": [
             "Selyse_Florent",
             "Stannis_Baratheon",
@@ -8178,7 +8178,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_70",
         "chapter_name": "The Queen's Hand ",
-        "pov": "Barristan_Selmy",
+        "pov": "\nBarristan Selmy",
         "character": [
             "Barristan_Selmy",
             "Quentyn_Martell",
@@ -8238,7 +8238,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Chapter_71",
         "chapter_name": "Daenerys X ",
-        "pov": "Daenerys_Targaryen",
+        "pov": "\nDaenerys Targaryen",
         "character": [
             "Daenerys_Targaryen",
             "Hizdahr_zo_Loraq",
@@ -8270,7 +8270,7 @@
         "book_name": "A Dance with Dragons",
         "chapter_id": "A_Dance_with_Dragons-Epilogue",
         "chapter_name": "Epilogue",
-        "pov": "Kevan_Lannister",
+        "pov": "\nKevan Lannister",
         "character": [
             "Kevan_Lannister",
             "Tommen",
